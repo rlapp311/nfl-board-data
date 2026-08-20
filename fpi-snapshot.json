@@ -1,0 +1,329 @@
+﻿{
+    "Season":  2026,
+    "GeneratedAt":  "2026-08-20T18:41:22.2654191-04:00",
+    "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
+    "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
+    "Teams":  [
+                  {
+                      "Abbr":  "LAR",
+                      "Team":  "Los Angeles Rams",
+                      "TeamId":  "14",
+                      "Fpi":  5.574,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "BUF",
+                      "Team":  "Buffalo Bills",
+                      "TeamId":  "2",
+                      "Fpi":  3.951,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "BAL",
+                      "Team":  "Baltimore Ravens",
+                      "TeamId":  "33",
+                      "Fpi":  3.705,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "SEA",
+                      "Team":  "Seattle Seahawks",
+                      "TeamId":  "26",
+                      "Fpi":  3.634,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "SF",
+                      "Team":  "San Francisco 49ers",
+                      "TeamId":  "25",
+                      "Fpi":  3.306,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "GB",
+                      "Team":  "Green Bay Packers",
+                      "TeamId":  "9",
+                      "Fpi":  2.787,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "LAC",
+                      "Team":  "Los Angeles Chargers",
+                      "TeamId":  "24",
+                      "Fpi":  2.606,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "DET",
+                      "Team":  "Detroit Lions",
+                      "TeamId":  "8",
+                      "Fpi":  2.501,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "KC",
+                      "Team":  "Kansas City Chiefs",
+                      "TeamId":  "12",
+                      "Fpi":  2.386,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "PHI",
+                      "Team":  "Philadelphia Eagles",
+                      "TeamId":  "21",
+                      "Fpi":  1.992,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "DAL",
+                      "Team":  "Dallas Cowboys",
+                      "TeamId":  "6",
+                      "Fpi":  1.764,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "CIN",
+                      "Team":  "Cincinnati Bengals",
+                      "TeamId":  "4",
+                      "Fpi":  1.627,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "HOU",
+                      "Team":  "Houston Texans",
+                      "TeamId":  "34",
+                      "Fpi":  1.446,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "NE",
+                      "Team":  "New England Patriots",
+                      "TeamId":  "17",
+                      "Fpi":  1.4,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "DEN",
+                      "Team":  "Denver Broncos",
+                      "TeamId":  "7",
+                      "Fpi":  1.289,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "CHI",
+                      "Team":  "Chicago Bears",
+                      "TeamId":  "3",
+                      "Fpi":  1.203,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "JAX",
+                      "Team":  "Jacksonville Jaguars",
+                      "TeamId":  "30",
+                      "Fpi":  1.006,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "TB",
+                      "Team":  "Tampa Bay Buccaneers",
+                      "TeamId":  "27",
+                      "Fpi":  0.089,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "MIN",
+                      "Team":  "Minnesota Vikings",
+                      "TeamId":  "16",
+                      "Fpi":  -0.435,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "IND",
+                      "Team":  "Indianapolis Colts",
+                      "TeamId":  "11",
+                      "Fpi":  -0.633,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "WSH",
+                      "Team":  "Washington Commanders",
+                      "TeamId":  "28",
+                      "Fpi":  -0.828,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "PIT",
+                      "Team":  "Pittsburgh Steelers",
+                      "TeamId":  "23",
+                      "Fpi":  -0.871,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "NYG",
+                      "Team":  "New York Giants",
+                      "TeamId":  "19",
+                      "Fpi":  -1.159,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "ATL",
+                      "Team":  "Atlanta Falcons",
+                      "TeamId":  "1",
+                      "Fpi":  -1.496,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "NO",
+                      "Team":  "New Orleans Saints",
+                      "TeamId":  "18",
+                      "Fpi":  -2.696,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "CAR",
+                      "Team":  "Carolina Panthers",
+                      "TeamId":  "29",
+                      "Fpi":  -2.96,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "TEN",
+                      "Team":  "Tennessee Titans",
+                      "TeamId":  "10",
+                      "Fpi":  -3.9,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "LV",
+                      "Team":  "Las Vegas Raiders",
+                      "TeamId":  "13",
+                      "Fpi":  -4.634,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "ARI",
+                      "Team":  "Arizona Cardinals",
+                      "TeamId":  "22",
+                      "Fpi":  -5.191,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "CLE",
+                      "Team":  "Cleveland Browns",
+                      "TeamId":  "5",
+                      "Fpi":  -5.471,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "NYJ",
+                      "Team":  "New York Jets",
+                      "TeamId":  "20",
+                      "Fpi":  -5.541,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "MIA",
+                      "Team":  "Miami Dolphins",
+                      "TeamId":  "15",
+                      "Fpi":  -5.805,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  }
+              ]
+}
+
