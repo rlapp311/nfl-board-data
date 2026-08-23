@@ -10,7 +10,7 @@
  * The pool card is deliberately NOT cached: picks are the one thing where a
  * stale answer is worse than no answer.
  */
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL = "gci-shell-" + VERSION;
 const DATA = "gci-data-" + VERSION;
 
@@ -72,7 +72,26 @@ self.addEventListener("fetch", e => {
     return;
   }
 
-  // Shell: cache first, refresh in the background.
+  // The board document: network-first, so a republished board lands on the very
+  // next reload rather than the one after it. The cache is the offline fallback,
+  // not the default answer.
+  const isDoc = req.mode === "navigate" || /\/(index\.html)?(\?|$)/.test(new URL(url).pathname + (new URL(url).search || ""));
+  if (isDoc) {
+    e.respondWith(
+      fetch(req)
+        .then(res => {
+          if (res && res.ok) {
+            const copy = res.clone();
+            caches.open(SHELL).then(c => c.put(req, copy)).catch(() => {});
+          }
+          return res;
+        })
+        .catch(() => caches.match(req).then(hit => hit || caches.match("./index.html")))
+    );
+    return;
+  }
+
+  // Icons and manifest: cache first, refresh in the background.
   e.respondWith(
     caches.match(req).then(hit => {
       if (hit) {
