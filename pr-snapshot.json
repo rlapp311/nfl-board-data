@@ -1,11 +1,11 @@
 ﻿{
-    "GeneratedAt":  "2026-08-24T08:00:33.6973930Z",
+    "GeneratedAt":  "2026-08-25T08:00:40.4109523Z",
     "Source":  "NFL Scribble / PR tab / PR (on neut)",
-    "RatedTeams":  24,
+    "RatedTeams":  25,
     "Teams":  [
                   {
                       "Abbr":  "ARI",
-                      "Pr":  -6
+                      "Pr":  -5.58
                   },
                   {
                       "Abbr":  "ATL",
@@ -125,7 +125,7 @@
                   },
                   {
                       "Abbr":  "TEN",
-                      "Pr":  null
+                      "Pr":  -4.38
                   },
                   {
                       "Abbr":  "WAS",
