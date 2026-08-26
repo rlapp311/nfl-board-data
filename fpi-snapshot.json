@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-08-25T04:00:38.5244718-04:00",
+    "GeneratedAt":  "2026-08-26T04:00:49.1278980-04:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
