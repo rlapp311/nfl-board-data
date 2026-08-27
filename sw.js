@@ -10,7 +10,7 @@
  * The pool card is deliberately NOT cached: picks are the one thing where a
  * stale answer is worse than no answer.
  */
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL = "gci-shell-" + VERSION;
 const DATA = "gci-data-" + VERSION;
 
@@ -57,10 +57,15 @@ self.addEventListener("fetch", e => {
     e.respondWith(
       fetch(req)
         .then(res => {
-          // Cache under a cache-buster-free key so the fallback is findable.
-          const key = url.split(/[?&]_cb=/)[0];
-          const copy = res.clone();
-          caches.open(DATA).then(c => c.put(key, copy)).catch(() => {});
+          // Only a real answer is worth keeping. Without this an error page --
+          // a 404 for a file that was never published, say -- got stored and
+          // then served back forever as the "offline fallback".
+          if (res && res.ok) {
+            // Cache under a cache-buster-free key so the fallback is findable.
+            const key = url.split(/[?&]_cb=/)[0];
+            const copy = res.clone();
+            caches.open(DATA).then(c => c.put(key, copy)).catch(() => {});
+          }
           return res;
         })
         .catch(() =>
