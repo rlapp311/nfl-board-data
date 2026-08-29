@@ -1,11 +1,11 @@
 ﻿{
-    "GeneratedAt":  "2026-08-28T08:00:46.3382997Z",
+    "GeneratedAt":  "2026-08-29T08:00:49.8426000Z",
     "Source":  "NFL Scribble / PR tab / PR (on neut)",
-    "RatedTeams":  27,
+    "RatedTeams":  28,
     "Teams":  [
                   {
                       "Abbr":  "ARI",
-                      "Pr":  -5.84
+                      "Pr":  -5.83
                   },
                   {
                       "Abbr":  "ATL",
@@ -13,11 +13,11 @@
                   },
                   {
                       "Abbr":  "BAL",
-                      "Pr":  5.02
+                      "Pr":  5.72
                   },
                   {
                       "Abbr":  "BUF",
-                      "Pr":  3.17
+                      "Pr":  3.43
                   },
                   {
                       "Abbr":  "CAR",
@@ -25,71 +25,71 @@
                   },
                   {
                       "Abbr":  "CHI",
-                      "Pr":  2.13
+                      "Pr":  1.8
                   },
                   {
                       "Abbr":  "CIN",
-                      "Pr":  1.45
+                      "Pr":  1.31
                   },
                   {
                       "Abbr":  "CLE",
-                      "Pr":  -3.73
+                      "Pr":  -3.42
                   },
                   {
                       "Abbr":  "DAL",
-                      "Pr":  2.15
+                      "Pr":  2.23
                   },
                   {
                       "Abbr":  "DEN",
-                      "Pr":  2.37
+                      "Pr":  2.78
                   },
                   {
                       "Abbr":  "DET",
-                      "Pr":  3.27
+                      "Pr":  3.61
                   },
                   {
                       "Abbr":  "GB",
-                      "Pr":  1.71
+                      "Pr":  1.66
                   },
                   {
                       "Abbr":  "HOU",
-                      "Pr":  null
+                      "Pr":  1.38
                   },
                   {
                       "Abbr":  "IND",
-                      "Pr":  0.64
+                      "Pr":  0.15
                   },
                   {
                       "Abbr":  "JAX",
-                      "Pr":  1.55
+                      "Pr":  1.76
                   },
                   {
                       "Abbr":  "KC",
-                      "Pr":  2.75
+                      "Pr":  2.81
                   },
                   {
                       "Abbr":  "LAC",
-                      "Pr":  1.48
+                      "Pr":  2.04
                   },
                   {
                       "Abbr":  "LAR",
-                      "Pr":  6.18
+                      "Pr":  6.49
                   },
                   {
                       "Abbr":  "LV",
-                      "Pr":  -3.19
+                      "Pr":  -3.44
                   },
                   {
                       "Abbr":  "MIA",
-                      "Pr":  -4.63
+                      "Pr":  -4.41
                   },
                   {
                       "Abbr":  "MIN",
-                      "Pr":  1.2
+                      "Pr":  1.78
                   },
                   {
                       "Abbr":  "NE",
-                      "Pr":  2.72
+                      "Pr":  2.54
                   },
                   {
                       "Abbr":  "NO",
@@ -97,27 +97,27 @@
                   },
                   {
                       "Abbr":  "NYG",
-                      "Pr":  -2.68
+                      "Pr":  -1.97
                   },
                   {
                       "Abbr":  "NYJ",
-                      "Pr":  -3.28
+                      "Pr":  -3.69
                   },
                   {
                       "Abbr":  "PHI",
-                      "Pr":  3.44
+                      "Pr":  3.5
                   },
                   {
                       "Abbr":  "PIT",
-                      "Pr":  -1.74
+                      "Pr":  -1.37
                   },
                   {
                       "Abbr":  "SEA",
-                      "Pr":  3.96
+                      "Pr":  4.22
                   },
                   {
                       "Abbr":  "SF",
-                      "Pr":  1.34
+                      "Pr":  1.5
                   },
                   {
                       "Abbr":  "TB",
@@ -125,11 +125,11 @@
                   },
                   {
                       "Abbr":  "TEN",
-                      "Pr":  -4.38
+                      "Pr":  -3.88
                   },
                   {
                       "Abbr":  "WAS",
-                      "Pr":  -0.11
+                      "Pr":  0.12
                   }
               ]
 }
