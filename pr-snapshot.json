@@ -1,7 +1,7 @@
 ﻿{
-    "GeneratedAt":  "2026-09-03T08:01:01.1819843Z",
+    "GeneratedAt":  "2026-09-04T08:01:09.0936241Z",
     "Source":  "NFL Scribble / PR tab / PR (on neut)",
-    "RatedTeams":  28,
+    "RatedTeams":  31,
     "Teams":  [
                   {
                       "Abbr":  "ARI",
@@ -9,7 +9,7 @@
                   },
                   {
                       "Abbr":  "ATL",
-                      "Pr":  null
+                      "Pr":  -4.34
                   },
                   {
                       "Abbr":  "BAL",
@@ -21,7 +21,7 @@
                   },
                   {
                       "Abbr":  "CAR",
-                      "Pr":  null
+                      "Pr":  -1.85
                   },
                   {
                       "Abbr":  "CHI",
@@ -93,7 +93,7 @@
                   },
                   {
                       "Abbr":  "NO",
-                      "Pr":  null
+                      "Pr":  -1.95
                   },
                   {
                       "Abbr":  "NYG",
