@@ -1,19 +1,9 @@
 ﻿{
-    "GeneratedAt":  "2026-09-11T02:18:01.9070604Z",
+    "GeneratedAt":  "2026-09-11T05:33:08.3067585Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
     "Games":  [
-                  {
-                      "week":  1,
-                      "date":  "2026-09-11T00:35:00.0000000Z",
-                      "away":  "SF",
-                      "home":  "LAR",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
                   {
                       "week":  1,
                       "date":  "2026-09-10T00:20:00.0000000Z",
@@ -21,6 +11,16 @@
                       "home":  "SEA",
                       "awayScore":  10,
                       "homeScore":  13,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-11T00:35:00.0000000Z",
+                      "away":  "SF",
+                      "home":  "LAR",
+                      "awayScore":  27,
+                      "homeScore":  7,
                       "ot":  false,
                       "final":  true
                   },
