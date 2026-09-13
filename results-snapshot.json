@@ -1,89 +1,9 @@
 ﻿{
-    "GeneratedAt":  "2026-09-13T18:33:39.8119470Z",
+    "GeneratedAt":  "2026-09-13T21:48:38.0207365Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
     "Games":  [
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "TB",
-                      "home":  "CIN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "NO",
-                      "home":  "DET",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "NYJ",
-                      "home":  "TEN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "BAL",
-                      "home":  "IND",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "ATL",
-                      "home":  "PIT",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "CHI",
-                      "home":  "CAR",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "CLE",
-                      "home":  "JAX",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T17:00:00.0000000Z",
-                      "away":  "BUF",
-                      "home":  "HOU",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
                   {
                       "week":  1,
                       "date":  "2026-09-13T20:25:00.0000000Z",
@@ -123,6 +43,86 @@
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "TB",
+                      "home":  "CIN",
+                      "awayScore":  27,
+                      "homeScore":  33,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "NO",
+                      "home":  "DET",
+                      "awayScore":  30,
+                      "homeScore":  31,
+                      "ot":  true,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "NYJ",
+                      "home":  "TEN",
+                      "awayScore":  23,
+                      "homeScore":  10,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "BAL",
+                      "home":  "IND",
+                      "awayScore":  41,
+                      "homeScore":  23,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "ATL",
+                      "home":  "PIT",
+                      "awayScore":  13,
+                      "homeScore":  20,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "CHI",
+                      "home":  "CAR",
+                      "awayScore":  59,
+                      "homeScore":  37,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "CLE",
+                      "home":  "JAX",
+                      "awayScore":  10,
+                      "homeScore":  34,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T17:00:00.0000000Z",
+                      "away":  "BUF",
+                      "home":  "HOU",
+                      "awayScore":  36,
+                      "homeScore":  31,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  1,
