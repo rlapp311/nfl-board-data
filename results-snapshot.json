@@ -1,44 +1,14 @@
 ﻿{
-    "GeneratedAt":  "2026-09-13T21:48:38.0207365Z",
+    "GeneratedAt":  "2026-09-14T01:03:41.8188787Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
     "Games":  [
                   {
                       "week":  1,
-                      "date":  "2026-09-13T20:25:00.0000000Z",
-                      "away":  "MIA",
-                      "home":  "LV",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T20:25:00.0000000Z",
-                      "away":  "GB",
-                      "home":  "MIN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T20:25:00.0000000Z",
-                      "away":  "WAS",
-                      "home":  "PHI",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-13T20:25:00.0000000Z",
-                      "away":  "ARI",
-                      "home":  "LAC",
+                      "date":  "2026-09-14T00:20:00.0000000Z",
+                      "away":  "DAL",
+                      "home":  "NYG",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
@@ -126,13 +96,43 @@
                   },
                   {
                       "week":  1,
-                      "date":  "2026-09-14T00:20:00.0000000Z",
-                      "away":  "DAL",
-                      "home":  "NYG",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "date":  "2026-09-13T20:25:00.0000000Z",
+                      "away":  "MIA",
+                      "home":  "LV",
+                      "awayScore":  13,
+                      "homeScore":  27,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T20:25:00.0000000Z",
+                      "away":  "GB",
+                      "home":  "MIN",
+                      "awayScore":  22,
+                      "homeScore":  39,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T20:25:00.0000000Z",
+                      "away":  "WAS",
+                      "home":  "PHI",
+                      "awayScore":  22,
+                      "homeScore":  24,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-13T20:25:00.0000000Z",
+                      "away":  "ARI",
+                      "home":  "LAC",
+                      "awayScore":  26,
+                      "homeScore":  14,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  1,
