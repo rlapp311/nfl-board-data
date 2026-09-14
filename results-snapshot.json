@@ -1,18 +1,38 @@
 ﻿{
-    "GeneratedAt":  "2026-09-14T01:03:41.8188787Z",
+    "GeneratedAt":  "2026-09-14T04:18:40.2688186Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
     "Games":  [
                   {
                       "week":  1,
-                      "date":  "2026-09-14T00:20:00.0000000Z",
-                      "away":  "DAL",
-                      "home":  "NYG",
+                      "date":  "2026-09-15T00:15:00.0000000Z",
+                      "away":  "DEN",
+                      "home":  "KC",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-10T00:20:00.0000000Z",
+                      "away":  "NE",
+                      "home":  "SEA",
+                      "awayScore":  10,
+                      "homeScore":  13,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  1,
+                      "date":  "2026-09-11T00:35:00.0000000Z",
+                      "away":  "SF",
+                      "home":  "LAR",
+                      "awayScore":  27,
+                      "homeScore":  7,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  1,
@@ -136,33 +156,13 @@
                   },
                   {
                       "week":  1,
-                      "date":  "2026-09-10T00:20:00.0000000Z",
-                      "away":  "NE",
-                      "home":  "SEA",
-                      "awayScore":  10,
-                      "homeScore":  13,
+                      "date":  "2026-09-14T00:20:00.0000000Z",
+                      "away":  "DAL",
+                      "home":  "NYG",
+                      "awayScore":  20,
+                      "homeScore":  28,
                       "ot":  false,
                       "final":  true
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-11T00:35:00.0000000Z",
-                      "away":  "SF",
-                      "home":  "LAR",
-                      "awayScore":  27,
-                      "homeScore":  7,
-                      "ot":  false,
-                      "final":  true
-                  },
-                  {
-                      "week":  1,
-                      "date":  "2026-09-15T00:15:00.0000000Z",
-                      "away":  "DEN",
-                      "home":  "KC",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
                   },
                   {
                       "week":  2,
