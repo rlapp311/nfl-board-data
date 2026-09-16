@@ -15,15 +15,15 @@
         "SpreadBetPct":  38,
         "Total":  "54.5",
         "TotalValue":  54.5,
-        "TotalHandlePct":  53,
-        "TotalBetPct":  72,
+        "TotalHandlePct":  54,
+        "TotalBetPct":  73,
         "Moneyline":  "+190",
         "MoneylineValue":  190,
         "MoneylineHandlePct":  19,
         "MoneylineBetPct":  19,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T19:01:13Z"
+        "Timestamp":  "2026-09-16T19:16:15Z"
     },
     {
         "Source":  "DK",
@@ -41,15 +41,15 @@
         "SpreadBetPct":  62,
         "Total":  "54.5",
         "TotalValue":  54.5,
-        "TotalHandlePct":  47,
-        "TotalBetPct":  28,
+        "TotalHandlePct":  46,
+        "TotalBetPct":  27,
         "Moneyline":  "-230",
         "MoneylineValue":  -230,
         "MoneylineHandlePct":  81,
         "MoneylineBetPct":  81,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T19:01:13Z"
+        "Timestamp":  "2026-09-16T19:16:15Z"
     },
     {
         "Source":  "CIRCA",
@@ -64,7 +64,7 @@
         "Spread":  "+4.5",
         "SpreadValue":  4.5,
         "SpreadHandlePct":  17,
-        "SpreadBetPct":  17,
+        "SpreadBetPct":  19,
         "Total":  "54.5",
         "TotalValue":  54.5,
         "TotalHandlePct":  63,
@@ -75,7 +75,7 @@
         "MoneylineBetPct":  33,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T19:01:13Z"
+        "Timestamp":  "2026-09-16T19:16:15Z"
     },
     {
         "Source":  "CIRCA",
@@ -90,7 +90,7 @@
         "Spread":  "-4.5",
         "SpreadValue":  -4.5,
         "SpreadHandlePct":  83,
-        "SpreadBetPct":  83,
+        "SpreadBetPct":  81,
         "Total":  "54.5",
         "TotalValue":  54.5,
         "TotalHandlePct":  37,
@@ -101,7 +101,7 @@
         "MoneylineBetPct":  67,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T19:01:13Z"
+        "Timestamp":  "2026-09-16T19:16:15Z"
     }
 ]
 
