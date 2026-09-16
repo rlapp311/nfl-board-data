@@ -9,21 +9,21 @@
         "TeamSlug":  "detroit-lions",
         "Opponent":  "Buffalo Bills",
         "OpponentSlug":  "buffalo-bills",
-        "Spread":  "+5.5",
-        "SpreadValue":  5.5,
+        "Spread":  "+4.5",
+        "SpreadValue":  4.5,
         "SpreadHandlePct":  19,
         "SpreadBetPct":  36,
         "Total":  "54.5",
         "TotalValue":  54.5,
         "TotalHandlePct":  71,
         "TotalBetPct":  72,
-        "Moneyline":  "+195",
-        "MoneylineValue":  195,
+        "Moneyline":  "+185",
+        "MoneylineValue":  185,
         "MoneylineHandlePct":  18,
         "MoneylineBetPct":  20,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T11:15:29Z"
+        "Timestamp":  "2026-09-16T11:30:30Z"
     },
     {
         "Source":  "DK",
@@ -35,21 +35,21 @@
         "TeamSlug":  "buffalo-bills",
         "Opponent":  "Detroit Lions",
         "OpponentSlug":  "detroit-lions",
-        "Spread":  "-5.5",
-        "SpreadValue":  -5.5,
+        "Spread":  "-4.5",
+        "SpreadValue":  -4.5,
         "SpreadHandlePct":  81,
         "SpreadBetPct":  64,
         "Total":  "54.5",
         "TotalValue":  54.5,
         "TotalHandlePct":  29,
         "TotalBetPct":  28,
-        "Moneyline":  "-238",
-        "MoneylineValue":  -238,
+        "Moneyline":  "-225",
+        "MoneylineValue":  -225,
         "MoneylineHandlePct":  82,
         "MoneylineBetPct":  80,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T11:15:29Z"
+        "Timestamp":  "2026-09-16T11:30:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -75,7 +75,7 @@
         "MoneylineBetPct":  25,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T11:15:29Z"
+        "Timestamp":  "2026-09-16T11:30:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -101,7 +101,7 @@
         "MoneylineBetPct":  75,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T11:15:29Z"
+        "Timestamp":  "2026-09-16T11:30:30Z"
     }
 ]
 
