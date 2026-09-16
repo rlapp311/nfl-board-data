@@ -15,15 +15,15 @@
         "SpreadBetPct":  36,
         "Total":  "54.5",
         "TotalValue":  54.5,
-        "TotalHandlePct":  75,
+        "TotalHandlePct":  72,
         "TotalBetPct":  72,
         "Moneyline":  "+180",
         "MoneylineValue":  180,
         "MoneylineHandlePct":  17,
-        "MoneylineBetPct":  20,
+        "MoneylineBetPct":  19,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T06:29:54Z"
+        "Timestamp":  "2026-09-16T06:44:56Z"
     },
     {
         "Source":  "DK",
@@ -41,15 +41,15 @@
         "SpreadBetPct":  64,
         "Total":  "54.5",
         "TotalValue":  54.5,
-        "TotalHandlePct":  25,
+        "TotalHandlePct":  28,
         "TotalBetPct":  28,
         "Moneyline":  "-218",
         "MoneylineValue":  -218,
         "MoneylineHandlePct":  83,
-        "MoneylineBetPct":  80,
+        "MoneylineBetPct":  81,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T06:29:54Z"
+        "Timestamp":  "2026-09-16T06:44:56Z"
     },
     {
         "Source":  "CIRCA",
@@ -64,7 +64,7 @@
         "Spread":  "+4.5",
         "SpreadValue":  4.5,
         "SpreadHandlePct":  17,
-        "SpreadBetPct":  15,
+        "SpreadBetPct":  14,
         "Total":  "54.5",
         "TotalValue":  54.5,
         "TotalHandlePct":  99,
@@ -75,7 +75,7 @@
         "MoneylineBetPct":  25,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T06:29:54Z"
+        "Timestamp":  "2026-09-16T06:44:56Z"
     },
     {
         "Source":  "CIRCA",
@@ -90,7 +90,7 @@
         "Spread":  "-4.5",
         "SpreadValue":  -4.5,
         "SpreadHandlePct":  83,
-        "SpreadBetPct":  85,
+        "SpreadBetPct":  86,
         "Total":  "54.5",
         "TotalValue":  54.5,
         "TotalHandlePct":  1,
@@ -101,7 +101,7 @@
         "MoneylineBetPct":  75,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-16T06:29:54Z"
+        "Timestamp":  "2026-09-16T06:44:56Z"
     }
 ]
 
