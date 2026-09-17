@@ -11,7 +11,7 @@
         "OpponentSlug":  "buffalo-bills",
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
-        "SpreadHandlePct":  29,
+        "SpreadHandlePct":  28,
         "SpreadBetPct":  35,
         "Total":  "54.5",
         "TotalValue":  54.5,
@@ -19,11 +19,11 @@
         "TotalBetPct":  64,
         "Moneyline":  "+205",
         "MoneylineValue":  205,
-        "MoneylineHandlePct":  27,
-        "MoneylineBetPct":  21,
+        "MoneylineHandlePct":  28,
+        "MoneylineBetPct":  22,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T20:49:12Z"
+        "Timestamp":  "2026-09-17T21:04:13Z"
     },
     {
         "Source":  "DK",
@@ -37,7 +37,7 @@
         "OpponentSlug":  "detroit-lions",
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
-        "SpreadHandlePct":  71,
+        "SpreadHandlePct":  72,
         "SpreadBetPct":  65,
         "Total":  "54.5",
         "TotalValue":  54.5,
@@ -45,11 +45,11 @@
         "TotalBetPct":  36,
         "Moneyline":  "-250",
         "MoneylineValue":  -250,
-        "MoneylineHandlePct":  73,
-        "MoneylineBetPct":  79,
+        "MoneylineHandlePct":  72,
+        "MoneylineBetPct":  78,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T20:49:12Z"
+        "Timestamp":  "2026-09-17T21:04:13Z"
     },
     {
         "Source":  "CIRCA",
@@ -64,7 +64,7 @@
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
         "SpreadHandlePct":  21,
-        "SpreadBetPct":  32,
+        "SpreadBetPct":  31,
         "Total":  "55",
         "TotalValue":  55,
         "TotalHandlePct":  48,
@@ -75,7 +75,7 @@
         "MoneylineBetPct":  33,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T20:49:12Z"
+        "Timestamp":  "2026-09-17T21:04:13Z"
     },
     {
         "Source":  "CIRCA",
@@ -90,7 +90,7 @@
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
         "SpreadHandlePct":  79,
-        "SpreadBetPct":  68,
+        "SpreadBetPct":  69,
         "Total":  "55",
         "TotalValue":  55,
         "TotalHandlePct":  52,
@@ -101,7 +101,7 @@
         "MoneylineBetPct":  67,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T20:49:12Z"
+        "Timestamp":  "2026-09-17T21:04:13Z"
     }
 ]
 
