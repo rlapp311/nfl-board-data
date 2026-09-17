@@ -23,7 +23,7 @@
         "MoneylineBetPct":  20,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T15:03:31Z"
+        "Timestamp":  "2026-09-17T15:18:33Z"
     },
     {
         "Source":  "DK",
@@ -49,7 +49,7 @@
         "MoneylineBetPct":  80,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T15:03:31Z"
+        "Timestamp":  "2026-09-17T15:18:33Z"
     },
     {
         "Source":  "CIRCA",
@@ -63,19 +63,19 @@
         "OpponentSlug":  "buffalo-bills",
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
-        "SpreadHandlePct":  22,
+        "SpreadHandlePct":  21,
         "SpreadBetPct":  37,
-        "Total":  "55",
-        "TotalValue":  55,
-        "TotalHandlePct":  55,
-        "TotalBetPct":  72,
+        "Total":  "55.5",
+        "TotalValue":  55.5,
+        "TotalHandlePct":  65,
+        "TotalBetPct":  71,
         "Moneyline":  "+200",
         "MoneylineValue":  200,
         "MoneylineHandlePct":  3,
-        "MoneylineBetPct":  32,
+        "MoneylineBetPct":  34,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T15:03:31Z"
+        "Timestamp":  "2026-09-17T15:18:33Z"
     },
     {
         "Source":  "CIRCA",
@@ -89,19 +89,19 @@
         "OpponentSlug":  "detroit-lions",
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
-        "SpreadHandlePct":  78,
+        "SpreadHandlePct":  79,
         "SpreadBetPct":  63,
-        "Total":  "55",
-        "TotalValue":  55,
-        "TotalHandlePct":  45,
-        "TotalBetPct":  28,
+        "Total":  "55.5",
+        "TotalValue":  55.5,
+        "TotalHandlePct":  35,
+        "TotalBetPct":  29,
         "Moneyline":  "-235",
         "MoneylineValue":  -235,
         "MoneylineHandlePct":  97,
-        "MoneylineBetPct":  68,
+        "MoneylineBetPct":  66,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T15:03:31Z"
+        "Timestamp":  "2026-09-17T15:18:33Z"
     }
 ]
 
