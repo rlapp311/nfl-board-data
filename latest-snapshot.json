@@ -19,11 +19,11 @@
         "TotalBetPct":  65,
         "Moneyline":  "+205",
         "MoneylineValue":  205,
-        "MoneylineHandlePct":  26,
+        "MoneylineHandlePct":  27,
         "MoneylineBetPct":  21,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T19:18:59Z"
+        "Timestamp":  "2026-09-17T19:49:03Z"
     },
     {
         "Source":  "DK",
@@ -45,11 +45,11 @@
         "TotalBetPct":  35,
         "Moneyline":  "-250",
         "MoneylineValue":  -250,
-        "MoneylineHandlePct":  74,
+        "MoneylineHandlePct":  73,
         "MoneylineBetPct":  79,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T19:18:59Z"
+        "Timestamp":  "2026-09-17T19:49:03Z"
     },
     {
         "Source":  "CIRCA",
@@ -64,18 +64,18 @@
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
         "SpreadHandlePct":  19,
-        "SpreadBetPct":  33,
+        "SpreadBetPct":  32,
         "Total":  "55",
         "TotalValue":  55,
         "TotalHandlePct":  44,
-        "TotalBetPct":  60,
+        "TotalBetPct":  56,
         "Moneyline":  "+210",
         "MoneylineValue":  210,
-        "MoneylineHandlePct":  6,
-        "MoneylineBetPct":  38,
+        "MoneylineHandlePct":  5,
+        "MoneylineBetPct":  35,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T19:18:59Z"
+        "Timestamp":  "2026-09-17T19:49:03Z"
     },
     {
         "Source":  "CIRCA",
@@ -90,18 +90,18 @@
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
         "SpreadHandlePct":  81,
-        "SpreadBetPct":  67,
+        "SpreadBetPct":  68,
         "Total":  "55",
         "TotalValue":  55,
         "TotalHandlePct":  56,
-        "TotalBetPct":  40,
+        "TotalBetPct":  44,
         "Moneyline":  "-245",
         "MoneylineValue":  -245,
-        "MoneylineHandlePct":  94,
-        "MoneylineBetPct":  62,
+        "MoneylineHandlePct":  95,
+        "MoneylineBetPct":  65,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T19:18:59Z"
+        "Timestamp":  "2026-09-17T19:49:03Z"
     }
 ]
 
