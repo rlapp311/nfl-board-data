@@ -23,7 +23,7 @@
         "MoneylineBetPct":  20,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T05:32:24Z"
+        "Timestamp":  "2026-09-17T05:47:26Z"
     },
     {
         "Source":  "DK",
@@ -49,7 +49,7 @@
         "MoneylineBetPct":  80,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T05:32:24Z"
+        "Timestamp":  "2026-09-17T05:47:26Z"
     },
     {
         "Source":  "CIRCA",
@@ -63,19 +63,19 @@
         "OpponentSlug":  "buffalo-bills",
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
-        "SpreadHandlePct":  19,
-        "SpreadBetPct":  29,
+        "SpreadHandlePct":  20,
+        "SpreadBetPct":  30,
         "Total":  "55",
         "TotalValue":  55,
         "TotalHandlePct":  56,
-        "TotalBetPct":  76,
+        "TotalBetPct":  74,
         "Moneyline":  "+190",
         "MoneylineValue":  190,
         "MoneylineHandlePct":  3,
-        "MoneylineBetPct":  32,
+        "MoneylineBetPct":  29,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T05:32:24Z"
+        "Timestamp":  "2026-09-17T05:47:26Z"
     },
     {
         "Source":  "CIRCA",
@@ -89,19 +89,19 @@
         "OpponentSlug":  "detroit-lions",
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
-        "SpreadHandlePct":  81,
-        "SpreadBetPct":  71,
+        "SpreadHandlePct":  80,
+        "SpreadBetPct":  70,
         "Total":  "55",
         "TotalValue":  55,
         "TotalHandlePct":  44,
-        "TotalBetPct":  24,
+        "TotalBetPct":  26,
         "Moneyline":  "-220",
         "MoneylineValue":  -220,
         "MoneylineHandlePct":  97,
-        "MoneylineBetPct":  68,
+        "MoneylineBetPct":  71,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T05:32:24Z"
+        "Timestamp":  "2026-09-17T05:47:26Z"
     }
 ]
 
