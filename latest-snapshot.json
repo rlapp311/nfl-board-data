@@ -11,7 +11,7 @@
         "OpponentSlug":  "buffalo-bills",
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
-        "SpreadHandlePct":  24,
+        "SpreadHandlePct":  25,
         "SpreadBetPct":  36,
         "Total":  "54.5",
         "TotalValue":  54.5,
@@ -23,7 +23,7 @@
         "MoneylineBetPct":  20,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T16:48:44Z"
+        "Timestamp":  "2026-09-17T17:03:45Z"
     },
     {
         "Source":  "DK",
@@ -37,7 +37,7 @@
         "OpponentSlug":  "detroit-lions",
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
-        "SpreadHandlePct":  76,
+        "SpreadHandlePct":  75,
         "SpreadBetPct":  64,
         "Total":  "54.5",
         "TotalValue":  54.5,
@@ -49,7 +49,7 @@
         "MoneylineBetPct":  80,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T16:48:44Z"
+        "Timestamp":  "2026-09-17T17:03:45Z"
     },
     {
         "Source":  "CIRCA",
@@ -68,14 +68,14 @@
         "Total":  "55.5",
         "TotalValue":  55.5,
         "TotalHandlePct":  65,
-        "TotalBetPct":  67,
+        "TotalBetPct":  65,
         "Moneyline":  "+210",
         "MoneylineValue":  210,
         "MoneylineHandlePct":  3,
-        "MoneylineBetPct":  30,
+        "MoneylineBetPct":  31,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T16:48:44Z"
+        "Timestamp":  "2026-09-17T17:03:45Z"
     },
     {
         "Source":  "CIRCA",
@@ -94,14 +94,14 @@
         "Total":  "55.5",
         "TotalValue":  55.5,
         "TotalHandlePct":  35,
-        "TotalBetPct":  33,
+        "TotalBetPct":  35,
         "Moneyline":  "-245",
         "MoneylineValue":  -245,
         "MoneylineHandlePct":  97,
-        "MoneylineBetPct":  70,
+        "MoneylineBetPct":  69,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T16:48:44Z"
+        "Timestamp":  "2026-09-17T17:03:45Z"
     }
 ]
 
