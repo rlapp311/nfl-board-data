@@ -19,11 +19,11 @@
         "TotalBetPct":  66,
         "Moneyline":  "+205",
         "MoneylineValue":  205,
-        "MoneylineHandlePct":  26,
+        "MoneylineHandlePct":  27,
         "MoneylineBetPct":  20,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T17:18:46Z"
+        "Timestamp":  "2026-09-17T17:33:48Z"
     },
     {
         "Source":  "DK",
@@ -45,11 +45,11 @@
         "TotalBetPct":  34,
         "Moneyline":  "-250",
         "MoneylineValue":  -250,
-        "MoneylineHandlePct":  74,
+        "MoneylineHandlePct":  73,
         "MoneylineBetPct":  80,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T17:18:46Z"
+        "Timestamp":  "2026-09-17T17:33:48Z"
     },
     {
         "Source":  "CIRCA",
@@ -64,18 +64,18 @@
         "Spread":  "+5.5",
         "SpreadValue":  5.5,
         "SpreadHandlePct":  22,
-        "SpreadBetPct":  34,
-        "Total":  "55.5",
-        "TotalValue":  55.5,
-        "TotalHandlePct":  64,
-        "TotalBetPct":  63,
+        "SpreadBetPct":  35,
+        "Total":  "55",
+        "TotalValue":  55,
+        "TotalHandlePct":  45,
+        "TotalBetPct":  59,
         "Moneyline":  "+210",
         "MoneylineValue":  210,
         "MoneylineHandlePct":  3,
-        "MoneylineBetPct":  31,
+        "MoneylineBetPct":  32,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T17:18:46Z"
+        "Timestamp":  "2026-09-17T17:33:48Z"
     },
     {
         "Source":  "CIRCA",
@@ -90,18 +90,18 @@
         "Spread":  "-5.5",
         "SpreadValue":  -5.5,
         "SpreadHandlePct":  78,
-        "SpreadBetPct":  66,
-        "Total":  "55.5",
-        "TotalValue":  55.5,
-        "TotalHandlePct":  36,
-        "TotalBetPct":  37,
+        "SpreadBetPct":  65,
+        "Total":  "55",
+        "TotalValue":  55,
+        "TotalHandlePct":  55,
+        "TotalBetPct":  41,
         "Moneyline":  "-245",
         "MoneylineValue":  -245,
         "MoneylineHandlePct":  97,
-        "MoneylineBetPct":  69,
+        "MoneylineBetPct":  68,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-17T17:18:46Z"
+        "Timestamp":  "2026-09-17T17:33:48Z"
     }
 ]
 
