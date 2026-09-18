@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T16:00:02Z",
+    "generatedAt":  "2026-09-18T16:15:04Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -153,12 +153,12 @@
                                   "homeLastName":  "Ravens",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  47,
+                                             "awayHandle":  46,
                                              "awayBet":  45,
-                                             "homeHandle":  53,
+                                             "homeHandle":  54,
                                              "homeBet":  55,
-                                             "awaySpread":  7.5,
-                                             "homeSpread":  -7.5
+                                             "awaySpread":  8.5,
+                                             "homeSpread":  -8.5
                                          },
                                   "circa":  {
                                                 "awayHandle":  30,
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Broncos",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  23,
+                                              "awayHandle":  22,
                                               "awayBet":  63,
-                                              "homeHandle":  77,
+                                              "homeHandle":  78,
                                               "homeBet":  37,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
@@ -250,9 +250,9 @@
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
                                               "awayHandle":  44,
-                                              "awayBet":  50,
+                                              "awayBet":  49,
                                               "homeHandle":  56,
-                                              "homeBet":  50,
+                                              "homeBet":  51,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
                                           },
@@ -329,10 +329,10 @@
                                              "homeSpread":  -6.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  94,
-                                                "awayBet":  28,
-                                                "homeHandle":  6,
-                                                "homeBet":  72,
+                                                "awayHandle":  93,
+                                                "awayBet":  27,
+                                                "homeHandle":  7,
+                                                "homeBet":  73,
                                                 "awaySpread":  6.5,
                                                 "homeSpread":  -6.5
                                             }
@@ -345,9 +345,9 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Monday, Sep 21",
                                    "dk":  {
-                                              "awayHandle":  78,
+                                              "awayHandle":  77,
                                               "awayBet":  82,
-                                              "homeHandle":  22,
+                                              "homeHandle":  23,
                                               "homeBet":  18,
                                               "awaySpread":  7,
                                               "homeSpread":  -7
