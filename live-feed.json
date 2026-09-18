@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T22:15:32Z",
+    "generatedAt":  "2026-09-18T22:30:33Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Falcons",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  69,
+                                              "awayHandle":  70,
                                               "awayBet":  80,
-                                              "homeHandle":  31,
+                                              "homeHandle":  30,
                                               "homeBet":  20,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
@@ -42,9 +42,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  87,
-                                                 "awayBet":  27,
+                                                 "awayBet":  26,
                                                  "homeHandle":  13,
-                                                 "homeBet":  73,
+                                                 "homeBet":  74,
                                                  "awaySpread":  4.5,
                                                  "homeSpread":  -4.5
                                              }
@@ -186,9 +186,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  80,
-                                                 "awayBet":  35,
+                                                 "awayBet":  34,
                                                  "homeHandle":  20,
-                                                 "homeBet":  65,
+                                                 "homeBet":  66,
                                                  "awaySpread":  2.5,
                                                  "homeSpread":  -2.5
                                              }
@@ -249,10 +249,10 @@
                                    "homeLastName":  "Cowboys",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  45,
-                                              "awayBet":  49,
-                                              "homeHandle":  55,
-                                              "homeBet":  51,
+                                              "awayHandle":  44,
+                                              "awayBet":  48,
+                                              "homeHandle":  56,
+                                              "homeBet":  52,
                                               "awaySpread":  4.5,
                                               "homeSpread":  -4.5
                                           },
