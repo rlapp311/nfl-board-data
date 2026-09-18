@@ -1,0 +1,18 @@
+﻿{
+    "2":  {
+              "week":  2,
+              "games":  [
+                            {
+                                "id":  "DETBUF",
+                                "away":  "DET",
+                                "home":  "BUF",
+                                "day":  "Thu 9/17",
+                                "time":  "8:15p ET",
+                                "circa":  -5,
+                                "lookahead":  -3,
+                                "circaOpen":  -3.5
+                            }
+                        ]
+          }
+}
+

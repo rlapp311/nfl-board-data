@@ -1,0 +1,30 @@
+﻿{
+    "generatedAt":  "2026-09-18T03:34:58Z",
+    "byPair":  {
+                   "DET-BUF":  {
+                                   "gameCode":  "20260917NFL00031",
+                                   "awaySlug":  "detroit-lions",
+                                   "homeSlug":  "buffalo-bills",
+                                   "awayLastName":  "Lions",
+                                   "homeLastName":  "Bills",
+                                   "dateLabel":  "Thursday, Sep 17",
+                                   "dk":  {
+                                              "awayHandle":  33,
+                                              "awayBet":  36,
+                                              "homeHandle":  67,
+                                              "homeBet":  64,
+                                              "awaySpread":  5.5,
+                                              "homeSpread":  -5.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  83,
+                                                 "awayBet":  34,
+                                                 "homeHandle":  17,
+                                                 "homeBet":  66,
+                                                 "awaySpread":  5,
+                                                 "homeSpread":  -5
+                                             }
+                               }
+               }
+}
+
