@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T18:45:15Z",
+    "generatedAt":  "2026-09-18T19:00:16Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Falcons",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  68,
+                                              "awayHandle":  69,
                                               "awayBet":  80,
-                                              "homeHandle":  32,
+                                              "homeHandle":  31,
                                               "homeBet":  20,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
@@ -209,12 +209,12 @@
                                               "homeSpread":  -2.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  43,
-                                                 "awayBet":  56,
-                                                 "homeHandle":  57,
-                                                 "homeBet":  44,
-                                                 "awaySpread":  2.5,
-                                                 "homeSpread":  -2.5
+                                                 "awayHandle":  51,
+                                                 "awayBet":  57,
+                                                 "homeHandle":  49,
+                                                 "homeBet":  43,
+                                                 "awaySpread":  3,
+                                                 "homeSpread":  -3
                                              }
                                },
                    "LV-LAC":  {
@@ -322,9 +322,9 @@
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
                                              "awayHandle":  34,
-                                             "awayBet":  29,
+                                             "awayBet":  30,
                                              "homeHandle":  66,
-                                             "homeBet":  71,
+                                             "homeBet":  70,
                                              "awaySpread":  6.5,
                                              "homeSpread":  -6.5
                                          },
