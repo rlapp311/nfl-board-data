@@ -3,14 +3,154 @@
               "week":  2,
               "games":  [
                             {
-                                "id":  "DETBUF",
-                                "away":  "DET",
-                                "home":  "BUF",
-                                "day":  "Thu 9/17",
-                                "time":  "8:15p ET",
+                                "id":  "CARATL",
+                                "away":  "CAR",
+                                "home":  "ATL",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  2.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "MINCHI",
+                                "away":  "MIN",
+                                "home":  "CHI",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  -4.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "PHITEN",
+                                "away":  "PHI",
+                                "home":  "TEN",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  7,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "PITNE",
+                                "away":  "PIT",
+                                "home":  "NE",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
                                 "circa":  -5,
-                                "lookahead":  -3,
-                                "circaOpen":  -3.5
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "GBNYJ",
+                                "away":  "GB",
+                                "home":  "NYJ",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  3.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "CLETB",
+                                "away":  "CLE",
+                                "home":  "TB",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  -8.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "NOBAL",
+                                "away":  "NO",
+                                "home":  "BAL",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  -8.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "CINHOU",
+                                "away":  "CIN",
+                                "home":  "HOU",
+                                "day":  "Sun 9/20",
+                                "time":  "1:00p ET",
+                                "circa":  -2.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "JAXDEN",
+                                "away":  "JAX",
+                                "home":  "DEN",
+                                "day":  "Sun 9/20",
+                                "time":  "4:05p ET",
+                                "circa":  -2.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "LVLAC",
+                                "away":  "LV",
+                                "home":  "LAC",
+                                "day":  "Sun 9/20",
+                                "time":  "4:05p ET",
+                                "circa":  -6.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "WASDAL",
+                                "away":  "WAS",
+                                "home":  "DAL",
+                                "day":  "Sun 9/20",
+                                "time":  "4:25p ET",
+                                "circa":  -4,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "SEAARI",
+                                "away":  "SEA",
+                                "home":  "ARI",
+                                "day":  "Sun 9/20",
+                                "time":  "4:25p ET",
+                                "circa":  4,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "MIASF",
+                                "away":  "MIA",
+                                "home":  "SF",
+                                "day":  "Sun 9/20",
+                                "time":  "4:25p ET",
+                                "circa":  -13,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "INDKC",
+                                "away":  "IND",
+                                "home":  "KC",
+                                "day":  "Sun 9/20",
+                                "time":  "8:20p ET",
+                                "circa":  -6.5,
+                                "lookahead":  null,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "NYGLAR",
+                                "away":  "NYG",
+                                "home":  "LAR",
+                                "day":  "Mon 9/21",
+                                "time":  "8:15p ET",
+                                "circa":  -7,
+                                "lookahead":  null,
+                                "circaOpen":  null
                             }
                         ]
           }
