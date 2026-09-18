@@ -9,8 +9,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  2.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -1.5,
+                                "circaOpen":  -1.5
                             },
                             {
                                 "id":  "MINCHI",
@@ -19,8 +19,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  -4.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -3,
+                                "circaOpen":  -5.5
                             },
                             {
                                 "id":  "PHITEN",
@@ -29,8 +29,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  7,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  5.5,
+                                "circaOpen":  7
                             },
                             {
                                 "id":  "PITNE",
@@ -39,8 +39,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  -5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -4.5,
+                                "circaOpen":  -4.5
                             },
                             {
                                 "id":  "GBNYJ",
@@ -49,8 +49,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  3.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  5.5,
+                                "circaOpen":  4
                             },
                             {
                                 "id":  "CLETB",
@@ -59,8 +59,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  -8.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -6.5,
+                                "circaOpen":  -8.5
                             },
                             {
                                 "id":  "NOBAL",
@@ -69,8 +69,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  -8.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -7.5,
+                                "circaOpen":  -8.5
                             },
                             {
                                 "id":  "CINHOU",
@@ -79,8 +79,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "1:00p ET",
                                 "circa":  -2.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -2.5,
+                                "circaOpen":  -3
                             },
                             {
                                 "id":  "JAXDEN",
@@ -89,8 +89,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "4:05p ET",
                                 "circa":  -2.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -3,
+                                "circaOpen":  -3
                             },
                             {
                                 "id":  "LVLAC",
@@ -99,8 +99,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "4:05p ET",
                                 "circa":  -6.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -9.5,
+                                "circaOpen":  -7
                             },
                             {
                                 "id":  "WASDAL",
@@ -109,8 +109,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "4:25p ET",
                                 "circa":  -4,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -4.5,
+                                "circaOpen":  -3.5
                             },
                             {
                                 "id":  "SEAARI",
@@ -119,8 +119,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "4:25p ET",
                                 "circa":  4,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  10,
+                                "circaOpen":  5.5
                             },
                             {
                                 "id":  "MIASF",
@@ -129,8 +129,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "4:25p ET",
                                 "circa":  -13,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -10.5,
+                                "circaOpen":  -13
                             },
                             {
                                 "id":  "INDKC",
@@ -139,8 +139,8 @@
                                 "day":  "Sun 9/20",
                                 "time":  "8:20p ET",
                                 "circa":  -6.5,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -6.5,
+                                "circaOpen":  -6.5
                             },
                             {
                                 "id":  "NYGLAR",
@@ -149,8 +149,8 @@
                                 "day":  "Mon 9/21",
                                 "time":  "8:15p ET",
                                 "circa":  -7,
-                                "lookahead":  null,
-                                "circaOpen":  null
+                                "lookahead":  -9.5,
+                                "circaOpen":  -7
                             }
                         ]
           }
