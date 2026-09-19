@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T15:01:52Z",
+    "generatedAt":  "2026-09-19T15:16:53Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -81,9 +81,9 @@
                                   "homeLastName":  "Patriots",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  41,
+                                             "awayHandle":  42,
                                              "awayBet":  58,
-                                             "homeHandle":  59,
+                                             "homeHandle":  58,
                                              "homeBet":  42,
                                              "awaySpread":  5.5,
                                              "homeSpread":  -5.5
@@ -249,10 +249,10 @@
                                    "homeLastName":  "Cowboys",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  38,
-                                              "awayBet":  47,
-                                              "homeHandle":  62,
-                                              "homeBet":  53,
+                                              "awayHandle":  37,
+                                              "awayBet":  48,
+                                              "homeHandle":  63,
+                                              "homeBet":  52,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
                                           },
