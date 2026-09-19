@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T15:16:53Z",
+    "generatedAt":  "2026-09-19T15:31:55Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -93,8 +93,8 @@
                                                 "awayBet":  38,
                                                 "homeHandle":  88,
                                                 "homeBet":  62,
-                                                "awaySpread":  5,
-                                                "homeSpread":  -5
+                                                "awaySpread":  4.5,
+                                                "homeSpread":  -4.5
                                             }
                               },
                    "GB-NYJ":  {
@@ -105,9 +105,9 @@
                                   "homeLastName":  "Jets",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  16,
+                                             "awayHandle":  15,
                                              "awayBet":  47,
-                                             "homeHandle":  84,
+                                             "homeHandle":  85,
                                              "homeBet":  53,
                                              "awaySpread":  -3.5,
                                              "homeSpread":  3.5
@@ -153,9 +153,9 @@
                                   "homeLastName":  "Ravens",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  44,
+                                             "awayHandle":  42,
                                              "awayBet":  45,
-                                             "homeHandle":  56,
+                                             "homeHandle":  58,
                                              "homeBet":  55,
                                              "awaySpread":  8.5,
                                              "homeSpread":  -8.5
@@ -213,8 +213,8 @@
                                                  "awayBet":  47,
                                                  "homeHandle":  60,
                                                  "homeBet":  53,
-                                                 "awaySpread":  3,
-                                                 "homeSpread":  -3
+                                                 "awaySpread":  2.5,
+                                                 "homeSpread":  -2.5
                                              }
                                },
                    "LV-LAC":  {
@@ -297,9 +297,9 @@
                                   "homeLastName":  "49ers",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  11,
+                                             "awayHandle":  10,
                                              "awayBet":  18,
-                                             "homeHandle":  89,
+                                             "homeHandle":  90,
                                              "homeBet":  82,
                                              "awaySpread":  13.5,
                                              "homeSpread":  -13.5
