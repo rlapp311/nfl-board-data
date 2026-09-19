@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-19T05:01:03Z",
-    "generatedAt":  "2026-09-19T05:08:09Z",
+    "linesAsOf":  "2026-09-19T05:16:04Z",
+    "generatedAt":  "2026-09-19T05:21:31Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-19T05:08:03Z",
+                                              "asOf":  "2026-09-19T05:11:25Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -353,7 +353,7 @@
                               "dRuPlays":  18,
                               "qb":  {
                                          "name":  "Michael Penix Jr.",
-                                         "status":  "depth chart -- C.Rush started Wk 1 -- season numbers are C.Rush\u0027s",
+                                         "status":  "depth chart -- listed out -- Cooper Rush started Wk 1 -- season numbers are C.Rush\u0027s",
                                          "epa":  0.098,
                                          "epaRk":  23,
                                          "sr":  40,
@@ -623,7 +623,7 @@
                               "dRuPlays":  17,
                               "qb":  {
                                          "name":  "Joe Burrow",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- listed questionable -- started Wk 1",
                                          "epa":  0.168,
                                          "epaRk":  18,
                                          "sr":  52.6,
@@ -1379,7 +1379,7 @@
                               "dRuPlays":  22,
                               "qb":  {
                                          "name":  "Kyler Murray",
-                                         "status":  "depth chart -- C.Wentz started Wk 1",
+                                         "status":  "depth chart -- listed out -- Carson Wentz started Wk 1",
                                          "epa":  -0.386,
                                          "epaRk":  null,
                                          "sr":  0,
@@ -1757,7 +1757,7 @@
                               "dRuPlays":  27,
                               "qb":  {
                                          "name":  "Sam Darnold",
-                                         "status":  "depth chart -- D.Lock started Wk 1",
+                                         "status":  "depth chart -- listed out -- Drew Lock started Wk 1",
                                          "epa":  -0.012,
                                          "epaRk":  null,
                                          "sr":  50,
