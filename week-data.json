@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-19T11:31:32Z",
-    "generatedAt":  "2026-09-19T11:34:53Z",
+    "linesAsOf":  "2026-09-19T11:46:33Z",
+    "generatedAt":  "2026-09-19T11:49:54Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -105,10 +105,10 @@
                       "home":  "NYJ",
                       "day":  "Sun 9/20",
                       "time":  "1:00p ET",
-                      "circa":  3.5,
+                      "circa":  3,
                       "history":  [
                                       4,
-                                      3.5
+                                      3
                                   ],
                       "lookahead":  5.5,
                       "circaOpen":  4

@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T11:31:32Z",
+    "generatedAt":  "2026-09-19T11:46:33Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -34,9 +34,9 @@
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
                                               "awayHandle":  20,
-                                              "awayBet":  34,
+                                              "awayBet":  33,
                                               "homeHandle":  80,
-                                              "homeBet":  66,
+                                              "homeBet":  67,
                                               "awaySpread":  4.5,
                                               "homeSpread":  -4.5
                                           },
@@ -117,8 +117,8 @@
                                                 "awayBet":  62,
                                                 "homeHandle":  17,
                                                 "homeBet":  38,
-                                                "awaySpread":  -3.5,
-                                                "homeSpread":  3.5
+                                                "awaySpread":  -3,
+                                                "homeSpread":  3
                                             }
                               },
                    "CLE-TB":  {
@@ -153,9 +153,9 @@
                                   "homeLastName":  "Ravens",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  44,
+                                             "awayHandle":  43,
                                              "awayBet":  46,
-                                             "homeHandle":  56,
+                                             "homeHandle":  57,
                                              "homeBet":  54,
                                              "awaySpread":  8.5,
                                              "homeSpread":  -8.5
@@ -250,9 +250,9 @@
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
                                               "awayHandle":  37,
-                                              "awayBet":  49,
+                                              "awayBet":  48,
                                               "homeHandle":  63,
-                                              "homeBet":  51,
+                                              "homeBet":  52,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
                                           },
