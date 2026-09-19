@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-19T21:32:22Z",
-    "generatedAt":  "2026-09-19T21:34:39Z",
+    "linesAsOf":  "2026-09-19T21:47:23Z",
+    "generatedAt":  "2026-09-19T21:49:42Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -91,10 +91,10 @@
                       "home":  "NE",
                       "day":  "Sun 9/20",
                       "time":  "1:00p ET",
-                      "circa":  -4.5,
+                      "circa":  -5.5,
                       "history":  [
                                       -4.5,
-                                      -4.5
+                                      -5.5
                                   ],
                       "lookahead":  -4.5,
                       "circaOpen":  -4.5
