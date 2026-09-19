@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-19T04:31:00Z",
+    "generatedAt":  "2026-09-19T04:46:01Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -321,9 +321,9 @@
                                   "homeLastName":  "Chiefs",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  33,
+                                             "awayHandle":  27,
                                              "awayBet":  29,
-                                             "homeHandle":  67,
+                                             "homeHandle":  73,
                                              "homeBet":  71,
                                              "awaySpread":  6.5,
                                              "homeSpread":  -6.5
@@ -345,10 +345,10 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Monday, Sep 21",
                                    "dk":  {
-                                              "awayHandle":  77,
-                                              "awayBet":  83,
-                                              "homeHandle":  23,
-                                              "homeBet":  17,
+                                              "awayHandle":  80,
+                                              "awayBet":  82,
+                                              "homeHandle":  20,
+                                              "homeBet":  18,
                                               "awaySpread":  7,
                                               "homeSpread":  -7
                                           },
