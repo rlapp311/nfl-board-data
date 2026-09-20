@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-20T19:49:22Z",
-    "generatedAt":  "2026-09-20T19:50:17Z",
+    "linesAsOf":  "2026-09-20T20:04:23Z",
+    "generatedAt":  "2026-09-20T20:05:17Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -365,7 +365,7 @@
                           },
                   "BAL":  {
                               "name":  "Ravens",
-                              "wl":  "1-0",
+                              "wl":  "1-1",
                               "pr":  5.5,
                               "fpi":  4.8,
                               "fpiOff":  null,
@@ -527,7 +527,7 @@
                           },
                   "CHI":  {
                               "name":  "Bears",
-                              "wl":  "1-0",
+                              "wl":  "1-1",
                               "pr":  2.29,
                               "fpi":  2.87,
                               "fpiOff":  null,
@@ -1337,7 +1337,7 @@
                           },
                   "MIN":  {
                               "name":  "Vikings",
-                              "wl":  "1-0",
+                              "wl":  "2-0",
                               "pr":  1.44,
                               "fpi":  -1.11,
                               "fpiOff":  null,
@@ -1391,7 +1391,7 @@
                           },
                   "NE":  {
                              "name":  "Patriots",
-                             "wl":  "0-1",
+                             "wl":  "1-1",
                              "pr":  2.57,
                              "fpi":  1.4,
                              "fpiOff":  null,
@@ -1445,7 +1445,7 @@
                          },
                   "NO":  {
                              "name":  "Saints",
-                             "wl":  "0-1",
+                             "wl":  "1-1",
                              "pr":  -1.91,
                              "fpi":  -1.52,
                              "fpiOff":  null,
@@ -1661,7 +1661,7 @@
                           },
                   "PIT":  {
                               "name":  "Steelers",
-                              "wl":  "1-0",
+                              "wl":  "1-1",
                               "pr":  -1.75,
                               "fpi":  -1.44,
                               "fpiOff":  null,

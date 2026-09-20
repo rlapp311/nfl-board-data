@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-09-20T16:50:22.6249709Z",
+    "GeneratedAt":  "2026-09-20T20:05:16.7786531Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -179,10 +179,10 @@
                       "date":  "2026-09-20T17:00:00.0000000Z",
                       "away":  "MIN",
                       "home":  "CHI",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  9,
+                      "homeScore":  3,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  2,
@@ -199,10 +199,10 @@
                       "date":  "2026-09-20T17:00:00.0000000Z",
                       "away":  "PIT",
                       "home":  "NE",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  3,
+                      "homeScore":  20,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  2,
@@ -229,10 +229,10 @@
                       "date":  "2026-09-20T17:00:00.0000000Z",
                       "away":  "NO",
                       "home":  "BAL",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  24,
+                      "homeScore":  17,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  2,
