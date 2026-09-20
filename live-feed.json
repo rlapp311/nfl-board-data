@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-20T02:17:44Z",
+    "generatedAt":  "2026-09-20T02:32:45Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -33,9 +33,9 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  21,
+                                              "awayHandle":  20,
                                               "awayBet":  31,
-                                              "homeHandle":  79,
+                                              "homeHandle":  80,
                                               "homeBet":  69,
                                               "awaySpread":  4.5,
                                               "homeSpread":  -4.5
@@ -210,9 +210,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  7,
-                                                 "awayBet":  45,
+                                                 "awayBet":  46,
                                                  "homeHandle":  93,
-                                                 "homeBet":  55,
+                                                 "homeBet":  54,
                                                  "awaySpread":  3,
                                                  "homeSpread":  -3
                                              }
