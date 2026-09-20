@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-20T07:48:08Z",
+    "generatedAt":  "2026-09-20T08:03:08Z",
     "byPair":  {
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Falcons",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  72,
+                                              "awayHandle":  74,
                                               "awayBet":  79,
-                                              "homeHandle":  28,
+                                              "homeHandle":  26,
                                               "homeBet":  21,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
@@ -33,9 +33,9 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Sunday, Sep 20",
                                    "dk":  {
-                                              "awayHandle":  30,
+                                              "awayHandle":  33,
                                               "awayBet":  31,
-                                              "homeHandle":  70,
+                                              "homeHandle":  67,
                                               "homeBet":  69,
                                               "awaySpread":  4.5,
                                               "homeSpread":  -4.5
@@ -225,9 +225,9 @@
                                   "homeLastName":  "Chargers",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  42,
+                                             "awayHandle":  43,
                                              "awayBet":  48,
-                                             "homeHandle":  58,
+                                             "homeHandle":  57,
                                              "homeBet":  52,
                                              "awaySpread":  7,
                                              "homeSpread":  -7
