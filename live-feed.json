@@ -1,6 +1,126 @@
 ﻿{
-    "generatedAt":  "2026-09-20T22:49:37Z",
+    "generatedAt":  "2026-09-20T23:04:38Z",
     "byPair":  {
+                   "JAX-DEN":  {
+                                   "gameCode":  "20260920NFL00043",
+                                   "awaySlug":  "jacksonville-jaguars",
+                                   "homeSlug":  "denver-broncos",
+                                   "awayLastName":  "Jaguars",
+                                   "homeLastName":  "Broncos",
+                                   "dateLabel":  "Sunday, Sep 20",
+                                   "dk":  {
+                                              "awayHandle":  36,
+                                              "awayBet":  58,
+                                              "homeHandle":  64,
+                                              "homeBet":  42,
+                                              "awaySpread":  2.5,
+                                              "homeSpread":  -2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  13,
+                                                 "awayBet":  41,
+                                                 "homeHandle":  87,
+                                                 "homeBet":  59,
+                                                 "awaySpread":  2.5,
+                                                 "homeSpread":  -2.5
+                                             }
+                               },
+                   "LV-LAC":  {
+                                  "gameCode":  "20260920NFL00046",
+                                  "awaySlug":  "las-vegas-raiders",
+                                  "homeSlug":  "los-angeles-chargers",
+                                  "awayLastName":  "Raiders",
+                                  "homeLastName":  "Chargers",
+                                  "dateLabel":  "Sunday, Sep 20",
+                                  "dk":  {
+                                             "awayHandle":  35,
+                                             "awayBet":  45,
+                                             "homeHandle":  65,
+                                             "homeBet":  55,
+                                             "awaySpread":  6.5,
+                                             "homeSpread":  -6.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  57,
+                                                "awayBet":  56,
+                                                "homeHandle":  43,
+                                                "homeBet":  44,
+                                                "awaySpread":  6.5,
+                                                "homeSpread":  -6.5
+                                            }
+                              },
+                   "WAS-DAL":  {
+                                   "gameCode":  "20260920NFL00047",
+                                   "awaySlug":  "washington-commanders",
+                                   "homeSlug":  "dallas-cowboys",
+                                   "awayLastName":  "Commanders",
+                                   "homeLastName":  "Cowboys",
+                                   "dateLabel":  "Sunday, Sep 20",
+                                   "dk":  {
+                                              "awayHandle":  24,
+                                              "awayBet":  39,
+                                              "homeHandle":  76,
+                                              "homeBet":  61,
+                                              "awaySpread":  3.5,
+                                              "homeSpread":  -3.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  63,
+                                                 "awayBet":  37,
+                                                 "homeHandle":  37,
+                                                 "homeBet":  63,
+                                                 "awaySpread":  4,
+                                                 "homeSpread":  -4
+                                             }
+                               },
+                   "SEA-ARI":  {
+                                   "gameCode":  "20260920NFL00059",
+                                   "awaySlug":  "seattle-seahawks",
+                                   "homeSlug":  "arizona-cardinals",
+                                   "awayLastName":  "Seahawks",
+                                   "homeLastName":  "Cardinals",
+                                   "dateLabel":  "Sunday, Sep 20",
+                                   "dk":  {
+                                              "awayHandle":  65,
+                                              "awayBet":  66,
+                                              "homeHandle":  35,
+                                              "homeBet":  34,
+                                              "awaySpread":  -3.5,
+                                              "homeSpread":  3.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  27,
+                                                 "awayBet":  65,
+                                                 "homeHandle":  73,
+                                                 "homeBet":  35,
+                                                 "awaySpread":  -4,
+                                                 "homeSpread":  4
+                                             }
+                               },
+                   "MIA-SF":  {
+                                  "gameCode":  "20260920NFL00060",
+                                  "awaySlug":  "miami-dolphins",
+                                  "homeSlug":  "san-francisco-49ers",
+                                  "awayLastName":  "Dolphins",
+                                  "homeLastName":  "49ers",
+                                  "dateLabel":  "Sunday, Sep 20",
+                                  "dk":  {
+                                             "awayHandle":  11,
+                                             "awayBet":  18,
+                                             "homeHandle":  89,
+                                             "homeBet":  82,
+                                             "awaySpread":  12.5,
+                                             "homeSpread":  -12.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  62,
+                                                "awayBet":  18,
+                                                "homeHandle":  38,
+                                                "homeBet":  82,
+                                                "awaySpread":  13,
+                                                "homeSpread":  -13
+                                            }
+                              },
                    "CAR-ATL":  {
                                    "gameCode":  "20260920NFL00055",
                                    "awaySlug":  "carolina-panthers",
@@ -193,126 +313,6 @@
                                                  "homeSpread":  -2.5
                                              }
                                },
-                   "JAX-DEN":  {
-                                   "gameCode":  "20260920NFL00043",
-                                   "awaySlug":  "jacksonville-jaguars",
-                                   "homeSlug":  "denver-broncos",
-                                   "awayLastName":  "Jaguars",
-                                   "homeLastName":  "Broncos",
-                                   "dateLabel":  "Sunday, Sep 20",
-                                   "dk":  {
-                                              "awayHandle":  36,
-                                              "awayBet":  58,
-                                              "homeHandle":  64,
-                                              "homeBet":  42,
-                                              "awaySpread":  2.5,
-                                              "homeSpread":  -2.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  13,
-                                                 "awayBet":  41,
-                                                 "homeHandle":  87,
-                                                 "homeBet":  59,
-                                                 "awaySpread":  2.5,
-                                                 "homeSpread":  -2.5
-                                             }
-                               },
-                   "LV-LAC":  {
-                                  "gameCode":  "20260920NFL00046",
-                                  "awaySlug":  "las-vegas-raiders",
-                                  "homeSlug":  "los-angeles-chargers",
-                                  "awayLastName":  "Raiders",
-                                  "homeLastName":  "Chargers",
-                                  "dateLabel":  "Sunday, Sep 20",
-                                  "dk":  {
-                                             "awayHandle":  35,
-                                             "awayBet":  45,
-                                             "homeHandle":  65,
-                                             "homeBet":  55,
-                                             "awaySpread":  6.5,
-                                             "homeSpread":  -6.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  57,
-                                                "awayBet":  56,
-                                                "homeHandle":  43,
-                                                "homeBet":  44,
-                                                "awaySpread":  6.5,
-                                                "homeSpread":  -6.5
-                                            }
-                              },
-                   "WAS-DAL":  {
-                                   "gameCode":  "20260920NFL00047",
-                                   "awaySlug":  "washington-commanders",
-                                   "homeSlug":  "dallas-cowboys",
-                                   "awayLastName":  "Commanders",
-                                   "homeLastName":  "Cowboys",
-                                   "dateLabel":  "Sunday, Sep 20",
-                                   "dk":  {
-                                              "awayHandle":  24,
-                                              "awayBet":  39,
-                                              "homeHandle":  76,
-                                              "homeBet":  61,
-                                              "awaySpread":  3.5,
-                                              "homeSpread":  -3.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  63,
-                                                 "awayBet":  37,
-                                                 "homeHandle":  37,
-                                                 "homeBet":  63,
-                                                 "awaySpread":  4,
-                                                 "homeSpread":  -4
-                                             }
-                               },
-                   "SEA-ARI":  {
-                                   "gameCode":  "20260920NFL00059",
-                                   "awaySlug":  "seattle-seahawks",
-                                   "homeSlug":  "arizona-cardinals",
-                                   "awayLastName":  "Seahawks",
-                                   "homeLastName":  "Cardinals",
-                                   "dateLabel":  "Sunday, Sep 20",
-                                   "dk":  {
-                                              "awayHandle":  65,
-                                              "awayBet":  66,
-                                              "homeHandle":  35,
-                                              "homeBet":  34,
-                                              "awaySpread":  -3.5,
-                                              "homeSpread":  3.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  27,
-                                                 "awayBet":  65,
-                                                 "homeHandle":  73,
-                                                 "homeBet":  35,
-                                                 "awaySpread":  -4,
-                                                 "homeSpread":  4
-                                             }
-                               },
-                   "MIA-SF":  {
-                                  "gameCode":  "20260920NFL00060",
-                                  "awaySlug":  "miami-dolphins",
-                                  "homeSlug":  "san-francisco-49ers",
-                                  "awayLastName":  "Dolphins",
-                                  "homeLastName":  "49ers",
-                                  "dateLabel":  "Sunday, Sep 20",
-                                  "dk":  {
-                                             "awayHandle":  11,
-                                             "awayBet":  18,
-                                             "homeHandle":  89,
-                                             "homeBet":  82,
-                                             "awaySpread":  12.5,
-                                             "homeSpread":  -12.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  62,
-                                                "awayBet":  18,
-                                                "homeHandle":  38,
-                                                "homeBet":  82,
-                                                "awaySpread":  13,
-                                                "homeSpread":  -13
-                                            }
-                              },
                    "IND-KC":  {
                                   "gameCode":  "20260920NFL00044",
                                   "awaySlug":  "indianapolis-colts",
@@ -321,9 +321,9 @@
                                   "homeLastName":  "Chiefs",
                                   "dateLabel":  "Sunday, Sep 20",
                                   "dk":  {
-                                             "awayHandle":  25,
+                                             "awayHandle":  22,
                                              "awayBet":  23,
-                                             "homeHandle":  75,
+                                             "homeHandle":  78,
                                              "homeBet":  77,
                                              "awaySpread":  6,
                                              "homeSpread":  -6
