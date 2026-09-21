@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-21T17:51:11Z",
-    "generatedAt":  "2026-09-21T18:05:27Z",
+    "linesAsOf":  "2026-09-21T18:06:12Z",
+    "generatedAt":  "2026-09-21T18:20:39Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-21T15:05:55Z",
+                                              "asOf":  "2026-09-21T18:20:38Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -373,7 +373,7 @@
                               "dRuPlays":  22,
                               "qb":  {
                                          "name":  "Caleb Williams",
-                                         "status":  "depth chart -- listed questionable -- started Wk 1",
+                                         "status":  "depth chart -- listed doubtful -- started Wk 1",
                                          "epa":  0.514,
                                          "epaRk":  8,
                                          "sr":  60.9,
