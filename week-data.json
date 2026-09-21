@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-21T02:04:51Z",
-    "generatedAt":  "2026-09-21T02:05:39Z",
+    "linesAsOf":  "2026-09-21T02:19:53Z",
+    "generatedAt":  "2026-09-21T02:20:38Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -44,74 +44,18 @@
              ],
     "games":  [
                   {
-                      "id":  "JAXDEN",
-                      "away":  "JAX",
-                      "home":  "DEN",
+                      "id":  "INDKC",
+                      "away":  "IND",
+                      "home":  "KC",
                       "day":  "Sun 9/20",
-                      "time":  "4:05p ET",
-                      "circa":  -2.5,
+                      "time":  "8:20p ET",
+                      "circa":  -5.5,
                       "history":  [
-                                      -3,
-                                      -2.5
+                                      -6.5,
+                                      -5.5
                                   ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3
-                  },
-                  {
-                      "id":  "LVLAC",
-                      "away":  "LV",
-                      "home":  "LAC",
-                      "day":  "Sun 9/20",
-                      "time":  "4:05p ET",
-                      "circa":  -6.5,
-                      "history":  [
-                                      -7,
-                                      -6.5
-                                  ],
-                      "lookahead":  -9.5,
-                      "circaOpen":  -7
-                  },
-                  {
-                      "id":  "WASDAL",
-                      "away":  "WAS",
-                      "home":  "DAL",
-                      "day":  "Sun 9/20",
-                      "time":  "4:25p ET",
-                      "circa":  -4,
-                      "history":  [
-                                      -3.5,
-                                      -4
-                                  ],
-                      "lookahead":  -4.5,
-                      "circaOpen":  -3.5
-                  },
-                  {
-                      "id":  "SEAARI",
-                      "away":  "SEA",
-                      "home":  "ARI",
-                      "day":  "Sun 9/20",
-                      "time":  "4:25p ET",
-                      "circa":  4,
-                      "history":  [
-                                      5.5,
-                                      4
-                                  ],
-                      "lookahead":  10,
-                      "circaOpen":  5.5
-                  },
-                  {
-                      "id":  "MIASF",
-                      "away":  "MIA",
-                      "home":  "SF",
-                      "day":  "Sun 9/20",
-                      "time":  "4:25p ET",
-                      "circa":  -13,
-                      "history":  [
-                                      -13,
-                                      -13
-                                  ],
-                      "lookahead":  -10.5,
-                      "circaOpen":  -13
+                      "lookahead":  -6.5,
+                      "circaOpen":  -6.5
                   },
                   {
                       "id":  "CARATL",
@@ -226,18 +170,74 @@
                       "circaOpen":  -3
                   },
                   {
-                      "id":  "INDKC",
-                      "away":  "IND",
-                      "home":  "KC",
+                      "id":  "JAXDEN",
+                      "away":  "JAX",
+                      "home":  "DEN",
                       "day":  "Sun 9/20",
-                      "time":  "8:20p ET",
-                      "circa":  -5.5,
+                      "time":  "4:05p ET",
+                      "circa":  -2.5,
                       "history":  [
-                                      -6.5,
-                                      -5.5
+                                      -3,
+                                      -2.5
                                   ],
-                      "lookahead":  -6.5,
-                      "circaOpen":  -6.5
+                      "lookahead":  -3,
+                      "circaOpen":  -3
+                  },
+                  {
+                      "id":  "LVLAC",
+                      "away":  "LV",
+                      "home":  "LAC",
+                      "day":  "Sun 9/20",
+                      "time":  "4:05p ET",
+                      "circa":  -6.5,
+                      "history":  [
+                                      -7,
+                                      -6.5
+                                  ],
+                      "lookahead":  -9.5,
+                      "circaOpen":  -7
+                  },
+                  {
+                      "id":  "WASDAL",
+                      "away":  "WAS",
+                      "home":  "DAL",
+                      "day":  "Sun 9/20",
+                      "time":  "4:25p ET",
+                      "circa":  -4,
+                      "history":  [
+                                      -3.5,
+                                      -4
+                                  ],
+                      "lookahead":  -4.5,
+                      "circaOpen":  -3.5
+                  },
+                  {
+                      "id":  "SEAARI",
+                      "away":  "SEA",
+                      "home":  "ARI",
+                      "day":  "Sun 9/20",
+                      "time":  "4:25p ET",
+                      "circa":  4,
+                      "history":  [
+                                      5.5,
+                                      4
+                                  ],
+                      "lookahead":  10,
+                      "circaOpen":  5.5
+                  },
+                  {
+                      "id":  "MIASF",
+                      "away":  "MIA",
+                      "home":  "SF",
+                      "day":  "Sun 9/20",
+                      "time":  "4:25p ET",
+                      "circa":  -13,
+                      "history":  [
+                                      -13,
+                                      -13
+                                  ],
+                      "lookahead":  -10.5,
+                      "circaOpen":  -13
                   },
                   {
                       "id":  "NYGLAR",
@@ -257,7 +257,7 @@
     "teams":  {
                   "ARI":  {
                               "name":  "Cardinals",
-                              "wl":  "1-0",
+                              "wl":  "1-1",
                               "pr":  -2.66,
                               "fpi":  -3,
                               "fpiOff":  null,
@@ -689,7 +689,7 @@
                           },
                   "DAL":  {
                               "name":  "Cowboys",
-                              "wl":  "0-1",
+                              "wl":  "1-1",
                               "pr":  2.17,
                               "fpi":  1.99,
                               "fpiOff":  null,
@@ -1121,7 +1121,7 @@
                          },
                   "LAC":  {
                               "name":  "Chargers",
-                              "wl":  "0-1",
+                              "wl":  "0-2",
                               "pr":  1.83,
                               "fpi":  0.36,
                               "fpiOff":  null,
@@ -1229,7 +1229,7 @@
                           },
                   "LV":  {
                              "name":  "Raiders",
-                             "wl":  "1-0",
+                             "wl":  "2-0",
                              "pr":  -3.04,
                              "fpi":  -3.84,
                              "fpiOff":  null,
@@ -1283,7 +1283,7 @@
                          },
                   "MIA":  {
                               "name":  "Dolphins",
-                              "wl":  "0-1",
+                              "wl":  "0-2",
                               "pr":  -4.31,
                               "fpi":  -7.58,
                               "fpiOff":  null,
@@ -1715,7 +1715,7 @@
                           },
                   "SEA":  {
                               "name":  "Seahawks",
-                              "wl":  "1-0",
+                              "wl":  "2-0",
                               "pr":  1.35,
                               "fpi":  -3.06,
                               "fpiOff":  null,
@@ -1769,7 +1769,7 @@
                           },
                   "SF":  {
                              "name":  "49ers",
-                             "wl":  "1-0",
+                             "wl":  "2-0",
                              "pr":  1.67,
                              "fpi":  5.63,
                              "fpiOff":  null,
@@ -1931,7 +1931,7 @@
                           },
                   "WAS":  {
                               "name":  "Commanders",
-                              "wl":  "0-1",
+                              "wl":  "0-2",
                               "pr":  0.08,
                               "fpi":  null,
                               "fpiOff":  null,
