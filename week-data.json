@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-21T05:20:07Z",
-    "generatedAt":  "2026-09-21T05:20:46Z",
+    "linesAsOf":  "2026-09-21T05:35:08Z",
+    "generatedAt":  "2026-09-21T05:35:30Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -763,7 +763,7 @@
                           },
                   "IND":  {
                               "name":  "Colts",
-                              "wl":  "0-1",
+                              "wl":  "0-2",
                               "pr":  0,
                               "fpi":  -1.9,
                               "fpiOff":  null,
@@ -871,7 +871,7 @@
                           },
                   "KC":  {
                              "name":  "Chiefs",
-                             "wl":  "1-0",
+                             "wl":  "2-0",
                              "pr":  2.52,
                              "fpi":  4.29,
                              "fpiOff":  null,

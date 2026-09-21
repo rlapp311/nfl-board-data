@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-09-21T02:20:36.9793353Z",
+    "GeneratedAt":  "2026-09-21T05:35:29.6973790Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -166,13 +166,23 @@
                   },
                   {
                       "week":  2,
-                      "date":  "2026-09-21T00:20:00.0000000Z",
-                      "away":  "IND",
-                      "home":  "KC",
+                      "date":  "2026-09-22T00:15:00.0000000Z",
+                      "away":  "NYG",
+                      "home":  "LAR",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  2,
+                      "date":  "2026-09-18T00:15:00.0000000Z",
+                      "away":  "DET",
+                      "home":  "BUF",
+                      "awayScore":  31,
+                      "homeScore":  41,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  2,
@@ -306,23 +316,13 @@
                   },
                   {
                       "week":  2,
-                      "date":  "2026-09-18T00:15:00.0000000Z",
-                      "away":  "DET",
-                      "home":  "BUF",
-                      "awayScore":  31,
-                      "homeScore":  41,
-                      "ot":  false,
+                      "date":  "2026-09-21T00:20:00.0000000Z",
+                      "away":  "IND",
+                      "home":  "KC",
+                      "awayScore":  30,
+                      "homeScore":  33,
+                      "ot":  true,
                       "final":  true
-                  },
-                  {
-                      "week":  2,
-                      "date":  "2026-09-22T00:15:00.0000000Z",
-                      "away":  "NYG",
-                      "home":  "LAR",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
                   },
                   {
                       "week":  3,
