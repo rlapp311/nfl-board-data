@@ -11,7 +11,7 @@
         "OpponentSlug":  "los-angeles-rams",
         "Spread":  "+6.5",
         "SpreadValue":  6.5,
-        "SpreadHandlePct":  48,
+        "SpreadHandlePct":  50,
         "SpreadBetPct":  71,
         "Total":  "47.5",
         "TotalValue":  47.5,
@@ -19,11 +19,11 @@
         "TotalBetPct":  57,
         "Moneyline":  "+240",
         "MoneylineValue":  240,
-        "MoneylineHandlePct":  74,
-        "MoneylineBetPct":  49,
+        "MoneylineHandlePct":  73,
+        "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -37,7 +37,7 @@
         "OpponentSlug":  "new-york-giants",
         "Spread":  "-6.5",
         "SpreadValue":  -6.5,
-        "SpreadHandlePct":  52,
+        "SpreadHandlePct":  50,
         "SpreadBetPct":  29,
         "Total":  "47.5",
         "TotalValue":  47.5,
@@ -45,11 +45,11 @@
         "TotalBetPct":  43,
         "Moneyline":  "-298",
         "MoneylineValue":  -298,
-        "MoneylineHandlePct":  26,
-        "MoneylineBetPct":  51,
+        "MoneylineHandlePct":  27,
+        "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -71,11 +71,11 @@
         "TotalBetPct":  54,
         "Moneyline":  "+240",
         "MoneylineValue":  240,
-        "MoneylineHandlePct":  19,
+        "MoneylineHandlePct":  20,
         "MoneylineBetPct":  12,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -97,11 +97,11 @@
         "TotalBetPct":  46,
         "Moneyline":  "-298",
         "MoneylineValue":  -298,
-        "MoneylineHandlePct":  81,
+        "MoneylineHandlePct":  80,
         "MoneylineBetPct":  88,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -127,7 +127,7 @@
         "MoneylineBetPct":  10,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -153,7 +153,7 @@
         "MoneylineBetPct":  90,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -168,18 +168,18 @@
         "Spread":  "-11.5",
         "SpreadValue":  -11.5,
         "SpreadHandlePct":  75,
-        "SpreadBetPct":  80,
+        "SpreadBetPct":  81,
         "Total":  "45.5",
         "TotalValue":  45.5,
         "TotalHandlePct":  66,
         "TotalBetPct":  46,
-        "Moneyline":  "-800",
-        "MoneylineValue":  -800,
+        "Moneyline":  "-850",
+        "MoneylineValue":  -850,
         "MoneylineHandlePct":  88,
         "MoneylineBetPct":  96,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -194,18 +194,18 @@
         "Spread":  "+11.5",
         "SpreadValue":  11.5,
         "SpreadHandlePct":  25,
-        "SpreadBetPct":  20,
+        "SpreadBetPct":  19,
         "Total":  "45.5",
         "TotalValue":  45.5,
         "TotalHandlePct":  34,
         "TotalBetPct":  54,
-        "Moneyline":  "+550",
-        "MoneylineValue":  550,
+        "Moneyline":  "+575",
+        "MoneylineValue":  575,
         "MoneylineHandlePct":  12,
         "MoneylineBetPct":  4,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -217,8 +217,8 @@
         "TeamSlug":  "carolina-panthers",
         "Opponent":  "Cleveland Browns",
         "OpponentSlug":  "cleveland-browns",
-        "Spread":  "-3",
-        "SpreadValue":  -3,
+        "Spread":  "-2.5",
+        "SpreadValue":  -2.5,
         "SpreadHandlePct":  90,
         "SpreadBetPct":  73,
         "Total":  "42.5",
@@ -228,10 +228,10 @@
         "Moneyline":  "-155",
         "MoneylineValue":  -155,
         "MoneylineHandlePct":  92,
-        "MoneylineBetPct":  75,
+        "MoneylineBetPct":  76,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -243,8 +243,8 @@
         "TeamSlug":  "cleveland-browns",
         "Opponent":  "Carolina Panthers",
         "OpponentSlug":  "carolina-panthers",
-        "Spread":  "+3",
-        "SpreadValue":  3,
+        "Spread":  "+2.5",
+        "SpreadValue":  2.5,
         "SpreadHandlePct":  10,
         "SpreadBetPct":  27,
         "Total":  "42.5",
@@ -254,10 +254,10 @@
         "Moneyline":  "+130",
         "MoneylineValue":  130,
         "MoneylineHandlePct":  8,
-        "MoneylineBetPct":  25,
+        "MoneylineBetPct":  24,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -283,7 +283,7 @@
         "MoneylineBetPct":  83,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -309,7 +309,7 @@
         "MoneylineBetPct":  17,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -335,7 +335,7 @@
         "MoneylineBetPct":  62,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -361,7 +361,7 @@
         "MoneylineBetPct":  38,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -387,7 +387,7 @@
         "MoneylineBetPct":  48,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -413,7 +413,7 @@
         "MoneylineBetPct":  52,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -433,13 +433,13 @@
         "TotalValue":  42.5,
         "TotalHandlePct":  79,
         "TotalBetPct":  59,
-        "Moneyline":  "+220",
-        "MoneylineValue":  220,
+        "Moneyline":  "+215",
+        "MoneylineValue":  215,
         "MoneylineHandlePct":  5,
         "MoneylineBetPct":  13,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -459,13 +459,13 @@
         "TotalValue":  42.5,
         "TotalHandlePct":  21,
         "TotalBetPct":  41,
-        "Moneyline":  "-270",
-        "MoneylineValue":  -270,
+        "Moneyline":  "-265",
+        "MoneylineValue":  -265,
         "MoneylineHandlePct":  95,
         "MoneylineBetPct":  87,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -491,7 +491,7 @@
         "MoneylineBetPct":  89,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -517,7 +517,7 @@
         "MoneylineBetPct":  11,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -543,7 +543,7 @@
         "MoneylineBetPct":  12,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -569,7 +569,7 @@
         "MoneylineBetPct":  88,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -583,8 +583,8 @@
         "OpponentSlug":  "tampa-bay-buccaneers",
         "Spread":  "-1.5",
         "SpreadValue":  -1.5,
-        "SpreadHandlePct":  44,
-        "SpreadBetPct":  62,
+        "SpreadHandlePct":  43,
+        "SpreadBetPct":  61,
         "Total":  "42.5",
         "TotalValue":  42.5,
         "TotalHandlePct":  16,
@@ -595,7 +595,7 @@
         "MoneylineBetPct":  55,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -609,8 +609,8 @@
         "OpponentSlug":  "minnesota-vikings",
         "Spread":  "+1.5",
         "SpreadValue":  1.5,
-        "SpreadHandlePct":  56,
-        "SpreadBetPct":  38,
+        "SpreadHandlePct":  57,
+        "SpreadBetPct":  39,
         "Total":  "42.5",
         "TotalValue":  42.5,
         "TotalHandlePct":  84,
@@ -621,7 +621,7 @@
         "MoneylineBetPct":  45,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -643,11 +643,11 @@
         "TotalBetPct":  49,
         "Moneyline":  "+360",
         "MoneylineValue":  360,
-        "MoneylineHandlePct":  15,
+        "MoneylineHandlePct":  14,
         "MoneylineBetPct":  6,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -669,11 +669,11 @@
         "TotalBetPct":  51,
         "Moneyline":  "-470",
         "MoneylineValue":  -470,
-        "MoneylineHandlePct":  85,
+        "MoneylineHandlePct":  86,
         "MoneylineBetPct":  94,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -688,7 +688,7 @@
         "Spread":  "-3",
         "SpreadValue":  -3,
         "SpreadHandlePct":  58,
-        "SpreadBetPct":  38,
+        "SpreadBetPct":  39,
         "Total":  "52.5",
         "TotalValue":  52.5,
         "TotalHandlePct":  92,
@@ -699,7 +699,7 @@
         "MoneylineBetPct":  62,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -714,7 +714,7 @@
         "Spread":  "+3",
         "SpreadValue":  3,
         "SpreadHandlePct":  42,
-        "SpreadBetPct":  62,
+        "SpreadBetPct":  61,
         "Total":  "52.5",
         "TotalValue":  52.5,
         "TotalHandlePct":  8,
@@ -725,7 +725,7 @@
         "MoneylineBetPct":  38,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -744,14 +744,14 @@
         "Total":  "43.5",
         "TotalValue":  43.5,
         "TotalHandlePct":  11,
-        "TotalBetPct":  45,
+        "TotalBetPct":  46,
         "Moneyline":  "+145",
         "MoneylineValue":  145,
         "MoneylineHandlePct":  41,
         "MoneylineBetPct":  26,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -770,14 +770,14 @@
         "Total":  "43.5",
         "TotalValue":  43.5,
         "TotalHandlePct":  89,
-        "TotalBetPct":  55,
+        "TotalBetPct":  54,
         "Moneyline":  "-175",
         "MoneylineValue":  -175,
         "MoneylineHandlePct":  59,
         "MoneylineBetPct":  74,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -803,7 +803,7 @@
         "MoneylineBetPct":  68,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -829,7 +829,7 @@
         "MoneylineBetPct":  32,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -848,14 +848,14 @@
         "Total":  "44.5",
         "TotalValue":  44.5,
         "TotalHandlePct":  14,
-        "TotalBetPct":  68,
+        "TotalBetPct":  67,
         "Moneyline":  "-185",
         "MoneylineValue":  -185,
         "MoneylineHandlePct":  66,
         "MoneylineBetPct":  67,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -874,14 +874,14 @@
         "Total":  "44.5",
         "TotalValue":  44.5,
         "TotalHandlePct":  86,
-        "TotalBetPct":  32,
+        "TotalBetPct":  33,
         "Moneyline":  "+154",
         "MoneylineValue":  154,
         "MoneylineHandlePct":  34,
         "MoneylineBetPct":  33,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -907,7 +907,7 @@
         "MoneylineBetPct":  86,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -933,7 +933,7 @@
         "MoneylineBetPct":  14,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -959,7 +959,7 @@
         "MoneylineBetPct":  61,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -985,7 +985,7 @@
         "MoneylineBetPct":  39,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1011,7 +1011,7 @@
         "MoneylineBetPct":  10,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1037,7 +1037,7 @@
         "MoneylineBetPct":  90,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1063,7 +1063,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1089,7 +1089,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1115,7 +1115,7 @@
         "MoneylineBetPct":  15,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1141,7 +1141,7 @@
         "MoneylineBetPct":  85,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1167,7 +1167,7 @@
         "MoneylineBetPct":  14,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1193,7 +1193,7 @@
         "MoneylineBetPct":  86,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1219,7 +1219,7 @@
         "MoneylineBetPct":  3,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1245,7 +1245,7 @@
         "MoneylineBetPct":  97,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1271,7 +1271,7 @@
         "MoneylineBetPct":  96,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1297,7 +1297,7 @@
         "MoneylineBetPct":  4,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1323,7 +1323,7 @@
         "MoneylineBetPct":  3,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1349,7 +1349,7 @@
         "MoneylineBetPct":  97,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1375,7 +1375,7 @@
         "MoneylineBetPct":  44,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1401,7 +1401,7 @@
         "MoneylineBetPct":  56,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1427,7 +1427,7 @@
         "MoneylineBetPct":  3,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1453,7 +1453,7 @@
         "MoneylineBetPct":  97,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1479,7 +1479,7 @@
         "MoneylineBetPct":  96,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1505,7 +1505,7 @@
         "MoneylineBetPct":  4,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1531,7 +1531,7 @@
         "MoneylineBetPct":  43,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1557,7 +1557,7 @@
         "MoneylineBetPct":  57,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1583,7 +1583,7 @@
         "MoneylineBetPct":  10,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1609,7 +1609,7 @@
         "MoneylineBetPct":  90,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1635,7 +1635,7 @@
         "MoneylineBetPct":  94,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "DK",
@@ -1661,7 +1661,7 @@
         "MoneylineBetPct":  6,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1676,18 +1676,18 @@
         "Spread":  "+6.5",
         "SpreadValue":  6.5,
         "SpreadHandlePct":  29,
-        "SpreadBetPct":  54,
+        "SpreadBetPct":  55,
         "Total":  "47.5",
         "TotalValue":  47.5,
-        "TotalHandlePct":  30,
-        "TotalBetPct":  64,
+        "TotalHandlePct":  31,
+        "TotalBetPct":  65,
         "Moneyline":  "+250",
         "MoneylineValue":  250,
         "MoneylineHandlePct":  64,
-        "MoneylineBetPct":  65,
+        "MoneylineBetPct":  66,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1702,18 +1702,18 @@
         "Spread":  "-6.5",
         "SpreadValue":  -6.5,
         "SpreadHandlePct":  71,
-        "SpreadBetPct":  46,
+        "SpreadBetPct":  45,
         "Total":  "47.5",
         "TotalValue":  47.5,
-        "TotalHandlePct":  70,
-        "TotalBetPct":  36,
+        "TotalHandlePct":  69,
+        "TotalBetPct":  35,
         "Moneyline":  "-300",
         "MoneylineValue":  -300,
         "MoneylineHandlePct":  36,
-        "MoneylineBetPct":  35,
+        "MoneylineBetPct":  34,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1739,7 +1739,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1765,7 +1765,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1791,7 +1791,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1817,7 +1817,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1843,7 +1843,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1869,7 +1869,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1895,7 +1895,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1921,7 +1921,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1947,7 +1947,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1973,7 +1973,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -1999,7 +1999,7 @@
         "MoneylineBetPct":  67,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2025,7 +2025,7 @@
         "MoneylineBetPct":  33,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2051,7 +2051,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2077,7 +2077,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2103,7 +2103,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2129,7 +2129,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2155,7 +2155,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2181,7 +2181,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2207,7 +2207,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2233,7 +2233,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2259,7 +2259,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2285,7 +2285,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2311,7 +2311,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  false,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2337,7 +2337,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  false,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2363,7 +2363,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  false,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2389,7 +2389,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  false,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2415,7 +2415,7 @@
         "MoneylineBetPct":  25,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2441,7 +2441,7 @@
         "MoneylineBetPct":  75,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2467,7 +2467,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2493,7 +2493,7 @@
         "MoneylineBetPct":  50,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2519,7 +2519,7 @@
         "MoneylineBetPct":  0,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     },
     {
         "Source":  "CIRCA",
@@ -2545,7 +2545,7 @@
         "MoneylineBetPct":  100,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-21T21:36:29Z"
+        "Timestamp":  "2026-09-21T21:51:30Z"
     }
 ]
 
