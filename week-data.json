@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-21T20:51:25Z",
-    "generatedAt":  "2026-09-21T21:06:03Z",
+    "linesAsOf":  "2026-09-21T21:06:27Z",
+    "generatedAt":  "2026-09-21T21:21:26Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-21T18:20:38Z",
+                                              "asOf":  "2026-09-21T21:21:26Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -157,7 +157,7 @@
                               "dRuPlays":  18,
                               "qb":  {
                                          "name":  "Michael Penix Jr.",
-                                         "status":  "depth chart -- listed out -- Cooper Rush started Wk 1 -- season numbers are C.Rush\u0027s",
+                                         "status":  "depth chart -- Cooper Rush started Wk 1 -- season numbers are C.Rush\u0027s",
                                          "epa":  0.098,
                                          "epaRk":  23,
                                          "sr":  40,
@@ -1183,7 +1183,7 @@
                               "dRuPlays":  22,
                               "qb":  {
                                          "name":  "Kyler Murray",
-                                         "status":  "depth chart -- listed out -- Carson Wentz started Wk 1",
+                                         "status":  "depth chart -- Carson Wentz started Wk 1",
                                          "epa":  -0.386,
                                          "epaRk":  null,
                                          "sr":  0,
