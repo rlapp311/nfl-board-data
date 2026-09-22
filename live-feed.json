@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-22T22:38:28Z",
+    "generatedAt":  "2026-09-22T22:53:29Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -273,9 +273,9 @@
                                   "homeLastName":  "Buccaneers",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  44,
+                                             "awayHandle":  43,
                                              "awayBet":  55,
-                                             "homeHandle":  56,
+                                             "homeHandle":  57,
                                              "homeBet":  45,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
@@ -297,9 +297,9 @@
                                    "homeLastName":  "Cowboys",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  62,
+                                              "awayHandle":  61,
                                               "awayBet":  42,
-                                              "homeHandle":  38,
+                                              "homeHandle":  39,
                                               "homeBet":  58,
                                               "awaySpread":  -3.5,
                                               "homeSpread":  3.5
@@ -370,9 +370,9 @@
                                    "dateLabel":  "Monday, Sep 28",
                                    "dk":  {
                                               "awayHandle":  52,
-                                              "awayBet":  72,
+                                              "awayBet":  73,
                                               "homeHandle":  48,
-                                              "homeBet":  28,
+                                              "homeBet":  27,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
                                           },
