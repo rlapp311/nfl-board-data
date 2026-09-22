@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-22T12:37:40Z",
-    "generatedAt":  "2026-09-22T12:50:29Z",
+    "linesAsOf":  "2026-09-22T12:52:41Z",
+    "generatedAt":  "2026-09-22T13:05:49Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-22T09:50:46Z",
+                                              "asOf":  "2026-09-22T13:05:48Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -133,10 +133,10 @@
                       "home":  "NYG",
                       "day":  "Sun 9/27",
                       "time":  "1:00p ET",
-                      "circa":  -6,
+                      "circa":  -3.5,
                       "history":  [
                                       -6,
-                                      -6
+                                      -3.5
                                   ],
                       "lookahead":  -5.5,
                       "circaOpen":  -6
@@ -245,10 +245,10 @@
                       "home":  "DEN",
                       "day":  "Sun 9/27",
                       "time":  "8:20p ET",
-                      "circa":  1.5,
+                      "circa":  2.5,
                       "history":  [
                                       2.5,
-                                      1.5
+                                      2.5
                                   ],
                       "lookahead":  2.5,
                       "circaOpen":  2.5
@@ -313,7 +313,7 @@
                               "dRuPlays":  55,
                               "qb":  {
                                          "name":  "Jacoby Brissett",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.176,
                                          "epaRk":  21,
                                          "sr":  50,
@@ -367,7 +367,7 @@
                               "dRuPlays":  43,
                               "qb":  {
                                          "name":  "Michael Penix Jr.",
-                                         "status":  "depth chart -- Cooper Rush started Wk 1 -- season numbers are C.Rush\u0027s",
+                                         "status":  "depth chart -- Cooper Rush started Wk 2 -- season numbers are C.Rush\u0027s",
                                          "epa":  0.144,
                                          "epaRk":  22,
                                          "sr":  44,
@@ -421,7 +421,7 @@
                               "dRuPlays":  44,
                               "qb":  {
                                          "name":  "Lamar Jackson",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.618,
                                          "epaRk":  1,
                                          "sr":  66.7,
@@ -529,7 +529,7 @@
                               "dRuPlays":  63,
                               "qb":  {
                                          "name":  "Bryce Young",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.478,
                                          "epaRk":  6,
                                          "sr":  48.8,
@@ -583,7 +583,7 @@
                               "dRuPlays":  49,
                               "qb":  {
                                          "name":  "Caleb Williams",
-                                         "status":  "depth chart -- listed doubtful -- started Wk 1",
+                                         "status":  "depth chart -- listed doubtful -- started Wk 2",
                                          "epa":  0.225,
                                          "epaRk":  17,
                                          "sr":  45,
@@ -637,7 +637,7 @@
                               "dRuPlays":  32,
                               "qb":  {
                                          "name":  "Joe Burrow",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.051,
                                          "epaRk":  25,
                                          "sr":  39.5,
@@ -691,7 +691,7 @@
                               "dRuPlays":  51,
                               "qb":  {
                                          "name":  "Deshaun Watson",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.528,
                                          "epaRk":  4,
                                          "sr":  63.2,
@@ -745,7 +745,7 @@
                               "dRuPlays":  57,
                               "qb":  {
                                          "name":  "Dak Prescott",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.319,
                                          "epaRk":  13,
                                          "sr":  55,
@@ -799,7 +799,7 @@
                               "dRuPlays":  56,
                               "qb":  {
                                          "name":  "Bo Nix",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.31,
                                          "epaRk":  15,
                                          "sr":  56.2,
@@ -907,7 +907,7 @@
                              "dRuPlays":  52,
                              "qb":  {
                                         "name":  "Jordan Love",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  0.426,
                                         "epaRk":  8,
                                         "sr":  44.1,
@@ -961,7 +961,7 @@
                               "dRuPlays":  42,
                               "qb":  {
                                          "name":  "C.J. Stroud",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.209,
                                          "epaRk":  18,
                                          "sr":  53.1,
@@ -1015,7 +1015,7 @@
                               "dRuPlays":  60,
                               "qb":  {
                                          "name":  "Daniel Jones",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  -0.029,
                                          "epaRk":  28,
                                          "sr":  43.5,
@@ -1069,7 +1069,7 @@
                               "dRuPlays":  45,
                               "qb":  {
                                          "name":  "Trevor Lawrence",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.415,
                                          "epaRk":  9,
                                          "sr":  65.5,
@@ -1123,7 +1123,7 @@
                              "dRuPlays":  45,
                              "qb":  {
                                         "name":  "Patrick Mahomes",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  0.228,
                                         "epaRk":  16,
                                         "sr":  56.8,
@@ -1177,7 +1177,7 @@
                               "dRuPlays":  57,
                               "qb":  {
                                          "name":  "Justin Herbert",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.326,
                                          "epaRk":  12,
                                          "sr":  53.6,
@@ -1231,7 +1231,7 @@
                               "dRuPlays":  51,
                               "qb":  {
                                          "name":  "Matthew Stafford",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.568,
                                          "epaRk":  2,
                                          "sr":  54.2,
@@ -1285,7 +1285,7 @@
                              "dRuPlays":  47,
                              "qb":  {
                                         "name":  "Kirk Cousins",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  0.316,
                                         "epaRk":  14,
                                         "sr":  50,
@@ -1339,7 +1339,7 @@
                               "dRuPlays":  56,
                               "qb":  {
                                          "name":  "Malik Willis",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.19,
                                          "epaRk":  19,
                                          "sr":  48,
@@ -1393,7 +1393,7 @@
                               "dRuPlays":  50,
                               "qb":  {
                                          "name":  "Kyler Murray",
-                                         "status":  "depth chart -- Carson Wentz started Wk 1",
+                                         "status":  "depth chart -- Carson Wentz started Wk 2",
                                          "epa":  -0.386,
                                          "epaRk":  null,
                                          "sr":  0,
@@ -1447,7 +1447,7 @@
                              "dRuPlays":  42,
                              "qb":  {
                                         "name":  "Drake Maye",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  0.384,
                                         "epaRk":  10,
                                         "sr":  60.6,
@@ -1501,7 +1501,7 @@
                              "dRuPlays":  54,
                              "qb":  {
                                         "name":  "Tyler Shough",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  -0.192,
                                         "epaRk":  32,
                                         "sr":  33.3,
@@ -1555,7 +1555,7 @@
                               "dRuPlays":  41,
                               "qb":  {
                                          "name":  "Jaxson Dart",
-                                         "status":  "depth chart -- listed questionable -- started Wk 1",
+                                         "status":  "depth chart -- listed questionable -- Jameis Winston started Wk 2",
                                          "epa":  0.463,
                                          "epaRk":  7,
                                          "sr":  60.9,
@@ -1609,7 +1609,7 @@
                               "dRuPlays":  30,
                               "qb":  {
                                          "name":  "Geno Smith",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.086,
                                          "epaRk":  23,
                                          "sr":  43.9,
@@ -1663,7 +1663,7 @@
                               "dRuPlays":  57,
                               "qb":  {
                                          "name":  "Jalen Hurts",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.001,
                                          "epaRk":  27,
                                          "sr":  34.3,
@@ -1717,7 +1717,7 @@
                               "dRuPlays":  56,
                               "qb":  {
                                          "name":  "Aaron Rodgers",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  0.069,
                                          "epaRk":  24,
                                          "sr":  44.4,
@@ -1771,7 +1771,7 @@
                               "dRuPlays":  43,
                               "qb":  {
                                          "name":  "Sam Darnold",
-                                         "status":  "depth chart -- listed out -- Drew Lock started Wk 1",
+                                         "status":  "depth chart -- listed out -- Drew Lock started Wk 2",
                                          "epa":  -0.012,
                                          "epaRk":  null,
                                          "sr":  50,
@@ -1825,7 +1825,7 @@
                              "dRuPlays":  56,
                              "qb":  {
                                         "name":  "Brock Purdy",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  0.549,
                                         "epaRk":  3,
                                         "sr":  65.6,
@@ -1879,7 +1879,7 @@
                              "dRuPlays":  45,
                              "qb":  {
                                         "name":  "Baker Mayfield",
-                                        "status":  "depth chart -- started Wk 1",
+                                        "status":  "depth chart -- started Wk 2",
                                         "epa":  -0.117,
                                         "epaRk":  30,
                                         "sr":  38.7,
@@ -1933,7 +1933,7 @@
                               "dRuPlays":  69,
                               "qb":  {
                                          "name":  "Cam Ward",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- started Wk 2",
                                          "epa":  -0.132,
                                          "epaRk":  31,
                                          "sr":  42.3,
@@ -1987,7 +1987,7 @@
                               "dRuPlays":  37,
                               "qb":  {
                                          "name":  "Jayden Daniels",
-                                         "status":  "depth chart -- listed doubtful -- started Wk 1",
+                                         "status":  "depth chart -- listed doubtful -- started Wk 2",
                                          "epa":  0.018,
                                          "epaRk":  26,
                                          "sr":  38.9,
