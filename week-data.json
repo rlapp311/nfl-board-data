@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-22T14:52:51Z",
-    "generatedAt":  "2026-09-22T15:05:29Z",
+    "linesAsOf":  "2026-09-22T15:07:52Z",
+    "generatedAt":  "2026-09-22T15:20:36Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -133,10 +133,10 @@
                       "home":  "NYG",
                       "day":  "Sun 9/27",
                       "time":  "1:00p ET",
-                      "circa":  -3.5,
+                      "circa":  -3,
                       "history":  [
                                       -6,
-                                      -3.5
+                                      -3
                                   ],
                       "lookahead":  -5.5,
                       "circaOpen":  -6

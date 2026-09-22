@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-22T14:52:51Z",
+    "generatedAt":  "2026-09-22T15:07:52Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -161,12 +161,12 @@
                                               "homeSpread":  -3.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  50,
-                                                 "awayBet":  50,
-                                                 "homeHandle":  50,
-                                                 "homeBet":  50,
-                                                 "awaySpread":  3.5,
-                                                 "homeSpread":  -3.5
+                                                 "awayHandle":  100,
+                                                 "awayBet":  100,
+                                                 "homeHandle":  0,
+                                                 "homeBet":  0,
+                                                 "awaySpread":  3,
+                                                 "homeSpread":  -3
                                              }
                                },
                    "CIN-PIT":  {
@@ -274,9 +274,9 @@
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
                                              "awayHandle":  45,
-                                             "awayBet":  58,
+                                             "awayBet":  59,
                                              "homeHandle":  55,
-                                             "homeBet":  42,
+                                             "homeBet":  41,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
                                          },
@@ -369,12 +369,12 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Monday, Sep 28",
                                    "dk":  {
-                                              "awayHandle":  24,
+                                              "awayHandle":  25,
                                               "awayBet":  66,
-                                              "homeHandle":  76,
+                                              "homeHandle":  75,
                                               "homeBet":  34,
-                                              "awaySpread":  -3,
-                                              "homeSpread":  3
+                                              "awaySpread":  -3.5,
+                                              "homeSpread":  3.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  84,
