@@ -1,10 +1,10 @@
 ﻿{
     "season":  2026,
-    "week":  2,
+    "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-22T03:52:00Z",
-    "generatedAt":  "2026-09-22T04:05:37Z",
-    "analyticsThrough":  "PR and FPI through Week 1",
+    "linesAsOf":  "2026-09-22T04:37:04Z",
+    "generatedAt":  "2026-09-22T04:50:44Z",
+    "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
                                           "label":  "DVOA",
@@ -44,18 +44,228 @@
              ],
     "games":  [
                   {
-                      "id":  "NYGLAR",
-                      "away":  "NYG",
-                      "home":  "LAR",
-                      "day":  "Mon 9/21",
+                      "id":  "ATLGB",
+                      "away":  "ATL",
+                      "home":  "GB",
+                      "day":  "Thu 9/24",
                       "time":  "8:15p ET",
                       "circa":  -6.5,
                       "history":  [
                                       -7,
                                       -6.5
                                   ],
-                      "lookahead":  -9.5,
-                      "circaOpen":  -7
+                      "circaOpen":  -7,
+                      "lookahead":  -6.5
+                  },
+                  {
+                      "id":  "LACBUF",
+                      "away":  "LAC",
+                      "home":  "BUF",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  -7,
+                      "history":  [
+                                      -6.5,
+                                      -7
+                                  ],
+                      "circaOpen":  -6.5,
+                      "lookahead":  -4.5
+                  },
+                  {
+                      "id":  "CARCLE",
+                      "away":  "CAR",
+                      "home":  "CLE",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  3,
+                      "history":  [
+                                      3,
+                                      3
+                                  ],
+                      "circaOpen":  3,
+                      "lookahead":  2.5
+                  },
+                  {
+                      "id":  "NYJDET",
+                      "away":  "NYJ",
+                      "home":  "DET",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  -6.5,
+                      "history":  [
+                                      -7,
+                                      -6.5
+                                  ],
+                      "circaOpen":  -7,
+                      "lookahead":  -7
+                  },
+                  {
+                      "id":  "HOUIND",
+                      "away":  "HOU",
+                      "home":  "IND",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  2.5,
+                      "history":  [
+                                      2.5,
+                                      2.5
+                                  ],
+                      "circaOpen":  2.5,
+                      "lookahead":  2.5
+                  },
+                  {
+                      "id":  "KCMIA",
+                      "away":  "KC",
+                      "home":  "MIA",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  11,
+                      "history":  [
+                                      10.5,
+                                      11
+                                  ],
+                      "circaOpen":  10.5,
+                      "lookahead":  8.5
+                  },
+                  {
+                      "id":  "TENNYG",
+                      "away":  "TEN",
+                      "home":  "NYG",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  -6,
+                      "history":  [
+                                      -6,
+                                      -6
+                                  ],
+                      "circaOpen":  -6,
+                      "lookahead":  -5.5
+                  },
+                  {
+                      "id":  "CINPIT",
+                      "away":  "CIN",
+                      "home":  "PIT",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  3.5,
+                      "history":  [
+                                      3,
+                                      3.5
+                                  ],
+                      "circaOpen":  3,
+                      "lookahead":  2.5
+                  },
+                  {
+                      "id":  "SEAWAS",
+                      "away":  "SEA",
+                      "home":  "WAS",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  7,
+                      "history":  [
+                                      6.5,
+                                      7
+                                  ],
+                      "circaOpen":  6.5,
+                      "lookahead":  2.5
+                  },
+                  {
+                      "id":  "NEJAX",
+                      "away":  "NE",
+                      "home":  "JAX",
+                      "day":  "Sun 9/27",
+                      "time":  "1:00p ET",
+                      "circa":  -3,
+                      "history":  [
+                                      -2.5,
+                                      -3
+                                  ],
+                      "circaOpen":  -2.5,
+                      "lookahead":  -2.5
+                  },
+                  {
+                      "id":  "ARISF",
+                      "away":  "ARI",
+                      "home":  "SF",
+                      "day":  "Sun 9/27",
+                      "time":  "4:05p ET",
+                      "circa":  -8.5,
+                      "history":  [
+                                      -8.5,
+                                      -8.5
+                                  ],
+                      "circaOpen":  -8.5,
+                      "lookahead":  -8.5
+                  },
+                  {
+                      "id":  "MINTB",
+                      "away":  "MIN",
+                      "home":  "TB",
+                      "day":  "Sun 9/27",
+                      "time":  "4:05p ET",
+                      "circa":  1,
+                      "history":  [
+                                      2.5,
+                                      1
+                                  ],
+                      "circaOpen":  2.5,
+                      "lookahead":  -1.5
+                  },
+                  {
+                      "id":  "BALDAL",
+                      "away":  "BAL",
+                      "home":  "DAL",
+                      "day":  "Sun 9/27",
+                      "time":  "4:25p ET",
+                      "circa":  3,
+                      "history":  [
+                                      3,
+                                      3
+                                  ],
+                      "circaOpen":  3,
+                      "lookahead":  3
+                  },
+                  {
+                      "id":  "LVNO",
+                      "away":  "LV",
+                      "home":  "NO",
+                      "day":  "Sun 9/27",
+                      "time":  "4:25p ET",
+                      "circa":  -3,
+                      "history":  [
+                                      -3,
+                                      -3
+                                  ],
+                      "circaOpen":  -3,
+                      "lookahead":  -3
+                  },
+                  {
+                      "id":  "LARDEN",
+                      "away":  "LAR",
+                      "home":  "DEN",
+                      "day":  "Sun 9/27",
+                      "time":  "8:20p ET",
+                      "circa":  1.5,
+                      "history":  [
+                                      2.5,
+                                      1.5
+                                  ],
+                      "circaOpen":  2.5,
+                      "lookahead":  2.5
+                  },
+                  {
+                      "id":  "PHICHI",
+                      "away":  "PHI",
+                      "home":  "CHI",
+                      "day":  "Mon 9/28",
+                      "time":  "8:15p ET",
+                      "circa":  3.5,
+                      "history":  [
+                                      3.5,
+                                      3.5
+                                  ],
+                      "circaOpen":  3.5,
+                      "lookahead":  -1.5
                   }
               ],
     "teams":  {
@@ -979,7 +1189,7 @@
                           },
                   "LAR":  {
                               "name":  "Rams",
-                              "wl":  "0-1",
+                              "wl":  "1-1",
                               "pr":  6.12,
                               "fpi":  2.84,
                               "fpiOff":  null,
@@ -1303,7 +1513,7 @@
                          },
                   "NYG":  {
                               "name":  "Giants",
-                              "wl":  "1-0",
+                              "wl":  "1-1",
                               "pr":  -2.57,
                               "fpi":  -0.25,
                               "fpiOff":  null,
