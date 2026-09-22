@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  2,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-22T03:21:58Z",
-    "generatedAt":  "2026-09-22T03:35:18Z",
+    "linesAsOf":  "2026-09-22T03:36:59Z",
+    "generatedAt":  "2026-09-22T03:50:28Z",
     "analyticsThrough":  "PR and FPI through Week 1",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-22T00:36:28Z",
+                                              "asOf":  "2026-09-22T03:50:27Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1345,7 +1345,7 @@
                               "dRuPlays":  17,
                               "qb":  {
                                          "name":  "Jaxson Dart",
-                                         "status":  "depth chart -- started Wk 1",
+                                         "status":  "depth chart -- listed questionable -- started Wk 1",
                                          "epa":  0.556,
                                          "epaRk":  6,
                                          "sr":  65,
