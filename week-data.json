@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-22T19:08:11Z",
-    "generatedAt":  "2026-09-22T19:20:16Z",
+    "linesAsOf":  "2026-09-22T19:23:12Z",
+    "generatedAt":  "2026-09-22T19:35:20Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-22T16:20:49Z",
+                                              "asOf":  "2026-09-22T19:35:19Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1554,13 +1554,13 @@
                               "oRuPlays":  55,
                               "dRuPlays":  41,
                               "qb":  {
-                                         "name":  "Jaxson Dart",
-                                         "status":  "depth chart -- listed doubtful -- Jameis Winston started Wk 2",
-                                         "epa":  0.463,
-                                         "epaRk":  7,
-                                         "sr":  60.9,
-                                         "srRk":  5,
-                                         "plays":  23,
+                                         "name":  "Jameis Winston",
+                                         "status":  "depth chart -- started Wk 2",
+                                         "epa":  -0.087,
+                                         "epaRk":  null,
+                                         "sr":  30,
+                                         "srRk":  null,
+                                         "plays":  10,
                                          "numbersAreStarters":  true
                                      },
                               "note":  ""
