@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-22T15:07:52Z",
+    "generatedAt":  "2026-09-22T15:22:53Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -129,9 +129,9 @@
                                   "homeLastName":  "Dolphins",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  78,
+                                             "awayHandle":  77,
                                              "awayBet":  85,
-                                             "homeHandle":  22,
+                                             "homeHandle":  23,
                                              "homeBet":  15,
                                              "awaySpread":  -11.5,
                                              "homeSpread":  11.5
@@ -154,9 +154,9 @@
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
                                               "awayHandle":  7,
-                                              "awayBet":  39,
+                                              "awayBet":  40,
                                               "homeHandle":  93,
-                                              "homeBet":  61,
+                                              "homeBet":  60,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
                                           },
@@ -297,9 +297,9 @@
                                    "homeLastName":  "Cowboys",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  61,
+                                              "awayHandle":  60,
                                               "awayBet":  40,
-                                              "homeHandle":  39,
+                                              "homeHandle":  40,
                                               "homeBet":  60,
                                               "awaySpread":  -3,
                                               "homeSpread":  3
@@ -345,10 +345,10 @@
                                    "homeLastName":  "Broncos",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  42,
-                                              "awayBet":  36,
-                                              "homeHandle":  58,
-                                              "homeBet":  64,
+                                              "awayHandle":  43,
+                                              "awayBet":  37,
+                                              "homeHandle":  57,
+                                              "homeBet":  63,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
                                           },
