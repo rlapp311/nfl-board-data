@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-22T17:08:02Z",
+    "generatedAt":  "2026-09-22T17:23:03Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -9,9 +9,9 @@
                                   "homeLastName":  "Packers",
                                   "dateLabel":  "Thursday, Sep 24",
                                   "dk":  {
-                                             "awayHandle":  40,
+                                             "awayHandle":  41,
                                              "awayBet":  37,
-                                             "homeHandle":  60,
+                                             "homeHandle":  59,
                                              "homeBet":  63,
                                              "awaySpread":  6,
                                              "homeSpread":  -6
@@ -58,9 +58,9 @@
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
                                               "awayHandle":  93,
-                                              "awayBet":  81,
+                                              "awayBet":  80,
                                               "homeHandle":  7,
-                                              "homeBet":  19,
+                                              "homeBet":  20,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
                                           },
@@ -105,9 +105,9 @@
                                    "homeLastName":  "Colts",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  85,
+                                              "awayHandle":  84,
                                               "awayBet":  46,
-                                              "homeHandle":  15,
+                                              "homeHandle":  16,
                                               "homeBet":  54,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
@@ -153,9 +153,9 @@
                                    "homeLastName":  "Giants",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  12,
+                                              "awayHandle":  13,
                                               "awayBet":  43,
-                                              "homeHandle":  88,
+                                              "homeHandle":  87,
                                               "homeBet":  57,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Commanders",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  98,
+                                              "awayHandle":  95,
                                               "awayBet":  90,
-                                              "homeHandle":  2,
+                                              "homeHandle":  5,
                                               "homeBet":  10,
                                               "awaySpread":  -7,
                                               "homeSpread":  7
