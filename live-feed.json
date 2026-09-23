@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T05:39:01Z",
+    "generatedAt":  "2026-09-23T05:54:02Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -274,9 +274,9 @@
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
                                              "awayHandle":  42,
-                                             "awayBet":  55,
+                                             "awayBet":  56,
                                              "homeHandle":  58,
-                                             "homeBet":  45,
+                                             "homeBet":  44,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
                                          },
@@ -377,10 +377,10 @@
                                               "homeSpread":  4.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  74,
-                                                 "awayBet":  55,
-                                                 "homeHandle":  26,
-                                                 "homeBet":  45,
+                                                 "awayHandle":  75,
+                                                 "awayBet":  58,
+                                                 "homeHandle":  25,
+                                                 "homeBet":  42,
                                                  "awaySpread":  -4.5,
                                                  "homeSpread":  4.5
                                              }
