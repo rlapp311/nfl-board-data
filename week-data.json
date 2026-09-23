@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-23T17:54:55Z",
-    "generatedAt":  "2026-09-23T18:05:39Z",
+    "linesAsOf":  "2026-09-23T18:09:56Z",
+    "generatedAt":  "2026-09-23T18:20:45Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-23T15:05:52Z",
+                                              "asOf":  "2026-09-23T18:20:44Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1987,7 +1987,7 @@
                               "dRuPlays":  37,
                               "qb":  {
                                          "name":  "Jayden Daniels",
-                                         "status":  "depth chart -- listed doubtful -- started Wk 2",
+                                         "status":  "depth chart -- listed out -- started Wk 2",
                                          "epa":  0.018,
                                          "epaRk":  26,
                                          "sr":  38.9,
