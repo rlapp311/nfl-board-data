@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-23T02:08:45Z",
+    "generatedAt":  "2026-09-23T02:23:46Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -9,9 +9,9 @@
                                   "homeLastName":  "Packers",
                                   "dateLabel":  "Thursday, Sep 24",
                                   "dk":  {
-                                             "awayHandle":  29,
+                                             "awayHandle":  28,
                                              "awayBet":  34,
-                                             "homeHandle":  71,
+                                             "homeHandle":  72,
                                              "homeBet":  66,
                                              "awaySpread":  5.5,
                                              "homeSpread":  -5.5
@@ -81,9 +81,9 @@
                                    "homeLastName":  "Lions",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  40,
+                                              "awayHandle":  36,
                                               "awayBet":  33,
-                                              "homeHandle":  60,
+                                              "homeHandle":  64,
                                               "homeBet":  67,
                                               "awaySpread":  6.5,
                                               "homeSpread":  -6.5
