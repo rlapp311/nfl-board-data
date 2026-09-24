@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-24T15:11:38Z",
-    "generatedAt":  "2026-09-24T15:20:47Z",
+    "linesAsOf":  "2026-09-24T15:26:39Z",
+    "generatedAt":  "2026-09-24T15:35:48Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -105,10 +105,10 @@
                       "home":  "IND",
                       "day":  "Sun 9/27",
                       "time":  "1:00p ET",
-                      "circa":  2.5,
+                      "circa":  2,
                       "history":  [
                                       2.5,
-                                      2.5
+                                      2
                                   ],
                       "lookahead":  2.5,
                       "circaOpen":  2.5
