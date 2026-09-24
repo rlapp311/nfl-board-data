@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T15:56:42Z",
+    "generatedAt":  "2026-09-24T16:11:43Z",
     "byPair":  {
                    "ATL-GB":  {
                                   "gameCode":  "20260924NFL00053",
@@ -18,9 +18,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  71,
-                                                "awayBet":  28,
+                                                "awayBet":  27,
                                                 "homeHandle":  29,
-                                                "homeBet":  72,
+                                                "homeBet":  73,
                                                 "awaySpread":  4.5,
                                                 "homeSpread":  -4.5
                                             }
@@ -109,14 +109,14 @@
                                               "awayBet":  46,
                                               "homeHandle":  28,
                                               "homeBet":  54,
-                                              "awaySpread":  -1.5,
-                                              "homeSpread":  1.5
+                                              "awaySpread":  -2.5,
+                                              "homeSpread":  2.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  48,
-                                                 "awayBet":  71,
+                                                 "awayBet":  73,
                                                  "homeHandle":  52,
-                                                 "homeBet":  29,
+                                                 "homeBet":  27,
                                                  "awaySpread":  -2,
                                                  "homeSpread":  2
                                              }
@@ -225,9 +225,9 @@
                                   "homeLastName":  "Jaguars",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  28,
+                                             "awayHandle":  27,
                                              "awayBet":  47,
-                                             "homeHandle":  72,
+                                             "homeHandle":  73,
                                              "homeBet":  53,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
@@ -273,9 +273,9 @@
                                   "homeLastName":  "Buccaneers",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  25,
+                                             "awayHandle":  26,
                                              "awayBet":  58,
-                                             "homeHandle":  75,
+                                             "homeHandle":  74,
                                              "homeBet":  42,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
