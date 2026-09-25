@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-25T13:28:31Z",
-    "generatedAt":  "2026-09-25T13:36:49Z",
+    "linesAsOf":  "2026-09-25T13:43:32Z",
+    "generatedAt":  "2026-09-25T13:51:29Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -203,10 +203,10 @@
                       "home":  "DAL",
                       "day":  "Sun 9/27",
                       "time":  "4:25p ET",
-                      "circa":  3,
+                      "circa":  3.5,
                       "history":  [
                                       3,
-                                      3
+                                      3.5
                                   ],
                       "lookahead":  3,
                       "circaOpen":  3
