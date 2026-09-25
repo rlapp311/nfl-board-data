@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T19:28:58Z",
+    "generatedAt":  "2026-09-25T19:43:59Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -105,9 +105,9 @@
                                   "homeLastName":  "Dolphins",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  76,
+                                             "awayHandle":  73,
                                              "awayBet":  83,
-                                             "homeHandle":  24,
+                                             "homeHandle":  27,
                                              "homeBet":  17,
                                              "awaySpread":  -10.5,
                                              "homeSpread":  10.5
@@ -234,9 +234,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  1,
-                                                "awayBet":  16,
+                                                "awayBet":  15,
                                                 "homeHandle":  99,
-                                                "homeBet":  84,
+                                                "homeBet":  85,
                                                 "awaySpread":  8.5,
                                                 "homeSpread":  -8.5
                                             }
