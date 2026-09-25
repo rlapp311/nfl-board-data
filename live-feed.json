@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T14:43:37Z",
+    "generatedAt":  "2026-09-25T14:58:38Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -117,8 +117,8 @@
                                                 "awayBet":  74,
                                                 "homeHandle":  63,
                                                 "homeBet":  26,
-                                                "awaySpread":  -11,
-                                                "homeSpread":  11
+                                                "awaySpread":  -10.5,
+                                                "homeSpread":  10.5
                                             }
                               },
                    "TEN-NYG":  {
@@ -130,9 +130,9 @@
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
                                               "awayHandle":  50,
-                                              "awayBet":  54,
+                                              "awayBet":  53,
                                               "homeHandle":  50,
-                                              "homeBet":  46,
+                                              "homeBet":  47,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
                                           },
