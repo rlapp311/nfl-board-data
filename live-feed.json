@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T18:43:54Z",
+    "generatedAt":  "2026-09-25T18:58:56Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Bills",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  15,
+                                              "awayHandle":  16,
                                               "awayBet":  19,
-                                              "homeHandle":  85,
+                                              "homeHandle":  84,
                                               "homeBet":  81,
                                               "awaySpread":  7,
                                               "homeSpread":  -7
@@ -42,9 +42,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  19,
-                                                 "awayBet":  52,
+                                                 "awayBet":  54,
                                                  "homeHandle":  81,
-                                                 "homeBet":  48,
+                                                 "homeBet":  46,
                                                  "awaySpread":  -2.5,
                                                  "homeSpread":  2.5
                                              }
@@ -298,9 +298,9 @@
                                  "dateLabel":  "Sunday, Sep 27",
                                  "dk":  {
                                             "awayHandle":  50,
-                                            "awayBet":  40,
+                                            "awayBet":  41,
                                             "homeHandle":  50,
-                                            "homeBet":  60,
+                                            "homeBet":  59,
                                             "awaySpread":  3,
                                             "homeSpread":  -3
                                         },
