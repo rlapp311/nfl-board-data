@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-25T03:57:49Z",
-    "generatedAt":  "2026-09-25T04:05:59Z",
+    "linesAsOf":  "2026-09-25T04:12:50Z",
+    "generatedAt":  "2026-09-25T04:21:01Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -43,20 +43,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "ATLGB",
-                      "away":  "ATL",
-                      "home":  "GB",
-                      "day":  "Thu 9/24",
-                      "time":  "8:15p ET",
-                      "circa":  -4.5,
-                      "history":  [
-                                      -7,
-                                      -4.5
-                                  ],
-                      "lookahead":  -6.5,
-                      "circaOpen":  -7
-                  },
                   {
                       "id":  "LACBUF",
                       "away":  "LAC",
