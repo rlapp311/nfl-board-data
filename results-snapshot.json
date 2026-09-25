@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-09-25T00:21:00.2680228Z",
+    "GeneratedAt":  "2026-09-25T03:36:35.8100802Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -329,10 +329,10 @@
                       "date":  "2026-09-25T00:15:00.0000000Z",
                       "away":  "ATL",
                       "home":  "GB",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  35,
+                      "homeScore":  14,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  3,

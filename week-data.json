@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-25T03:12:46Z",
-    "generatedAt":  "2026-09-25T03:20:58Z",
+    "linesAsOf":  "2026-09-25T03:27:47Z",
+    "generatedAt":  "2026-09-25T03:36:36Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -325,7 +325,7 @@
                           },
                   "ATL":  {
                               "name":  "Falcons",
-                              "wl":  "0-2",
+                              "wl":  "1-2",
                               "pr":  -4.24,
                               "fpi":  -5.2,
                               "fpiOff":  null,
@@ -865,7 +865,7 @@
                           },
                   "GB":  {
                              "name":  "Packers",
-                             "wl":  "1-1",
+                             "wl":  "1-2",
                              "pr":  1.5,
                              "fpi":  0.51,
                              "fpiOff":  null,
