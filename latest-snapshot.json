@@ -13,17 +13,17 @@
         "SpreadValue":  7,
         "SpreadHandlePct":  22,
         "SpreadBetPct":  22,
-        "Total":  "50.5",
-        "TotalValue":  50.5,
-        "TotalHandlePct":  72,
+        "Total":  "49.5",
+        "TotalValue":  49.5,
+        "TotalHandlePct":  71,
         "TotalBetPct":  64,
-        "Moneyline":  "+275",
-        "MoneylineValue":  275,
+        "Moneyline":  "+270",
+        "MoneylineValue":  270,
         "MoneylineHandlePct":  10,
         "MoneylineBetPct":  8,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T19:30:39Z"
+        "Timestamp":  "2026-09-26T19:45:40Z"
     },
     {
         "Source":  "DK",
@@ -39,17 +39,17 @@
         "SpreadValue":  -7,
         "SpreadHandlePct":  78,
         "SpreadBetPct":  78,
-        "Total":  "50.5",
-        "TotalValue":  50.5,
-        "TotalHandlePct":  28,
+        "Total":  "49.5",
+        "TotalValue":  49.5,
+        "TotalHandlePct":  29,
         "TotalBetPct":  36,
-        "Moneyline":  "-345",
-        "MoneylineValue":  -345,
+        "Moneyline":  "-340",
+        "MoneylineValue":  -340,
         "MoneylineHandlePct":  90,
         "MoneylineBetPct":  92,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T19:30:39Z"
+        "Timestamp":  "2026-09-26T19:45:40Z"
     },
     {
         "Source":  "CIRCA",
@@ -72,10 +72,10 @@
         "Moneyline":  "+275",
         "MoneylineValue":  275,
         "MoneylineHandlePct":  3,
-        "MoneylineBetPct":  33,
+        "MoneylineBetPct":  40,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T19:30:39Z"
+        "Timestamp":  "2026-09-26T19:45:40Z"
     },
     {
         "Source":  "CIRCA",
@@ -98,10 +98,10 @@
         "Moneyline":  "-330",
         "MoneylineValue":  -330,
         "MoneylineHandlePct":  97,
-        "MoneylineBetPct":  67,
+        "MoneylineBetPct":  60,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T19:30:39Z"
+        "Timestamp":  "2026-09-26T19:45:40Z"
     }
 ]
 
