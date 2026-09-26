@@ -12,7 +12,7 @@
         "Spread":  "+7",
         "SpreadValue":  7,
         "SpreadHandlePct":  22,
-        "SpreadBetPct":  21,
+        "SpreadBetPct":  22,
         "Total":  "50.5",
         "TotalValue":  50.5,
         "TotalHandlePct":  72,
@@ -23,7 +23,7 @@
         "MoneylineBetPct":  8,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T16:30:29Z"
+        "Timestamp":  "2026-09-26T16:45:29Z"
     },
     {
         "Source":  "DK",
@@ -38,7 +38,7 @@
         "Spread":  "-7",
         "SpreadValue":  -7,
         "SpreadHandlePct":  78,
-        "SpreadBetPct":  79,
+        "SpreadBetPct":  78,
         "Total":  "50.5",
         "TotalValue":  50.5,
         "TotalHandlePct":  28,
@@ -49,7 +49,7 @@
         "MoneylineBetPct":  92,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T16:30:29Z"
+        "Timestamp":  "2026-09-26T16:45:29Z"
     },
     {
         "Source":  "CIRCA",
@@ -67,15 +67,15 @@
         "SpreadBetPct":  13,
         "Total":  "49.5",
         "TotalValue":  49.5,
-        "TotalHandlePct":  55,
-        "TotalBetPct":  60,
+        "TotalHandlePct":  98,
+        "TotalBetPct":  67,
         "Moneyline":  "+275",
         "MoneylineValue":  275,
         "MoneylineHandlePct":  3,
         "MoneylineBetPct":  33,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T16:30:29Z"
+        "Timestamp":  "2026-09-26T16:45:29Z"
     },
     {
         "Source":  "CIRCA",
@@ -93,15 +93,15 @@
         "SpreadBetPct":  87,
         "Total":  "49.5",
         "TotalValue":  49.5,
-        "TotalHandlePct":  45,
-        "TotalBetPct":  40,
+        "TotalHandlePct":  2,
+        "TotalBetPct":  33,
         "Moneyline":  "-330",
         "MoneylineValue":  -330,
         "MoneylineHandlePct":  97,
         "MoneylineBetPct":  67,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-26T16:30:29Z"
+        "Timestamp":  "2026-09-26T16:45:29Z"
     }
 ]
 
