@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-26T07:14:51Z",
+    "generatedAt":  "2026-09-26T07:29:52Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -57,9 +57,9 @@
                                    "homeLastName":  "Lions",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  24,
+                                              "awayHandle":  25,
                                               "awayBet":  35,
-                                              "homeHandle":  76,
+                                              "homeHandle":  75,
                                               "homeBet":  65,
                                               "awaySpread":  6.5,
                                               "homeSpread":  -6.5
@@ -345,9 +345,9 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Monday, Sep 28",
                                    "dk":  {
-                                              "awayHandle":  58,
+                                              "awayHandle":  57,
                                               "awayBet":  74,
-                                              "homeHandle":  42,
+                                              "homeHandle":  43,
                                               "homeBet":  26,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
