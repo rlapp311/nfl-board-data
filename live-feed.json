@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-26T04:44:40Z",
+    "generatedAt":  "2026-09-26T04:59:42Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -81,9 +81,9 @@
                                    "homeLastName":  "Colts",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  77,
+                                              "awayHandle":  76,
                                               "awayBet":  50,
-                                              "homeHandle":  23,
+                                              "homeHandle":  24,
                                               "homeBet":  50,
                                               "awaySpread":  -1.5,
                                               "homeSpread":  1.5
@@ -186,9 +186,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  79,
-                                                 "awayBet":  76,
+                                                 "awayBet":  74,
                                                  "homeHandle":  21,
-                                                 "homeBet":  24,
+                                                 "homeBet":  26,
                                                  "awaySpread":  -7.5,
                                                  "homeSpread":  7.5
                                              }
