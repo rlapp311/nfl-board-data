@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-27T16:32:00Z",
-    "generatedAt":  "2026-09-27T16:36:44Z",
+    "linesAsOf":  "2026-09-27T16:47:01Z",
+    "generatedAt":  "2026-09-27T16:51:46Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -147,10 +147,10 @@
                       "home":  "WAS",
                       "day":  "Sun 9/27",
                       "time":  "1:00p ET",
-                      "circa":  8.5,
+                      "circa":  8,
                       "history":  [
                                       6.5,
-                                      8.5
+                                      8
                                   ],
                       "lookahead":  2.5,
                       "circaOpen":  6.5
@@ -245,10 +245,10 @@
                       "home":  "CHI",
                       "day":  "Mon 9/28",
                       "time":  "8:15p ET",
-                      "circa":  3.5,
+                      "circa":  4,
                       "history":  [
                                       3.5,
-                                      3.5
+                                      4
                                   ],
                       "lookahead":  -1.5,
                       "circaOpen":  3.5
