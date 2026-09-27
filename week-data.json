@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-27T17:47:05Z",
-    "generatedAt":  "2026-09-27T17:51:44Z",
+    "linesAsOf":  "2026-09-27T18:02:06Z",
+    "generatedAt":  "2026-09-27T18:06:46Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -189,10 +189,10 @@
                       "home":  "TB",
                       "day":  "Sun 9/27",
                       "time":  "4:05p ET",
-                      "circa":  1.5,
+                      "circa":  0,
                       "history":  [
                                       2.5,
-                                      1.5
+                                      0
                                   ],
                       "lookahead":  -1.5,
                       "circaOpen":  2.5
