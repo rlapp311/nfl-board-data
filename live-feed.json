@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-27T21:17:21Z",
+    "generatedAt":  "2026-09-27T21:32:22Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -321,20 +321,20 @@
                                    "homeLastName":  "Broncos",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  65,
-                                              "awayBet":  63,
-                                              "homeHandle":  35,
-                                              "homeBet":  37,
+                                              "awayHandle":  66,
+                                              "awayBet":  64,
+                                              "homeHandle":  34,
+                                              "homeBet":  36,
                                               "awaySpread":  -1.5,
                                               "homeSpread":  1.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  21,
-                                                 "awayBet":  61,
+                                                 "awayBet":  62,
                                                  "homeHandle":  79,
-                                                 "homeBet":  39,
-                                                 "awaySpread":  -1.5,
-                                                 "homeSpread":  1.5
+                                                 "homeBet":  38,
+                                                 "awaySpread":  -1,
+                                                 "homeSpread":  1
                                              }
                                },
                    "PHI-CHI":  {
