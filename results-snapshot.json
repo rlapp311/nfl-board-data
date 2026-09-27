@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-09-27T03:21:48.6237364Z",
+    "GeneratedAt":  "2026-09-27T06:36:45.9358634Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -326,16 +326,6 @@
                   },
                   {
                       "week":  3,
-                      "date":  "2026-09-25T00:15:00.0000000Z",
-                      "away":  "ATL",
-                      "home":  "GB",
-                      "awayScore":  35,
-                      "homeScore":  14,
-                      "ot":  false,
-                      "final":  true
-                  },
-                  {
-                      "week":  3,
                       "date":  "2026-09-27T17:00:00.0000000Z",
                       "away":  "LAC",
                       "home":  "BUF",
@@ -473,6 +463,16 @@
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  3,
+                      "date":  "2026-09-25T00:15:00.0000000Z",
+                      "away":  "ATL",
+                      "home":  "GB",
+                      "awayScore":  35,
+                      "homeScore":  14,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  3,
