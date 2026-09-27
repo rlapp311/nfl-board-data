@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-27T13:16:45Z",
-    "generatedAt":  "2026-09-27T13:21:53Z",
+    "linesAsOf":  "2026-09-27T13:31:46Z",
+    "generatedAt":  "2026-09-27T13:36:46Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -105,10 +105,10 @@
                       "home":  "MIA",
                       "day":  "Sun 9/27",
                       "time":  "1:00p ET",
-                      "circa":  10,
+                      "circa":  9.5,
                       "history":  [
                                       10.5,
-                                      10
+                                      9.5
                                   ],
                       "lookahead":  8.5,
                       "circaOpen":  10.5

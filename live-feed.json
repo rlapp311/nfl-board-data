@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-27T13:16:45Z",
+    "generatedAt":  "2026-09-27T13:31:46Z",
     "byPair":  {
                    "LAC-BUF":  {
                                    "gameCode":  "20260927NFL00031",
@@ -18,9 +18,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  77,
-                                                 "awayBet":  18,
+                                                 "awayBet":  21,
                                                  "homeHandle":  23,
-                                                 "homeBet":  82,
+                                                 "homeBet":  79,
                                                  "awaySpread":  7,
                                                  "homeSpread":  -7
                                              }
@@ -41,10 +41,10 @@
                                               "homeSpread":  1.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  38,
-                                                 "awayBet":  67,
-                                                 "homeHandle":  62,
-                                                 "homeBet":  33,
+                                                 "awayHandle":  36,
+                                                 "awayBet":  66,
+                                                 "homeHandle":  64,
+                                                 "homeBet":  34,
                                                  "awaySpread":  -2,
                                                  "homeSpread":  2
                                              }
@@ -66,9 +66,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  48,
-                                                 "awayBet":  29,
+                                                 "awayBet":  30,
                                                  "homeHandle":  52,
-                                                 "homeBet":  71,
+                                                 "homeBet":  70,
                                                  "awaySpread":  6.5,
                                                  "homeSpread":  -6.5
                                              }
@@ -81,17 +81,17 @@
                                    "homeLastName":  "Colts",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  60,
+                                              "awayHandle":  61,
                                               "awayBet":  57,
-                                              "homeHandle":  40,
+                                              "homeHandle":  39,
                                               "homeBet":  43,
                                               "awaySpread":  -1.5,
                                               "homeSpread":  1.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  52,
+                                                 "awayHandle":  53,
                                                  "awayBet":  72,
-                                                 "homeHandle":  48,
+                                                 "homeHandle":  47,
                                                  "homeBet":  28,
                                                  "awaySpread":  -1.5,
                                                  "homeSpread":  1.5
@@ -105,9 +105,9 @@
                                   "homeLastName":  "Dolphins",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  82,
+                                             "awayHandle":  84,
                                              "awayBet":  85,
-                                             "homeHandle":  18,
+                                             "homeHandle":  16,
                                              "homeBet":  15,
                                              "awaySpread":  -9.5,
                                              "homeSpread":  9.5
@@ -117,8 +117,8 @@
                                                 "awayBet":  73,
                                                 "homeHandle":  94,
                                                 "homeBet":  27,
-                                                "awaySpread":  -10,
-                                                "homeSpread":  10
+                                                "awaySpread":  -9.5,
+                                                "homeSpread":  9.5
                                             }
                               },
                    "TEN-NYG":  {
@@ -129,9 +129,9 @@
                                    "homeLastName":  "Giants",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  43,
+                                              "awayHandle":  42,
                                               "awayBet":  46,
-                                              "homeHandle":  57,
+                                              "homeHandle":  58,
                                               "homeBet":  54,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
@@ -178,17 +178,17 @@
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
                                               "awayHandle":  73,
-                                              "awayBet":  81,
+                                              "awayBet":  80,
                                               "homeHandle":  27,
-                                              "homeBet":  19,
+                                              "homeBet":  20,
                                               "awaySpread":  -8.5,
                                               "homeSpread":  8.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  76,
-                                                 "awayBet":  78,
+                                                 "awayBet":  76,
                                                  "homeHandle":  24,
-                                                 "homeBet":  23,
+                                                 "homeBet":  24,
                                                  "awaySpread":  -8.5,
                                                  "homeSpread":  8.5
                                              }
@@ -210,9 +210,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  53,
-                                                "awayBet":  23,
+                                                "awayBet":  24,
                                                 "homeHandle":  47,
-                                                "homeBet":  77,
+                                                "homeBet":  76,
                                                 "awaySpread":  3,
                                                 "homeSpread":  -3
                                             }
@@ -225,10 +225,10 @@
                                   "homeLastName":  "49ers",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  21,
-                                             "awayBet":  24,
-                                             "homeHandle":  79,
-                                             "homeBet":  76,
+                                             "awayHandle":  22,
+                                             "awayBet":  25,
+                                             "homeHandle":  78,
+                                             "homeBet":  75,
                                              "awaySpread":  7.5,
                                              "homeSpread":  -7.5
                                          },
@@ -249,9 +249,9 @@
                                   "homeLastName":  "Buccaneers",
                                   "dateLabel":  "Sunday, Sep 27",
                                   "dk":  {
-                                             "awayHandle":  25,
+                                             "awayHandle":  26,
                                              "awayBet":  53,
-                                             "homeHandle":  75,
+                                             "homeHandle":  74,
                                              "homeBet":  47,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
@@ -273,18 +273,18 @@
                                    "homeLastName":  "Cowboys",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  64,
-                                              "awayBet":  49,
-                                              "homeHandle":  36,
-                                              "homeBet":  51,
+                                              "awayHandle":  63,
+                                              "awayBet":  48,
+                                              "homeHandle":  37,
+                                              "homeBet":  52,
                                               "awaySpread":  -3.5,
                                               "homeSpread":  3.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  84,
-                                                 "awayBet":  73,
+                                                 "awayBet":  72,
                                                  "homeHandle":  16,
-                                                 "homeBet":  27,
+                                                 "homeBet":  28,
                                                  "awaySpread":  -3.5,
                                                  "homeSpread":  3.5
                                              }
@@ -321,9 +321,9 @@
                                    "homeLastName":  "Broncos",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  61,
+                                              "awayHandle":  62,
                                               "awayBet":  56,
-                                              "homeHandle":  39,
+                                              "homeHandle":  38,
                                               "homeBet":  44,
                                               "awaySpread":  -1.5,
                                               "homeSpread":  1.5
