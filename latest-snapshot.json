@@ -15,15 +15,15 @@
         "SpreadBetPct":  22,
         "Total":  "49.5",
         "TotalValue":  49.5,
-        "TotalHandlePct":  77,
-        "TotalBetPct":  66,
+        "TotalHandlePct":  78,
+        "TotalBetPct":  67,
         "Moneyline":  "+270",
         "MoneylineValue":  270,
         "MoneylineHandlePct":  13,
         "MoneylineBetPct":  8,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-27T03:16:07Z"
+        "Timestamp":  "2026-09-27T03:31:08Z"
     },
     {
         "Source":  "DK",
@@ -41,15 +41,15 @@
         "SpreadBetPct":  78,
         "Total":  "49.5",
         "TotalValue":  49.5,
-        "TotalHandlePct":  23,
-        "TotalBetPct":  34,
+        "TotalHandlePct":  22,
+        "TotalBetPct":  33,
         "Moneyline":  "-340",
         "MoneylineValue":  -340,
         "MoneylineHandlePct":  87,
         "MoneylineBetPct":  92,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-27T03:16:07Z"
+        "Timestamp":  "2026-09-27T03:31:08Z"
     },
     {
         "Source":  "CIRCA",
@@ -63,19 +63,19 @@
         "OpponentSlug":  "buffalo-bills",
         "Spread":  "+7",
         "SpreadValue":  7,
-        "SpreadHandlePct":  7,
+        "SpreadHandlePct":  91,
         "SpreadBetPct":  17,
         "Total":  "49.5",
         "TotalValue":  49.5,
         "TotalHandlePct":  98,
-        "TotalBetPct":  82,
+        "TotalBetPct":  83,
         "Moneyline":  "+275",
         "MoneylineValue":  275,
         "MoneylineHandlePct":  5,
         "MoneylineBetPct":  44,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-27T03:16:07Z"
+        "Timestamp":  "2026-09-27T03:31:08Z"
     },
     {
         "Source":  "CIRCA",
@@ -89,19 +89,19 @@
         "OpponentSlug":  "los-angeles-chargers",
         "Spread":  "-7",
         "SpreadValue":  -7,
-        "SpreadHandlePct":  93,
+        "SpreadHandlePct":  9,
         "SpreadBetPct":  83,
         "Total":  "49.5",
         "TotalValue":  49.5,
         "TotalHandlePct":  2,
-        "TotalBetPct":  18,
+        "TotalBetPct":  17,
         "Moneyline":  "-330",
         "MoneylineValue":  -330,
         "MoneylineHandlePct":  95,
         "MoneylineBetPct":  56,
         "HasLine":  true,
         "HasRealAction":  true,
-        "Timestamp":  "2026-09-27T03:16:07Z"
+        "Timestamp":  "2026-09-27T03:31:08Z"
     }
 ]
 
