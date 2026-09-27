@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-27T23:32:32Z",
-    "generatedAt":  "2026-09-27T23:36:56Z",
+    "linesAsOf":  "2026-09-27T23:47:33Z",
+    "generatedAt":  "2026-09-27T23:51:55Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -231,10 +231,10 @@
                       "home":  "DEN",
                       "day":  "Sun 9/27",
                       "time":  "8:20p ET",
-                      "circa":  1,
+                      "circa":  0,
                       "history":  [
                                       2.5,
-                                      1
+                                      0
                                   ],
                       "lookahead":  2.5,
                       "circaOpen":  2.5
