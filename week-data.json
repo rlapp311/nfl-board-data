@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-28T23:19:48Z",
-    "generatedAt":  "2026-09-28T23:22:11Z",
+    "linesAsOf":  "2026-09-28T23:34:49Z",
+    "generatedAt":  "2026-09-28T23:37:41Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-28T20:22:18Z",
+                                              "asOf":  "2026-09-28T23:37:40Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -265,7 +265,7 @@
                               "dRuPlays":  50,
                               "qb":  {
                                          "name":  "Josh Allen",
-                                         "status":  "depth chart -- started Wk 2",
+                                         "status":  "depth chart -- listed questionable -- started Wk 2",
                                          "epa":  0.524,
                                          "epaRk":  5,
                                          "sr":  55.9,
