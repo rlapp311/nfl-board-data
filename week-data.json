@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-28T16:49:15Z",
-    "generatedAt":  "2026-09-28T16:51:52Z",
+    "linesAsOf":  "2026-09-28T17:04:16Z",
+    "generatedAt":  "2026-09-28T17:07:13Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -29,7 +29,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-28T13:52:13Z",
+                                              "asOf":  "2026-09-28T17:07:13Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1669,7 +1669,7 @@
                              "dRuPlays":  45,
                              "qb":  {
                                         "name":  "Baker Mayfield",
-                                        "status":  "depth chart -- listed questionable -- started Wk 2",
+                                        "status":  "depth chart -- listed out -- started Wk 2",
                                         "epa":  -0.117,
                                         "epaRk":  30,
                                         "sr":  38.7,
