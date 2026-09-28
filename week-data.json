@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-28T04:32:58Z",
-    "generatedAt":  "2026-09-28T04:36:58Z",
+    "linesAsOf":  "2026-09-28T04:47:59Z",
+    "generatedAt":  "2026-09-28T04:52:05Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -547,7 +547,7 @@
                           },
                   "DEN":  {
                               "name":  "Broncos",
-                              "wl":  "1-1",
+                              "wl":  "2-1",
                               "pr":  2.96,
                               "fpi":  -0.24,
                               "fpiOff":  null,
@@ -979,7 +979,7 @@
                           },
                   "LAR":  {
                               "name":  "Rams",
-                              "wl":  "1-1",
+                              "wl":  "1-2",
                               "pr":  6.12,
                               "fpi":  4.69,
                               "fpiOff":  null,
