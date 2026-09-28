@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  3,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-28T01:17:42Z",
-    "generatedAt":  "2026-09-28T01:22:12Z",
+    "linesAsOf":  "2026-09-28T01:32:43Z",
+    "generatedAt":  "2026-09-28T01:37:29Z",
     "analyticsThrough":  "PR and FPI through Week 2",
     "analyticsSources":  {
                              "dvoa":  {
@@ -44,60 +44,18 @@
              ],
     "games":  [
                   {
-                      "id":  "ARISF",
-                      "away":  "ARI",
-                      "home":  "SF",
+                      "id":  "LARDEN",
+                      "away":  "LAR",
+                      "home":  "DEN",
                       "day":  "Sun 9/27",
-                      "time":  "4:05p ET",
-                      "circa":  -7.5,
-                      "history":  [
-                                      -8.5,
-                                      -7.5
-                                  ],
-                      "lookahead":  -8.5,
-                      "circaOpen":  -8.5
-                  },
-                  {
-                      "id":  "MINTB",
-                      "away":  "MIN",
-                      "home":  "TB",
-                      "day":  "Sun 9/27",
-                      "time":  "4:05p ET",
-                      "circa":  -1,
+                      "time":  "8:20p ET",
+                      "circa":  1,
                       "history":  [
                                       2.5,
-                                      -1
+                                      1
                                   ],
-                      "lookahead":  -1.5,
+                      "lookahead":  2.5,
                       "circaOpen":  2.5
-                  },
-                  {
-                      "id":  "BALDAL",
-                      "away":  "BAL",
-                      "home":  "DAL",
-                      "day":  "Sun 9/27",
-                      "time":  "4:25p ET",
-                      "circa":  3.5,
-                      "history":  [
-                                      3,
-                                      3.5
-                                  ],
-                      "lookahead":  3,
-                      "circaOpen":  3
-                  },
-                  {
-                      "id":  "LVNO",
-                      "away":  "LV",
-                      "home":  "NO",
-                      "day":  "Sun 9/27",
-                      "time":  "4:25p ET",
-                      "circa":  -3.5,
-                      "history":  [
-                                      -3,
-                                      -3.5
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3
                   },
                   {
                       "id":  "LACBUF",
@@ -226,18 +184,60 @@
                       "circaOpen":  -2.5
                   },
                   {
-                      "id":  "LARDEN",
-                      "away":  "LAR",
-                      "home":  "DEN",
+                      "id":  "ARISF",
+                      "away":  "ARI",
+                      "home":  "SF",
                       "day":  "Sun 9/27",
-                      "time":  "8:20p ET",
-                      "circa":  1,
+                      "time":  "4:05p ET",
+                      "circa":  -7.5,
+                      "history":  [
+                                      -8.5,
+                                      -7.5
+                                  ],
+                      "lookahead":  -8.5,
+                      "circaOpen":  -8.5
+                  },
+                  {
+                      "id":  "MINTB",
+                      "away":  "MIN",
+                      "home":  "TB",
+                      "day":  "Sun 9/27",
+                      "time":  "4:05p ET",
+                      "circa":  -1,
                       "history":  [
                                       2.5,
-                                      1
+                                      -1
                                   ],
-                      "lookahead":  2.5,
+                      "lookahead":  -1.5,
                       "circaOpen":  2.5
+                  },
+                  {
+                      "id":  "BALDAL",
+                      "away":  "BAL",
+                      "home":  "DAL",
+                      "day":  "Sun 9/27",
+                      "time":  "4:25p ET",
+                      "circa":  3.5,
+                      "history":  [
+                                      3,
+                                      3.5
+                                  ],
+                      "lookahead":  3,
+                      "circaOpen":  3
+                  },
+                  {
+                      "id":  "LVNO",
+                      "away":  "LV",
+                      "home":  "NO",
+                      "day":  "Sun 9/27",
+                      "time":  "4:25p ET",
+                      "circa":  -3.5,
+                      "history":  [
+                                      -3,
+                                      -3.5
+                                  ],
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "PHICHI",
@@ -257,7 +257,7 @@
     "teams":  {
                   "ARI":  {
                               "name":  "Cardinals",
-                              "wl":  "1-1",
+                              "wl":  "1-2",
                               "pr":  -2.66,
                               "fpi":  -5.37,
                               "fpiOff":  null,
@@ -365,7 +365,7 @@
                           },
                   "BAL":  {
                               "name":  "Ravens",
-                              "wl":  "1-1",
+                              "wl":  "2-1",
                               "pr":  5.5,
                               "fpi":  4.15,
                               "fpiOff":  null,
@@ -689,7 +689,7 @@
                           },
                   "DAL":  {
                               "name":  "Cowboys",
-                              "wl":  "1-1",
+                              "wl":  "1-2",
                               "pr":  2.17,
                               "fpi":  2.99,
                               "fpiOff":  null,
@@ -1229,7 +1229,7 @@
                           },
                   "LV":  {
                              "name":  "Raiders",
-                             "wl":  "2-0",
+                             "wl":  "3-0",
                              "pr":  -3.04,
                              "fpi":  -2.99,
                              "fpiOff":  null,
@@ -1337,7 +1337,7 @@
                           },
                   "MIN":  {
                               "name":  "Vikings",
-                              "wl":  "2-0",
+                              "wl":  "3-0",
                               "pr":  1.44,
                               "fpi":  1.42,
                               "fpiOff":  null,
@@ -1445,7 +1445,7 @@
                          },
                   "NO":  {
                              "name":  "Saints",
-                             "wl":  "1-1",
+                             "wl":  "1-2",
                              "pr":  -1.91,
                              "fpi":  -0.69,
                              "fpiOff":  null,
@@ -1769,7 +1769,7 @@
                           },
                   "SF":  {
                              "name":  "49ers",
-                             "wl":  "2-0",
+                             "wl":  "3-0",
                              "pr":  1.67,
                              "fpi":  7.3,
                              "fpiOff":  null,
@@ -1823,7 +1823,7 @@
                          },
                   "TB":  {
                              "name":  "Buccaneers",
-                             "wl":  "0-2",
+                             "wl":  "0-3",
                              "pr":  -0.21,
                              "fpi":  -1.14,
                              "fpiOff":  null,

@@ -18,44 +18,14 @@
               "week":  3,
               "games":  [
                             {
-                                "id":  "ARISF",
-                                "away":  "ARI",
-                                "home":  "SF",
+                                "id":  "LARDEN",
+                                "away":  "LAR",
+                                "home":  "DEN",
                                 "day":  "Sun 9/27",
-                                "time":  "4:05p ET",
-                                "circa":  -7.5,
-                                "lookahead":  -8.5,
-                                "circaOpen":  -8.5
-                            },
-                            {
-                                "id":  "MINTB",
-                                "away":  "MIN",
-                                "home":  "TB",
-                                "day":  "Sun 9/27",
-                                "time":  "4:05p ET",
-                                "circa":  -1,
-                                "lookahead":  -1.5,
+                                "time":  "8:20p ET",
+                                "circa":  1,
+                                "lookahead":  2.5,
                                 "circaOpen":  2.5
-                            },
-                            {
-                                "id":  "BALDAL",
-                                "away":  "BAL",
-                                "home":  "DAL",
-                                "day":  "Sun 9/27",
-                                "time":  "4:25p ET",
-                                "circa":  3.5,
-                                "lookahead":  3,
-                                "circaOpen":  3
-                            },
-                            {
-                                "id":  "LVNO",
-                                "away":  "LV",
-                                "home":  "NO",
-                                "day":  "Sun 9/27",
-                                "time":  "4:25p ET",
-                                "circa":  -3.5,
-                                "lookahead":  -3,
-                                "circaOpen":  -3
                             },
                             {
                                 "id":  "LACBUF",
@@ -148,14 +118,44 @@
                                 "circaOpen":  -2.5
                             },
                             {
-                                "id":  "LARDEN",
-                                "away":  "LAR",
-                                "home":  "DEN",
+                                "id":  "ARISF",
+                                "away":  "ARI",
+                                "home":  "SF",
                                 "day":  "Sun 9/27",
-                                "time":  "8:20p ET",
-                                "circa":  1,
-                                "lookahead":  2.5,
+                                "time":  "4:05p ET",
+                                "circa":  -7.5,
+                                "lookahead":  -8.5,
+                                "circaOpen":  -8.5
+                            },
+                            {
+                                "id":  "MINTB",
+                                "away":  "MIN",
+                                "home":  "TB",
+                                "day":  "Sun 9/27",
+                                "time":  "4:05p ET",
+                                "circa":  -1,
+                                "lookahead":  -1.5,
                                 "circaOpen":  2.5
+                            },
+                            {
+                                "id":  "BALDAL",
+                                "away":  "BAL",
+                                "home":  "DAL",
+                                "day":  "Sun 9/27",
+                                "time":  "4:25p ET",
+                                "circa":  3.5,
+                                "lookahead":  3,
+                                "circaOpen":  3
+                            },
+                            {
+                                "id":  "LVNO",
+                                "away":  "LV",
+                                "home":  "NO",
+                                "day":  "Sun 9/27",
+                                "time":  "4:25p ET",
+                                "circa":  -3.5,
+                                "lookahead":  -3,
+                                "circaOpen":  -3
                             },
                             {
                                 "id":  "PHICHI",
