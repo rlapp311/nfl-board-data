@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-27T23:47:33Z",
+    "generatedAt":  "2026-09-28T00:02:34Z",
     "byPair":  {
                    "ARI-SF":  {
                                   "gameCode":  "20260927NFL00060",
@@ -321,17 +321,17 @@
                                    "homeLastName":  "Broncos",
                                    "dateLabel":  "Sunday, Sep 27",
                                    "dk":  {
-                                              "awayHandle":  30,
+                                              "awayHandle":  36,
                                               "awayBet":  64,
-                                              "homeHandle":  70,
+                                              "homeHandle":  64,
                                               "homeBet":  36,
-                                              "awaySpread":  -1.5,
-                                              "homeSpread":  1.5
+                                              "awaySpread":  1.5,
+                                              "homeSpread":  -1.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  36,
+                                                 "awayHandle":  50,
                                                  "awayBet":  63,
-                                                 "homeHandle":  64,
+                                                 "homeHandle":  50,
                                                  "homeBet":  37,
                                                  "awaySpread":  0,
                                                  "homeSpread":  0
@@ -354,9 +354,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  5,
-                                                 "awayBet":  66,
+                                                 "awayBet":  65,
                                                  "homeHandle":  95,
-                                                 "homeBet":  34,
+                                                 "homeBet":  35,
                                                  "awaySpread":  -3.5,
                                                  "homeSpread":  3.5
                                              }
