@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-29T03:20:10Z",
-    "generatedAt":  "2026-09-29T03:22:17Z",
+    "linesAsOf":  "2026-09-29T03:35:11Z",
+    "generatedAt":  "2026-09-29T03:37:08Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -54,8 +54,8 @@
                                       2.5,
                                       2.5
                                   ],
-                      "circaOpen":  2.5,
-                      "lookahead":  3
+                      "lookahead":  3,
+                      "circaOpen":  2.5
                   },
                   {
                       "id":  "INDWAS",
@@ -68,8 +68,8 @@
                                       3.5,
                                       3.5
                                   ],
-                      "circaOpen":  3.5,
-                      "lookahead":  4.5
+                      "lookahead":  4.5,
+                      "circaOpen":  3.5
                   },
                   {
                       "id":  "NEBUF",
@@ -82,8 +82,8 @@
                                       -6.5,
                                       -6.5
                                   ],
-                      "circaOpen":  -6.5,
-                      "lookahead":  -5.5
+                      "lookahead":  -5.5,
+                      "circaOpen":  -6.5
                   },
                   {
                       "id":  "NYJCHI",
@@ -96,8 +96,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "JAXCIN",
@@ -110,8 +110,8 @@
                                       -2.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "ARINYG",
@@ -124,8 +124,8 @@
                                       -1,
                                       0
                                   ],
-                      "circaOpen":  -1,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -1
                   },
                   {
                       "id":  "LARPHI",
@@ -138,8 +138,8 @@
                                       1.5,
                                       2.5
                                   ],
-                      "circaOpen":  1.5,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  1.5
                   },
                   {
                       "id":  "GBTB",
@@ -152,8 +152,8 @@
                                       3.5,
                                       4
                                   ],
-                      "circaOpen":  3.5,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  3.5
                   },
                   {
                       "id":  "TENBAL",
@@ -166,8 +166,8 @@
                                       -10.5,
                                       -11.5
                                   ],
-                      "circaOpen":  -10.5,
-                      "lookahead":  -10.5
+                      "lookahead":  -10.5,
+                      "circaOpen":  -10.5
                   },
                   {
                       "id":  "DALHOU",
@@ -180,8 +180,8 @@
                                       -2.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "MIAMIN",
@@ -194,8 +194,8 @@
                                       -10,
                                       -11.5
                                   ],
-                      "circaOpen":  -10,
-                      "lookahead":  -10.5
+                      "lookahead":  -10.5,
+                      "circaOpen":  -10
                   },
                   {
                       "id":  "KCLV",
@@ -208,8 +208,8 @@
                                       4.5,
                                       4.5
                                   ],
-                      "circaOpen":  4.5,
-                      "lookahead":  6
+                      "lookahead":  6,
+                      "circaOpen":  4.5
                   },
                   {
                       "id":  "DENSF",
@@ -222,8 +222,8 @@
                                       -2.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "LACSEA",
@@ -236,8 +236,8 @@
                                       -6.5,
                                       -7
                                   ],
-                      "circaOpen":  -6.5,
-                      "lookahead":  -6.5
+                      "lookahead":  -6.5,
+                      "circaOpen":  -6.5
                   },
                   {
                       "id":  "DETCAR",
@@ -250,8 +250,8 @@
                                       3,
                                       3.5
                                   ],
-                      "circaOpen":  3,
-                      "lookahead":  3
+                      "lookahead":  3,
+                      "circaOpen":  3
                   },
                   {
                       "id":  "ATLNO",
@@ -264,8 +264,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3.5
+                      "lookahead":  -3.5,
+                      "circaOpen":  -3
                   }
               ],
     "teams":  {

@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T03:20:10Z",
+    "generatedAt":  "2026-09-29T03:35:11Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -9,10 +9,10 @@
                                    "homeLastName":  "Browns",
                                    "dateLabel":  "Thursday, Oct 1",
                                    "dk":  {
-                                              "awayHandle":  68,
-                                              "awayBet":  59,
-                                              "homeHandle":  32,
-                                              "homeBet":  41,
+                                              "awayHandle":  71,
+                                              "awayBet":  60,
+                                              "homeHandle":  29,
+                                              "homeBet":  40,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
                                           },
@@ -58,9 +58,9 @@
                                   "dateLabel":  "Sunday, Oct 4",
                                   "dk":  {
                                              "awayHandle":  67,
-                                             "awayBet":  31,
+                                             "awayBet":  32,
                                              "homeHandle":  33,
-                                             "homeBet":  69,
+                                             "homeBet":  68,
                                              "awaySpread":  7,
                                              "homeSpread":  -7
                                          },
@@ -81,12 +81,12 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  44,
-                                              "awayBet":  63,
-                                              "homeHandle":  56,
-                                              "homeBet":  37,
-                                              "awaySpread":  3,
-                                              "homeSpread":  -3
+                                              "awayHandle":  47,
+                                              "awayBet":  61,
+                                              "homeHandle":  53,
+                                              "homeBet":  39,
+                                              "awaySpread":  3.5,
+                                              "homeSpread":  -3.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  100,
@@ -130,9 +130,9 @@
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
                                               "awayHandle":  58,
-                                              "awayBet":  54,
+                                              "awayBet":  47,
                                               "homeHandle":  42,
-                                              "homeBet":  46,
+                                              "homeBet":  53,
                                               "awaySpread":  -1.5,
                                               "homeSpread":  1.5
                                           },
@@ -154,9 +154,9 @@
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
                                               "awayHandle":  98,
-                                              "awayBet":  70,
+                                              "awayBet":  71,
                                               "homeHandle":  2,
-                                              "homeBet":  30,
+                                              "homeBet":  29,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
                                           },
@@ -178,9 +178,9 @@
                                  "dateLabel":  "Sunday, Oct 4",
                                  "dk":  {
                                             "awayHandle":  53,
-                                            "awayBet":  40,
+                                            "awayBet":  41,
                                             "homeHandle":  47,
-                                            "homeBet":  60,
+                                            "homeBet":  59,
                                             "awaySpread":  -3.5,
                                             "homeSpread":  3.5
                                         },
@@ -202,9 +202,9 @@
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
                                               "awayHandle":  54,
-                                              "awayBet":  30,
+                                              "awayBet":  31,
                                               "homeHandle":  46,
-                                              "homeBet":  70,
+                                              "homeBet":  69,
                                               "awaySpread":  11.5,
                                               "homeSpread":  -11.5
                                           },
@@ -225,9 +225,9 @@
                                    "homeLastName":  "Texans",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  23,
+                                              "awayHandle":  24,
                                               "awayBet":  73,
-                                              "homeHandle":  77,
+                                              "homeHandle":  76,
                                               "homeBet":  27,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
@@ -298,9 +298,9 @@
                                   "dateLabel":  "Sunday, Oct 4",
                                   "dk":  {
                                              "awayHandle":  38,
-                                             "awayBet":  52,
+                                             "awayBet":  55,
                                              "homeHandle":  62,
-                                             "homeBet":  48,
+                                             "homeBet":  45,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
                                          },
@@ -322,9 +322,9 @@
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
                                               "awayHandle":  2,
-                                              "awayBet":  37,
+                                              "awayBet":  41,
                                               "homeHandle":  98,
-                                              "homeBet":  63,
+                                              "homeBet":  59,
                                               "awaySpread":  7,
                                               "homeSpread":  -7
                                           },
@@ -346,9 +346,9 @@
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
                                               "awayHandle":  53,
-                                              "awayBet":  61,
+                                              "awayBet":  56,
                                               "homeHandle":  47,
-                                              "homeBet":  39,
+                                              "homeBet":  44,
                                               "awaySpread":  -3.5,
                                               "homeSpread":  3.5
                                           },
@@ -370,9 +370,9 @@
                                   "dateLabel":  "Monday, Oct 5",
                                   "dk":  {
                                              "awayHandle":  1,
-                                             "awayBet":  34,
+                                             "awayBet":  33,
                                              "homeHandle":  99,
-                                             "homeBet":  66,
+                                             "homeBet":  67,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
                                          },
