@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T14:21:03Z",
+    "generatedAt":  "2026-09-29T14:36:04Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -161,10 +161,10 @@
                                               "homeSpread":  3
                                           },
                                    "circa":  {
-                                                 "awayHandle":  100,
-                                                 "awayBet":  83,
-                                                 "homeHandle":  0,
-                                                 "homeBet":  17,
+                                                 "awayHandle":  99,
+                                                 "awayBet":  71,
+                                                 "homeHandle":  1,
+                                                 "homeBet":  29,
                                                  "awaySpread":  -3,
                                                  "homeSpread":  3
                                              }
@@ -249,9 +249,9 @@
                                    "homeLastName":  "Vikings",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  59,
+                                              "awayHandle":  61,
                                               "awayBet":  41,
-                                              "homeHandle":  41,
+                                              "homeHandle":  39,
                                               "homeBet":  59,
                                               "awaySpread":  11.5,
                                               "homeSpread":  -11.5
@@ -281,10 +281,10 @@
                                             "homeSpread":  4.5
                                         },
                                  "circa":  {
-                                               "awayHandle":  84,
-                                               "awayBet":  31,
-                                               "homeHandle":  16,
-                                               "homeBet":  69,
+                                               "awayHandle":  82,
+                                               "awayBet":  29,
+                                               "homeHandle":  18,
+                                               "homeBet":  71,
                                                "awaySpread":  -4.5,
                                                "homeSpread":  4.5
                                            }
@@ -353,10 +353,10 @@
                                               "homeSpread":  3.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  86,
-                                                 "awayBet":  63,
-                                                 "homeHandle":  14,
-                                                 "homeBet":  38,
+                                                 "awayHandle":  85,
+                                                 "awayBet":  56,
+                                                 "homeHandle":  15,
+                                                 "homeBet":  44,
                                                  "awaySpread":  -3.5,
                                                  "homeSpread":  3.5
                                              }
@@ -369,9 +369,9 @@
                                   "homeLastName":  "Saints",
                                   "dateLabel":  "Monday, Oct 5",
                                   "dk":  {
-                                             "awayHandle":  3,
+                                             "awayHandle":  4,
                                              "awayBet":  35,
-                                             "homeHandle":  97,
+                                             "homeHandle":  96,
                                              "homeBet":  65,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
