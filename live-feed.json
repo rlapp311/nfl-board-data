@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T12:35:54Z",
+    "generatedAt":  "2026-09-29T12:50:55Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Ravens",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  49,
+                                              "awayHandle":  52,
                                               "awayBet":  30,
-                                              "homeHandle":  51,
+                                              "homeHandle":  48,
                                               "homeBet":  70,
                                               "awaySpread":  11.5,
                                               "homeSpread":  -11.5
@@ -345,9 +345,9 @@
                                    "homeLastName":  "Panthers",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  51,
+                                              "awayHandle":  50,
                                               "awayBet":  55,
-                                              "homeHandle":  49,
+                                              "homeHandle":  50,
                                               "homeBet":  45,
                                               "awaySpread":  -3.5,
                                               "homeSpread":  3.5
