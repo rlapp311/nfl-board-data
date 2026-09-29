@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-29T23:36:45Z",
-    "generatedAt":  "2026-09-29T23:38:00Z",
+    "linesAsOf":  "2026-09-29T23:51:46Z",
+    "generatedAt":  "2026-09-29T23:52:14Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -49,10 +49,10 @@
                       "home":  "CLE",
                       "day":  "Thu 10/1",
                       "time":  "8:15p ET",
-                      "circa":  2.5,
+                      "circa":  3,
                       "history":  [
                                       2.5,
-                                      2.5
+                                      3
                                   ],
                       "lookahead":  3,
                       "circaOpen":  2.5
