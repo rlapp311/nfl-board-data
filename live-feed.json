@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T11:05:46Z",
+    "generatedAt":  "2026-09-29T11:20:48Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -81,10 +81,10 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  43,
-                                              "awayBet":  58,
-                                              "homeHandle":  57,
-                                              "homeBet":  42,
+                                              "awayHandle":  34,
+                                              "awayBet":  57,
+                                              "homeHandle":  66,
+                                              "homeBet":  43,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
                                           },
@@ -274,9 +274,9 @@
                                  "dateLabel":  "Sunday, Oct 4",
                                  "dk":  {
                                             "awayHandle":  16,
-                                            "awayBet":  41,
+                                            "awayBet":  42,
                                             "homeHandle":  84,
-                                            "homeBet":  59,
+                                            "homeBet":  58,
                                             "awaySpread":  -4.5,
                                             "homeSpread":  4.5
                                         },

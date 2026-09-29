@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-09-29T11:05:46Z",
-    "generatedAt":  "2026-09-29T11:07:17Z",
+    "linesAsOf":  "2026-09-29T11:20:48Z",
+    "generatedAt":  "2026-09-29T11:22:18Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -23,7 +23,7 @@
                                      },
                              "winRates":  {
                                               "label":  "Win rates",
-                                              "asOf":  "2026-09-28T15:21:51Z",
+                                              "asOf":  "2026-09-29T11:22:17Z",
                                               "source":  "ESPN Analytics win-rate story: https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
                                               "updatedLabel":  "Through Week 2 games, Sept. 22 at 10 a.m. ET"
                                           },
