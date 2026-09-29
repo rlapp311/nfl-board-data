@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-09-29T03:22:13.5307148Z",
+    "GeneratedAt":  "2026-09-29T06:37:07.3192992Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -326,16 +326,6 @@
                   },
                   {
                       "week":  3,
-                      "date":  "2026-09-29T00:15:00.0000000Z",
-                      "away":  "PHI",
-                      "home":  "CHI",
-                      "awayScore":  7,
-                      "homeScore":  27,
-                      "ot":  false,
-                      "final":  true
-                  },
-                  {
-                      "week":  3,
                       "date":  "2026-09-25T00:15:00.0000000Z",
                       "away":  "ATL",
                       "home":  "GB",
@@ -481,6 +471,16 @@
                       "home":  "DEN",
                       "awayScore":  26,
                       "homeScore":  30,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  3,
+                      "date":  "2026-09-29T00:15:00.0000000Z",
+                      "away":  "PHI",
+                      "home":  "CHI",
+                      "awayScore":  7,
+                      "homeScore":  27,
                       "ot":  false,
                       "final":  true
                   },
