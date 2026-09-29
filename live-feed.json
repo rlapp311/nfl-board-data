@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-29T21:06:33Z",
+    "generatedAt":  "2026-09-29T21:21:35Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -17,10 +17,10 @@
                                               "homeSpread":  2.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  25,
-                                                 "awayBet":  42,
-                                                 "homeHandle":  75,
-                                                 "homeBet":  58,
+                                                 "awayHandle":  2,
+                                                 "awayBet":  38,
+                                                 "homeHandle":  98,
+                                                 "homeBet":  62,
                                                  "awaySpread":  -2.5,
                                                  "homeSpread":  2.5
                                              }
@@ -33,9 +33,9 @@
                                    "homeLastName":  "Commanders",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  56,
+                                              "awayHandle":  61,
                                               "awayBet":  48,
-                                              "homeHandle":  44,
+                                              "homeHandle":  39,
                                               "homeBet":  52,
                                               "awaySpread":  -3.5,
                                               "homeSpread":  3.5
@@ -57,10 +57,10 @@
                                   "homeLastName":  "Bills",
                                   "dateLabel":  "Sunday, Oct 4",
                                   "dk":  {
-                                             "awayHandle":  57,
-                                             "awayBet":  31,
-                                             "homeHandle":  43,
-                                             "homeBet":  69,
+                                             "awayHandle":  56,
+                                             "awayBet":  32,
+                                             "homeHandle":  44,
+                                             "homeBet":  68,
                                              "awaySpread":  7,
                                              "homeSpread":  -7
                                          },
@@ -81,9 +81,9 @@
                                    "homeLastName":  "Bears",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  60,
+                                              "awayHandle":  61,
                                               "awayBet":  54,
-                                              "homeHandle":  40,
+                                              "homeHandle":  39,
                                               "homeBet":  46,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
@@ -105,9 +105,9 @@
                                    "homeLastName":  "Bengals",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  44,
+                                              "awayHandle":  48,
                                               "awayBet":  67,
-                                              "homeHandle":  56,
+                                              "homeHandle":  52,
                                               "homeBet":  33,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
