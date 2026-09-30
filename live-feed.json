@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-30T00:21:49Z",
+    "generatedAt":  "2026-09-30T00:36:50Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -17,9 +17,9 @@
                                               "homeSpread":  2.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  68,
+                                                 "awayHandle":  66,
                                                  "awayBet":  47,
-                                                 "homeHandle":  32,
+                                                 "homeHandle":  34,
                                                  "homeBet":  53,
                                                  "awaySpread":  -3,
                                                  "homeSpread":  3
@@ -282,9 +282,9 @@
                                         },
                                  "circa":  {
                                                "awayHandle":  95,
-                                               "awayBet":  41,
+                                               "awayBet":  44,
                                                "homeHandle":  5,
-                                               "homeBet":  59,
+                                               "homeBet":  56,
                                                "awaySpread":  -4.5,
                                                "homeSpread":  4.5
                                            }
