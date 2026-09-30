@@ -3,7 +3,7 @@
     "week":  4,
     "hfa":  1.5,
     "linesAsOf":  "2026-09-30T23:14:08Z",
-    "generatedAt":  "2026-09-30T23:22:18Z",
+    "generatedAt":  "2026-09-30T23:37:24Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -27,7 +27,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-09-30T20:22:26Z",
+                                              "asOf":  "2026-09-30T23:37:23Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -470,7 +470,7 @@
                               "rswrRk":  11,
                               "qb":  {
                                          "name":  "Josh Allen",
-                                         "status":  "depth chart -- listed questionable -- started Wk 3 -- season numbers are J.Allen\u0027s",
+                                         "status":  "depth chart -- started Wk 3 -- season numbers are J.Allen\u0027s",
                                          "epa":  0.398,
                                          "epaRk":  4,
                                          "sr":  50,
