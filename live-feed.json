@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T23:00:23Z",
+    "generatedAt":  "2026-10-01T23:15:24Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -9,18 +9,18 @@
                                    "homeLastName":  "Browns",
                                    "dateLabel":  "Thursday, Oct 1",
                                    "dk":  {
-                                              "awayHandle":  61,
+                                              "awayHandle":  62,
                                               "awayBet":  56,
-                                              "homeHandle":  39,
+                                              "homeHandle":  38,
                                               "homeBet":  44,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  51,
-                                                 "awayBet":  39,
-                                                 "homeHandle":  49,
-                                                 "homeBet":  61,
+                                                 "awayHandle":  31,
+                                                 "awayBet":  38,
+                                                 "homeHandle":  69,
+                                                 "homeBet":  62,
                                                  "awaySpread":  -3,
                                                  "homeSpread":  3
                                              }
@@ -162,11 +162,11 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  98,
-                                                 "awayBet":  72,
+                                                 "awayBet":  73,
                                                  "homeHandle":  2,
-                                                 "homeBet":  28,
-                                                 "awaySpread":  -3,
-                                                 "homeSpread":  3
+                                                 "homeBet":  27,
+                                                 "awaySpread":  -3.5,
+                                                 "homeSpread":  3.5
                                              }
                                },
                    "GB-TB":  {
@@ -177,9 +177,9 @@
                                  "homeLastName":  "Buccaneers",
                                  "dateLabel":  "Sunday, Oct 4",
                                  "dk":  {
-                                            "awayHandle":  32,
+                                            "awayHandle":  33,
                                             "awayBet":  48,
-                                            "homeHandle":  68,
+                                            "homeHandle":  67,
                                             "homeBet":  52,
                                             "awaySpread":  -3.5,
                                             "homeSpread":  3.5
