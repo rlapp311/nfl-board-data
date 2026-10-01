@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T06:14:21Z",
+    "generatedAt":  "2026-10-01T06:44:21Z",
     "byPair":  {
                    "PIT-CLE":  {
                                    "gameCode":  "20261001NFL00037",
@@ -130,9 +130,9 @@
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
                                               "awayHandle":  66,
-                                              "awayBet":  34,
+                                              "awayBet":  35,
                                               "homeHandle":  34,
-                                              "homeBet":  66,
+                                              "homeBet":  65,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
                                           },
@@ -153,10 +153,10 @@
                                    "homeLastName":  "Eagles",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  91,
-                                              "awayBet":  68,
-                                              "homeHandle":  9,
-                                              "homeBet":  32,
+                                              "awayHandle":  90,
+                                              "awayBet":  67,
+                                              "homeHandle":  10,
+                                              "homeBet":  33,
                                               "awaySpread":  -3,
                                               "homeSpread":  3
                                           },
@@ -177,10 +177,10 @@
                                  "homeLastName":  "Buccaneers",
                                  "dateLabel":  "Sunday, Oct 4",
                                  "dk":  {
-                                            "awayHandle":  44,
-                                            "awayBet":  45,
-                                            "homeHandle":  56,
-                                            "homeBet":  55,
+                                            "awayHandle":  43,
+                                            "awayBet":  44,
+                                            "homeHandle":  57,
+                                            "homeBet":  56,
                                             "awaySpread":  -3.5,
                                             "homeSpread":  3.5
                                         },
@@ -249,9 +249,9 @@
                                    "homeLastName":  "Vikings",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  53,
+                                              "awayHandle":  52,
                                               "awayBet":  45,
-                                              "homeHandle":  47,
+                                              "homeHandle":  48,
                                               "homeBet":  55,
                                               "awaySpread":  10.5,
                                               "homeSpread":  -10.5
