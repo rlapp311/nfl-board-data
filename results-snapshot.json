@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-10-02T00:52:29.8621064Z",
+    "GeneratedAt":  "2026-10-02T04:07:28.2878346Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -489,10 +489,10 @@
                       "date":  "2026-10-02T00:15:00.0000000Z",
                       "away":  "PIT",
                       "home":  "CLE",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  24,
+                      "homeScore":  27,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  4,
