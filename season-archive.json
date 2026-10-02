@@ -33,16 +33,6 @@
               "week":  4,
               "games":  [
                             {
-                                "id":  "PITCLE",
-                                "away":  "PIT",
-                                "home":  "CLE",
-                                "day":  "Thu 10/1",
-                                "time":  "8:15p ET",
-                                "circa":  3,
-                                "lookahead":  3,
-                                "circaOpen":  2.5
-                            },
-                            {
                                 "id":  "INDWAS",
                                 "away":  "IND",
                                 "home":  "WAS",
