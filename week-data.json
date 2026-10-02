@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-02T14:15:43Z",
-    "generatedAt":  "2026-10-02T14:54:40Z",
+    "linesAsOf":  "2026-10-02T17:16:13Z",
+    "generatedAt":  "2026-10-02T17:23:16Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -27,7 +27,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-02T13:23:04Z",
+                                              "asOf":  "2026-10-02T17:23:16Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -77,11 +77,11 @@
                       "home":  "CHI",
                       "day":  "Sun 10/4",
                       "time":  "1:00p ET",
-                      "circa":  -3,
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -3
+                                      -3.5
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -3
@@ -553,7 +553,7 @@
                               "rswrRk":  32,
                               "qb":  {
                                          "name":  "Caleb Williams",
-                                         "status":  "depth chart -- listed doubtful -- Case Keenum started Wk 3 -- season numbers are C.Williams\u0027s",
+                                         "status":  "depth chart -- listed out -- Case Keenum started Wk 3 -- season numbers are C.Williams\u0027s",
                                          "epa":  0.225,
                                          "epaRk":  16,
                                          "sr":  45,
@@ -1827,7 +1827,7 @@
                               "rswrRk":  3,
                               "qb":  {
                                          "name":  "Jayden Daniels",
-                                         "status":  "depth chart -- listed questionable -- Marcus Mariota started Wk 3 -- season numbers are J.Daniels\u0027s",
+                                         "status":  "depth chart -- listed out -- Marcus Mariota started Wk 3 -- season numbers are J.Daniels\u0027s",
                                          "epa":  0.018,
                                          "epaRk":  28,
                                          "sr":  38.9,
