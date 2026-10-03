@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-10-02T04:07:25.7159652-04:00",
+    "GeneratedAt":  "2026-10-03T04:07:30.3042081-04:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -135,6 +135,16 @@
                       "Rank":  null
                   },
                   {
+                      "Abbr":  "CHI",
+                      "Team":  "Chicago Bears",
+                      "TeamId":  "3",
+                      "Fpi":  0.369,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
                       "Abbr":  "NE",
                       "Team":  "New England Patriots",
                       "TeamId":  "17",
@@ -169,16 +179,6 @@
                       "Team":  "Green Bay Packers",
                       "TeamId":  "9",
                       "Fpi":  -1.001,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
-                      "Abbr":  "CHI",
-                      "Team":  "Chicago Bears",
-                      "TeamId":  "3",
-                      "Fpi":  -1.07,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -238,7 +238,7 @@
                       "Abbr":  "WSH",
                       "Team":  "Washington Commanders",
                       "TeamId":  "28",
-                      "Fpi":  -2.377,
+                      "Fpi":  -2.739,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
