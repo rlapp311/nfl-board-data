@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-10-04T03:52:50.9041907Z",
+    "GeneratedAt":  "2026-10-04T07:07:43.4740748Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -486,16 +486,6 @@
                   },
                   {
                       "week":  4,
-                      "date":  "2026-10-02T00:15:00.0000000Z",
-                      "away":  "PIT",
-                      "home":  "CLE",
-                      "awayScore":  24,
-                      "homeScore":  27,
-                      "ot":  false,
-                      "final":  true
-                  },
-                  {
-                      "week":  4,
                       "date":  "2026-10-04T13:30:00.0000000Z",
                       "away":  "IND",
                       "home":  "WAS",
@@ -633,6 +623,16 @@
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  4,
+                      "date":  "2026-10-02T00:15:00.0000000Z",
+                      "away":  "PIT",
+                      "home":  "CLE",
+                      "awayScore":  24,
+                      "homeScore":  27,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  4,
