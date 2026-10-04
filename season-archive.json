@@ -33,16 +33,6 @@
               "week":  4,
               "games":  [
                             {
-                                "id":  "INDWAS",
-                                "away":  "IND",
-                                "home":  "WAS",
-                                "day":  "Sun 10/4",
-                                "time":  "9:30a ET",
-                                "circa":  5.5,
-                                "lookahead":  4.5,
-                                "circaOpen":  3.5
-                            },
-                            {
                                 "id":  "NEBUF",
                                 "away":  "NE",
                                 "home":  "BUF",
@@ -121,6 +111,16 @@
                                 "circa":  -3,
                                 "lookahead":  -3,
                                 "circaOpen":  -2.5
+                            },
+                            {
+                                "id":  "INDWAS",
+                                "away":  "IND",
+                                "home":  "WAS",
+                                "day":  "Sun 10/4",
+                                "time":  "9:30a ET",
+                                "circa":  5.5,
+                                "lookahead":  4.5,
+                                "circaOpen":  3.5
                             },
                             {
                                 "id":  "MIAMIN",

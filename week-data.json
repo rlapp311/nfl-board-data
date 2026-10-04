@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-04T19:19:47Z",
-    "generatedAt":  "2026-10-04T19:22:56Z",
+    "linesAsOf":  "2026-10-04T19:34:48Z",
+    "generatedAt":  "2026-10-04T19:38:01Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "INDWAS",
-                      "away":  "IND",
-                      "home":  "WAS",
-                      "day":  "Sun 10/4",
-                      "time":  "9:30a ET",
-                      "circa":  5.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      3.5,
-                                      5.5
-                                  ],
-                      "lookahead":  4.5,
-                      "circaOpen":  3.5
-                  },
                   {
                       "id":  "NEBUF",
                       "away":  "NE",
@@ -182,6 +167,21 @@
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -2.5
+                  },
+                  {
+                      "id":  "INDWAS",
+                      "away":  "IND",
+                      "home":  "WAS",
+                      "day":  "Sun 10/4",
+                      "time":  "9:30a ET",
+                      "circa":  5.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      3.5,
+                                      5.5
+                                  ],
+                      "lookahead":  4.5,
+                      "circaOpen":  3.5
                   },
                   {
                       "id":  "MIAMIN",
@@ -927,7 +927,7 @@
                           },
                   "IND":  {
                               "name":  "Colts",
-                              "wl":  "1-2",
+                              "wl":  "2-2",
                               "pr":  0,
                               "fpi":  -1.1,
                               "fpiOff":  null,
@@ -1827,7 +1827,7 @@
                           },
                   "WAS":  {
                               "name":  "Commanders",
-                              "wl":  "1-2",
+                              "wl":  "1-3",
                               "pr":  0.08,
                               "fpi":  null,
                               "fpiOff":  null,
