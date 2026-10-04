@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-04T23:20:05Z",
+    "generatedAt":  "2026-10-04T23:35:06Z",
     "byPair":  {
                    "MIA-MIN":  {
                                    "gameCode":  "20261004NFL00054",
@@ -321,18 +321,18 @@
                                    "homeLastName":  "Panthers",
                                    "dateLabel":  "Sunday, Oct 4",
                                    "dk":  {
-                                              "awayHandle":  66,
+                                              "awayHandle":  74,
                                               "awayBet":  40,
-                                              "homeHandle":  34,
+                                              "homeHandle":  26,
                                               "homeBet":  60,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  77,
-                                                 "awayBet":  58,
+                                                 "awayBet":  59,
                                                  "homeHandle":  23,
-                                                 "homeBet":  42,
+                                                 "homeBet":  41,
                                                  "awaySpread":  -4,
                                                  "homeSpread":  4
                                              }
@@ -345,9 +345,9 @@
                                   "homeLastName":  "Saints",
                                   "dateLabel":  "Monday, Oct 5",
                                   "dk":  {
-                                             "awayHandle":  32,
+                                             "awayHandle":  31,
                                              "awayBet":  39,
-                                             "homeHandle":  68,
+                                             "homeHandle":  69,
                                              "homeBet":  61,
                                              "awaySpread":  1.5,
                                              "homeSpread":  -1.5
