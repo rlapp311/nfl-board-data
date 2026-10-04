@@ -33,6 +33,56 @@
               "week":  4,
               "games":  [
                             {
+                                "id":  "MIAMIN",
+                                "away":  "MIA",
+                                "home":  "MIN",
+                                "day":  "Sun 10/4",
+                                "time":  "4:05p ET",
+                                "circa":  -9.5,
+                                "lookahead":  -10.5,
+                                "circaOpen":  -10
+                            },
+                            {
+                                "id":  "KCLV",
+                                "away":  "KC",
+                                "home":  "LV",
+                                "day":  "Sun 10/4",
+                                "time":  "4:25p ET",
+                                "circa":  5.5,
+                                "lookahead":  6,
+                                "circaOpen":  4.5
+                            },
+                            {
+                                "id":  "DENSF",
+                                "away":  "DEN",
+                                "home":  "SF",
+                                "day":  "Sun 10/4",
+                                "time":  "4:25p ET",
+                                "circa":  -3,
+                                "lookahead":  -3,
+                                "circaOpen":  -2.5
+                            },
+                            {
+                                "id":  "LACSEA",
+                                "away":  "LAC",
+                                "home":  "SEA",
+                                "day":  "Sun 10/4",
+                                "time":  "4:25p ET",
+                                "circa":  -7,
+                                "lookahead":  -6.5,
+                                "circaOpen":  -6.5
+                            },
+                            {
+                                "id":  "INDWAS",
+                                "away":  "IND",
+                                "home":  "WAS",
+                                "day":  "Sun 10/4",
+                                "time":  "9:30a ET",
+                                "circa":  5.5,
+                                "lookahead":  4.5,
+                                "circaOpen":  3.5
+                            },
+                            {
                                 "id":  "NEBUF",
                                 "away":  "NE",
                                 "home":  "BUF",
@@ -111,56 +161,6 @@
                                 "circa":  -3,
                                 "lookahead":  -3,
                                 "circaOpen":  -2.5
-                            },
-                            {
-                                "id":  "INDWAS",
-                                "away":  "IND",
-                                "home":  "WAS",
-                                "day":  "Sun 10/4",
-                                "time":  "9:30a ET",
-                                "circa":  5.5,
-                                "lookahead":  4.5,
-                                "circaOpen":  3.5
-                            },
-                            {
-                                "id":  "MIAMIN",
-                                "away":  "MIA",
-                                "home":  "MIN",
-                                "day":  "Sun 10/4",
-                                "time":  "4:05p ET",
-                                "circa":  -9.5,
-                                "lookahead":  -10.5,
-                                "circaOpen":  -10
-                            },
-                            {
-                                "id":  "KCLV",
-                                "away":  "KC",
-                                "home":  "LV",
-                                "day":  "Sun 10/4",
-                                "time":  "4:25p ET",
-                                "circa":  5.5,
-                                "lookahead":  6,
-                                "circaOpen":  4.5
-                            },
-                            {
-                                "id":  "DENSF",
-                                "away":  "DEN",
-                                "home":  "SF",
-                                "day":  "Sun 10/4",
-                                "time":  "4:25p ET",
-                                "circa":  -3,
-                                "lookahead":  -3,
-                                "circaOpen":  -2.5
-                            },
-                            {
-                                "id":  "LACSEA",
-                                "away":  "LAC",
-                                "home":  "SEA",
-                                "day":  "Sun 10/4",
-                                "time":  "4:25p ET",
-                                "circa":  -7,
-                                "lookahead":  -6.5,
-                                "circaOpen":  -6.5
                             },
                             {
                                 "id":  "DETCAR",
