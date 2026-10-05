@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-05T09:21:49Z",
-    "generatedAt":  "2026-10-05T09:37:48Z",
+    "linesAsOf":  "2026-10-05T09:51:50Z",
+    "generatedAt":  "2026-10-05T09:52:54Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-05T06:37:57Z",
+                                              "asOf":  "2026-10-05T09:52:54Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1867,7 +1867,7 @@
                                ],
                      "scheduled":  15,
                      "priced":  15,
-                     "postedAt":  "2026-10-05T09:37:48Z"
+                     "postedAt":  "2026-10-05T09:52:55Z"
                  }
 }
 
