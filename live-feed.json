@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-05T11:51:58Z",
+    "generatedAt":  "2026-10-05T12:22:06Z",
     "byPair":  {
                    "ATL-NO":  {
                                   "gameCode":  "20261005NFL00057",
@@ -9,20 +9,20 @@
                                   "homeLastName":  "Saints",
                                   "dateLabel":  "Monday, Oct 5",
                                   "dk":  {
-                                             "awayHandle":  30,
-                                             "awayBet":  38,
-                                             "homeHandle":  70,
-                                             "homeBet":  62,
+                                             "awayHandle":  28,
+                                             "awayBet":  37,
+                                             "homeHandle":  72,
+                                             "homeBet":  63,
                                              "awaySpread":  1.5,
                                              "homeSpread":  -1.5
                                          },
                                   "circa":  {
                                                 "awayHandle":  77,
-                                                "awayBet":  60,
+                                                "awayBet":  61,
                                                 "homeHandle":  23,
-                                                "homeBet":  40,
-                                                "awaySpread":  2,
-                                                "homeSpread":  -2
+                                                "homeBet":  39,
+                                                "awaySpread":  1.5,
+                                                "homeSpread":  -1.5
                                             }
                               }
                }
