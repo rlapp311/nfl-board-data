@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-05T22:23:52Z",
-    "generatedAt":  "2026-10-05T22:37:55Z",
+    "linesAsOf":  "2026-10-05T22:38:54Z",
+    "generatedAt":  "2026-10-05T22:53:00Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-05T19:37:57Z",
+                                              "asOf":  "2026-10-05T22:52:59Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1805,11 +1805,11 @@
                                        "home":  "LAC",
                                        "day":  "Sun 10/11",
                                        "time":  "4:05p ET",
-                                       "circa":  3.5,
+                                       "circa":  4,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        3.5,
-                                                       3.5
+                                                       4
                                                    ]
                                    },
                                    {
@@ -1818,11 +1818,11 @@
                                        "home":  "ARI",
                                        "day":  "Sun 10/11",
                                        "time":  "4:25p ET",
-                                       "circa":  5.5,
+                                       "circa":  6,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        5.5,
-                                                       5.5
+                                                       6
                                                    ]
                                    },
                                    {
@@ -1867,7 +1867,7 @@
                                ],
                      "scheduled":  15,
                      "priced":  15,
-                     "postedAt":  "2026-10-05T22:37:55Z"
+                     "postedAt":  "2026-10-05T22:53:00Z"
                  }
 }
 
