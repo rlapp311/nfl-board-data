@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  4,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-05T07:51:45Z",
-    "generatedAt":  "2026-10-05T08:07:57Z",
+    "linesAsOf":  "2026-10-05T08:21:46Z",
+    "generatedAt":  "2026-10-05T08:22:53Z",
     "analyticsThrough":  "PR and FPI through Week 3",
     "analyticsSources":  {
                              "dvoa":  {
@@ -28,7 +28,7 @@
                                      },
                              "winRates":  {
                                               "label":  "Win rates",
-                                              "asOf":  "2026-10-04T12:22:49Z",
+                                              "asOf":  "2026-10-05T08:22:52Z",
                                               "source":  "ESPN Analytics win-rate story: https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
                                               "updatedLabel":  "Through Week 3 games, Sept. 29 at 10 a.m. ET"
                                           },
@@ -1867,7 +1867,7 @@
                                ],
                      "scheduled":  15,
                      "priced":  15,
-                     "postedAt":  "2026-10-05T08:07:57Z"
+                     "postedAt":  "2026-10-05T08:22:53Z"
                  }
 }
 
