@@ -3,7 +3,7 @@
     "week":  5,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-06T10:24:17Z",
-    "generatedAt":  "2026-10-06T11:23:03Z",
+    "generatedAt":  "2026-10-06T11:38:08Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-06T08:23:04Z",
+                                              "asOf":  "2026-10-06T11:38:08Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -315,7 +315,7 @@
                               "rswrRk":  24,
                               "qb":  {
                                          "name":  "Jacoby Brissett",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.085,
                                          "epaRk":  18,
                                          "sr":  44.4,
@@ -365,7 +365,7 @@
                               "rswrRk":  6,
                               "qb":  {
                                          "name":  "Michael Penix Jr.",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.154,
                                          "epaRk":  14,
                                          "sr":  61.3,
@@ -415,7 +415,7 @@
                               "rswrRk":  20,
                               "qb":  {
                                          "name":  "Lamar Jackson",
-                                         "status":  "depth chart -- listed questionable -- started Wk 3",
+                                         "status":  "depth chart -- listed questionable -- started Wk 4",
                                          "epa":  0.739,
                                          "epaRk":  1,
                                          "sr":  68.5,
@@ -465,7 +465,7 @@
                               "rswrRk":  11,
                               "qb":  {
                                          "name":  "Josh Allen",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.212,
                                          "epaRk":  10,
                                          "sr":  42.6,
@@ -515,7 +515,7 @@
                               "rswrRk":  21,
                               "qb":  {
                                          "name":  "Bryce Young",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.431,
                                          "epaRk":  2,
                                          "sr":  51.1,
@@ -565,7 +565,7 @@
                               "rswrRk":  32,
                               "qb":  {
                                          "name":  "Caleb Williams",
-                                         "status":  "depth chart -- listed out -- Case Keenum started Wk 3",
+                                         "status":  "depth chart -- listed out -- Tyson Bagent started Wk 4",
                                          "epa":  0.248,
                                          "epaRk":  8,
                                          "sr":  43.9,
@@ -615,7 +615,7 @@
                               "rswrRk":  14,
                               "qb":  {
                                          "name":  "Joe Burrow",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.183,
                                          "epaRk":  11,
                                          "sr":  50,
@@ -665,7 +665,7 @@
                               "rswrRk":  7,
                               "qb":  {
                                          "name":  "Deshaun Watson",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.228,
                                          "epaRk":  9,
                                          "sr":  54.9,
@@ -715,7 +715,7 @@
                               "rswrRk":  12,
                               "qb":  {
                                          "name":  "Dak Prescott",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.146,
                                          "epaRk":  15,
                                          "sr":  48.8,
@@ -765,7 +765,7 @@
                               "rswrRk":  13,
                               "qb":  {
                                          "name":  "Bo Nix",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.121,
                                          "epaRk":  17,
                                          "sr":  46.4,
@@ -815,7 +815,7 @@
                               "rswrRk":  26,
                               "qb":  {
                                          "name":  "Jared Goff",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.302,
                                          "epaRk":  3,
                                          "sr":  57.6,
@@ -865,7 +865,7 @@
                              "rswrRk":  28,
                              "qb":  {
                                         "name":  "Jordan Love",
-                                        "status":  "depth chart -- started Wk 3",
+                                        "status":  "depth chart -- started Wk 4",
                                         "epa":  0.282,
                                         "epaRk":  6,
                                         "sr":  47.8,
@@ -915,7 +915,7 @@
                               "rswrRk":  10,
                               "qb":  {
                                          "name":  "C.J. Stroud",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.298,
                                          "epaRk":  5,
                                          "sr":  53.9,
@@ -965,7 +965,7 @@
                               "rswrRk":  31,
                               "qb":  {
                                          "name":  "Daniel Jones",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  -0.318,
                                          "epaRk":  31,
                                          "sr":  35.6,
@@ -1015,7 +1015,7 @@
                               "rswrRk":  29,
                               "qb":  {
                                          "name":  "Trevor Lawrence",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.252,
                                          "epaRk":  7,
                                          "sr":  57.8,
@@ -1065,7 +1065,7 @@
                              "rswrRk":  9,
                              "qb":  {
                                         "name":  "Patrick Mahomes",
-                                        "status":  "depth chart -- started Wk 3",
+                                        "status":  "depth chart -- started Wk 4",
                                         "epa":  0.074,
                                         "epaRk":  19,
                                         "sr":  53.2,
@@ -1115,7 +1115,7 @@
                               "rswrRk":  5,
                               "qb":  {
                                          "name":  "Justin Herbert",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.06,
                                          "epaRk":  21,
                                          "sr":  49.1,
@@ -1165,7 +1165,7 @@
                               "rswrRk":  8,
                               "qb":  {
                                          "name":  "Matthew Stafford",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.033,
                                          "epaRk":  23,
                                          "sr":  43,
@@ -1215,7 +1215,7 @@
                              "rswrRk":  15,
                              "qb":  {
                                         "name":  "Kirk Cousins",
-                                        "status":  "depth chart -- started Wk 3",
+                                        "status":  "depth chart -- started Wk 4",
                                         "epa":  0.16,
                                         "epaRk":  13,
                                         "sr":  51.2,
@@ -1265,7 +1265,7 @@
                               "rswrRk":  23,
                               "qb":  {
                                          "name":  "Malik Willis",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.024,
                                          "epaRk":  24,
                                          "sr":  40.7,
@@ -1315,7 +1315,7 @@
                               "rswrRk":  2,
                               "qb":  {
                                          "name":  "Kyler Murray",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  -0.167,
                                          "epaRk":  30,
                                          "sr":  32.4,
@@ -1365,7 +1365,7 @@
                              "rswrRk":  25,
                              "qb":  {
                                         "name":  "Drake Maye",
-                                        "status":  "depth chart -- started Wk 3",
+                                        "status":  "depth chart -- started Wk 4",
                                         "epa":  0.174,
                                         "epaRk":  12,
                                         "sr":  56,
@@ -1415,7 +1415,7 @@
                              "rswrRk":  18,
                              "qb":  {
                                         "name":  "Tyler Shough",
-                                        "status":  "depth chart -- started Wk 3",
+                                        "status":  "depth chart -- started Wk 4",
                                         "epa":  -0.076,
                                         "epaRk":  27,
                                         "sr":  43.6,
@@ -1465,7 +1465,7 @@
                               "rswrRk":  27,
                               "qb":  {
                                          "name":  "Jameis Winston",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  -0.112,
                                          "epaRk":  28,
                                          "sr":  32.5,
@@ -1515,7 +1515,7 @@
                               "rswrRk":  19,
                               "qb":  {
                                          "name":  "Geno Smith",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.144,
                                          "epaRk":  16,
                                          "sr":  47.8,
@@ -1565,7 +1565,7 @@
                               "rswrRk":  4,
                               "qb":  {
                                          "name":  "Jalen Hurts",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.058,
                                          "epaRk":  22,
                                          "sr":  38.8,
@@ -1615,7 +1615,7 @@
                               "rswrRk":  17,
                               "qb":  {
                                          "name":  "Aaron Rodgers",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.022,
                                          "epaRk":  25,
                                          "sr":  44.9,
@@ -1665,7 +1665,7 @@
                               "rswrRk":  1,
                               "qb":  {
                                          "name":  "Sam Darnold",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.061,
                                          "epaRk":  20,
                                          "sr":  50,
@@ -1715,7 +1715,7 @@
                              "rswrRk":  30,
                              "qb":  {
                                         "name":  "Brock Purdy",
-                                        "status":  "depth chart -- started Wk 3",
+                                        "status":  "depth chart -- started Wk 4",
                                         "epa":  0.302,
                                         "epaRk":  3,
                                         "sr":  57.4,
@@ -1765,7 +1765,7 @@
                              "rswrRk":  22,
                              "qb":  {
                                         "name":  "Baker Mayfield",
-                                        "status":  "depth chart -- listed out -- started Wk 3",
+                                        "status":  "depth chart -- listed out -- Jalon Daniels started Wk 4",
                                         "epa":  -0.323,
                                         "epaRk":  32,
                                         "sr":  35.2,
@@ -1815,7 +1815,7 @@
                               "rswrRk":  16,
                               "qb":  {
                                          "name":  "Cam Ward",
-                                         "status":  "depth chart -- started Wk 3",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  -0.159,
                                          "epaRk":  29,
                                          "sr":  42.2,
@@ -1865,7 +1865,7 @@
                               "rswrRk":  3,
                               "qb":  {
                                          "name":  "Jayden Daniels",
-                                         "status":  "depth chart -- listed out -- Marcus Mariota started Wk 3",
+                                         "status":  "depth chart -- listed out -- Athan Kaliakmanis started Wk 4",
                                          "epa":  0.018,
                                          "epaRk":  26,
                                          "sr":  38.9,
