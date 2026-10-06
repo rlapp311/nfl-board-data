@@ -3,7 +3,7 @@
     "week":  5,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-06T04:24:10Z",
-    "generatedAt":  "2026-10-06T06:08:09Z",
+    "generatedAt":  "2026-10-06T06:23:20Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       -9.5,
                                       -8
                                   ],
-                      "circaOpen":  -9.5,
-                      "lookahead":  -9.5
+                      "lookahead":  -9.5,
+                      "circaOpen":  -9.5
                   },
                   {
                       "id":  "PHIJAX",
@@ -75,8 +75,8 @@
                                       -4,
                                       -6.5
                                   ],
-                      "circaOpen":  -4,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -4
                   },
                   {
                       "id":  "CHIGB",
@@ -90,8 +90,8 @@
                                       1.5,
                                       3
                                   ],
-                      "circaOpen":  1.5,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  1.5
                   },
                   {
                       "id":  "HOUTEN",
@@ -105,8 +105,8 @@
                                       6,
                                       7
                                   ],
-                      "circaOpen":  6,
-                      "lookahead":  6.5
+                      "lookahead":  6.5,
+                      "circaOpen":  6
                   },
                   {
                       "id":  "CINMIA",
@@ -120,8 +120,8 @@
                                       7.5,
                                       7
                                   ],
-                      "circaOpen":  7.5,
-                      "lookahead":  8.5
+                      "lookahead":  8.5,
+                      "circaOpen":  7.5
                   },
                   {
                       "id":  "LVNE",
@@ -135,8 +135,8 @@
                                       -3.5,
                                       -3.5
                                   ],
-                      "circaOpen":  -3.5,
-                      "lookahead":  -3.5
+                      "lookahead":  -3.5,
+                      "circaOpen":  -3.5
                   },
                   {
                       "id":  "MINNO",
@@ -150,8 +150,8 @@
                                       1.5,
                                       1.5
                                   ],
-                      "circaOpen":  1.5,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  1.5
                   },
                   {
                       "id":  "CLENYJ",
@@ -165,8 +165,8 @@
                                       -2,
                                       -2
                                   ],
-                      "circaOpen":  -2,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2
                   },
                   {
                       "id":  "INDPIT",
@@ -180,8 +180,8 @@
                                       -2,
                                       -2.5
                                   ],
-                      "circaOpen":  -2,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2
                   },
                   {
                       "id":  "NYGWAS",
@@ -195,8 +195,8 @@
                                       -3,
                                       -3.5
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "DENLAC",
@@ -210,8 +210,8 @@
                                       3.5,
                                       3.5
                                   ],
-                      "circaOpen":  3.5,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  3.5
                   },
                   {
                       "id":  "DETARI",
@@ -225,8 +225,8 @@
                                       4.5,
                                       5.5
                                   ],
-                      "circaOpen":  4.5,
-                      "lookahead":  5.5
+                      "lookahead":  5.5,
+                      "circaOpen":  4.5
                   },
                   {
                       "id":  "SFSEA",
@@ -240,8 +240,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "BALATL",
@@ -255,8 +255,8 @@
                                       4,
                                       2.5
                                   ],
-                      "circaOpen":  4,
-                      "lookahead":  6
+                      "lookahead":  6,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "BUFLAR",
@@ -270,8 +270,8 @@
                                       -2.5,
                                       -3
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2.5
                   }
               ],
     "teams":  {
