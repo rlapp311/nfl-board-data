@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-06T10:24:17Z",
-    "generatedAt":  "2026-10-06T12:23:19Z",
+    "linesAsOf":  "2026-10-06T12:24:18Z",
+    "generatedAt":  "2026-10-06T12:38:01Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -69,11 +69,11 @@
                       "home":  "JAX",
                       "day":  "Sun 10/11",
                       "time":  "9:30a ET",
-                      "circa":  -6.5,
+                      "circa":  -7,
                       "book":  "CIRCA",
                       "history":  [
                                       -4,
-                                      -6.5
+                                      -7
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -4
@@ -144,11 +144,11 @@
                       "home":  "NO",
                       "day":  "Sun 10/11",
                       "time":  "1:00p ET",
-                      "circa":  1.5,
+                      "circa":  2,
                       "book":  "CIRCA",
                       "history":  [
                                       1.5,
-                                      1.5
+                                      2
                                   ],
                       "lookahead":  2.5,
                       "circaOpen":  1.5
@@ -249,11 +249,11 @@
                       "home":  "ATL",
                       "day":  "Sun 10/11",
                       "time":  "8:20p ET",
-                      "circa":  2.5,
+                      "circa":  1,
                       "book":  "CIRCA",
                       "history":  [
                                       4,
-                                      2.5
+                                      1
                                   ],
                       "lookahead":  6,
                       "circaOpen":  4
