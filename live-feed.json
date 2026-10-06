@@ -1,30 +1,366 @@
 ﻿{
-    "generatedAt":  "2026-10-06T02:24:04Z",
+    "generatedAt":  "2026-10-06T04:24:10Z",
     "byPair":  {
-                   "ATL-NO":  {
-                                  "gameCode":  "20261005NFL00057",
-                                  "awaySlug":  "atlanta-falcons",
-                                  "homeSlug":  "new-orleans-saints",
-                                  "awayLastName":  "Falcons",
-                                  "homeLastName":  "Saints",
-                                  "dateLabel":  "Monday, Oct 5",
+                   "TB-DAL":  {
+                                  "gameCode":  "20261008NFL00047",
+                                  "awaySlug":  "tampa-bay-buccaneers",
+                                  "homeSlug":  "dallas-cowboys",
+                                  "awayLastName":  "Buccaneers",
+                                  "homeLastName":  "Cowboys",
+                                  "dateLabel":  "Thursday, Oct 8",
                                   "dk":  {
-                                             "awayHandle":  44,
-                                             "awayBet":  38,
-                                             "homeHandle":  56,
-                                             "homeBet":  62,
-                                             "awaySpread":  1.5,
-                                             "homeSpread":  -1.5
+                                             "awayHandle":  34,
+                                             "awayBet":  44,
+                                             "homeHandle":  66,
+                                             "homeBet":  56,
+                                             "awaySpread":  9.5,
+                                             "homeSpread":  -9.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  54,
-                                                "awayBet":  48,
-                                                "homeHandle":  46,
-                                                "homeBet":  52,
-                                                "awaySpread":  1,
-                                                "homeSpread":  -1
+                                                "awayHandle":  84,
+                                                "awayBet":  56,
+                                                "homeHandle":  16,
+                                                "homeBet":  44,
+                                                "awaySpread":  8,
+                                                "homeSpread":  -8
                                             }
-                              }
+                              },
+                   "PHI-JAX":  {
+                                   "gameCode":  "20261011NFL00041",
+                                   "awaySlug":  "philadelphia-eagles",
+                                   "homeSlug":  "jacksonville-jaguars",
+                                   "awayLastName":  "Eagles",
+                                   "homeLastName":  "Jaguars",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  72,
+                                              "awayBet":  33,
+                                              "homeHandle":  28,
+                                              "homeBet":  67,
+                                              "awaySpread":  7,
+                                              "homeSpread":  -7
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  2,
+                                                 "awayBet":  22,
+                                                 "homeHandle":  98,
+                                                 "homeBet":  78,
+                                                 "awaySpread":  6.5,
+                                                 "homeSpread":  -6.5
+                                             }
+                               },
+                   "CHI-GB":  {
+                                  "gameCode":  "20261011NFL00053",
+                                  "awaySlug":  "chicago-bears",
+                                  "homeSlug":  "green-bay-packers",
+                                  "awayLastName":  "Bears",
+                                  "homeLastName":  "Packers",
+                                  "dateLabel":  "Sunday, Oct 11",
+                                  "dk":  {
+                                             "awayHandle":  31,
+                                             "awayBet":  76,
+                                             "homeHandle":  69,
+                                             "homeBet":  24,
+                                             "awaySpread":  -3,
+                                             "homeSpread":  3
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  100,
+                                                "awayBet":  100,
+                                                "homeHandle":  0,
+                                                "homeBet":  0,
+                                                "awaySpread":  -3,
+                                                "homeSpread":  3
+                                            }
+                              },
+                   "HOU-TEN":  {
+                                   "gameCode":  "20261011NFL00042",
+                                   "awaySlug":  "houston-texans",
+                                   "homeSlug":  "tennessee-titans",
+                                   "awayLastName":  "Texans",
+                                   "homeLastName":  "Titans",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  90,
+                                              "awayBet":  82,
+                                              "homeHandle":  10,
+                                              "homeBet":  18,
+                                              "awaySpread":  -7,
+                                              "homeSpread":  7
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  99,
+                                                 "awayBet":  63,
+                                                 "homeHandle":  1,
+                                                 "homeBet":  38,
+                                                 "awaySpread":  -7,
+                                                 "homeSpread":  7
+                                             }
+                               },
+                   "CIN-MIA":  {
+                                   "gameCode":  "20261011NFL00032",
+                                   "awaySlug":  "cincinnati-bengals",
+                                   "homeSlug":  "miami-dolphins",
+                                   "awayLastName":  "Bengals",
+                                   "homeLastName":  "Dolphins",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  63,
+                                              "awayBet":  73,
+                                              "homeHandle":  37,
+                                              "homeBet":  28,
+                                              "awaySpread":  -7,
+                                              "homeSpread":  7
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  0,
+                                                 "awayBet":  0,
+                                                 "homeHandle":  100,
+                                                 "homeBet":  100,
+                                                 "awaySpread":  -7,
+                                                 "homeSpread":  7
+                                             }
+                               },
+                   "LV-NE":  {
+                                 "gameCode":  "20261011NFL00033",
+                                 "awaySlug":  "las-vegas-raiders",
+                                 "homeSlug":  "new-england-patriots",
+                                 "awayLastName":  "Raiders",
+                                 "homeLastName":  "Patriots",
+                                 "dateLabel":  "Sunday, Oct 11",
+                                 "dk":  {
+                                            "awayHandle":  59,
+                                            "awayBet":  45,
+                                            "homeHandle":  41,
+                                            "homeBet":  55,
+                                            "awaySpread":  3.5,
+                                            "homeSpread":  -3.5
+                                        },
+                                 "circa":  {
+                                               "awayHandle":  9,
+                                               "awayBet":  50,
+                                               "homeHandle":  91,
+                                               "homeBet":  50,
+                                               "awaySpread":  3.5,
+                                               "homeSpread":  -3.5
+                                           }
+                             },
+                   "MIN-NO":  {
+                                  "gameCode":  "20261011NFL00057",
+                                  "awaySlug":  "minnesota-vikings",
+                                  "homeSlug":  "new-orleans-saints",
+                                  "awayLastName":  "Vikings",
+                                  "homeLastName":  "Saints",
+                                  "dateLabel":  "Sunday, Oct 11",
+                                  "dk":  {
+                                             "awayHandle":  98,
+                                             "awayBet":  73,
+                                             "homeHandle":  2,
+                                             "homeBet":  27,
+                                             "awaySpread":  -1.5,
+                                             "homeSpread":  1.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  8,
+                                                "awayBet":  33,
+                                                "homeHandle":  92,
+                                                "homeBet":  67,
+                                                "awaySpread":  -1.5,
+                                                "homeSpread":  1.5
+                                            }
+                              },
+                   "CLE-NYJ":  {
+                                   "gameCode":  "20261011NFL00034",
+                                   "awaySlug":  "cleveland-browns",
+                                   "homeSlug":  "new-york-jets",
+                                   "awayLastName":  "Browns",
+                                   "homeLastName":  "Jets",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  88,
+                                              "awayBet":  91,
+                                              "homeHandle":  12,
+                                              "homeBet":  9,
+                                              "awaySpread":  2.5,
+                                              "homeSpread":  -2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  100,
+                                                 "awayBet":  100,
+                                                 "homeHandle":  0,
+                                                 "homeBet":  0,
+                                                 "awaySpread":  2,
+                                                 "homeSpread":  -2
+                                             }
+                               },
+                   "IND-PIT":  {
+                                   "gameCode":  "20261011NFL00038",
+                                   "awaySlug":  "indianapolis-colts",
+                                   "homeSlug":  "pittsburgh-steelers",
+                                   "awayLastName":  "Colts",
+                                   "homeLastName":  "Steelers",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  9,
+                                              "awayBet":  39,
+                                              "homeHandle":  91,
+                                              "homeBet":  61,
+                                              "awaySpread":  2.5,
+                                              "homeSpread":  -2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  9,
+                                                 "awayBet":  40,
+                                                 "homeHandle":  91,
+                                                 "homeBet":  60,
+                                                 "awaySpread":  2.5,
+                                                 "homeSpread":  -2.5
+                                             }
+                               },
+                   "NYG-WAS":  {
+                                   "gameCode":  "20261011NFL00050",
+                                   "awaySlug":  "new-york-giants",
+                                   "homeSlug":  "washington-commanders",
+                                   "awayLastName":  "Giants",
+                                   "homeLastName":  "Commanders",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  99,
+                                              "awayBet":  83,
+                                              "homeHandle":  1,
+                                              "homeBet":  17,
+                                              "awaySpread":  3,
+                                              "homeSpread":  -3
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  12,
+                                                 "awayBet":  80,
+                                                 "homeHandle":  88,
+                                                 "homeBet":  20,
+                                                 "awaySpread":  3.5,
+                                                 "homeSpread":  -3.5
+                                             }
+                               },
+                   "DEN-LAC":  {
+                                   "gameCode":  "20261011NFL00046",
+                                   "awaySlug":  "denver-broncos",
+                                   "homeSlug":  "los-angeles-chargers",
+                                   "awayLastName":  "Broncos",
+                                   "homeLastName":  "Chargers",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  43,
+                                              "awayBet":  59,
+                                              "homeHandle":  57,
+                                              "homeBet":  41,
+                                              "awaySpread":  -3.5,
+                                              "homeSpread":  3.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  32,
+                                                 "awayBet":  33,
+                                                 "homeHandle":  68,
+                                                 "homeBet":  67,
+                                                 "awaySpread":  -3.5,
+                                                 "homeSpread":  3.5
+                                             }
+                               },
+                   "DET-ARI":  {
+                                   "gameCode":  "20261011NFL00059",
+                                   "awaySlug":  "detroit-lions",
+                                   "homeSlug":  "arizona-cardinals",
+                                   "awayLastName":  "Lions",
+                                   "homeLastName":  "Cardinals",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  53,
+                                              "awayBet":  56,
+                                              "homeHandle":  47,
+                                              "homeBet":  44,
+                                              "awaySpread":  -4.5,
+                                              "homeSpread":  4.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  49,
+                                                 "awayBet":  33,
+                                                 "homeHandle":  51,
+                                                 "homeBet":  67,
+                                                 "awaySpread":  -5.5,
+                                                 "homeSpread":  5.5
+                                             }
+                               },
+                   "SF-SEA":  {
+                                  "gameCode":  "20261011NFL00061",
+                                  "awaySlug":  "san-francisco-49ers",
+                                  "homeSlug":  "seattle-seahawks",
+                                  "awayLastName":  "49ers",
+                                  "homeLastName":  "Seahawks",
+                                  "dateLabel":  "Sunday, Oct 11",
+                                  "dk":  {
+                                             "awayHandle":  18,
+                                             "awayBet":  57,
+                                             "homeHandle":  82,
+                                             "homeBet":  43,
+                                             "awaySpread":  2.5,
+                                             "homeSpread":  -2.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  99,
+                                                "awayBet":  80,
+                                                "homeHandle":  1,
+                                                "homeBet":  20,
+                                                "awaySpread":  3,
+                                                "homeSpread":  -3
+                                            }
+                              },
+                   "BAL-ATL":  {
+                                   "gameCode":  "20261011NFL00055",
+                                   "awaySlug":  "baltimore-ravens",
+                                   "homeSlug":  "atlanta-falcons",
+                                   "awayLastName":  "Ravens",
+                                   "homeLastName":  "Falcons",
+                                   "dateLabel":  "Sunday, Oct 11",
+                                   "dk":  {
+                                              "awayHandle":  50,
+                                              "awayBet":  60,
+                                              "homeHandle":  50,
+                                              "homeBet":  40,
+                                              "awaySpread":  -2.5,
+                                              "homeSpread":  2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  5,
+                                                 "awayBet":  40,
+                                                 "homeHandle":  95,
+                                                 "homeBet":  60,
+                                                 "awaySpread":  -2.5,
+                                                 "homeSpread":  2.5
+                                             }
+                               },
+                   "BUF-LAR":  {
+                                   "gameCode":  "20261012NFL00062",
+                                   "awaySlug":  "buffalo-bills",
+                                   "homeSlug":  "los-angeles-rams",
+                                   "awayLastName":  "Bills",
+                                   "homeLastName":  "Rams",
+                                   "dateLabel":  "Monday, Oct 12",
+                                   "dk":  {
+                                              "awayHandle":  14,
+                                              "awayBet":  64,
+                                              "homeHandle":  86,
+                                              "homeBet":  36,
+                                              "awaySpread":  2.5,
+                                              "homeSpread":  -2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  12,
+                                                 "awayBet":  70,
+                                                 "homeHandle":  88,
+                                                 "homeBet":  30,
+                                                 "awaySpread":  3,
+                                                 "homeSpread":  -3
+                                             }
+                               }
                }
 }
 
