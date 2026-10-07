@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-10-06T04:07:58.4241208-04:00",
+    "GeneratedAt":  "2026-10-07T04:08:06.2910087-04:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -145,16 +145,6 @@
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "BAL",
-                      "Team":  "Baltimore Ravens",
-                      "TeamId":  "33",
-                      "Fpi":  0.116,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
                       "Abbr":  "LAC",
                       "Team":  "Los Angeles Chargers",
                       "TeamId":  "24",
@@ -199,6 +189,16 @@
                       "Team":  "Las Vegas Raiders",
                       "TeamId":  "13",
                       "Fpi":  -1.46,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "BAL",
+                      "Team":  "Baltimore Ravens",
+                      "TeamId":  "33",
+                      "Fpi":  -1.668,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
