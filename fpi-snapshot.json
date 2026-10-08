@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-10-07T04:08:06.2910087-04:00",
+    "GeneratedAt":  "2026-10-08T04:08:14.6167188-04:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -245,6 +245,16 @@
                       "Rank":  null
                   },
                   {
+                      "Abbr":  "WSH",
+                      "Team":  "Washington Commanders",
+                      "TeamId":  "28",
+                      "Fpi":  -2.884,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
                       "Abbr":  "NYJ",
                       "Team":  "New York Jets",
                       "TeamId":  "20",
@@ -279,16 +289,6 @@
                       "Team":  "Arizona Cardinals",
                       "TeamId":  "22",
                       "Fpi":  -5.258,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
-                      "Abbr":  "WSH",
-                      "Team":  "Washington Commanders",
-                      "TeamId":  "28",
-                      "Fpi":  -5.263,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
