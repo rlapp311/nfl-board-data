@@ -113,7 +113,7 @@
                                 "home":  "NO",
                                 "day":  "Sun 10/11",
                                 "time":  "1:00p ET",
-                                "circa":  2,
+                                "circa":  2.5,
                                 "lookahead":  2.5,
                                 "circaOpen":  1.5
                             },
@@ -123,7 +123,7 @@
                                 "home":  "NYJ",
                                 "day":  "Sun 10/11",
                                 "time":  "1:00p ET",
-                                "circa":  -1.5,
+                                "circa":  -2.5,
                                 "lookahead":  -2.5,
                                 "circaOpen":  -2
                             },

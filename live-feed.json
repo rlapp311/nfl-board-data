@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T16:58:22Z",
+    "generatedAt":  "2026-10-08T17:28:26Z",
     "byPair":  {
                    "TB-DAL":  {
                                   "gameCode":  "20261008NFL00047",
@@ -13,8 +13,8 @@
                                              "awayBet":  32,
                                              "homeHandle":  84,
                                              "homeBet":  68,
-                                             "awaySpread":  8.5,
-                                             "homeSpread":  -8.5
+                                             "awaySpread":  9.5,
+                                             "homeSpread":  -9.5
                                          },
                                   "circa":  {
                                                 "awayHandle":  59,
@@ -58,17 +58,17 @@
                                   "dateLabel":  "Sunday, Oct 11",
                                   "dk":  {
                                              "awayHandle":  89,
-                                             "awayBet":  70,
+                                             "awayBet":  69,
                                              "homeHandle":  11,
-                                             "homeBet":  30,
+                                             "homeBet":  31,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
                                          },
                                   "circa":  {
                                                 "awayHandle":  7,
-                                                "awayBet":  55,
+                                                "awayBet":  57,
                                                 "homeHandle":  93,
-                                                "homeBet":  45,
+                                                "homeBet":  43,
                                                 "awaySpread":  -1.5,
                                                 "homeSpread":  1.5
                                             }
@@ -114,9 +114,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  0,
-                                                 "awayBet":  50,
+                                                 "awayBet":  56,
                                                  "homeHandle":  100,
-                                                 "homeBet":  50,
+                                                 "homeBet":  44,
                                                  "awaySpread":  -6.5,
                                                  "homeSpread":  6.5
                                              }
@@ -161,12 +161,12 @@
                                              "homeSpread":  2.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  71,
-                                                "awayBet":  55,
-                                                "homeHandle":  29,
-                                                "homeBet":  45,
-                                                "awaySpread":  -2,
-                                                "homeSpread":  2
+                                                "awayHandle":  100,
+                                                "awayBet":  58,
+                                                "homeHandle":  0,
+                                                "homeBet":  42,
+                                                "awaySpread":  -2.5,
+                                                "homeSpread":  2.5
                                             }
                               },
                    "CLE-NYJ":  {
@@ -189,8 +189,8 @@
                                                  "awayBet":  82,
                                                  "homeHandle":  6,
                                                  "homeBet":  18,
-                                                 "awaySpread":  1.5,
-                                                 "homeSpread":  -1.5
+                                                 "awaySpread":  2.5,
+                                                 "homeSpread":  -2.5
                                              }
                                },
                    "IND-PIT":  {
@@ -258,9 +258,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  26,
-                                                 "awayBet":  13,
+                                                 "awayBet":  11,
                                                  "homeHandle":  74,
-                                                 "homeBet":  88,
+                                                 "homeBet":  89,
                                                  "awaySpread":  -3.5,
                                                  "homeSpread":  3.5
                                              }
@@ -305,10 +305,10 @@
                                              "homeSpread":  -3
                                          },
                                   "circa":  {
-                                                "awayHandle":  59,
-                                                "awayBet":  73,
-                                                "homeHandle":  41,
-                                                "homeBet":  27,
+                                                "awayHandle":  60,
+                                                "awayBet":  75,
+                                                "homeHandle":  40,
+                                                "homeBet":  25,
                                                 "awaySpread":  3.5,
                                                 "homeSpread":  -3.5
                                             }
@@ -330,9 +330,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  58,
-                                                 "awayBet":  60,
+                                                 "awayBet":  62,
                                                  "homeHandle":  42,
-                                                 "homeBet":  40,
+                                                 "homeBet":  38,
                                                  "awaySpread":  3,
                                                  "homeSpread":  -3
                                              }
@@ -346,17 +346,17 @@
                                    "dateLabel":  "Monday, Oct 12",
                                    "dk":  {
                                               "awayHandle":  14,
-                                              "awayBet":  54,
+                                              "awayBet":  55,
                                               "homeHandle":  86,
-                                              "homeBet":  46,
+                                              "homeBet":  45,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
                                           },
                                    "circa":  {
                                                  "awayHandle":  10,
-                                                 "awayBet":  57,
+                                                 "awayBet":  58,
                                                  "homeHandle":  90,
-                                                 "homeBet":  43,
+                                                 "homeBet":  42,
                                                  "awaySpread":  3.5,
                                                  "homeSpread":  -3.5
                                              }
