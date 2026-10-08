@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T06:27:06Z",
+    "generatedAt":  "2026-10-08T06:57:09Z",
     "byPair":  {
                    "TB-DAL":  {
                                   "gameCode":  "20261008NFL00047",
@@ -18,9 +18,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  91,
-                                                "awayBet":  28,
+                                                "awayBet":  27,
                                                 "homeHandle":  9,
-                                                "homeBet":  72,
+                                                "homeBet":  73,
                                                 "awaySpread":  7.5,
                                                 "homeSpread":  -7.5
                                             }
@@ -209,10 +209,10 @@
                                               "homeSpread":  -2.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  6,
-                                                 "awayBet":  33,
-                                                 "homeHandle":  94,
-                                                 "homeBet":  67,
+                                                 "awayHandle":  5,
+                                                 "awayBet":  31,
+                                                 "homeHandle":  95,
+                                                 "homeBet":  69,
                                                  "awaySpread":  2.5,
                                                  "homeSpread":  -2.5
                                              }
