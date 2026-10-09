@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-09T04:29:27Z",
-    "generatedAt":  "2026-10-09T06:23:15Z",
+    "linesAsOf":  "2026-10-09T06:29:27Z",
+    "generatedAt":  "2026-10-09T06:38:15Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -662,7 +662,7 @@
                           },
                   "DAL":  {
                               "name":  "Cowboys",
-                              "wl":  "2-2",
+                              "wl":  "2-3",
                               "pr":  2.17,
                               "fpi":  3.55,
                               "fpiOff":  null,
@@ -1712,7 +1712,7 @@
                          },
                   "TB":  {
                              "name":  "Buccaneers",
-                             "wl":  "0-4",
+                             "wl":  "1-4",
                              "pr":  -0.21,
                              "fpi":  -6.46,
                              "fpiOff":  null,
