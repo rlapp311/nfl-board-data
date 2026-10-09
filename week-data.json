@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-09T02:29:08Z",
-    "generatedAt":  "2026-10-09T04:23:14Z",
+    "linesAsOf":  "2026-10-09T04:29:27Z",
+    "generatedAt":  "2026-10-09T04:38:15Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "TBDAL",
-                      "away":  "TB",
-                      "home":  "DAL",
-                      "day":  "Thu 10/8",
-                      "time":  "8:15p ET",
-                      "circa":  -9.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -9.5,
-                                      -9.5
-                                  ],
-                      "lookahead":  -9.5,
-                      "circaOpen":  -9.5
-                  },
                   {
                       "id":  "PHIJAX",
                       "away":  "PHI",
