@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-09T21:30:25Z",
-    "generatedAt":  "2026-10-09T21:38:42Z",
+    "linesAsOf":  "2026-10-10T11:31:16Z",
+    "generatedAt":  "2026-10-10T13:54:04Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -28,13 +28,13 @@
                                      },
                              "winRates":  {
                                               "label":  "Win rates",
-                                              "asOf":  "2026-10-09T12:23:17Z",
+                                              "asOf":  "2026-10-10T13:53:53Z",
                                               "source":  "ESPN Analytics win-rate story: https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
                                               "updatedLabel":  "Through Week 4 games, Oct. 6 at 9 a.m. ET"
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-09T19:38:42Z",
+                                              "asOf":  "2026-10-10T13:54:03Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -174,11 +174,11 @@
                       "home":  "WAS",
                       "day":  "Sun 10/11",
                       "time":  "1:00p ET",
-                      "circa":  -4,
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -4
+                                      -3.5
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  -3
