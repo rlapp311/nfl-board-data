@@ -48,6 +48,46 @@
               "week":  5,
               "games":  [
                             {
+                                "id":  "DENLAC",
+                                "away":  "DEN",
+                                "home":  "LAC",
+                                "day":  "Sun 10/11",
+                                "time":  "4:05p ET",
+                                "circa":  3.5,
+                                "lookahead":  2.5,
+                                "circaOpen":  3.5
+                            },
+                            {
+                                "id":  "DETARI",
+                                "away":  "DET",
+                                "home":  "ARI",
+                                "day":  "Sun 10/11",
+                                "time":  "4:25p ET",
+                                "circa":  4.5,
+                                "lookahead":  5.5,
+                                "circaOpen":  4.5
+                            },
+                            {
+                                "id":  "SFSEA",
+                                "away":  "SF",
+                                "home":  "SEA",
+                                "day":  "Sun 10/11",
+                                "time":  "4:25p ET",
+                                "circa":  -3,
+                                "lookahead":  -3,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "PHIJAX",
+                                "away":  "PHI",
+                                "home":  "JAX",
+                                "day":  "Sun 10/11",
+                                "time":  "9:30a ET",
+                                "circa":  -8,
+                                "lookahead":  -3,
+                                "circaOpen":  -4
+                            },
+                            {
                                 "id":  "CHIGB",
                                 "away":  "CHI",
                                 "home":  "GB",
@@ -125,46 +165,6 @@
                                 "time":  "1:00p ET",
                                 "circa":  -3.5,
                                 "lookahead":  -2.5,
-                                "circaOpen":  -3
-                            },
-                            {
-                                "id":  "PHIJAX",
-                                "away":  "PHI",
-                                "home":  "JAX",
-                                "day":  "Sun 10/11",
-                                "time":  "9:30a ET",
-                                "circa":  -8,
-                                "lookahead":  -3,
-                                "circaOpen":  -4
-                            },
-                            {
-                                "id":  "DENLAC",
-                                "away":  "DEN",
-                                "home":  "LAC",
-                                "day":  "Sun 10/11",
-                                "time":  "4:05p ET",
-                                "circa":  3.5,
-                                "lookahead":  2.5,
-                                "circaOpen":  3.5
-                            },
-                            {
-                                "id":  "DETARI",
-                                "away":  "DET",
-                                "home":  "ARI",
-                                "day":  "Sun 10/11",
-                                "time":  "4:25p ET",
-                                "circa":  4.5,
-                                "lookahead":  5.5,
-                                "circaOpen":  4.5
-                            },
-                            {
-                                "id":  "SFSEA",
-                                "away":  "SF",
-                                "home":  "SEA",
-                                "day":  "Sun 10/11",
-                                "time":  "4:25p ET",
-                                "circa":  -3,
-                                "lookahead":  -3,
                                 "circaOpen":  -3
                             },
                             {
