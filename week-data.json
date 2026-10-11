@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-10T11:31:16Z",
-    "generatedAt":  "2026-10-11T12:53:43Z",
+    "linesAsOf":  "2026-10-11T12:59:52Z",
+    "generatedAt":  "2026-10-11T13:09:31Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -54,11 +54,11 @@
                       "home":  "JAX",
                       "day":  "Sun 10/11",
                       "time":  "9:30a ET",
-                      "circa":  -7.5,
+                      "circa":  -8,
                       "book":  "CIRCA",
                       "history":  [
                                       -4,
-                                      -7.5
+                                      -8
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -4
@@ -69,11 +69,11 @@
                       "home":  "GB",
                       "day":  "Sun 10/11",
                       "time":  "1:00p ET",
-                      "circa":  1.5,
+                      "circa":  1,
                       "book":  "CIRCA",
                       "history":  [
                                       1.5,
-                                      1.5
+                                      1
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  1.5
@@ -99,11 +99,11 @@
                       "home":  "MIA",
                       "day":  "Sun 10/11",
                       "time":  "1:00p ET",
-                      "circa":  6.5,
+                      "circa":  7,
                       "book":  "CIRCA",
                       "history":  [
                                       7.5,
-                                      6.5
+                                      7
                                   ],
                       "lookahead":  8.5,
                       "circaOpen":  7.5
@@ -129,11 +129,11 @@
                       "home":  "NO",
                       "day":  "Sun 10/11",
                       "time":  "1:00p ET",
-                      "circa":  2.5,
+                      "circa":  2,
                       "book":  "CIRCA",
                       "history":  [
                                       1.5,
-                                      2.5
+                                      2
                                   ],
                       "lookahead":  2.5,
                       "circaOpen":  1.5
@@ -159,11 +159,11 @@
                       "home":  "PIT",
                       "day":  "Sun 10/11",
                       "time":  "1:00p ET",
-                      "circa":  -2.5,
+                      "circa":  -3,
                       "book":  "CIRCA",
                       "history":  [
                                       -2,
-                                      -2.5
+                                      -3
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  -2
