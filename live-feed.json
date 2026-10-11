@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-11T23:01:19Z",
+    "generatedAt":  "2026-10-11T23:16:20Z",
     "byPair":  {
                    "DEN-LAC":  {
                                    "gameCode":  "20261011NFL00046",
@@ -297,12 +297,12 @@
                                    "homeLastName":  "Falcons",
                                    "dateLabel":  "Sunday, Oct 11",
                                    "dk":  {
-                                              "awayHandle":  33,
+                                              "awayHandle":  28,
                                               "awayBet":  46,
-                                              "homeHandle":  67,
+                                              "homeHandle":  72,
                                               "homeBet":  54,
-                                              "awaySpread":  3.5,
-                                              "homeSpread":  -3.5
+                                              "awaySpread":  3,
+                                              "homeSpread":  -3
                                           },
                                    "circa":  {
                                                  "awayHandle":  37,
@@ -321,9 +321,9 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Monday, Oct 12",
                                    "dk":  {
-                                              "awayHandle":  32,
+                                              "awayHandle":  33,
                                               "awayBet":  73,
-                                              "homeHandle":  68,
+                                              "homeHandle":  67,
                                               "homeBet":  27,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
