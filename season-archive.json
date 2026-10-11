@@ -48,16 +48,6 @@
               "week":  5,
               "games":  [
                             {
-                                "id":  "PHIJAX",
-                                "away":  "PHI",
-                                "home":  "JAX",
-                                "day":  "Sun 10/11",
-                                "time":  "9:30a ET",
-                                "circa":  -8,
-                                "lookahead":  -3,
-                                "circaOpen":  -4
-                            },
-                            {
                                 "id":  "CHIGB",
                                 "away":  "CHI",
                                 "home":  "GB",
@@ -136,6 +126,16 @@
                                 "circa":  -3.5,
                                 "lookahead":  -2.5,
                                 "circaOpen":  -3
+                            },
+                            {
+                                "id":  "PHIJAX",
+                                "away":  "PHI",
+                                "home":  "JAX",
+                                "day":  "Sun 10/11",
+                                "time":  "9:30a ET",
+                                "circa":  -8,
+                                "lookahead":  -3,
+                                "circaOpen":  -4
                             },
                             {
                                 "id":  "DENLAC",
