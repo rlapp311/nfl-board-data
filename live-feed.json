@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-11T21:46:13Z",
+    "generatedAt":  "2026-10-11T22:01:14Z",
     "byPair":  {
                    "DEN-LAC":  {
                                    "gameCode":  "20261011NFL00046",
@@ -305,9 +305,9 @@
                                               "homeSpread":  -3
                                           },
                                    "circa":  {
-                                                 "awayHandle":  71,
+                                                 "awayHandle":  51,
                                                  "awayBet":  33,
-                                                 "homeHandle":  29,
+                                                 "homeHandle":  49,
                                                  "homeBet":  67,
                                                  "awaySpread":  3,
                                                  "homeSpread":  -3
@@ -325,8 +325,8 @@
                                               "awayBet":  73,
                                               "homeHandle":  68,
                                               "homeBet":  27,
-                                              "awaySpread":  3,
-                                              "homeSpread":  -3
+                                              "awaySpread":  3.5,
+                                              "homeSpread":  -3.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  12,
