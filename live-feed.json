@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-11T23:46:23Z",
+    "generatedAt":  "2026-10-12T00:01:24Z",
     "byPair":  {
                    "DEN-LAC":  {
                                    "gameCode":  "20261011NFL00046",
@@ -297,18 +297,18 @@
                                    "homeLastName":  "Falcons",
                                    "dateLabel":  "Sunday, Oct 11",
                                    "dk":  {
-                                              "awayHandle":  32,
+                                              "awayHandle":  31,
                                               "awayBet":  45,
-                                              "homeHandle":  68,
+                                              "homeHandle":  69,
                                               "homeBet":  55,
-                                              "awaySpread":  3,
-                                              "homeSpread":  -3
+                                              "awaySpread":  3.5,
+                                              "homeSpread":  -3.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  37,
-                                                 "awayBet":  30,
-                                                 "homeHandle":  63,
-                                                 "homeBet":  70,
+                                                 "awayHandle":  11,
+                                                 "awayBet":  31,
+                                                 "homeHandle":  89,
+                                                 "homeBet":  69,
                                                  "awaySpread":  3,
                                                  "homeSpread":  -3
                                              }
@@ -321,9 +321,9 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Monday, Oct 12",
                                    "dk":  {
-                                              "awayHandle":  32,
+                                              "awayHandle":  33,
                                               "awayBet":  73,
-                                              "homeHandle":  68,
+                                              "homeHandle":  67,
                                               "homeBet":  27,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
