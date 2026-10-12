@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T04:01:50Z",
+    "generatedAt":  "2026-10-12T04:31:52Z",
     "byPair":  {
                    "BUF-LAR":  {
                                    "gameCode":  "20261012NFL00062",
@@ -9,18 +9,18 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Monday, Oct 12",
                                    "dk":  {
-                                              "awayHandle":  36,
+                                              "awayHandle":  35,
                                               "awayBet":  73,
-                                              "homeHandle":  64,
+                                              "homeHandle":  65,
                                               "homeBet":  27,
-                                              "awaySpread":  3.5,
-                                              "homeSpread":  -3.5
+                                              "awaySpread":  3,
+                                              "homeSpread":  -3
                                           },
                                    "circa":  {
-                                                 "awayHandle":  13,
-                                                 "awayBet":  64,
-                                                 "homeHandle":  87,
-                                                 "homeBet":  36,
+                                                 "awayHandle":  14,
+                                                 "awayBet":  65,
+                                                 "homeHandle":  86,
+                                                 "homeBet":  35,
                                                  "awaySpread":  3.5,
                                                  "homeSpread":  -3.5
                                              }
