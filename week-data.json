@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-12T00:16:25Z",
-    "generatedAt":  "2026-10-12T00:23:48Z",
+    "linesAsOf":  "2026-10-12T00:31:26Z",
+    "generatedAt":  "2026-10-12T00:39:03Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-11T21:24:05Z",
+                                              "asOf":  "2026-10-12T00:39:02Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -49,49 +49,19 @@
              ],
     "games":  [
                   {
-                      "id":  "DENLAC",
-                      "away":  "DEN",
-                      "home":  "LAC",
+                      "id":  "BALATL",
+                      "away":  "BAL",
+                      "home":  "ATL",
                       "day":  "Sun 10/11",
-                      "time":  "4:05p ET",
-                      "circa":  3.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      3.5,
-                                      3.5
-                                  ],
-                      "lookahead":  2.5,
-                      "circaOpen":  3.5
-                  },
-                  {
-                      "id":  "DETARI",
-                      "away":  "DET",
-                      "home":  "ARI",
-                      "day":  "Sun 10/11",
-                      "time":  "4:25p ET",
-                      "circa":  4.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      4.5,
-                                      4.5
-                                  ],
-                      "lookahead":  5.5,
-                      "circaOpen":  4.5
-                  },
-                  {
-                      "id":  "SFSEA",
-                      "away":  "SF",
-                      "home":  "SEA",
-                      "day":  "Sun 10/11",
-                      "time":  "4:25p ET",
+                      "time":  "8:20p ET",
                       "circa":  -3,
                       "book":  "CIRCA",
                       "history":  [
-                                      -3,
+                                      4,
                                       -3
                                   ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3
+                      "lookahead":  6,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "PHIJAX",
@@ -229,19 +199,49 @@
                       "circaOpen":  -3
                   },
                   {
-                      "id":  "BALATL",
-                      "away":  "BAL",
-                      "home":  "ATL",
+                      "id":  "DENLAC",
+                      "away":  "DEN",
+                      "home":  "LAC",
                       "day":  "Sun 10/11",
-                      "time":  "8:20p ET",
+                      "time":  "4:05p ET",
+                      "circa":  3.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      3.5,
+                                      3.5
+                                  ],
+                      "lookahead":  2.5,
+                      "circaOpen":  3.5
+                  },
+                  {
+                      "id":  "DETARI",
+                      "away":  "DET",
+                      "home":  "ARI",
+                      "day":  "Sun 10/11",
+                      "time":  "4:25p ET",
+                      "circa":  4.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      4.5,
+                                      4.5
+                                  ],
+                      "lookahead":  5.5,
+                      "circaOpen":  4.5
+                  },
+                  {
+                      "id":  "SFSEA",
+                      "away":  "SF",
+                      "home":  "SEA",
+                      "day":  "Sun 10/11",
+                      "time":  "4:25p ET",
                       "circa":  -3,
                       "book":  "CIRCA",
                       "history":  [
-                                      4,
+                                      -3,
                                       -3
                                   ],
-                      "lookahead":  6,
-                      "circaOpen":  4
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "BUFLAR",
@@ -262,7 +262,7 @@
     "teams":  {
                   "ARI":  {
                               "name":  "Cardinals",
-                              "wl":  "1-3",
+                              "wl":  "1-4",
                               "pr":  -2.66,
                               "fpi":  -5.26,
                               "fpiOff":  null,
@@ -299,8 +299,8 @@
                               "rswr":  28,
                               "rswrRk":  20,
                               "qb":  {
-                                         "name":  "J.Brissett",
-                                         "status":  "snap count -- started Wk 4 (17 snaps), no depth chart",
+                                         "name":  "Jacoby Brissett",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.085,
                                          "epaRk":  18,
                                          "sr":  44.4,
@@ -712,7 +712,7 @@
                           },
                   "DEN":  {
                               "name":  "Broncos",
-                              "wl":  "2-2",
+                              "wl":  "3-2",
                               "pr":  2.96,
                               "fpi":  1.21,
                               "fpiOff":  null,
@@ -762,7 +762,7 @@
                           },
                   "DET":  {
                               "name":  "Lions",
-                              "wl":  "2-2",
+                              "wl":  "3-2",
                               "pr":  2.63,
                               "fpi":  1.34,
                               "fpiOff":  null,
@@ -899,8 +899,8 @@
                               "rswr":  31,
                               "rswrRk":  7,
                               "qb":  {
-                                         "name":  "C.Stroud",
-                                         "status":  "snap count -- started Wk 4 (15 snaps), no depth chart",
+                                         "name":  "C.J. Stroud",
+                                         "status":  "depth chart -- started Wk 4",
                                          "epa":  0.298,
                                          "epaRk":  5,
                                          "sr":  53.9,
@@ -1062,7 +1062,7 @@
                          },
                   "LAC":  {
                               "name":  "Chargers",
-                              "wl":  "0-4",
+                              "wl":  "0-5",
                               "pr":  1.83,
                               "fpi":  -0.37,
                               "fpiOff":  null,
@@ -1612,7 +1612,7 @@
                           },
                   "SEA":  {
                               "name":  "Seahawks",
-                              "wl":  "3-1",
+                              "wl":  "3-2",
                               "pr":  1.35,
                               "fpi":  3.99,
                               "fpiOff":  null,
@@ -1662,7 +1662,7 @@
                           },
                   "SF":  {
                              "name":  "49ers",
-                             "wl":  "4-0",
+                             "wl":  "5-0",
                              "pr":  1.67,
                              "fpi":  6.86,
                              "fpiOff":  null,

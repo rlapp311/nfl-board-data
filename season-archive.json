@@ -48,34 +48,14 @@
               "week":  5,
               "games":  [
                             {
-                                "id":  "DENLAC",
-                                "away":  "DEN",
-                                "home":  "LAC",
+                                "id":  "BALATL",
+                                "away":  "BAL",
+                                "home":  "ATL",
                                 "day":  "Sun 10/11",
-                                "time":  "4:05p ET",
-                                "circa":  3.5,
-                                "lookahead":  2.5,
-                                "circaOpen":  3.5
-                            },
-                            {
-                                "id":  "DETARI",
-                                "away":  "DET",
-                                "home":  "ARI",
-                                "day":  "Sun 10/11",
-                                "time":  "4:25p ET",
-                                "circa":  4.5,
-                                "lookahead":  5.5,
-                                "circaOpen":  4.5
-                            },
-                            {
-                                "id":  "SFSEA",
-                                "away":  "SF",
-                                "home":  "SEA",
-                                "day":  "Sun 10/11",
-                                "time":  "4:25p ET",
+                                "time":  "8:20p ET",
                                 "circa":  -3,
-                                "lookahead":  -3,
-                                "circaOpen":  -3
+                                "lookahead":  6,
+                                "circaOpen":  4
                             },
                             {
                                 "id":  "PHIJAX",
@@ -168,14 +148,34 @@
                                 "circaOpen":  -3
                             },
                             {
-                                "id":  "BALATL",
-                                "away":  "BAL",
-                                "home":  "ATL",
+                                "id":  "DENLAC",
+                                "away":  "DEN",
+                                "home":  "LAC",
                                 "day":  "Sun 10/11",
-                                "time":  "8:20p ET",
+                                "time":  "4:05p ET",
+                                "circa":  3.5,
+                                "lookahead":  2.5,
+                                "circaOpen":  3.5
+                            },
+                            {
+                                "id":  "DETARI",
+                                "away":  "DET",
+                                "home":  "ARI",
+                                "day":  "Sun 10/11",
+                                "time":  "4:25p ET",
+                                "circa":  4.5,
+                                "lookahead":  5.5,
+                                "circaOpen":  4.5
+                            },
+                            {
+                                "id":  "SFSEA",
+                                "away":  "SF",
+                                "home":  "SEA",
+                                "day":  "Sun 10/11",
+                                "time":  "4:25p ET",
                                 "circa":  -3,
-                                "lookahead":  6,
-                                "circaOpen":  4
+                                "lookahead":  -3,
+                                "circaOpen":  -3
                             },
                             {
                                 "id":  "BUFLAR",
