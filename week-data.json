@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  5,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-12T15:03:21Z",
-    "generatedAt":  "2026-10-12T15:24:03Z",
+    "linesAsOf":  "2026-10-12T15:33:30Z",
+    "generatedAt":  "2026-10-12T15:38:44Z",
     "analyticsThrough":  "PR and FPI through Week 4",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1702,7 +1702,7 @@
                                        "day":  "Sun 10/18",
                                        "time":  "1:00p ET",
                                        "circa":  3,
-                                       "book":  "DK",
+                                       "book":  "CIRCA",
                                        "history":  [
                                                        3,
                                                        3
@@ -1715,7 +1715,7 @@
                                        "day":  "Sun 10/18",
                                        "time":  "1:00p ET",
                                        "circa":  4.5,
-                                       "book":  "DK",
+                                       "book":  "CIRCA",
                                        "history":  [
                                                        3.5,
                                                        4.5
@@ -1844,17 +1844,17 @@
                                        "home":  "SF",
                                        "day":  "Mon 10/19",
                                        "time":  "8:15p ET",
-                                       "circa":  -8,
+                                       "circa":  -7.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        -8,
-                                                       -8
+                                                       -7.5
                                                    ]
                                    }
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-10-12T15:24:04Z"
+                     "postedAt":  "2026-10-12T15:38:44Z"
                  }
 }
 
