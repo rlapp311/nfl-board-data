@@ -3,7 +3,7 @@
     "week":  6,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-13T04:19:22Z",
-    "generatedAt":  "2026-10-13T05:23:53Z",
+    "generatedAt":  "2026-10-13T05:38:42Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       2.5,
                                       3
                                   ],
-                      "circaOpen":  2.5,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  2.5
                   },
                   {
                       "id":  "HOUJAX",
@@ -75,8 +75,8 @@
                                       -3,
                                       -2.5
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "CHIATL",
@@ -90,8 +90,8 @@
                                       3,
                                       3
                                   ],
-                      "circaOpen":  3,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  3
                   },
                   {
                       "id":  "BALCLE",
@@ -105,8 +105,8 @@
                                       4.5,
                                       4.5
                                   ],
-                      "circaOpen":  4.5,
-                      "lookahead":  3.5
+                      "lookahead":  3.5,
+                      "circaOpen":  4.5
                   },
                   {
                       "id":  "TENIND",
@@ -120,8 +120,8 @@
                                       -7,
                                       -7
                                   ],
-                      "circaOpen":  -7,
-                      "lookahead":  -6.5
+                      "lookahead":  -6.5,
+                      "circaOpen":  -7
                   },
                   {
                       "id":  "NYJNE",
@@ -135,8 +135,8 @@
                                       -7.5,
                                       -7
                                   ],
-                      "circaOpen":  -7.5,
-                      "lookahead":  -7
+                      "lookahead":  -7,
+                      "circaOpen":  -7.5
                   },
                   {
                       "id":  "NONYG",
@@ -150,8 +150,8 @@
                                       1,
                                       -1
                                   ],
-                      "circaOpen":  1,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  1
                   },
                   {
                       "id":  "CARPHI",
@@ -165,8 +165,8 @@
                                       -1.5,
                                       -1
                                   ],
-                      "circaOpen":  -1.5,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -1.5
                   },
                   {
                       "id":  "PITTB",
@@ -180,8 +180,8 @@
                                       2.5,
                                       3
                                   ],
-                      "circaOpen":  2.5,
-                      "lookahead":  3
+                      "lookahead":  3,
+                      "circaOpen":  2.5
                   },
                   {
                       "id":  "ARILAR",
@@ -195,8 +195,8 @@
                                       -12.5,
                                       -12.5
                                   ],
-                      "circaOpen":  -12.5,
-                      "lookahead":  -10.5
+                      "lookahead":  -10.5,
+                      "circaOpen":  -12.5
                   },
                   {
                       "id":  "LACKC",
@@ -210,8 +210,8 @@
                                       -7.5,
                                       -8
                                   ],
-                      "circaOpen":  -7.5,
-                      "lookahead":  -7.5
+                      "lookahead":  -7.5,
+                      "circaOpen":  -7.5
                   },
                   {
                       "id":  "BUFLV",
@@ -225,8 +225,8 @@
                                       6,
                                       6
                                   ],
-                      "circaOpen":  6,
-                      "lookahead":  4.5
+                      "lookahead":  4.5,
+                      "circaOpen":  6
                   },
                   {
                       "id":  "DALGB",
@@ -240,8 +240,8 @@
                                       0,
                                       -1
                                   ],
-                      "circaOpen":  0,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  0
                   },
                   {
                       "id":  "WASSF",
@@ -255,8 +255,8 @@
                                       -8,
                                       -7.5
                                   ],
-                      "circaOpen":  -8,
-                      "lookahead":  -7.5
+                      "lookahead":  -7.5,
+                      "circaOpen":  -8
                   }
               ],
     "teams":  {
