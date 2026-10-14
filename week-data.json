@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-14T13:21:07Z",
-    "generatedAt":  "2026-10-14T14:08:56Z",
+    "linesAsOf":  "2026-10-14T14:21:15Z",
+    "generatedAt":  "2026-10-14T14:23:44Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -99,11 +99,11 @@
                       "home":  "CLE",
                       "day":  "Sun 10/18",
                       "time":  "1:00p ET",
-                      "circa":  4.5,
+                      "circa":  5,
                       "book":  "CIRCA",
                       "history":  [
                                       4.5,
-                                      4.5
+                                      5
                                   ],
                       "lookahead":  3.5,
                       "circaOpen":  4.5
