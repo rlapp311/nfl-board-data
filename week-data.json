@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-14T18:21:47Z",
-    "generatedAt":  "2026-10-14T18:39:39Z",
+    "linesAsOf":  "2026-10-14T19:21:48Z",
+    "generatedAt":  "2026-10-14T19:24:24Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-14T16:09:04Z",
+                                              "asOf":  "2026-10-14T19:24:24Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -84,11 +84,11 @@
                       "home":  "ATL",
                       "day":  "Sun 10/18",
                       "time":  "1:00p ET",
-                      "circa":  2.5,
+                      "circa":  1.5,
                       "book":  "CIRCA",
                       "history":  [
                                       3,
-                                      2.5
+                                      1.5
                                   ],
                       "lookahead":  1.5,
                       "circaOpen":  3
