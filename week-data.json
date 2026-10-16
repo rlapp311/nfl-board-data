@@ -3,7 +3,7 @@
     "week":  6,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-16T18:25:01Z",
-    "generatedAt":  "2026-10-16T19:09:19Z",
+    "generatedAt":  "2026-10-16T19:24:18Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-16T16:23:59Z",
+                                              "asOf":  "2026-10-16T19:24:18Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -385,7 +385,7 @@
                               "rswrRk":  11,
                               "qb":  {
                                          "name":  "Lamar Jackson",
-                                         "status":  "depth chart -- listed questionable -- Tyler Huntley started Wk 5",
+                                         "status":  "depth chart -- listed out -- Tyler Huntley started Wk 5",
                                          "epa":  0.739,
                                          "epaRk":  1,
                                          "sr":  68.5,
@@ -1735,7 +1735,7 @@
                              "rswrRk":  26,
                              "qb":  {
                                         "name":  "Baker Mayfield",
-                                        "status":  "depth chart -- listed doubtful -- Jalon Daniels started Wk 5",
+                                        "status":  "depth chart -- listed out -- Jalon Daniels started Wk 5",
                                         "epa":  -0.323,
                                         "epaRk":  32,
                                         "sr":  35.2,
