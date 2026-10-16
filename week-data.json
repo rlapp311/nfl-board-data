@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-16T02:24:32Z",
-    "generatedAt":  "2026-10-16T04:23:58Z",
+    "linesAsOf":  "2026-10-16T04:24:33Z",
+    "generatedAt":  "2026-10-16T04:38:52Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "SEADEN",
-                      "away":  "SEA",
-                      "home":  "DEN",
-                      "day":  "Thu 10/15",
-                      "time":  "8:15p ET",
-                      "circa":  2.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      2.5,
-                                      2.5
-                                  ],
-                      "lookahead":  1.5,
-                      "circaOpen":  2.5
-                  },
                   {
                       "id":  "HOUJAX",
                       "away":  "HOU",
