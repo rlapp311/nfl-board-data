@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-10-16T03:24:17.2687517Z",
+    "GeneratedAt":  "2026-10-16T06:24:27.7524883Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -799,10 +799,10 @@
                       "date":  "2026-10-16T00:15:00.0000000Z",
                       "away":  "SEA",
                       "home":  "DEN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
+                      "awayScore":  14,
+                      "homeScore":  17,
+                      "ot":  true,
+                      "final":  true
                   },
                   {
                       "week":  6,
