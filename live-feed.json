@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T06:25:48Z",
+    "generatedAt":  "2026-10-17T07:25:48Z",
     "byPair":  {
                    "HOU-JAX":  {
                                    "gameCode":  "20261018NFL00041",
@@ -57,9 +57,9 @@
                                    "homeLastName":  "Browns",
                                    "dateLabel":  "Sunday, Oct 18",
                                    "dk":  {
-                                              "awayHandle":  63,
+                                              "awayHandle":  64,
                                               "awayBet":  63,
-                                              "homeHandle":  37,
+                                              "homeHandle":  36,
                                               "homeBet":  37,
                                               "awaySpread":  -3,
                                               "homeSpread":  3
@@ -89,10 +89,10 @@
                                               "homeSpread":  -7
                                           },
                                    "circa":  {
-                                                 "awayHandle":  73,
-                                                 "awayBet":  48,
-                                                 "homeHandle":  27,
-                                                 "homeBet":  52,
+                                                 "awayHandle":  75,
+                                                 "awayBet":  50,
+                                                 "homeHandle":  25,
+                                                 "homeBet":  50,
                                                  "awaySpread":  7,
                                                  "homeSpread":  -7
                                              }
@@ -177,9 +177,9 @@
                                   "homeLastName":  "Buccaneers",
                                   "dateLabel":  "Sunday, Oct 18",
                                   "dk":  {
-                                             "awayHandle":  45,
+                                             "awayHandle":  48,
                                              "awayBet":  72,
-                                             "homeHandle":  55,
+                                             "homeHandle":  52,
                                              "homeBet":  28,
                                              "awaySpread":  -2.5,
                                              "homeSpread":  2.5
@@ -202,9 +202,9 @@
                                    "dateLabel":  "Sunday, Oct 18",
                                    "dk":  {
                                               "awayHandle":  27,
-                                              "awayBet":  43,
+                                              "awayBet":  42,
                                               "homeHandle":  73,
-                                              "homeBet":  57,
+                                              "homeBet":  58,
                                               "awaySpread":  12.5,
                                               "homeSpread":  -12.5
                                           },
