@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-17T19:56:24Z",
-    "generatedAt":  "2026-10-17T20:24:10Z",
+    "linesAsOf":  "2026-10-17T20:26:26Z",
+    "generatedAt":  "2026-10-17T20:39:35Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-17T17:39:15Z",
+                                              "asOf":  "2026-10-17T20:39:34Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1534,14 +1534,14 @@
                               "rswr":  32,
                               "rswrRk":  4,
                               "qb":  {
-                                         "name":  "Jalen Hurts",
-                                         "status":  "depth chart -- listed out -- started Wk 5",
+                                         "name":  "Tanner McKee",
+                                         "status":  "depth chart -- Jalen Hurts started Wk 5 -- season numbers are J.Hurts\u0027s",
                                          "epa":  -0.015,
                                          "epaRk":  24,
                                          "sr":  36.5,
                                          "srRk":  31,
                                          "plays":  85,
-                                         "numbersAreStarters":  true
+                                         "numbersAreStarters":  false
                                      },
                               "note":  ""
                           },
