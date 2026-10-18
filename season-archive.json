@@ -78,7 +78,7 @@
                                 "home":  "ATL",
                                 "day":  "Sun 10/18",
                                 "time":  "1:00p ET",
-                                "circa":  -1,
+                                "circa":  0,
                                 "lookahead":  1.5,
                                 "circaOpen":  3
                             },
@@ -88,7 +88,7 @@
                                 "home":  "CLE",
                                 "day":  "Sun 10/18",
                                 "time":  "1:00p ET",
-                                "circa":  3.5,
+                                "circa":  3,
                                 "lookahead":  3.5,
                                 "circaOpen":  4.5
                             },
@@ -118,7 +118,7 @@
                                 "home":  "NYG",
                                 "day":  "Sun 10/18",
                                 "time":  "1:00p ET",
-                                "circa":  0,
+                                "circa":  1,
                                 "lookahead":  1.5,
                                 "circaOpen":  1
                             },
