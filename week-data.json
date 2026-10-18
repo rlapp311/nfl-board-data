@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-18T06:57:13Z",
-    "generatedAt":  "2026-10-18T07:24:11Z",
+    "linesAsOf":  "2026-10-18T07:27:21Z",
+    "generatedAt":  "2026-10-18T07:39:17Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -99,11 +99,11 @@
                       "home":  "IND",
                       "day":  "Sun 10/18",
                       "time":  "1:00p ET",
-                      "circa":  -7,
+                      "circa":  -6.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -7,
-                                      -7
+                                      -6.5
                                   ],
                       "lookahead":  -6.5,
                       "circaOpen":  -7
