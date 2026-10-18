@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-10-17T04:09:09.3115104-04:00",
+    "GeneratedAt":  "2026-10-18T04:09:18.3555035-04:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -65,6 +65,16 @@
                       "Rank":  null
                   },
                   {
+                      "Abbr":  "CHI",
+                      "Team":  "Chicago Bears",
+                      "TeamId":  "3",
+                      "Fpi":  3.234,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
                       "Abbr":  "NE",
                       "Team":  "New England Patriots",
                       "TeamId":  "17",
@@ -109,16 +119,6 @@
                       "Team":  "Houston Texans",
                       "TeamId":  "34",
                       "Fpi":  1.786,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
-                      "Abbr":  "CHI",
-                      "Team":  "Chicago Bears",
-                      "TeamId":  "3",
-                      "Fpi":  1.728,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -205,20 +205,20 @@
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "LV",
-                      "Team":  "Las Vegas Raiders",
-                      "TeamId":  "13",
-                      "Fpi":  -2.739,
+                      "Abbr":  "ATL",
+                      "Team":  "Atlanta Falcons",
+                      "TeamId":  "1",
+                      "Fpi":  -2.562,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "ATL",
-                      "Team":  "Atlanta Falcons",
-                      "TeamId":  "1",
-                      "Fpi":  -2.746,
+                      "Abbr":  "LV",
+                      "Team":  "Las Vegas Raiders",
+                      "TeamId":  "13",
+                      "Fpi":  -2.739,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
