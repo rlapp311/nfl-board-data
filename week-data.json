@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-18T14:58:04Z",
-    "generatedAt":  "2026-10-18T15:09:11Z",
+    "linesAsOf":  "2026-10-18T15:58:11Z",
+    "generatedAt":  "2026-10-18T16:09:42Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-18T12:24:14Z",
+                                              "asOf":  "2026-10-18T15:54:48Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -60,8 +60,8 @@
                                       -3,
                                       -2.5
                                   ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3
+                      "circaOpen":  -3,
+                      "lookahead":  -3
                   },
                   {
                       "id":  "CHIATL",
@@ -75,8 +75,8 @@
                                       3,
                                       0
                                   ],
-                      "lookahead":  1.5,
-                      "circaOpen":  3
+                      "circaOpen":  3,
+                      "lookahead":  1.5
                   },
                   {
                       "id":  "BALCLE",
@@ -90,8 +90,8 @@
                                       4.5,
                                       3
                                   ],
-                      "lookahead":  3.5,
-                      "circaOpen":  4.5
+                      "circaOpen":  4.5,
+                      "lookahead":  3.5
                   },
                   {
                       "id":  "TENIND",
@@ -105,8 +105,8 @@
                                       -7,
                                       -6.5
                                   ],
-                      "lookahead":  -6.5,
-                      "circaOpen":  -7
+                      "circaOpen":  -7,
+                      "lookahead":  -6.5
                   },
                   {
                       "id":  "NYJNE",
@@ -120,8 +120,8 @@
                                       -7.5,
                                       -7
                                   ],
-                      "lookahead":  -7,
-                      "circaOpen":  -7.5
+                      "circaOpen":  -7.5,
+                      "lookahead":  -7
                   },
                   {
                       "id":  "NONYG",
@@ -135,8 +135,8 @@
                                       1,
                                       1
                                   ],
-                      "lookahead":  1.5,
-                      "circaOpen":  1
+                      "circaOpen":  1,
+                      "lookahead":  1.5
                   },
                   {
                       "id":  "CARPHI",
@@ -150,8 +150,8 @@
                                       -1.5,
                                       3
                                   ],
-                      "lookahead":  -2.5,
-                      "circaOpen":  -1.5
+                      "circaOpen":  -1.5,
+                      "lookahead":  -2.5
                   },
                   {
                       "id":  "PITTB",
@@ -165,8 +165,8 @@
                                       2.5,
                                       1.5
                                   ],
-                      "lookahead":  3,
-                      "circaOpen":  2.5
+                      "circaOpen":  2.5,
+                      "lookahead":  3
                   },
                   {
                       "id":  "ARILAR",
@@ -180,8 +180,8 @@
                                       -12.5,
                                       -13
                                   ],
-                      "lookahead":  -10.5,
-                      "circaOpen":  -12.5
+                      "circaOpen":  -12.5,
+                      "lookahead":  -10.5
                   },
                   {
                       "id":  "LACKC",
@@ -189,14 +189,14 @@
                       "home":  "KC",
                       "day":  "Sun 10/18",
                       "time":  "4:25p ET",
-                      "circa":  -7.5,
+                      "circa":  -7,
                       "book":  "CIRCA",
                       "history":  [
                                       -7.5,
-                                      -7.5
+                                      -7
                                   ],
-                      "lookahead":  -7.5,
-                      "circaOpen":  -7.5
+                      "circaOpen":  -7.5,
+                      "lookahead":  -7.5
                   },
                   {
                       "id":  "BUFLV",
@@ -210,8 +210,8 @@
                                       6,
                                       4.5
                                   ],
-                      "lookahead":  4.5,
-                      "circaOpen":  6
+                      "circaOpen":  6,
+                      "lookahead":  4.5
                   },
                   {
                       "id":  "DALGB",
@@ -225,8 +225,8 @@
                                       0,
                                       -1
                                   ],
-                      "lookahead":  -3,
-                      "circaOpen":  0
+                      "circaOpen":  0,
+                      "lookahead":  -3
                   },
                   {
                       "id":  "WASSF",
@@ -240,8 +240,8 @@
                                       -8,
                                       -7.5
                                   ],
-                      "lookahead":  -7.5,
-                      "circaOpen":  -8
+                      "circaOpen":  -8,
+                      "lookahead":  -7.5
                   }
               ],
     "teams":  {
@@ -535,7 +535,7 @@
                               "rswrRk":  29,
                               "qb":  {
                                          "name":  "Caleb Williams",
-                                         "status":  "depth chart -- listed questionable -- Tyson Bagent started Wk 5",
+                                         "status":  "depth chart -- Tyson Bagent started Wk 5",
                                          "epa":  0.248,
                                          "epaRk":  6,
                                          "sr":  43.9,
