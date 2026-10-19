@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-19T05:59:58Z",
-    "generatedAt":  "2026-10-19T06:24:17Z",
+    "linesAsOf":  "2026-10-19T06:30:05Z",
+    "generatedAt":  "2026-10-19T06:39:27Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-19T03:24:34Z",
+                                              "asOf":  "2026-10-19T06:39:27Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -467,7 +467,7 @@
                           },
                   "DAL":  {
                               "name":  "Cowboys",
-                              "wl":  "2-3",
+                              "wl":  "2-4",
                               "pr":  2.17,
                               "fpi":  2.46,
                               "fpiOff":  null,
@@ -617,7 +617,7 @@
                           },
                   "GB":  {
                              "name":  "Packers",
-                             "wl":  "3-2",
+                             "wl":  "4-2",
                              "pr":  1.5,
                              "fpi":  0.71,
                              "fpiOff":  null,
@@ -1666,6 +1666,195 @@
                               "note":  ""
                           }
               },
-    "nextWeek":  null
+    "nextWeek":  {
+                     "week":  7,
+                     "games":  [
+                                   {
+                                       "id":  "NECHI",
+                                       "away":  "NE",
+                                       "home":  "CHI",
+                                       "day":  "Thu 10/22",
+                                       "time":  "8:15p ET",
+                                       "circa":  -3,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -3,
+                                                       -3
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "PITNO",
+                                       "away":  "PIT",
+                                       "home":  "NO",
+                                       "day":  "Sun 10/25",
+                                       "time":  "9:30a ET",
+                                       "circa":  2.5,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       2.5,
+                                                       2.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "SFATL",
+                                       "away":  "SF",
+                                       "home":  "ATL",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  4,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       4,
+                                                       4
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "CLETEN",
+                                       "away":  "CLE",
+                                       "home":  "TEN",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  2,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       2,
+                                                       2
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "INDMIN",
+                                       "away":  "IND",
+                                       "home":  "MIN",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  -6,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -6,
+                                                       -6
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "MIANYJ",
+                                       "away":  "MIA",
+                                       "home":  "NYJ",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  -5.5,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -5.5,
+                                                       -5.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "TBCAR",
+                                       "away":  "TB",
+                                       "home":  "CAR",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  -3.5,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -3.5,
+                                                       -3.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "CINBAL",
+                                       "away":  "CIN",
+                                       "home":  "BAL",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  -3,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -3,
+                                                       -3
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "NYGHOU",
+                                       "away":  "NYG",
+                                       "home":  "HOU",
+                                       "day":  "Sun 10/25",
+                                       "time":  "1:00p ET",
+                                       "circa":  -8.5,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -8.5,
+                                                       -8.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "DENARI",
+                                       "away":  "DEN",
+                                       "home":  "ARI",
+                                       "day":  "Sun 10/25",
+                                       "time":  "4:05p ET",
+                                       "circa":  4,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       4,
+                                                       4
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "GBDET",
+                                       "away":  "GB",
+                                       "home":  "DET",
+                                       "day":  "Sun 10/25",
+                                       "time":  "4:25p ET",
+                                       "circa":  -3,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -3,
+                                                       -3
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "LARLV",
+                                       "away":  "LAR",
+                                       "home":  "LV",
+                                       "day":  "Sun 10/25",
+                                       "time":  "4:25p ET",
+                                       "circa":  5.5,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       5.5,
+                                                       5.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "KCSEA",
+                                       "away":  "KC",
+                                       "home":  "SEA",
+                                       "day":  "Sun 10/25",
+                                       "time":  "8:20p ET",
+                                       "circa":  -2.5,
+                                       "book":  "CIRCA",
+                                       "history":  [
+                                                       -2.5,
+                                                       -2.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "DALPHI",
+                                       "away":  "DAL",
+                                       "home":  "PHI",
+                                       "day":  "Mon 10/26",
+                                       "time":  "8:15p ET",
+                                       "circa":  4.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       4.5,
+                                                       4.5
+                                                   ]
+                                   }
+                               ],
+                     "scheduled":  14,
+                     "priced":  14,
+                     "postedAt":  "2026-10-19T06:39:27Z"
+                 }
 }
 
