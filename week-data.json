@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-19T21:32:02Z",
-    "generatedAt":  "2026-10-19T21:39:25Z",
+    "linesAsOf":  "2026-10-19T22:02:15Z",
+    "generatedAt":  "2026-10-19T22:09:30Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -54,11 +54,11 @@
                       "home":  "SF",
                       "day":  "Mon 10/19",
                       "time":  "8:15p ET",
-                      "circa":  -7.5,
+                      "circa":  -7,
                       "book":  "CIRCA",
                       "history":  [
                                       -8,
-                                      -7.5
+                                      -7
                                   ],
                       "lookahead":  -7.5,
                       "circaOpen":  -8
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-10-19T21:39:25Z"
+                     "postedAt":  "2026-10-19T22:09:31Z"
                  }
 }
 
