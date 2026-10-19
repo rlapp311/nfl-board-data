@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-19T23:17:21Z",
+    "generatedAt":  "2026-10-19T23:32:22Z",
     "byPair":  {
                    "WAS-SF":  {
                                   "gameCode":  "20261019NFL00060",
@@ -9,18 +9,18 @@
                                   "homeLastName":  "49ers",
                                   "dateLabel":  "Monday, Oct 19",
                                   "dk":  {
-                                             "awayHandle":  56,
+                                             "awayHandle":  60,
                                              "awayBet":  39,
-                                             "homeHandle":  44,
+                                             "homeHandle":  40,
                                              "homeBet":  61,
                                              "awaySpread":  7.5,
                                              "homeSpread":  -7.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  64,
-                                                "awayBet":  32,
-                                                "homeHandle":  36,
-                                                "homeBet":  68,
+                                                "awayHandle":  60,
+                                                "awayBet":  31,
+                                                "homeHandle":  40,
+                                                "homeBet":  69,
                                                 "awaySpread":  7,
                                                 "homeSpread":  -7
                                             }
