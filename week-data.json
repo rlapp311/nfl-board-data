@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-19T14:00:47Z",
-    "generatedAt":  "2026-10-19T14:09:32Z",
+    "linesAsOf":  "2026-10-19T14:30:48Z",
+    "generatedAt":  "2026-10-19T14:39:34Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1806,7 +1806,7 @@
                                        "day":  "Sun 10/25",
                                        "time":  "4:25p ET",
                                        "circa":  -3,
-                                       "book":  "DK",
+                                       "book":  "CIRCA",
                                        "history":  [
                                                        -3,
                                                        -3
@@ -1844,17 +1844,17 @@
                                        "home":  "PHI",
                                        "day":  "Mon 10/26",
                                        "time":  "8:15p ET",
-                                       "circa":  4.5,
-                                       "book":  "DK",
+                                       "circa":  4,
+                                       "book":  "CIRCA",
                                        "history":  [
                                                        4.5,
-                                                       4.5
+                                                       4
                                                    ]
                                    }
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-10-19T14:09:32Z"
+                     "postedAt":  "2026-10-19T14:39:34Z"
                  }
 }
 
