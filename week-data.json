@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-19T14:30:48Z",
-    "generatedAt":  "2026-10-19T14:54:30Z",
+    "linesAsOf":  "2026-10-19T15:00:50Z",
+    "generatedAt":  "2026-10-19T15:09:23Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1753,11 +1753,11 @@
                                        "home":  "CAR",
                                        "day":  "Sun 10/25",
                                        "time":  "1:00p ET",
-                                       "circa":  -3.5,
+                                       "circa":  -3,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        -3.5,
-                                                       -3.5
+                                                       -3
                                                    ]
                                    },
                                    {
@@ -1779,11 +1779,11 @@
                                        "home":  "HOU",
                                        "day":  "Sun 10/25",
                                        "time":  "1:00p ET",
-                                       "circa":  -8.5,
+                                       "circa":  -9,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        -8.5,
-                                                       -8.5
+                                                       -9
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-10-19T14:54:30Z"
+                     "postedAt":  "2026-10-19T15:09:24Z"
                  }
 }
 
