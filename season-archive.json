@@ -63,6 +63,16 @@
               "week":  6,
               "games":  [
                             {
+                                "id":  "DALGB",
+                                "away":  "DAL",
+                                "home":  "GB",
+                                "day":  "Sun 10/18",
+                                "time":  "8:20p ET",
+                                "circa":  1,
+                                "lookahead":  -3,
+                                "circaOpen":  0
+                            },
+                            {
                                 "id":  "HOUJAX",
                                 "away":  "HOU",
                                 "home":  "JAX",
@@ -158,7 +168,7 @@
                                 "home":  "KC",
                                 "day":  "Sun 10/18",
                                 "time":  "4:25p ET",
-                                "circa":  -7,
+                                "circa":  -7.5,
                                 "lookahead":  -7.5,
                                 "circaOpen":  -7.5
                             },
@@ -171,16 +181,6 @@
                                 "circa":  4.5,
                                 "lookahead":  4.5,
                                 "circaOpen":  6
-                            },
-                            {
-                                "id":  "DALGB",
-                                "away":  "DAL",
-                                "home":  "GB",
-                                "day":  "Sun 10/18",
-                                "time":  "8:20p ET",
-                                "circa":  -1,
-                                "lookahead":  -3,
-                                "circaOpen":  0
                             },
                             {
                                 "id":  "WASSF",
