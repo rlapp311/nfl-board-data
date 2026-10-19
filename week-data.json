@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  6,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-19T21:01:51Z",
-    "generatedAt":  "2026-10-19T21:24:20Z",
+    "linesAsOf":  "2026-10-19T21:32:02Z",
+    "generatedAt":  "2026-10-19T21:39:25Z",
     "analyticsThrough":  "PR and FPI through Week 5",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1688,11 +1688,11 @@
                                        "home":  "NO",
                                        "day":  "Sun 10/25",
                                        "time":  "9:30a ET",
-                                       "circa":  2.5,
+                                       "circa":  3,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        2.5,
-                                                       2.5
+                                                       3
                                                    ]
                                    },
                                    {
@@ -1792,11 +1792,11 @@
                                        "home":  "ARI",
                                        "day":  "Sun 10/25",
                                        "time":  "4:05p ET",
-                                       "circa":  5,
+                                       "circa":  4,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        4,
-                                                       5
+                                                       4
                                                    ]
                                    },
                                    {
@@ -1805,11 +1805,11 @@
                                        "home":  "DET",
                                        "day":  "Sun 10/25",
                                        "time":  "4:25p ET",
-                                       "circa":  -3,
+                                       "circa":  -3.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        -3,
-                                                       -3
+                                                       -3.5
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-10-19T21:24:20Z"
+                     "postedAt":  "2026-10-19T21:39:25Z"
                  }
 }
 
