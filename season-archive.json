@@ -73,6 +73,151 @@
                                 "circaOpen":  -8
                             }
                         ]
+          },
+    "7":  {
+              "week":  7,
+              "games":  [
+                            {
+                                "id":  "NECHI",
+                                "away":  "NE",
+                                "home":  "CHI",
+                                "day":  "Thu 10/22",
+                                "time":  "8:15p ET",
+                                "circa":  -3,
+                                "lookahead":  -1.5,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "PITNO",
+                                "away":  "PIT",
+                                "home":  "NO",
+                                "day":  "Sun 10/25",
+                                "time":  "9:30a ET",
+                                "circa":  3.5,
+                                "lookahead":  2.5,
+                                "circaOpen":  2
+                            },
+                            {
+                                "id":  "SFATL",
+                                "away":  "SF",
+                                "home":  "ATL",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  4,
+                                "lookahead":  4.5,
+                                "circaOpen":  4
+                            },
+                            {
+                                "id":  "CLETEN",
+                                "away":  "CLE",
+                                "home":  "TEN",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  2,
+                                "lookahead":  1.5,
+                                "circaOpen":  2
+                            },
+                            {
+                                "id":  "INDMIN",
+                                "away":  "IND",
+                                "home":  "MIN",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  -6.5,
+                                "lookahead":  -5.5,
+                                "circaOpen":  -6.5
+                            },
+                            {
+                                "id":  "MIANYJ",
+                                "away":  "MIA",
+                                "home":  "NYJ",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  -5,
+                                "lookahead":  -4.5,
+                                "circaOpen":  -5.5
+                            },
+                            {
+                                "id":  "TBCAR",
+                                "away":  "TB",
+                                "home":  "CAR",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  -3,
+                                "lookahead":  -3,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "CINBAL",
+                                "away":  "CIN",
+                                "home":  "BAL",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  -3,
+                                "lookahead":  -3.5,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "NYGHOU",
+                                "away":  "NYG",
+                                "home":  "HOU",
+                                "day":  "Sun 10/25",
+                                "time":  "1:00p ET",
+                                "circa":  -10,
+                                "lookahead":  -7,
+                                "circaOpen":  -8.5
+                            },
+                            {
+                                "id":  "DENARI",
+                                "away":  "DEN",
+                                "home":  "ARI",
+                                "day":  "Sun 10/25",
+                                "time":  "4:05p ET",
+                                "circa":  4,
+                                "lookahead":  5.5,
+                                "circaOpen":  4
+                            },
+                            {
+                                "id":  "GBDET",
+                                "away":  "GB",
+                                "home":  "DET",
+                                "day":  "Sun 10/25",
+                                "time":  "4:25p ET",
+                                "circa":  -3,
+                                "lookahead":  -3,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "LARLV",
+                                "away":  "LAR",
+                                "home":  "LV",
+                                "day":  "Sun 10/25",
+                                "time":  "4:25p ET",
+                                "circa":  4,
+                                "lookahead":  7,
+                                "circaOpen":  6
+                            },
+                            {
+                                "id":  "KCSEA",
+                                "away":  "KC",
+                                "home":  "SEA",
+                                "day":  "Sun 10/25",
+                                "time":  "8:20p ET",
+                                "circa":  -2.5,
+                                "lookahead":  -2.5,
+                                "circaOpen":  -2.5
+                            },
+                            {
+                                "id":  "DALPHI",
+                                "away":  "DAL",
+                                "home":  "PHI",
+                                "day":  "Mon 10/26",
+                                "time":  "8:15p ET",
+                                "circa":  4.5,
+                                "lookahead":  -1.5,
+                                "circaOpen":  4
+                            }
+                        ]
           }
 }
 
