@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-20T04:17:37Z",
-    "generatedAt":  "2026-10-20T06:09:36Z",
+    "linesAsOf":  "2026-10-20T06:17:42Z",
+    "generatedAt":  "2026-10-20T06:24:26Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -1.5
+                      "lookahead":  -1.5,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "PITNO",
@@ -75,8 +75,8 @@
                                       2,
                                       3.5
                                   ],
-                      "circaOpen":  2,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  2
                   },
                   {
                       "id":  "SFATL",
@@ -90,8 +90,8 @@
                                       4,
                                       4
                                   ],
-                      "circaOpen":  4,
-                      "lookahead":  4.5
+                      "lookahead":  4.5,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "CLETEN",
@@ -105,8 +105,8 @@
                                       2,
                                       2
                                   ],
-                      "circaOpen":  2,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  2
                   },
                   {
                       "id":  "INDMIN",
@@ -120,8 +120,8 @@
                                       -6.5,
                                       -6.5
                                   ],
-                      "circaOpen":  -6.5,
-                      "lookahead":  -5.5
+                      "lookahead":  -5.5,
+                      "circaOpen":  -6.5
                   },
                   {
                       "id":  "MIANYJ",
@@ -135,8 +135,8 @@
                                       -5.5,
                                       -5
                                   ],
-                      "circaOpen":  -5.5,
-                      "lookahead":  -4.5
+                      "lookahead":  -4.5,
+                      "circaOpen":  -5.5
                   },
                   {
                       "id":  "TBCAR",
@@ -150,8 +150,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "CINBAL",
@@ -165,8 +165,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3.5
+                      "lookahead":  -3.5,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "NYGHOU",
@@ -180,8 +180,8 @@
                                       -8.5,
                                       -10
                                   ],
-                      "circaOpen":  -8.5,
-                      "lookahead":  -7
+                      "lookahead":  -7,
+                      "circaOpen":  -8.5
                   },
                   {
                       "id":  "DENARI",
@@ -195,8 +195,8 @@
                                       4,
                                       4
                                   ],
-                      "circaOpen":  4,
-                      "lookahead":  5.5
+                      "lookahead":  5.5,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "GBDET",
@@ -210,8 +210,8 @@
                                       -3,
                                       -3
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "LARLV",
@@ -225,8 +225,8 @@
                                       6,
                                       4
                                   ],
-                      "circaOpen":  6,
-                      "lookahead":  7
+                      "lookahead":  7,
+                      "circaOpen":  6
                   },
                   {
                       "id":  "KCSEA",
@@ -240,8 +240,8 @@
                                       -2.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "DALPHI",
@@ -255,8 +255,8 @@
                                       4,
                                       4.5
                                   ],
-                      "circaOpen":  4,
-                      "lookahead":  -1.5
+                      "lookahead":  -1.5,
+                      "circaOpen":  4
                   }
               ],
     "teams":  {
