@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-21T20:19:59Z",
-    "generatedAt":  "2026-10-21T21:09:28Z",
+    "linesAsOf":  "2026-10-21T21:20:02Z",
+    "generatedAt":  "2026-10-21T21:24:34Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -174,11 +174,11 @@
                       "home":  "HOU",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  -10.5,
+                      "circa":  -10,
                       "book":  "CIRCA",
                       "history":  [
                                       -8.5,
-                                      -10.5
+                                      -10
                                   ],
                       "lookahead":  -7,
                       "circaOpen":  -8.5
