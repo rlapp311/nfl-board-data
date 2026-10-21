@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T04:19:01Z",
+    "generatedAt":  "2026-10-21T05:19:03Z",
     "byPair":  {
                    "NE-CHI":  {
                                   "gameCode":  "20261022NFL00051",
@@ -9,9 +9,9 @@
                                   "homeLastName":  "Bears",
                                   "dateLabel":  "Thursday, Oct 22",
                                   "dk":  {
-                                             "awayHandle":  22,
+                                             "awayHandle":  23,
                                              "awayBet":  49,
-                                             "homeHandle":  78,
+                                             "homeHandle":  77,
                                              "homeBet":  51,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
@@ -226,9 +226,9 @@
                                    "dateLabel":  "Sunday, Oct 25",
                                    "dk":  {
                                               "awayHandle":  36,
-                                              "awayBet":  44,
+                                              "awayBet":  43,
                                               "homeHandle":  64,
-                                              "homeBet":  56,
+                                              "homeBet":  57,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
                                           },
