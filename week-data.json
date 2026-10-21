@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-21T16:19:24Z",
-    "generatedAt":  "2026-10-21T17:09:28Z",
+    "linesAsOf":  "2026-10-21T17:19:32Z",
+    "generatedAt":  "2026-10-21T17:24:33Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -159,11 +159,11 @@
                       "home":  "BAL",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  -3,
+                      "circa":  -2,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -3
+                                      -2
                                   ],
                       "lookahead":  -3.5,
                       "circaOpen":  -3
