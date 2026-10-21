@@ -3,7 +3,7 @@
     "week":  7,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-21T18:19:38Z",
-    "generatedAt":  "2026-10-21T18:39:23Z",
+    "generatedAt":  "2026-10-21T18:54:33Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-21T15:39:29Z",
+                                              "asOf":  "2026-10-21T18:54:32Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1449,14 +1449,14 @@
                               "rswr":  28,
                               "rswrRk":  23,
                               "qb":  {
-                                         "name":  "Jameis Winston",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "J.J. McCarthy",
+                                         "status":  "depth chart -- Jameis Winston started Wk 6 -- season numbers are J.Winston\u0027s",
                                          "epa":  -0.165,
                                          "epaRk":  31,
                                          "sr":  38.8,
                                          "srRk":  29,
                                          "plays":  80,
-                                         "numbersAreStarters":  true
+                                         "numbersAreStarters":  false
                                      },
                               "note":  ""
                           },
