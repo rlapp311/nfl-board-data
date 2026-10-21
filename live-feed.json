@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T07:19:07Z",
+    "generatedAt":  "2026-10-21T08:19:08Z",
     "byPair":  {
                    "NE-CHI":  {
                                   "gameCode":  "20261022NFL00051",
@@ -65,10 +65,10 @@
                                              "homeSpread":  3
                                          },
                                   "circa":  {
-                                                "awayHandle":  0,
-                                                "awayBet":  33,
-                                                "homeHandle":  100,
-                                                "homeBet":  67,
+                                                "awayHandle":  1,
+                                                "awayBet":  40,
+                                                "homeHandle":  99,
+                                                "homeBet":  60,
                                                 "awaySpread":  -3,
                                                 "homeSpread":  3
                                             }
@@ -161,10 +161,10 @@
                                              "homeSpread":  -3.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  71,
-                                                "awayBet":  54,
-                                                "homeHandle":  29,
-                                                "homeBet":  46,
+                                                "awayHandle":  66,
+                                                "awayBet":  50,
+                                                "homeHandle":  34,
+                                                "homeBet":  50,
                                                 "awaySpread":  3,
                                                 "homeSpread":  -3
                                             }
@@ -226,9 +226,9 @@
                                    "dateLabel":  "Sunday, Oct 25",
                                    "dk":  {
                                               "awayHandle":  36,
-                                              "awayBet":  43,
+                                              "awayBet":  44,
                                               "homeHandle":  64,
-                                              "homeBet":  57,
+                                              "homeBet":  56,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
                                           },
