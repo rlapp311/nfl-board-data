@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-10-21T04:09:22.6019208-04:00",
+    "GeneratedAt":  "2026-10-22T04:09:34.6109728-04:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -195,6 +195,16 @@
                       "Rank":  null
                   },
                   {
+                      "Abbr":  "TB",
+                      "Team":  "Tampa Bay Buccaneers",
+                      "TeamId":  "27",
+                      "Fpi":  -0.945,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
                       "Abbr":  "LAC",
                       "Team":  "Los Angeles Chargers",
                       "TeamId":  "24",
@@ -239,16 +249,6 @@
                       "Team":  "New Orleans Saints",
                       "TeamId":  "18",
                       "Fpi":  -3.388,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
-                      "Abbr":  "TB",
-                      "Team":  "Tampa Bay Buccaneers",
-                      "TeamId":  "27",
-                      "Fpi":  -4.204,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -308,7 +308,7 @@
                       "Abbr":  "NYG",
                       "Team":  "New York Giants",
                       "TeamId":  "19",
-                      "Fpi":  -6.038,
+                      "Fpi":  -6.177,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
