@@ -78,16 +78,6 @@
               "week":  7,
               "games":  [
                             {
-                                "id":  "NECHI",
-                                "away":  "NE",
-                                "home":  "CHI",
-                                "day":  "Thu 10/22",
-                                "time":  "8:15p ET",
-                                "circa":  -3,
-                                "lookahead":  -1.5,
-                                "circaOpen":  -3
-                            },
-                            {
                                 "id":  "PITNO",
                                 "away":  "PIT",
                                 "home":  "NO",
