@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-24T22:17:07Z",
-    "generatedAt":  "2026-10-24T22:32:24Z",
+    "linesAsOf":  "2026-10-24T22:47:12Z",
+    "generatedAt":  "2026-10-24T22:47:56Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-24T19:32:49Z",
+                                              "asOf":  "2026-10-24T22:47:55Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -114,11 +114,11 @@
                       "home":  "NYJ",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  -3.5,
+                      "circa":  -4,
                       "book":  "CIRCA",
                       "history":  [
                                       -5.5,
-                                      -3.5
+                                      -4
                                   ],
                       "lookahead":  -4.5,
                       "circaOpen":  -5.5
@@ -144,11 +144,11 @@
                       "home":  "BAL",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  2.5,
+                      "circa":  3,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      2.5
+                                      3
                                   ],
                       "lookahead":  -3.5,
                       "circaOpen":  -3
@@ -385,7 +385,7 @@
                               "rswrRk":  9,
                               "qb":  {
                                          "name":  "Lamar Jackson",
-                                         "status":  "depth chart -- listed questionable -- Tyler Huntley started Wk 6",
+                                         "status":  "depth chart -- listed out -- Tyler Huntley started Wk 6",
                                          "epa":  0.739,
                                          "epaRk":  1,
                                          "sr":  68.5,
