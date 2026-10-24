@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-23T14:22:51Z",
-    "generatedAt":  "2026-10-23T14:24:48Z",
+    "linesAsOf":  "2026-10-24T12:44:51Z",
+    "generatedAt":  "2026-10-24T13:32:24Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -28,13 +28,13 @@
                                      },
                              "winRates":  {
                                               "label":  "Win rates",
-                                              "asOf":  "2026-10-22T18:54:34Z",
+                                              "asOf":  "2026-10-24T13:32:23Z",
                                               "source":  "ESPN Analytics win-rate story: https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
                                               "updatedLabel":  "Through Week 6 games, Oct. 20 at 10 a.m. ET"
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-23T14:24:48Z",
+                                              "asOf":  "2026-10-24T13:19:12Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -129,11 +129,11 @@
                       "home":  "CAR",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  -3,
+                      "circa":  -2.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -3
+                                      -2.5
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -3
@@ -144,11 +144,11 @@
                       "home":  "BAL",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  -1.5,
+                      "circa":  1,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -1.5
+                                      1
                                   ],
                       "lookahead":  -3.5,
                       "circaOpen":  -3
@@ -204,11 +204,11 @@
                       "home":  "LV",
                       "day":  "Sun 10/25",
                       "time":  "4:25p ET",
-                      "circa":  3.5,
+                      "circa":  3,
                       "book":  "CIRCA",
                       "history":  [
                                       6,
-                                      3.5
+                                      3
                                   ],
                       "lookahead":  7,
                       "circaOpen":  6
@@ -219,11 +219,11 @@
                       "home":  "SEA",
                       "day":  "Sun 10/25",
                       "time":  "8:20p ET",
-                      "circa":  -2.5,
+                      "circa":  -3,
                       "book":  "CIRCA",
                       "history":  [
                                       -2.5,
-                                      -2.5
+                                      -3
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  -2.5
@@ -284,8 +284,8 @@
                               "rswr":  28,
                               "rswrRk":  25,
                               "qb":  {
-                                         "name":  "Jacoby Brissett",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "J.Brissett",
+                                         "status":  "snap count -- started Wk 6 (17 snaps), no depth chart",
                                          "epa":  0.124,
                                          "epaRk":  14,
                                          "sr":  49.1,
@@ -384,14 +384,14 @@
                               "rswr":  31,
                               "rswrRk":  9,
                               "qb":  {
-                                         "name":  "Lamar Jackson",
-                                         "status":  "depth chart -- listed questionable -- Tyler Huntley started Wk 6",
+                                         "name":  "T.Huntley",
+                                         "status":  "snap count -- started Wk 6 (20 snaps), no depth chart -- season numbers are L.Jackson\u0027s",
                                          "epa":  0.739,
                                          "epaRk":  1,
                                          "sr":  68.5,
                                          "srRk":  1,
                                          "plays":  54,
-                                         "numbersAreStarters":  true
+                                         "numbersAreStarters":  false
                                      },
                               "note":  ""
                           },
@@ -434,8 +434,8 @@
                               "rswr":  29,
                               "rswrRk":  15,
                               "qb":  {
-                                         "name":  "Josh Allen",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "J.Allen",
+                                         "status":  "snap count -- started Wk 6 (20 snaps), no depth chart",
                                          "epa":  0.24,
                                          "epaRk":  8,
                                          "sr":  45.5,
@@ -484,8 +484,8 @@
                               "rswr":  29,
                               "rswrRk":  18,
                               "qb":  {
-                                         "name":  "Bryce Young",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "B.Young",
+                                         "status":  "snap count -- started Wk 6 (26 snaps), no depth chart",
                                          "epa":  0.368,
                                          "epaRk":  2,
                                          "sr":  49.2,
@@ -534,8 +534,8 @@
                               "rswr":  27,
                               "rswrRk":  28,
                               "qb":  {
-                                         "name":  "Caleb Williams",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "C.Williams",
+                                         "status":  "snap count -- started Wk 6 (21 snaps), no depth chart",
                                          "epa":  0.295,
                                          "epaRk":  4,
                                          "sr":  51.6,
@@ -634,8 +634,8 @@
                               "rswr":  35,
                               "rswrRk":  1,
                               "qb":  {
-                                         "name":  "Deshaun Watson",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "D.Watson",
+                                         "status":  "snap count -- started Wk 6 (15 snaps), no depth chart",
                                          "epa":  0.073,
                                          "epaRk":  18,
                                          "sr":  47.5,
@@ -884,8 +884,8 @@
                               "rswr":  30,
                               "rswrRk":  11,
                               "qb":  {
-                                         "name":  "C.J. Stroud",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "C.Stroud",
+                                         "status":  "snap count -- started Wk 6 (21 snaps), no depth chart",
                                          "epa":  0.356,
                                          "epaRk":  3,
                                          "sr":  54.2,
@@ -1034,8 +1034,8 @@
                              "rswr":  29,
                              "rswrRk":  14,
                              "qb":  {
-                                        "name":  "Patrick Mahomes",
-                                        "status":  "depth chart -- started Wk 6",
+                                        "name":  "P.Mahomes",
+                                        "status":  "snap count -- started Wk 6 (13 snaps), no depth chart",
                                         "epa":  0.104,
                                         "epaRk":  16,
                                         "sr":  54.3,
@@ -1084,8 +1084,8 @@
                               "rswr":  33,
                               "rswrRk":  3,
                               "qb":  {
-                                         "name":  "Justin Herbert",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "J.Herbert",
+                                         "status":  "snap count -- started Wk 6 (10 snaps), no depth chart",
                                          "epa":  -0.068,
                                          "epaRk":  25,
                                          "sr":  46.6,
@@ -1134,8 +1134,8 @@
                               "rswr":  33,
                               "rswrRk":  4,
                               "qb":  {
-                                         "name":  "Matthew Stafford",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "M.Stafford",
+                                         "status":  "snap count -- started Wk 6 (16 snaps), no depth chart",
                                          "epa":  0.055,
                                          "epaRk":  19,
                                          "sr":  43.4,
@@ -1184,8 +1184,8 @@
                              "rswr":  28,
                              "rswrRk":  26,
                              "qb":  {
-                                        "name":  "Kirk Cousins",
-                                        "status":  "depth chart -- started Wk 6",
+                                        "name":  "K.Cousins",
+                                        "status":  "snap count -- started Wk 6 (21 snaps), no depth chart",
                                         "epa":  0.107,
                                         "epaRk":  15,
                                         "sr":  50.5,
@@ -1234,8 +1234,8 @@
                               "rswr":  27,
                               "rswrRk":  27,
                               "qb":  {
-                                         "name":  "Malik Willis",
-                                         "status":  "depth chart -- started Wk 5",
+                                         "name":  "M.Willis",
+                                         "status":  "snap count -- started Wk 5 (9 snaps), no depth chart",
                                          "epa":  -0.087,
                                          "epaRk":  28,
                                          "sr":  39.7,
@@ -1334,8 +1334,8 @@
                              "rswr":  28,
                              "rswrRk":  24,
                              "qb":  {
-                                        "name":  "Drake Maye",
-                                        "status":  "depth chart -- started Wk 6",
+                                        "name":  "D.Maye",
+                                        "status":  "snap count -- started Wk 6 (18 snaps), no depth chart",
                                         "epa":  0.288,
                                         "epaRk":  5,
                                         "sr":  56.6,
@@ -1434,14 +1434,14 @@
                               "rswr":  28,
                               "rswrRk":  23,
                               "qb":  {
-                                         "name":  "J.J. McCarthy",
-                                         "status":  "depth chart -- Jameis Winston started Wk 6 -- season numbers are J.Winston\u0027s",
+                                         "name":  "J.Winston",
+                                         "status":  "snap count -- started Wk 6 (19 snaps), no depth chart",
                                          "epa":  -0.165,
                                          "epaRk":  31,
                                          "sr":  38.8,
                                          "srRk":  29,
                                          "plays":  80,
-                                         "numbersAreStarters":  false
+                                         "numbersAreStarters":  true
                                      },
                               "note":  ""
                           },
@@ -1534,8 +1534,8 @@
                               "rswr":  32,
                               "rswrRk":  5,
                               "qb":  {
-                                         "name":  "Tanner McKee",
-                                         "status":  "depth chart -- started Wk 6 -- season numbers are J.Hurts\u0027s",
+                                         "name":  "T.McKee",
+                                         "status":  "snap count -- started Wk 6 (20 snaps), no depth chart -- season numbers are J.Hurts\u0027s",
                                          "epa":  -0.015,
                                          "epaRk":  22,
                                          "sr":  36.5,
@@ -1634,8 +1634,8 @@
                               "rswr":  31,
                               "rswrRk":  10,
                               "qb":  {
-                                         "name":  "Sam Darnold",
-                                         "status":  "depth chart -- started Wk 6",
+                                         "name":  "S.Darnold",
+                                         "status":  "snap count -- started Wk 6 (23 snaps), no depth chart",
                                          "epa":  -0.075,
                                          "epaRk":  26,
                                          "sr":  42.1,
@@ -1684,8 +1684,8 @@
                              "rswr":  28,
                              "rswrRk":  20,
                              "qb":  {
-                                        "name":  "Brock Purdy",
-                                        "status":  "depth chart -- started Wk 6",
+                                        "name":  "B.Purdy",
+                                        "status":  "snap count -- started Wk 6 (16 snaps), no depth chart",
                                         "epa":  0.277,
                                         "epaRk":  6,
                                         "sr":  53.8,
