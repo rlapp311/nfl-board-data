@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-25T12:04:07Z",
-    "generatedAt":  "2026-10-25T12:17:57Z",
+    "linesAsOf":  "2026-10-25T12:19:09Z",
+    "generatedAt":  "2026-10-25T12:32:43Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -129,11 +129,11 @@
                       "home":  "CAR",
                       "day":  "Sun 10/25",
                       "time":  "1:00p ET",
-                      "circa":  -2.5,
+                      "circa":  -3,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -2.5
+                                      -3
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -3
