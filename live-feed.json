@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-25T02:17:59Z",
+    "generatedAt":  "2026-10-25T02:48:02Z",
     "byPair":  {
                    "PIT-NO":  {
                                   "gameCode":  "20261025NFL00057",
@@ -9,10 +9,10 @@
                                   "homeLastName":  "Saints",
                                   "dateLabel":  "Sunday, Oct 25",
                                   "dk":  {
-                                             "awayHandle":  75,
-                                             "awayBet":  49,
-                                             "homeHandle":  25,
-                                             "homeBet":  51,
+                                             "awayHandle":  74,
+                                             "awayBet":  50,
+                                             "homeHandle":  26,
+                                             "homeBet":  50,
                                              "awaySpread":  -3,
                                              "homeSpread":  3
                                          },
@@ -89,10 +89,10 @@
                                               "homeSpread":  -6.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  32,
-                                                 "awayBet":  33,
-                                                 "homeHandle":  68,
-                                                 "homeBet":  67,
+                                                 "awayHandle":  33,
+                                                 "awayBet":  35,
+                                                 "homeHandle":  67,
+                                                 "homeBet":  65,
                                                  "awaySpread":  6.5,
                                                  "homeSpread":  -6.5
                                              }
@@ -177,9 +177,9 @@
                                    "homeLastName":  "Texans",
                                    "dateLabel":  "Sunday, Oct 25",
                                    "dk":  {
-                                              "awayHandle":  82,
+                                              "awayHandle":  81,
                                               "awayBet":  77,
-                                              "homeHandle":  18,
+                                              "homeHandle":  19,
                                               "homeBet":  23,
                                               "awaySpread":  10,
                                               "homeSpread":  -10
@@ -226,9 +226,9 @@
                                   "dateLabel":  "Sunday, Oct 25",
                                   "dk":  {
                                              "awayHandle":  11,
-                                             "awayBet":  48,
+                                             "awayBet":  49,
                                              "homeHandle":  89,
-                                             "homeBet":  52,
+                                             "homeBet":  51,
                                              "awaySpread":  3.5,
                                              "homeSpread":  -3.5
                                          },
@@ -282,9 +282,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  27,
-                                                "awayBet":  66,
+                                                "awayBet":  65,
                                                 "homeHandle":  73,
-                                                "homeBet":  34,
+                                                "homeBet":  35,
                                                 "awaySpread":  3,
                                                 "homeSpread":  -3
                                             }
