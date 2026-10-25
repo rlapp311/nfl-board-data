@@ -78,6 +78,46 @@
               "week":  7,
               "games":  [
                             {
+                                "id":  "DENARI",
+                                "away":  "DEN",
+                                "home":  "ARI",
+                                "day":  "Sun 10/25",
+                                "time":  "4:05p ET",
+                                "circa":  4.5,
+                                "lookahead":  5.5,
+                                "circaOpen":  4
+                            },
+                            {
+                                "id":  "GBDET",
+                                "away":  "GB",
+                                "home":  "DET",
+                                "day":  "Sun 10/25",
+                                "time":  "4:25p ET",
+                                "circa":  -4.5,
+                                "lookahead":  -3,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "LARLV",
+                                "away":  "LAR",
+                                "home":  "LV",
+                                "day":  "Sun 10/25",
+                                "time":  "4:25p ET",
+                                "circa":  3,
+                                "lookahead":  7,
+                                "circaOpen":  6
+                            },
+                            {
+                                "id":  "PITNO",
+                                "away":  "PIT",
+                                "home":  "NO",
+                                "day":  "Sun 10/25",
+                                "time":  "9:30a ET",
+                                "circa":  3,
+                                "lookahead":  2.5,
+                                "circaOpen":  2
+                            },
+                            {
                                 "id":  "SFATL",
                                 "away":  "SF",
                                 "home":  "ATL",
@@ -146,46 +186,6 @@
                                 "circa":  -10,
                                 "lookahead":  -7,
                                 "circaOpen":  -8.5
-                            },
-                            {
-                                "id":  "PITNO",
-                                "away":  "PIT",
-                                "home":  "NO",
-                                "day":  "Sun 10/25",
-                                "time":  "9:30a ET",
-                                "circa":  3,
-                                "lookahead":  2.5,
-                                "circaOpen":  2
-                            },
-                            {
-                                "id":  "DENARI",
-                                "away":  "DEN",
-                                "home":  "ARI",
-                                "day":  "Sun 10/25",
-                                "time":  "4:05p ET",
-                                "circa":  4.5,
-                                "lookahead":  5.5,
-                                "circaOpen":  4
-                            },
-                            {
-                                "id":  "GBDET",
-                                "away":  "GB",
-                                "home":  "DET",
-                                "day":  "Sun 10/25",
-                                "time":  "4:25p ET",
-                                "circa":  -4.5,
-                                "lookahead":  -3,
-                                "circaOpen":  -3
-                            },
-                            {
-                                "id":  "LARLV",
-                                "away":  "LAR",
-                                "home":  "LV",
-                                "day":  "Sun 10/25",
-                                "time":  "4:25p ET",
-                                "circa":  3,
-                                "lookahead":  7,
-                                "circaOpen":  6
                             },
                             {
                                 "id":  "KCSEA",
