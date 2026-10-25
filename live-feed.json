@@ -1,30 +1,6 @@
 ﻿{
-    "generatedAt":  "2026-10-25T17:20:23Z",
+    "generatedAt":  "2026-10-25T17:35:25Z",
     "byPair":  {
-                   "PIT-NO":  {
-                                  "gameCode":  "20261025NFL00057",
-                                  "awaySlug":  "pittsburgh-steelers",
-                                  "homeSlug":  "new-orleans-saints",
-                                  "awayLastName":  "Steelers",
-                                  "homeLastName":  "Saints",
-                                  "dateLabel":  "Sunday, Oct 25",
-                                  "dk":  {
-                                             "awayHandle":  54,
-                                             "awayBet":  55,
-                                             "homeHandle":  46,
-                                             "homeBet":  45,
-                                             "awaySpread":  -3,
-                                             "homeSpread":  3
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  55,
-                                                "awayBet":  55,
-                                                "homeHandle":  45,
-                                                "homeBet":  45,
-                                                "awaySpread":  -3,
-                                                "homeSpread":  3
-                                            }
-                              },
                    "SF-ATL":  {
                                   "gameCode":  "20261025NFL00055",
                                   "awaySlug":  "san-francisco-49ers",
@@ -193,6 +169,30 @@
                                                  "homeSpread":  -10
                                              }
                                },
+                   "PIT-NO":  {
+                                  "gameCode":  "20261025NFL00057",
+                                  "awaySlug":  "pittsburgh-steelers",
+                                  "homeSlug":  "new-orleans-saints",
+                                  "awayLastName":  "Steelers",
+                                  "homeLastName":  "Saints",
+                                  "dateLabel":  "Sunday, Oct 25",
+                                  "dk":  {
+                                             "awayHandle":  54,
+                                             "awayBet":  55,
+                                             "homeHandle":  46,
+                                             "homeBet":  45,
+                                             "awaySpread":  -3,
+                                             "homeSpread":  3
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  55,
+                                                "awayBet":  55,
+                                                "homeHandle":  45,
+                                                "homeBet":  45,
+                                                "awaySpread":  -3,
+                                                "homeSpread":  3
+                                            }
+                              },
                    "DEN-ARI":  {
                                    "gameCode":  "20261025NFL00059",
                                    "awaySlug":  "denver-broncos",
@@ -210,9 +210,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  85,
-                                                 "awayBet":  63,
+                                                 "awayBet":  64,
                                                  "homeHandle":  15,
-                                                 "homeBet":  37,
+                                                 "homeBet":  36,
                                                  "awaySpread":  -5,
                                                  "homeSpread":  5
                                              }
@@ -257,10 +257,10 @@
                                              "homeSpread":  3.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  41,
-                                                "awayBet":  51,
-                                                "homeHandle":  59,
-                                                "homeBet":  49,
+                                                "awayHandle":  40,
+                                                "awayBet":  50,
+                                                "homeHandle":  60,
+                                                "homeBet":  50,
                                                 "awaySpread":  -3,
                                                 "homeSpread":  3
                                             }
@@ -281,9 +281,9 @@
                                              "homeSpread":  -3
                                          },
                                   "circa":  {
-                                                "awayHandle":  28,
+                                                "awayHandle":  27,
                                                 "awayBet":  64,
-                                                "homeHandle":  72,
+                                                "homeHandle":  73,
                                                 "homeBet":  36,
                                                 "awaySpread":  3,
                                                 "homeSpread":  -3

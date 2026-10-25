@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-25T17:20:23Z",
-    "generatedAt":  "2026-10-25T17:32:32Z",
+    "linesAsOf":  "2026-10-25T17:35:25Z",
+    "generatedAt":  "2026-10-25T17:47:52Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-25T14:33:13Z",
+                                              "asOf":  "2026-10-25T17:47:51Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "PITNO",
-                      "away":  "PIT",
-                      "home":  "NO",
-                      "day":  "Sun 10/25",
-                      "time":  "9:30a ET",
-                      "circa":  3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      2,
-                                      3
-                                  ],
-                      "lookahead":  2.5,
-                      "circaOpen":  2
-                  },
                   {
                       "id":  "SFATL",
                       "away":  "SF",
@@ -167,6 +152,21 @@
                                   ],
                       "lookahead":  -7,
                       "circaOpen":  -8.5
+                  },
+                  {
+                      "id":  "PITNO",
+                      "away":  "PIT",
+                      "home":  "NO",
+                      "day":  "Sun 10/25",
+                      "time":  "9:30a ET",
+                      "circa":  3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      2,
+                                      3
+                                  ],
+                      "lookahead":  2.5,
+                      "circaOpen":  2
                   },
                   {
                       "id":  "DENARI",
@@ -1347,7 +1347,7 @@
                          },
                   "NO":  {
                              "name":  "Saints",
-                             "wl":  "2-4",
+                             "wl":  "2-5",
                              "pr":  -1.91,
                              "fpi":  -3.42,
                              "fpiOff":  null,
@@ -1547,7 +1547,7 @@
                           },
                   "PIT":  {
                               "name":  "Steelers",
-                              "wl":  "4-2",
+                              "wl":  "5-2",
                               "pr":  -1.75,
                               "fpi":  -0.93,
                               "fpiOff":  null,
@@ -1735,7 +1735,7 @@
                              "rswrRk":  21,
                              "qb":  {
                                         "name":  "Baker Mayfield",
-                                        "status":  "depth chart -- listed questionable -- Jalon Daniels started Wk 6 -- season numbers are J.Daniels\u0027s",
+                                        "status":  "depth chart -- Jalon Daniels started Wk 6 -- season numbers are J.Daniels\u0027s",
                                         "epa":  -0.058,
                                         "epaRk":  23,
                                         "sr":  45.5,
