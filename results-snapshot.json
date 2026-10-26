@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-10-26T19:32:27.5724934Z",
+    "GeneratedAt":  "2026-10-26T22:47:02.0194921Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1316,9 +1316,9 @@
                   },
                   {
                       "week":  9,
-                      "date":  "2026-11-08T21:05:00.0000000Z",
-                      "away":  "LV",
-                      "home":  "SF",
+                      "date":  "2026-11-08T21:25:00.0000000Z",
+                      "away":  "GB",
+                      "home":  "NE",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
@@ -1327,8 +1327,8 @@
                   {
                       "week":  9,
                       "date":  "2026-11-08T21:25:00.0000000Z",
-                      "away":  "GB",
-                      "home":  "NE",
+                      "away":  "LV",
+                      "home":  "SF",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
