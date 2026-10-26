@@ -3,7 +3,7 @@
     "week":  7,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-26T02:51:58Z",
-    "generatedAt":  "2026-10-26T03:02:46Z",
+    "generatedAt":  "2026-10-26T03:18:27Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-26T00:03:06Z",
+                                              "asOf":  "2026-10-26T03:18:26Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -48,6 +48,21 @@
                  "Sun"
              ],
     "games":  [
+                  {
+                      "id":  "KCSEA",
+                      "away":  "KC",
+                      "home":  "SEA",
+                      "day":  "Sun 10/25",
+                      "time":  "8:20p ET",
+                      "circa":  -3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -2.5,
+                                      -3
+                                  ],
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2.5
+                  },
                   {
                       "id":  "PITNO",
                       "away":  "PIT",
@@ -212,21 +227,6 @@
                                   ],
                       "lookahead":  7,
                       "circaOpen":  6
-                  },
-                  {
-                      "id":  "KCSEA",
-                      "away":  "KC",
-                      "home":  "SEA",
-                      "day":  "Sun 10/25",
-                      "time":  "8:20p ET",
-                      "circa":  -3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -2.5,
-                                      -3
-                                  ],
-                      "lookahead":  -2.5,
-                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "DALPHI",

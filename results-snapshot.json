@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-10-26T00:02:51.9998731Z",
+    "GeneratedAt":  "2026-10-26T03:18:11.4436602Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -936,6 +936,16 @@
                   },
                   {
                       "week":  7,
+                      "date":  "2026-10-26T00:20:00.0000000Z",
+                      "away":  "KC",
+                      "home":  "SEA",
+                      "awayScore":  null,
+                      "homeScore":  null,
+                      "ot":  false,
+                      "final":  false
+                  },
+                  {
+                      "week":  7,
                       "date":  "2026-10-25T13:30:00.0000000Z",
                       "away":  "PIT",
                       "home":  "NO",
@@ -1043,16 +1053,6 @@
                       "homeScore":  21,
                       "ot":  false,
                       "final":  true
-                  },
-                  {
-                      "week":  7,
-                      "date":  "2026-10-26T00:20:00.0000000Z",
-                      "away":  "KC",
-                      "home":  "SEA",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
                   },
                   {
                       "week":  7,

@@ -1,6 +1,30 @@
 ﻿{
     "generatedAt":  "2026-10-26T02:51:58Z",
     "byPair":  {
+                   "KC-SEA":  {
+                                  "gameCode":  "20261025NFL00061",
+                                  "awaySlug":  "kansas-city-chiefs",
+                                  "homeSlug":  "seattle-seahawks",
+                                  "awayLastName":  "Chiefs",
+                                  "homeLastName":  "Seahawks",
+                                  "dateLabel":  "Sunday, Oct 25",
+                                  "dk":  {
+                                             "awayHandle":  47,
+                                             "awayBet":  71,
+                                             "homeHandle":  53,
+                                             "homeBet":  29,
+                                             "awaySpread":  3,
+                                             "homeSpread":  -3
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  41,
+                                                "awayBet":  61,
+                                                "homeHandle":  59,
+                                                "homeBet":  39,
+                                                "awaySpread":  3,
+                                                "homeSpread":  -3
+                                            }
+                              },
                    "PIT-NO":  {
                                   "gameCode":  "20261025NFL00057",
                                   "awaySlug":  "pittsburgh-steelers",
@@ -263,30 +287,6 @@
                                                 "homeBet":  49,
                                                 "awaySpread":  -3,
                                                 "homeSpread":  3
-                                            }
-                              },
-                   "KC-SEA":  {
-                                  "gameCode":  "20261025NFL00061",
-                                  "awaySlug":  "kansas-city-chiefs",
-                                  "homeSlug":  "seattle-seahawks",
-                                  "awayLastName":  "Chiefs",
-                                  "homeLastName":  "Seahawks",
-                                  "dateLabel":  "Sunday, Oct 25",
-                                  "dk":  {
-                                             "awayHandle":  47,
-                                             "awayBet":  71,
-                                             "homeHandle":  53,
-                                             "homeBet":  29,
-                                             "awaySpread":  3,
-                                             "homeSpread":  -3
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  41,
-                                                "awayBet":  61,
-                                                "homeHandle":  59,
-                                                "homeBet":  39,
-                                                "awaySpread":  3,
-                                                "homeSpread":  -3
                                             }
                               },
                    "DAL-PHI":  {

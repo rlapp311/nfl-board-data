@@ -78,6 +78,16 @@
               "week":  7,
               "games":  [
                             {
+                                "id":  "KCSEA",
+                                "away":  "KC",
+                                "home":  "SEA",
+                                "day":  "Sun 10/25",
+                                "time":  "8:20p ET",
+                                "circa":  -3,
+                                "lookahead":  -2.5,
+                                "circaOpen":  -2.5
+                            },
+                            {
                                 "id":  "PITNO",
                                 "away":  "PIT",
                                 "home":  "NO",
@@ -186,16 +196,6 @@
                                 "circa":  3,
                                 "lookahead":  7,
                                 "circaOpen":  6
-                            },
-                            {
-                                "id":  "KCSEA",
-                                "away":  "KC",
-                                "home":  "SEA",
-                                "day":  "Sun 10/25",
-                                "time":  "8:20p ET",
-                                "circa":  -3,
-                                "lookahead":  -2.5,
-                                "circaOpen":  -2.5
                             },
                             {
                                 "id":  "DALPHI",
