@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  7,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-25T23:36:24Z",
-    "generatedAt":  "2026-10-25T23:48:01Z",
+    "linesAsOf":  "2026-10-25T23:51:27Z",
+    "generatedAt":  "2026-10-26T00:03:07Z",
     "analyticsThrough":  "PR and FPI through Week 6",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-25T20:48:16Z",
+                                              "asOf":  "2026-10-26T00:03:06Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -48,51 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "DENARI",
-                      "away":  "DEN",
-                      "home":  "ARI",
-                      "day":  "Sun 10/25",
-                      "time":  "4:05p ET",
-                      "circa":  4.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      4,
-                                      4.5
-                                  ],
-                      "lookahead":  5.5,
-                      "circaOpen":  4
-                  },
-                  {
-                      "id":  "GBDET",
-                      "away":  "GB",
-                      "home":  "DET",
-                      "day":  "Sun 10/25",
-                      "time":  "4:25p ET",
-                      "circa":  -4.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3,
-                                      -4.5
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3
-                  },
-                  {
-                      "id":  "LARLV",
-                      "away":  "LAR",
-                      "home":  "LV",
-                      "day":  "Sun 10/25",
-                      "time":  "4:25p ET",
-                      "circa":  3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      6,
-                                      3
-                                  ],
-                      "lookahead":  7,
-                      "circaOpen":  6
-                  },
                   {
                       "id":  "PITNO",
                       "away":  "PIT",
@@ -214,6 +169,51 @@
                       "circaOpen":  -8.5
                   },
                   {
+                      "id":  "DENARI",
+                      "away":  "DEN",
+                      "home":  "ARI",
+                      "day":  "Sun 10/25",
+                      "time":  "4:05p ET",
+                      "circa":  4.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      4,
+                                      4.5
+                                  ],
+                      "lookahead":  5.5,
+                      "circaOpen":  4
+                  },
+                  {
+                      "id":  "GBDET",
+                      "away":  "GB",
+                      "home":  "DET",
+                      "day":  "Sun 10/25",
+                      "time":  "4:25p ET",
+                      "circa":  -4.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -3,
+                                      -4.5
+                                  ],
+                      "lookahead":  -3,
+                      "circaOpen":  -3
+                  },
+                  {
+                      "id":  "LARLV",
+                      "away":  "LAR",
+                      "home":  "LV",
+                      "day":  "Sun 10/25",
+                      "time":  "4:25p ET",
+                      "circa":  3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      6,
+                                      3
+                                  ],
+                      "lookahead":  7,
+                      "circaOpen":  6
+                  },
+                  {
                       "id":  "KCSEA",
                       "away":  "KC",
                       "home":  "SEA",
@@ -247,7 +247,7 @@
     "teams":  {
                   "ARI":  {
                               "name":  "Cardinals",
-                              "wl":  "2-4",
+                              "wl":  "2-5",
                               "pr":  -2.66,
                               "fpi":  -4.85,
                               "fpiOff":  null,
@@ -697,7 +697,7 @@
                           },
                   "DEN":  {
                               "name":  "Broncos",
-                              "wl":  "4-2",
+                              "wl":  "5-2",
                               "pr":  2.96,
                               "fpi":  1.29,
                               "fpiOff":  null,
@@ -747,7 +747,7 @@
                           },
                   "DET":  {
                               "name":  "Lions",
-                              "wl":  "3-2",
+                              "wl":  "4-2",
                               "pr":  2.63,
                               "fpi":  2.25,
                               "fpiOff":  null,
@@ -797,7 +797,7 @@
                           },
                   "GB":  {
                              "name":  "Packers",
-                             "wl":  "4-2",
+                             "wl":  "4-3",
                              "pr":  1.5,
                              "fpi":  1.31,
                              "fpiOff":  null,
@@ -1097,7 +1097,7 @@
                           },
                   "LAR":  {
                               "name":  "Rams",
-                              "wl":  "2-4",
+                              "wl":  "3-4",
                               "pr":  6.12,
                               "fpi":  2.91,
                               "fpiOff":  null,
@@ -1147,7 +1147,7 @@
                           },
                   "LV":  {
                              "name":  "Raiders",
-                             "wl":  "3-3",
+                             "wl":  "3-4",
                              "pr":  -3.04,
                              "fpi":  -2.29,
                              "fpiOff":  null,

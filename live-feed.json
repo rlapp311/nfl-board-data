@@ -1,78 +1,6 @@
 ﻿{
-    "generatedAt":  "2026-10-25T23:36:24Z",
+    "generatedAt":  "2026-10-25T23:51:27Z",
     "byPair":  {
-                   "DEN-ARI":  {
-                                   "gameCode":  "20261025NFL00059",
-                                   "awaySlug":  "denver-broncos",
-                                   "homeSlug":  "arizona-cardinals",
-                                   "awayLastName":  "Broncos",
-                                   "homeLastName":  "Cardinals",
-                                   "dateLabel":  "Sunday, Oct 25",
-                                   "dk":  {
-                                              "awayHandle":  62,
-                                              "awayBet":  60,
-                                              "homeHandle":  38,
-                                              "homeBet":  40,
-                                              "awaySpread":  -4.5,
-                                              "homeSpread":  4.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  47,
-                                                 "awayBet":  57,
-                                                 "homeHandle":  53,
-                                                 "homeBet":  43,
-                                                 "awaySpread":  -4.5,
-                                                 "homeSpread":  4.5
-                                             }
-                               },
-                   "GB-DET":  {
-                                  "gameCode":  "20261025NFL00052",
-                                  "awaySlug":  "green-bay-packers",
-                                  "homeSlug":  "detroit-lions",
-                                  "awayLastName":  "Packers",
-                                  "homeLastName":  "Lions",
-                                  "dateLabel":  "Sunday, Oct 25",
-                                  "dk":  {
-                                             "awayHandle":  28,
-                                             "awayBet":  57,
-                                             "homeHandle":  72,
-                                             "homeBet":  43,
-                                             "awaySpread":  3.5,
-                                             "homeSpread":  -3.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  28,
-                                                "awayBet":  51,
-                                                "homeHandle":  72,
-                                                "homeBet":  49,
-                                                "awaySpread":  4.5,
-                                                "homeSpread":  -4.5
-                                            }
-                              },
-                   "LAR-LV":  {
-                                  "gameCode":  "20261025NFL00045",
-                                  "awaySlug":  "los-angeles-rams",
-                                  "homeSlug":  "las-vegas-raiders",
-                                  "awayLastName":  "Rams",
-                                  "homeLastName":  "Raiders",
-                                  "dateLabel":  "Sunday, Oct 25",
-                                  "dk":  {
-                                             "awayHandle":  61,
-                                             "awayBet":  54,
-                                             "homeHandle":  39,
-                                             "homeBet":  46,
-                                             "awaySpread":  -3.5,
-                                             "homeSpread":  3.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  74,
-                                                "awayBet":  51,
-                                                "homeHandle":  26,
-                                                "homeBet":  49,
-                                                "awaySpread":  -3,
-                                                "homeSpread":  3
-                                            }
-                              },
                    "PIT-NO":  {
                                   "gameCode":  "20261025NFL00057",
                                   "awaySlug":  "pittsburgh-steelers",
@@ -265,6 +193,78 @@
                                                  "homeSpread":  -10
                                              }
                                },
+                   "DEN-ARI":  {
+                                   "gameCode":  "20261025NFL00059",
+                                   "awaySlug":  "denver-broncos",
+                                   "homeSlug":  "arizona-cardinals",
+                                   "awayLastName":  "Broncos",
+                                   "homeLastName":  "Cardinals",
+                                   "dateLabel":  "Sunday, Oct 25",
+                                   "dk":  {
+                                              "awayHandle":  62,
+                                              "awayBet":  60,
+                                              "homeHandle":  38,
+                                              "homeBet":  40,
+                                              "awaySpread":  -4.5,
+                                              "homeSpread":  4.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  47,
+                                                 "awayBet":  57,
+                                                 "homeHandle":  53,
+                                                 "homeBet":  43,
+                                                 "awaySpread":  -4.5,
+                                                 "homeSpread":  4.5
+                                             }
+                               },
+                   "GB-DET":  {
+                                  "gameCode":  "20261025NFL00052",
+                                  "awaySlug":  "green-bay-packers",
+                                  "homeSlug":  "detroit-lions",
+                                  "awayLastName":  "Packers",
+                                  "homeLastName":  "Lions",
+                                  "dateLabel":  "Sunday, Oct 25",
+                                  "dk":  {
+                                             "awayHandle":  28,
+                                             "awayBet":  57,
+                                             "homeHandle":  72,
+                                             "homeBet":  43,
+                                             "awaySpread":  3.5,
+                                             "homeSpread":  -3.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  28,
+                                                "awayBet":  51,
+                                                "homeHandle":  72,
+                                                "homeBet":  49,
+                                                "awaySpread":  4.5,
+                                                "homeSpread":  -4.5
+                                            }
+                              },
+                   "LAR-LV":  {
+                                  "gameCode":  "20261025NFL00045",
+                                  "awaySlug":  "los-angeles-rams",
+                                  "homeSlug":  "las-vegas-raiders",
+                                  "awayLastName":  "Rams",
+                                  "homeLastName":  "Raiders",
+                                  "dateLabel":  "Sunday, Oct 25",
+                                  "dk":  {
+                                             "awayHandle":  61,
+                                             "awayBet":  54,
+                                             "homeHandle":  39,
+                                             "homeBet":  46,
+                                             "awaySpread":  -3.5,
+                                             "homeSpread":  3.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  74,
+                                                "awayBet":  51,
+                                                "homeHandle":  26,
+                                                "homeBet":  49,
+                                                "awaySpread":  -3,
+                                                "homeSpread":  3
+                                            }
+                              },
                    "KC-SEA":  {
                                   "gameCode":  "20261025NFL00061",
                                   "awaySlug":  "kansas-city-chiefs",
@@ -273,18 +273,18 @@
                                   "homeLastName":  "Seahawks",
                                   "dateLabel":  "Sunday, Oct 25",
                                   "dk":  {
-                                             "awayHandle":  52,
-                                             "awayBet":  75,
-                                             "homeHandle":  48,
-                                             "homeBet":  25,
+                                             "awayHandle":  50,
+                                             "awayBet":  74,
+                                             "homeHandle":  50,
+                                             "homeBet":  26,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
                                          },
                                   "circa":  {
-                                                "awayHandle":  17,
-                                                "awayBet":  63,
-                                                "homeHandle":  83,
-                                                "homeBet":  37,
+                                                "awayHandle":  21,
+                                                "awayBet":  62,
+                                                "homeHandle":  79,
+                                                "homeBet":  38,
                                                 "awaySpread":  3,
                                                 "homeSpread":  -3
                                             }
