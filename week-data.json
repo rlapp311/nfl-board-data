@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-27T15:23:44Z",
-    "generatedAt":  "2026-10-27T17:16:42Z",
+    "linesAsOf":  "2026-10-27T17:23:56Z",
+    "generatedAt":  "2026-10-27T17:31:43Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -99,11 +99,11 @@
                       "home":  "DAL",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -6,
+                      "circa":  -6.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -6,
-                                      -6
+                                      -6.5
                                   ],
                       "lookahead":  -6.5,
                       "circaOpen":  -6
@@ -144,11 +144,11 @@
                       "home":  "PIT",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -3.5,
+                      "circa":  -3,
                       "book":  "CIRCA",
                       "history":  [
                                       -4,
-                                      -3.5
+                                      -3
                                   ],
                       "lookahead":  -4.5,
                       "circaOpen":  -4
@@ -174,11 +174,11 @@
                       "home":  "JAX",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -7.5,
+                      "circa":  -8,
                       "book":  "CIRCA",
                       "history":  [
                                       -7.5,
-                                      -7.5
+                                      -8
                                   ],
                       "lookahead":  -7.5,
                       "circaOpen":  -7.5
@@ -233,11 +233,11 @@
                       "home":  "WAS",
                       "day":  "Sun 11/1",
                       "time":  "8:20p ET",
-                      "circa":  -4,
+                      "circa":  -5.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3.5,
-                                      -4
+                                      -5.5
                                   ],
                       "lookahead":  -3.5,
                       "circaOpen":  -3.5
