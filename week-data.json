@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-26T07:52:52Z",
-    "generatedAt":  "2026-10-27T09:16:43Z",
+    "linesAsOf":  "2026-10-27T09:23:06Z",
+    "generatedAt":  "2026-10-27T09:31:40Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -54,11 +54,11 @@
                       "home":  "GB",
                       "day":  "Thu 10/29",
                       "time":  "8:15p ET",
-                      "circa":  -4,
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -4.5,
-                                      -4
+                                      -3.5
                                   ],
                       "lookahead":  -3,
                       "circaOpen":  -4.5
@@ -114,11 +114,11 @@
                       "home":  "DET",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -3,
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3,
-                                      -3
+                                      -3.5
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  -3
@@ -129,11 +129,11 @@
                       "home":  "NYJ",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -1,
+                      "circa":  0,
                       "book":  "CIRCA",
                       "history":  [
                                       -1,
-                                      -1
+                                      0
                                   ],
                       "lookahead":  1.5,
                       "circaOpen":  -1
@@ -159,11 +159,11 @@
                       "home":  "TB",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -1.5,
+                      "circa":  -2,
                       "book":  "CIRCA",
                       "history":  [
                                       -1.5,
-                                      -1.5
+                                      -2
                                   ],
                       "lookahead":  -1.5,
                       "circaOpen":  -1.5
@@ -189,11 +189,11 @@
                       "home":  "LAR",
                       "day":  "Sun 11/1",
                       "time":  "4:05p ET",
-                      "circa":  -7,
+                      "circa":  -6.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -7,
-                                      -7
+                                      -6.5
                                   ],
                       "lookahead":  -7,
                       "circaOpen":  -7
@@ -204,11 +204,11 @@
                       "home":  "DEN",
                       "day":  "Sun 11/1",
                       "time":  "4:25p ET",
-                      "circa":  1.5,
-                      "book":  "DK",
+                      "circa":  1,
+                      "book":  "CIRCA",
                       "history":  [
                                       1.5,
-                                      1.5
+                                      1
                                   ],
                       "lookahead":  1.5
                   },
@@ -249,7 +249,7 @@
                       "day":  "Mon 11/2",
                       "time":  "8:15p ET",
                       "circa":  -3,
-                      "book":  "DK",
+                      "book":  "CIRCA",
                       "history":  [
                                       -3,
                                       -3
