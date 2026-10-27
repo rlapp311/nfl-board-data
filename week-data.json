@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-27T17:23:56Z",
-    "generatedAt":  "2026-10-27T19:16:41Z",
+    "linesAsOf":  "2026-10-27T19:24:18Z",
+    "generatedAt":  "2026-10-27T19:31:42Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -129,11 +129,11 @@
                       "home":  "NYJ",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  0,
+                      "circa":  -1.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -1,
-                                      0
+                                      -1.5
                                   ],
                       "lookahead":  1.5,
                       "circaOpen":  -1
@@ -144,11 +144,11 @@
                       "home":  "PIT",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -3,
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -4,
-                                      -3
+                                      -3.5
                                   ],
                       "lookahead":  -4.5,
                       "circaOpen":  -4
@@ -218,11 +218,11 @@
                       "home":  "MIA",
                       "day":  "Sun 11/1",
                       "time":  "4:25p ET",
-                      "circa":  7.5,
+                      "circa":  7,
                       "book":  "CIRCA",
                       "history":  [
                                       7.5,
-                                      7.5
+                                      7
                                   ],
                       "lookahead":  8.5,
                       "circaOpen":  7.5
