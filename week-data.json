@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-28T15:26:17Z",
-    "generatedAt":  "2026-10-28T16:16:41Z",
+    "linesAsOf":  "2026-10-28T16:26:22Z",
+    "generatedAt":  "2026-10-28T16:31:41Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -174,11 +174,11 @@
                       "home":  "JAX",
                       "day":  "Sun 11/1",
                       "time":  "1:00p ET",
-                      "circa":  -10,
+                      "circa":  -9.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -7.5,
-                                      -10
+                                      -9.5
                                   ],
                       "lookahead":  -7.5,
                       "circaOpen":  -7.5
