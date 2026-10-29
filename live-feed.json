@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T00:57:16Z",
+    "generatedAt":  "2026-10-29T01:27:18Z",
     "byPair":  {
                    "CAR-GB":  {
                                   "gameCode":  "20261029NFL00053",
@@ -33,9 +33,9 @@
                                    "homeLastName":  "Bills",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  19,
+                                              "awayHandle":  18,
                                               "awayBet":  24,
-                                              "homeHandle":  81,
+                                              "homeHandle":  82,
                                               "homeBet":  76,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
@@ -82,9 +82,9 @@
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
                                               "awayHandle":  64,
-                                              "awayBet":  53,
+                                              "awayBet":  52,
                                               "homeHandle":  36,
-                                              "homeBet":  47,
+                                              "homeBet":  48,
                                               "awaySpread":  7,
                                               "homeSpread":  -7
                                           },
@@ -129,10 +129,10 @@
                                   "homeLastName":  "Jets",
                                   "dateLabel":  "Sunday, Nov 1",
                                   "dk":  {
-                                             "awayHandle":  65,
-                                             "awayBet":  71,
-                                             "homeHandle":  35,
-                                             "homeBet":  29,
+                                             "awayHandle":  64,
+                                             "awayBet":  72,
+                                             "homeHandle":  36,
+                                             "homeBet":  28,
                                              "awaySpread":  1.5,
                                              "homeSpread":  -1.5
                                          },
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Jaguars",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  17,
+                                              "awayHandle":  18,
                                               "awayBet":  49,
-                                              "homeHandle":  83,
+                                              "homeHandle":  82,
                                               "homeBet":  51,
                                               "awaySpread":  10,
                                               "homeSpread":  -10
