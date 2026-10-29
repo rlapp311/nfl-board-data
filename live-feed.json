@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T21:29:19Z",
+    "generatedAt":  "2026-10-29T21:44:24Z",
     "byPair":  {
                    "CAR-GB":  {
                                   "gameCode":  "20261029NFL00053",
@@ -9,9 +9,9 @@
                                   "homeLastName":  "Packers",
                                   "dateLabel":  "Thursday, Oct 29",
                                   "dk":  {
-                                             "awayHandle":  51,
+                                             "awayHandle":  52,
                                              "awayBet":  44,
-                                             "homeHandle":  49,
+                                             "homeHandle":  48,
                                              "homeBet":  56,
                                              "awaySpread":  3.5,
                                              "homeSpread":  -3.5
@@ -114,9 +114,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  4,
-                                                 "awayBet":  60,
+                                                 "awayBet":  56,
                                                  "homeHandle":  96,
-                                                 "homeBet":  40,
+                                                 "homeBet":  44,
                                                  "awaySpread":  3.5,
                                                  "homeSpread":  -3.5
                                              }
