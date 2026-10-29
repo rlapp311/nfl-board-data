@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T00:27:11Z",
+    "generatedAt":  "2026-10-29T00:57:16Z",
     "byPair":  {
                    "CAR-GB":  {
                                   "gameCode":  "20261029NFL00053",
@@ -33,9 +33,9 @@
                                    "homeLastName":  "Bills",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  20,
+                                              "awayHandle":  19,
                                               "awayBet":  24,
-                                              "homeHandle":  80,
+                                              "homeHandle":  81,
                                               "homeBet":  76,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
@@ -57,9 +57,9 @@
                                    "homeLastName":  "Bengals",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  49,
+                                              "awayHandle":  48,
                                               "awayBet":  39,
-                                              "homeHandle":  51,
+                                              "homeHandle":  52,
                                               "homeBet":  61,
                                               "awaySpread":  10,
                                               "homeSpread":  -10
@@ -153,9 +153,9 @@
                                    "homeLastName":  "Steelers",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  68,
+                                              "awayHandle":  69,
                                               "awayBet":  66,
-                                              "homeHandle":  32,
+                                              "homeHandle":  31,
                                               "homeBet":  34,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
@@ -185,10 +185,10 @@
                                              "homeSpread":  -2.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  1,
-                                                "awayBet":  67,
-                                                "homeHandle":  99,
-                                                "homeBet":  33,
+                                                "awayHandle":  2,
+                                                "awayBet":  71,
+                                                "homeHandle":  98,
+                                                "homeBet":  29,
                                                 "awaySpread":  2.5,
                                                 "homeSpread":  -2.5
                                             }
@@ -201,10 +201,10 @@
                                    "homeLastName":  "Jaguars",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  18,
-                                              "awayBet":  50,
-                                              "homeHandle":  82,
-                                              "homeBet":  50,
+                                              "awayHandle":  17,
+                                              "awayBet":  49,
+                                              "homeHandle":  83,
+                                              "homeBet":  51,
                                               "awaySpread":  10,
                                               "homeSpread":  -10
                                           },
