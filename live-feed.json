@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-29T03:27:25Z",
+    "generatedAt":  "2026-10-29T03:57:27Z",
     "byPair":  {
                    "CAR-GB":  {
                                   "gameCode":  "20261029NFL00053",
@@ -9,18 +9,18 @@
                                   "homeLastName":  "Packers",
                                   "dateLabel":  "Thursday, Oct 29",
                                   "dk":  {
-                                             "awayHandle":  49,
+                                             "awayHandle":  50,
                                              "awayBet":  41,
-                                             "homeHandle":  51,
+                                             "homeHandle":  50,
                                              "homeBet":  59,
                                              "awaySpread":  3.5,
                                              "homeSpread":  -3.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  46,
-                                                "awayBet":  50,
-                                                "homeHandle":  54,
-                                                "homeBet":  50,
+                                                "awayHandle":  61,
+                                                "awayBet":  51,
+                                                "homeHandle":  39,
+                                                "homeBet":  49,
                                                 "awaySpread":  3.5,
                                                 "homeSpread":  -3.5
                                             }
@@ -153,9 +153,9 @@
                                    "homeLastName":  "Steelers",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  68,
+                                              "awayHandle":  69,
                                               "awayBet":  67,
-                                              "homeHandle":  32,
+                                              "homeHandle":  31,
                                               "homeBet":  33,
                                               "awaySpread":  3.5,
                                               "homeSpread":  -3.5
@@ -178,17 +178,17 @@
                                   "dateLabel":  "Sunday, Nov 1",
                                   "dk":  {
                                              "awayHandle":  26,
-                                             "awayBet":  57,
+                                             "awayBet":  56,
                                              "homeHandle":  74,
-                                             "homeBet":  43,
+                                             "homeBet":  44,
                                              "awaySpread":  2.5,
                                              "homeSpread":  -2.5
                                          },
                                   "circa":  {
                                                 "awayHandle":  2,
-                                                "awayBet":  71,
+                                                "awayBet":  63,
                                                 "homeHandle":  98,
-                                                "homeBet":  29,
+                                                "homeBet":  38,
                                                 "awaySpread":  2.5,
                                                 "homeSpread":  -2.5
                                             }
@@ -226,9 +226,9 @@
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
                                               "awayHandle":  74,
-                                              "awayBet":  34,
+                                              "awayBet":  35,
                                               "homeHandle":  26,
-                                              "homeBet":  66,
+                                              "homeBet":  65,
                                               "awaySpread":  6.5,
                                               "homeSpread":  -6.5
                                           },
@@ -282,9 +282,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  0,
-                                                "awayBet":  50,
+                                                "awayBet":  44,
                                                 "homeHandle":  100,
-                                                "homeBet":  50,
+                                                "homeBet":  56,
                                                 "awaySpread":  -7,
                                                 "homeSpread":  7
                                             }
