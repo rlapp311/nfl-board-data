@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-10-30T02:29:45Z",
-    "generatedAt":  "2026-10-30T04:16:42Z",
+    "linesAsOf":  "2026-10-30T04:29:50Z",
+    "generatedAt":  "2026-10-30T04:31:44Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "CARGB",
-                      "away":  "CAR",
-                      "home":  "GB",
-                      "day":  "Thu 10/29",
-                      "time":  "8:15p ET",
-                      "circa":  -3.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -4.5,
-                                      -3.5
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  -4.5
-                  },
                   {
                       "id":  "BALBUF",
                       "away":  "BAL",

@@ -93,16 +93,6 @@
               "week":  8,
               "games":  [
                             {
-                                "id":  "CARGB",
-                                "away":  "CAR",
-                                "home":  "GB",
-                                "day":  "Thu 10/29",
-                                "time":  "8:15p ET",
-                                "circa":  -3.5,
-                                "lookahead":  -3,
-                                "circaOpen":  -4.5
-                            },
-                            {
                                 "id":  "BALBUF",
                                 "away":  "BAL",
                                 "home":  "BUF",
