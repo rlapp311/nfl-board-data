@@ -3,7 +3,7 @@
     "week":  8,
     "hfa":  1.5,
     "linesAsOf":  "2026-10-30T04:29:50Z",
-    "generatedAt":  "2026-10-30T04:31:44Z",
+    "generatedAt":  "2026-10-30T04:47:01Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-10-30T01:32:07Z",
+                                              "asOf":  "2026-10-30T04:47:01Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -445,7 +445,7 @@
                           },
                   "CAR":  {
                               "name":  "Panthers",
-                              "wl":  "3-3",
+                              "wl":  "3-4",
                               "pr":  -2.03,
                               "fpi":  -1.86,
                               "fpiOff":  null,
@@ -795,7 +795,7 @@
                           },
                   "GB":  {
                              "name":  "Packers",
-                             "wl":  "4-3",
+                             "wl":  "5-3",
                              "pr":  1.5,
                              "fpi":  1.29,
                              "fpiOff":  null,

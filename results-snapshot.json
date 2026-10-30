@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-10-30T01:31:54.2783902Z",
+    "GeneratedAt":  "2026-10-30T04:46:50.5355000Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1079,10 +1079,10 @@
                       "date":  "2026-10-30T00:15:00.0000000Z",
                       "away":  "CAR",
                       "home":  "GB",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  19,
+                      "homeScore":  27,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  8,
