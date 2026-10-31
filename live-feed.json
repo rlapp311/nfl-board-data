@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-31T11:31:21Z",
+    "generatedAt":  "2026-10-31T12:31:24Z",
     "byPair":  {
                    "BAL-BUF":  {
                                    "gameCode":  "20261101NFL00031",
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  53,
+                                              "awayHandle":  60,
                                               "awayBet":  35,
-                                              "homeHandle":  47,
+                                              "homeHandle":  40,
                                               "homeBet":  65,
                                               "awaySpread":  6.5,
                                               "homeSpread":  -6.5
@@ -249,9 +249,9 @@
                                   "homeLastName":  "Dolphins",
                                   "dateLabel":  "Sunday, Nov 1",
                                   "dk":  {
-                                             "awayHandle":  65,
+                                             "awayHandle":  66,
                                              "awayBet":  72,
-                                             "homeHandle":  35,
+                                             "homeHandle":  34,
                                              "homeBet":  28,
                                              "awaySpread":  -7,
                                              "homeSpread":  7
@@ -274,9 +274,9 @@
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
                                               "awayHandle":  39,
-                                              "awayBet":  46,
+                                              "awayBet":  47,
                                               "homeHandle":  61,
-                                              "homeBet":  54,
+                                              "homeBet":  53,
                                               "awaySpread":  5.5,
                                               "homeSpread":  -5.5
                                           },
@@ -285,8 +285,8 @@
                                                  "awayBet":  57,
                                                  "homeHandle":  95,
                                                  "homeBet":  43,
-                                                 "awaySpread":  6,
-                                                 "homeSpread":  -6
+                                                 "awaySpread":  5.5,
+                                                 "homeSpread":  -5.5
                                              }
                                },
                    "CHI-SEA":  {
@@ -298,9 +298,9 @@
                                    "dateLabel":  "Monday, Nov 2",
                                    "dk":  {
                                               "awayHandle":  30,
-                                              "awayBet":  50,
+                                              "awayBet":  51,
                                               "homeHandle":  70,
-                                              "homeBet":  50,
+                                              "homeBet":  49,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
                                           },
