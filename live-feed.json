@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-01T19:15:15Z",
+    "generatedAt":  "2026-11-01T19:30:16Z",
     "byPair":  {
                    "BAL-BUF":  {
                                    "gameCode":  "20261101NFL00031",
@@ -225,9 +225,9 @@
                                   "homeLastName":  "Broncos",
                                   "dateLabel":  "Sunday, Nov 1",
                                   "dk":  {
-                                             "awayHandle":  50,
+                                             "awayHandle":  49,
                                              "awayBet":  42,
-                                             "homeHandle":  50,
+                                             "homeHandle":  51,
                                              "homeBet":  58,
                                              "awaySpread":  -1.5,
                                              "homeSpread":  1.5
@@ -282,9 +282,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  64,
-                                                 "awayBet":  51,
+                                                 "awayBet":  50,
                                                  "homeHandle":  36,
-                                                 "homeBet":  49,
+                                                 "homeBet":  50,
                                                  "awaySpread":  5.5,
                                                  "homeSpread":  -5.5
                                              }
