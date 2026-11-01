@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-01T18:32:37.0248306Z",
+    "GeneratedAt":  "2026-11-01T21:46:58.6091184Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1077,82 +1077,22 @@
                   {
                       "week":  8,
                       "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "BAL",
-                      "home":  "BUF",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
                       "away":  "TEN",
                       "home":  "CIN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
+                      "awayScore":  36,
+                      "homeScore":  43,
+                      "ot":  true,
+                      "final":  true
                   },
                   {
                       "week":  8,
                       "date":  "2026-11-01T18:00:00.0000000Z",
                       "away":  "ARI",
                       "home":  "DAL",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "MIN",
-                      "home":  "DET",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "LV",
-                      "home":  "NYJ",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "CLE",
-                      "home":  "PIT",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "ATL",
-                      "home":  "TB",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "IND",
-                      "home":  "JAX",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
+                      "awayScore":  33,
+                      "homeScore":  30,
+                      "ot":  true,
+                      "final":  true
                   },
                   {
                       "week":  8,
@@ -1183,6 +1123,66 @@
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "BAL",
+                      "home":  "BUF",
+                      "awayScore":  10,
+                      "homeScore":  36,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "MIN",
+                      "home":  "DET",
+                      "awayScore":  15,
+                      "homeScore":  19,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "LV",
+                      "home":  "NYJ",
+                      "awayScore":  38,
+                      "homeScore":  33,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "CLE",
+                      "home":  "PIT",
+                      "awayScore":  6,
+                      "homeScore":  27,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "ATL",
+                      "home":  "TB",
+                      "awayScore":  0,
+                      "homeScore":  16,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "IND",
+                      "home":  "JAX",
+                      "awayScore":  7,
+                      "homeScore":  42,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  8,

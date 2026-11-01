@@ -3,7 +3,7 @@
     "week":  8,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-01T21:30:28Z",
-    "generatedAt":  "2026-11-01T21:32:38Z",
+    "generatedAt":  "2026-11-01T21:46:59Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -49,21 +49,6 @@
              ],
     "games":  [
                   {
-                      "id":  "BALBUF",
-                      "away":  "BAL",
-                      "home":  "BUF",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3.5,
-                                      -3
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3.5
-                  },
-                  {
                       "id":  "TENCIN",
                       "away":  "TEN",
                       "home":  "CIN",
@@ -92,6 +77,65 @@
                                   ],
                       "lookahead":  -6.5,
                       "circaOpen":  -6
+                  },
+                  {
+                      "id":  "LACLAR",
+                      "away":  "LAC",
+                      "home":  "LAR",
+                      "day":  "Sun 11/1",
+                      "time":  "4:05p ET",
+                      "circa":  -6.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -7,
+                                      -6.5
+                                  ],
+                      "lookahead":  -7,
+                      "circaOpen":  -7
+                  },
+                  {
+                      "id":  "KCDEN",
+                      "away":  "KC",
+                      "home":  "DEN",
+                      "day":  "Sun 11/1",
+                      "time":  "4:25p ET",
+                      "circa":  0,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      1.5,
+                                      0
+                                  ],
+                      "lookahead":  1.5
+                  },
+                  {
+                      "id":  "NEMIA",
+                      "away":  "NE",
+                      "home":  "MIA",
+                      "day":  "Sun 11/1",
+                      "time":  "4:25p ET",
+                      "circa":  6.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      7.5,
+                                      6.5
+                                  ],
+                      "lookahead":  8.5,
+                      "circaOpen":  7.5
+                  },
+                  {
+                      "id":  "BALBUF",
+                      "away":  "BAL",
+                      "home":  "BUF",
+                      "day":  "Sun 11/1",
+                      "time":  "1:00p ET",
+                      "circa":  -3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -3.5,
+                                      -3
+                                  ],
+                      "lookahead":  -3,
+                      "circaOpen":  -3.5
                   },
                   {
                       "id":  "MINDET",
@@ -169,50 +213,6 @@
                       "circaOpen":  -7.5
                   },
                   {
-                      "id":  "LACLAR",
-                      "away":  "LAC",
-                      "home":  "LAR",
-                      "day":  "Sun 11/1",
-                      "time":  "4:05p ET",
-                      "circa":  -6.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -7,
-                                      -6.5
-                                  ],
-                      "lookahead":  -7,
-                      "circaOpen":  -7
-                  },
-                  {
-                      "id":  "KCDEN",
-                      "away":  "KC",
-                      "home":  "DEN",
-                      "day":  "Sun 11/1",
-                      "time":  "4:25p ET",
-                      "circa":  0,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      1.5,
-                                      0
-                                  ],
-                      "lookahead":  1.5
-                  },
-                  {
-                      "id":  "NEMIA",
-                      "away":  "NE",
-                      "home":  "MIA",
-                      "day":  "Sun 11/1",
-                      "time":  "4:25p ET",
-                      "circa":  6.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      7.5,
-                                      6.5
-                                  ],
-                      "lookahead":  8.5,
-                      "circaOpen":  7.5
-                  },
-                  {
                       "id":  "PHIWAS",
                       "away":  "PHI",
                       "home":  "WAS",
@@ -245,7 +245,7 @@
     "teams":  {
                   "ARI":  {
                               "name":  "Cardinals",
-                              "wl":  "2-5",
+                              "wl":  "3-5",
                               "pr":  -2.66,
                               "fpi":  -4.92,
                               "fpiOff":  null,
@@ -295,7 +295,7 @@
                           },
                   "ATL":  {
                               "name":  "Falcons",
-                              "wl":  "3-4",
+                              "wl":  "3-5",
                               "pr":  -4.24,
                               "fpi":  -2.63,
                               "fpiOff":  null,
@@ -345,7 +345,7 @@
                           },
                   "BAL":  {
                               "name":  "Ravens",
-                              "wl":  "4-3",
+                              "wl":  "4-4",
                               "pr":  5.5,
                               "fpi":  2.26,
                               "fpiOff":  null,
@@ -395,7 +395,7 @@
                           },
                   "BUF":  {
                               "name":  "Bills",
-                              "wl":  "5-1",
+                              "wl":  "6-1",
                               "pr":  3.29,
                               "fpi":  4.31,
                               "fpiOff":  null,
@@ -545,7 +545,7 @@
                           },
                   "CIN":  {
                               "name":  "Bengals",
-                              "wl":  "4-2",
+                              "wl":  "5-2",
                               "pr":  0.72,
                               "fpi":  3.93,
                               "fpiOff":  null,
@@ -595,7 +595,7 @@
                           },
                   "CLE":  {
                               "name":  "Browns",
-                              "wl":  "5-2",
+                              "wl":  "5-3",
                               "pr":  -3.67,
                               "fpi":  -4.28,
                               "fpiOff":  null,
@@ -645,7 +645,7 @@
                           },
                   "DAL":  {
                               "name":  "Cowboys",
-                              "wl":  "3-4",
+                              "wl":  "3-5",
                               "pr":  2.17,
                               "fpi":  2.31,
                               "fpiOff":  null,
@@ -745,7 +745,7 @@
                           },
                   "DET":  {
                               "name":  "Lions",
-                              "wl":  "4-2",
+                              "wl":  "5-2",
                               "pr":  2.63,
                               "fpi":  1.85,
                               "fpiOff":  null,
@@ -895,7 +895,7 @@
                           },
                   "IND":  {
                               "name":  "Colts",
-                              "wl":  "2-5",
+                              "wl":  "2-6",
                               "pr":  0,
                               "fpi":  -1.13,
                               "fpiOff":  null,
@@ -945,7 +945,7 @@
                           },
                   "JAX":  {
                               "name":  "Jaguars",
-                              "wl":  "4-2",
+                              "wl":  "5-2",
                               "pr":  1.79,
                               "fpi":  3.92,
                               "fpiOff":  null,
@@ -1145,7 +1145,7 @@
                           },
                   "LV":  {
                              "name":  "Raiders",
-                             "wl":  "3-4",
+                             "wl":  "4-4",
                              "pr":  -3.04,
                              "fpi":  -2.94,
                              "fpiOff":  null,
@@ -1245,7 +1245,7 @@
                           },
                   "MIN":  {
                               "name":  "Vikings",
-                              "wl":  "6-0",
+                              "wl":  "6-1",
                               "pr":  1.44,
                               "fpi":  1.44,
                               "fpiOff":  null,
@@ -1445,7 +1445,7 @@
                           },
                   "NYJ":  {
                               "name":  "Jets",
-                              "wl":  "2-5",
+                              "wl":  "2-6",
                               "pr":  -3.45,
                               "fpi":  -4.26,
                               "fpiOff":  null,
@@ -1545,7 +1545,7 @@
                           },
                   "PIT":  {
                               "name":  "Steelers",
-                              "wl":  "5-2",
+                              "wl":  "6-2",
                               "pr":  -1.75,
                               "fpi":  -0.87,
                               "fpiOff":  null,
@@ -1695,7 +1695,7 @@
                          },
                   "TB":  {
                              "name":  "Buccaneers",
-                             "wl":  "2-5",
+                             "wl":  "3-5",
                              "pr":  -0.21,
                              "fpi":  1.74,
                              "fpiOff":  null,
@@ -1745,7 +1745,7 @@
                          },
                   "TEN":  {
                               "name":  "Titans",
-                              "wl":  "1-6",
+                              "wl":  "1-7",
                               "pr":  -4.09,
                               "fpi":  -6.35,
                               "fpiOff":  null,
