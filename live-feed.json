@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-01T18:45:11Z",
+    "generatedAt":  "2026-11-01T19:00:13Z",
     "byPair":  {
                    "BAL-BUF":  {
                                    "gameCode":  "20261101NFL00031",
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Rams",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  52,
+                                              "awayHandle":  51,
                                               "awayBet":  23,
-                                              "homeHandle":  48,
+                                              "homeHandle":  49,
                                               "homeBet":  77,
                                               "awaySpread":  6.5,
                                               "homeSpread":  -6.5
@@ -281,12 +281,12 @@
                                               "homeSpread":  -6
                                           },
                                    "circa":  {
-                                                 "awayHandle":  49,
-                                                 "awayBet":  50,
-                                                 "homeHandle":  51,
-                                                 "homeBet":  50,
-                                                 "awaySpread":  6,
-                                                 "homeSpread":  -6
+                                                 "awayHandle":  64,
+                                                 "awayBet":  51,
+                                                 "homeHandle":  36,
+                                                 "homeBet":  49,
+                                                 "awaySpread":  5.5,
+                                                 "homeSpread":  -5.5
                                              }
                                },
                    "CHI-SEA":  {
@@ -297,18 +297,18 @@
                                    "homeLastName":  "Seahawks",
                                    "dateLabel":  "Monday, Nov 2",
                                    "dk":  {
-                                              "awayHandle":  43,
+                                              "awayHandle":  30,
                                               "awayBet":  52,
-                                              "homeHandle":  57,
+                                              "homeHandle":  70,
                                               "homeBet":  48,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
                                           },
                                    "circa":  {
                                                  "awayHandle":  6,
-                                                 "awayBet":  41,
+                                                 "awayBet":  40,
                                                  "homeHandle":  94,
-                                                 "homeBet":  59,
+                                                 "homeBet":  60,
                                                  "awaySpread":  3,
                                                  "homeSpread":  -3
                                              }
