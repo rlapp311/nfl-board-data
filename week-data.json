@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-01T22:00:29Z",
-    "generatedAt":  "2026-11-01T22:16:46Z",
+    "linesAsOf":  "2026-11-01T22:30:31Z",
+    "generatedAt":  "2026-11-01T22:34:11Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-01T19:17:30Z",
+                                              "asOf":  "2026-11-01T22:34:10Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1283,7 +1283,7 @@
                               "rswrRk":  11,
                               "qb":  {
                                          "name":  "Kyler Murray",
-                                         "status":  "depth chart -- started Wk 7",
+                                         "status":  "depth chart -- listed questionable -- started Wk 7",
                                          "epa":  -0.073,
                                          "epaRk":  26,
                                          "sr":  38,
