@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-02T04:31:22Z",
-    "generatedAt":  "2026-11-02T04:46:44Z",
+    "linesAsOf":  "2026-11-02T05:01:23Z",
+    "generatedAt":  "2026-11-02T05:02:23Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-02T01:47:00Z",
+                                              "asOf":  "2026-11-02T05:02:22Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -48,185 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "PHIWAS",
-                      "away":  "PHI",
-                      "home":  "WAS",
-                      "day":  "Sun 11/1",
-                      "time":  "8:20p ET",
-                      "circa":  -5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3.5,
-                                      -5
-                                  ],
-                      "lookahead":  -3.5,
-                      "circaOpen":  -3.5
-                  },
-                  {
-                      "id":  "BALBUF",
-                      "away":  "BAL",
-                      "home":  "BUF",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3.5,
-                                      -3
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3.5
-                  },
-                  {
-                      "id":  "TENCIN",
-                      "away":  "TEN",
-                      "home":  "CIN",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -13.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -10,
-                                      -13.5
-                                  ],
-                      "lookahead":  -10,
-                      "circaOpen":  -10
-                  },
-                  {
-                      "id":  "ARIDAL",
-                      "away":  "ARI",
-                      "home":  "DAL",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -7.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -6,
-                                      -7.5
-                                  ],
-                      "lookahead":  -6.5,
-                      "circaOpen":  -6
-                  },
-                  {
-                      "id":  "MINDET",
-                      "away":  "MIN",
-                      "home":  "DET",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -3.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3,
-                                      -3.5
-                                  ],
-                      "lookahead":  -2.5,
-                      "circaOpen":  -3
-                  },
-                  {
-                      "id":  "LVNYJ",
-                      "away":  "LV",
-                      "home":  "NYJ",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -2,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -1,
-                                      -2
-                                  ],
-                      "lookahead":  1.5,
-                      "circaOpen":  -1
-                  },
-                  {
-                      "id":  "CLEPIT",
-                      "away":  "CLE",
-                      "home":  "PIT",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -4,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -4,
-                                      -4
-                                  ],
-                      "lookahead":  -4.5,
-                      "circaOpen":  -4
-                  },
-                  {
-                      "id":  "ATLTB",
-                      "away":  "ATL",
-                      "home":  "TB",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -2,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -1.5,
-                                      -2
-                                  ],
-                      "lookahead":  -1.5,
-                      "circaOpen":  -1.5
-                  },
-                  {
-                      "id":  "INDJAX",
-                      "away":  "IND",
-                      "home":  "JAX",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -10,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -7.5,
-                                      -10
-                                  ],
-                      "lookahead":  -7.5,
-                      "circaOpen":  -7.5
-                  },
-                  {
-                      "id":  "LACLAR",
-                      "away":  "LAC",
-                      "home":  "LAR",
-                      "day":  "Sun 11/1",
-                      "time":  "4:05p ET",
-                      "circa":  -6.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -7,
-                                      -6.5
-                                  ],
-                      "lookahead":  -7,
-                      "circaOpen":  -7
-                  },
-                  {
-                      "id":  "KCDEN",
-                      "away":  "KC",
-                      "home":  "DEN",
-                      "day":  "Sun 11/1",
-                      "time":  "4:25p ET",
-                      "circa":  0,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      1.5,
-                                      0
-                                  ],
-                      "lookahead":  1.5
-                  },
-                  {
-                      "id":  "NEMIA",
-                      "away":  "NE",
-                      "home":  "MIA",
-                      "day":  "Sun 11/1",
-                      "time":  "4:25p ET",
-                      "circa":  6.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      7.5,
-                                      6.5
-                                  ],
-                      "lookahead":  8.5,
-                      "circaOpen":  7.5
-                  },
                   {
                       "id":  "CHISEA",
                       "away":  "CHI",
