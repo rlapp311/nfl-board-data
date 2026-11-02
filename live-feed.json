@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T19:34:25Z",
+    "generatedAt":  "2026-11-02T20:04:27Z",
     "byPair":  {
                    "CHI-SEA":  {
                                    "gameCode":  "20261102NFL00061",
@@ -9,18 +9,18 @@
                                    "homeLastName":  "Seahawks",
                                    "dateLabel":  "Monday, Nov 2",
                                    "dk":  {
-                                              "awayHandle":  42,
+                                              "awayHandle":  44,
                                               "awayBet":  48,
-                                              "homeHandle":  58,
+                                              "homeHandle":  56,
                                               "homeBet":  52,
-                                              "awaySpread":  3,
-                                              "homeSpread":  -3
+                                              "awaySpread":  3.5,
+                                              "homeSpread":  -3.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  52,
-                                                 "awayBet":  45,
-                                                 "homeHandle":  48,
-                                                 "homeBet":  55,
+                                                 "awayHandle":  54,
+                                                 "awayBet":  44,
+                                                 "homeHandle":  46,
+                                                 "homeBet":  56,
                                                  "awaySpread":  3,
                                                  "homeSpread":  -3
                                              }
