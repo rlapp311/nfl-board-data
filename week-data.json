@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-02T00:15:40Z",
-    "generatedAt":  "2026-11-02T00:16:46Z",
+    "linesAsOf":  "2026-11-02T00:30:42Z",
+    "generatedAt":  "2026-11-02T00:31:46Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -218,11 +218,11 @@
                       "home":  "WAS",
                       "day":  "Sun 11/1",
                       "time":  "8:20p ET",
-                      "circa":  -5.5,
+                      "circa":  -5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3.5,
-                                      -5.5
+                                      -5
                                   ],
                       "lookahead":  -3.5,
                       "circaOpen":  -3.5
