@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  8,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-02T00:45:41Z",
-    "generatedAt":  "2026-11-02T00:46:44Z",
+    "linesAsOf":  "2026-11-02T01:00:43Z",
+    "generatedAt":  "2026-11-02T01:02:33Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -49,6 +49,21 @@
              ],
     "games":  [
                   {
+                      "id":  "BALBUF",
+                      "away":  "BAL",
+                      "home":  "BUF",
+                      "day":  "Sun 11/1",
+                      "time":  "1:00p ET",
+                      "circa":  -3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -3.5,
+                                      -3
+                                  ],
+                      "lookahead":  -3,
+                      "circaOpen":  -3.5
+                  },
+                  {
                       "id":  "TENCIN",
                       "away":  "TEN",
                       "home":  "CIN",
@@ -77,65 +92,6 @@
                                   ],
                       "lookahead":  -6.5,
                       "circaOpen":  -6
-                  },
-                  {
-                      "id":  "LACLAR",
-                      "away":  "LAC",
-                      "home":  "LAR",
-                      "day":  "Sun 11/1",
-                      "time":  "4:05p ET",
-                      "circa":  -6.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -7,
-                                      -6.5
-                                  ],
-                      "lookahead":  -7,
-                      "circaOpen":  -7
-                  },
-                  {
-                      "id":  "KCDEN",
-                      "away":  "KC",
-                      "home":  "DEN",
-                      "day":  "Sun 11/1",
-                      "time":  "4:25p ET",
-                      "circa":  0,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      1.5,
-                                      0
-                                  ],
-                      "lookahead":  1.5
-                  },
-                  {
-                      "id":  "NEMIA",
-                      "away":  "NE",
-                      "home":  "MIA",
-                      "day":  "Sun 11/1",
-                      "time":  "4:25p ET",
-                      "circa":  6.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      7.5,
-                                      6.5
-                                  ],
-                      "lookahead":  8.5,
-                      "circaOpen":  7.5
-                  },
-                  {
-                      "id":  "BALBUF",
-                      "away":  "BAL",
-                      "home":  "BUF",
-                      "day":  "Sun 11/1",
-                      "time":  "1:00p ET",
-                      "circa":  -3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3.5,
-                                      -3
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  -3.5
                   },
                   {
                       "id":  "MINDET",
@@ -211,6 +167,50 @@
                                   ],
                       "lookahead":  -7.5,
                       "circaOpen":  -7.5
+                  },
+                  {
+                      "id":  "LACLAR",
+                      "away":  "LAC",
+                      "home":  "LAR",
+                      "day":  "Sun 11/1",
+                      "time":  "4:05p ET",
+                      "circa":  -6.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -7,
+                                      -6.5
+                                  ],
+                      "lookahead":  -7,
+                      "circaOpen":  -7
+                  },
+                  {
+                      "id":  "KCDEN",
+                      "away":  "KC",
+                      "home":  "DEN",
+                      "day":  "Sun 11/1",
+                      "time":  "4:25p ET",
+                      "circa":  0,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      1.5,
+                                      0
+                                  ],
+                      "lookahead":  1.5
+                  },
+                  {
+                      "id":  "NEMIA",
+                      "away":  "NE",
+                      "home":  "MIA",
+                      "day":  "Sun 11/1",
+                      "time":  "4:25p ET",
+                      "circa":  6.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      7.5,
+                                      6.5
+                                  ],
+                      "lookahead":  8.5,
+                      "circaOpen":  7.5
                   },
                   {
                       "id":  "PHIWAS",
@@ -695,7 +695,7 @@
                           },
                   "DEN":  {
                               "name":  "Broncos",
-                              "wl":  "5-2",
+                              "wl":  "6-2",
                               "pr":  2.96,
                               "fpi":  1.52,
                               "fpiOff":  null,
@@ -995,7 +995,7 @@
                           },
                   "KC":  {
                              "name":  "Chiefs",
-                             "wl":  "5-1",
+                             "wl":  "5-2",
                              "pr":  2.52,
                              "fpi":  3.94,
                              "fpiOff":  null,
@@ -1045,7 +1045,7 @@
                          },
                   "LAC":  {
                               "name":  "Chargers",
-                              "wl":  "0-6",
+                              "wl":  "0-7",
                               "pr":  1.83,
                               "fpi":  -2.09,
                               "fpiOff":  null,
@@ -1095,7 +1095,7 @@
                           },
                   "LAR":  {
                               "name":  "Rams",
-                              "wl":  "3-4",
+                              "wl":  "4-4",
                               "pr":  6.12,
                               "fpi":  3.45,
                               "fpiOff":  null,
@@ -1195,7 +1195,7 @@
                          },
                   "MIA":  {
                               "name":  "Dolphins",
-                              "wl":  "1-5",
+                              "wl":  "1-6",
                               "pr":  -4.31,
                               "fpi":  -7.3,
                               "fpiOff":  null,
@@ -1295,7 +1295,7 @@
                           },
                   "NE":  {
                              "name":  "Patriots",
-                             "wl":  "4-3",
+                             "wl":  "5-3",
                              "pr":  2.57,
                              "fpi":  2.29,
                              "fpiOff":  null,

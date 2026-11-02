@@ -93,6 +93,16 @@
               "week":  8,
               "games":  [
                             {
+                                "id":  "BALBUF",
+                                "away":  "BAL",
+                                "home":  "BUF",
+                                "day":  "Sun 11/1",
+                                "time":  "1:00p ET",
+                                "circa":  -3,
+                                "lookahead":  -3,
+                                "circaOpen":  -3.5
+                            },
+                            {
                                 "id":  "TENCIN",
                                 "away":  "TEN",
                                 "home":  "CIN",
@@ -111,46 +121,6 @@
                                 "circa":  -7.5,
                                 "lookahead":  -6.5,
                                 "circaOpen":  -6
-                            },
-                            {
-                                "id":  "LACLAR",
-                                "away":  "LAC",
-                                "home":  "LAR",
-                                "day":  "Sun 11/1",
-                                "time":  "4:05p ET",
-                                "circa":  -6.5,
-                                "lookahead":  -7,
-                                "circaOpen":  -7
-                            },
-                            {
-                                "id":  "KCDEN",
-                                "away":  "KC",
-                                "home":  "DEN",
-                                "day":  "Sun 11/1",
-                                "time":  "4:25p ET",
-                                "circa":  0,
-                                "lookahead":  1.5,
-                                "circaOpen":  null
-                            },
-                            {
-                                "id":  "NEMIA",
-                                "away":  "NE",
-                                "home":  "MIA",
-                                "day":  "Sun 11/1",
-                                "time":  "4:25p ET",
-                                "circa":  6.5,
-                                "lookahead":  8.5,
-                                "circaOpen":  7.5
-                            },
-                            {
-                                "id":  "BALBUF",
-                                "away":  "BAL",
-                                "home":  "BUF",
-                                "day":  "Sun 11/1",
-                                "time":  "1:00p ET",
-                                "circa":  -3,
-                                "lookahead":  -3,
-                                "circaOpen":  -3.5
                             },
                             {
                                 "id":  "MINDET",
@@ -201,6 +171,36 @@
                                 "circa":  -10,
                                 "lookahead":  -7.5,
                                 "circaOpen":  -7.5
+                            },
+                            {
+                                "id":  "LACLAR",
+                                "away":  "LAC",
+                                "home":  "LAR",
+                                "day":  "Sun 11/1",
+                                "time":  "4:05p ET",
+                                "circa":  -6.5,
+                                "lookahead":  -7,
+                                "circaOpen":  -7
+                            },
+                            {
+                                "id":  "KCDEN",
+                                "away":  "KC",
+                                "home":  "DEN",
+                                "day":  "Sun 11/1",
+                                "time":  "4:25p ET",
+                                "circa":  0,
+                                "lookahead":  1.5,
+                                "circaOpen":  null
+                            },
+                            {
+                                "id":  "NEMIA",
+                                "away":  "NE",
+                                "home":  "MIA",
+                                "day":  "Sun 11/1",
+                                "time":  "4:25p ET",
+                                "circa":  6.5,
+                                "lookahead":  8.5,
+                                "circaOpen":  7.5
                             },
                             {
                                 "id":  "PHIWAS",

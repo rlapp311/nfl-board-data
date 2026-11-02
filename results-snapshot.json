@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-01T21:46:58.6091184Z",
+    "GeneratedAt":  "2026-11-02T01:02:32.8815594Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1077,6 +1077,16 @@
                   {
                       "week":  8,
                       "date":  "2026-11-01T18:00:00.0000000Z",
+                      "away":  "BAL",
+                      "home":  "BUF",
+                      "awayScore":  10,
+                      "homeScore":  36,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T18:00:00.0000000Z",
                       "away":  "TEN",
                       "home":  "CIN",
                       "awayScore":  36,
@@ -1092,46 +1102,6 @@
                       "awayScore":  33,
                       "homeScore":  30,
                       "ot":  true,
-                      "final":  true
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T21:05:00.0000000Z",
-                      "away":  "LAC",
-                      "home":  "LAR",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T21:25:00.0000000Z",
-                      "away":  "KC",
-                      "home":  "DEN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T21:25:00.0000000Z",
-                      "away":  "NE",
-                      "home":  "MIA",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-01T18:00:00.0000000Z",
-                      "away":  "BAL",
-                      "home":  "BUF",
-                      "awayScore":  10,
-                      "homeScore":  36,
-                      "ot":  false,
                       "final":  true
                   },
                   {
@@ -1181,6 +1151,36 @@
                       "home":  "JAX",
                       "awayScore":  7,
                       "homeScore":  42,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T21:05:00.0000000Z",
+                      "away":  "LAC",
+                      "home":  "LAR",
+                      "awayScore":  9,
+                      "homeScore":  24,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T21:25:00.0000000Z",
+                      "away":  "KC",
+                      "home":  "DEN",
+                      "awayScore":  24,
+                      "homeScore":  28,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-11-01T21:25:00.0000000Z",
+                      "away":  "NE",
+                      "home":  "MIA",
+                      "awayScore":  24,
+                      "homeScore":  19,
                       "ot":  false,
                       "final":  true
                   },
