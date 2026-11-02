@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T01:00:43Z",
+    "generatedAt":  "2026-11-02T01:15:45Z",
     "byPair":  {
                    "BAL-BUF":  {
                                    "gameCode":  "20261101NFL00031",
@@ -273,17 +273,17 @@
                                    "homeLastName":  "Commanders",
                                    "dateLabel":  "Sunday, Nov 1",
                                    "dk":  {
-                                              "awayHandle":  44,
-                                              "awayBet":  47,
-                                              "homeHandle":  56,
-                                              "homeBet":  53,
-                                              "awaySpread":  6,
-                                              "homeSpread":  -6
+                                              "awayHandle":  53,
+                                              "awayBet":  46,
+                                              "homeHandle":  47,
+                                              "homeBet":  54,
+                                              "awaySpread":  5.5,
+                                              "homeSpread":  -5.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  63,
+                                                 "awayHandle":  62,
                                                  "awayBet":  37,
-                                                 "homeHandle":  37,
+                                                 "homeHandle":  38,
                                                  "homeBet":  63,
                                                  "awaySpread":  5,
                                                  "homeSpread":  -5
@@ -297,9 +297,9 @@
                                    "homeLastName":  "Seahawks",
                                    "dateLabel":  "Monday, Nov 2",
                                    "dk":  {
-                                              "awayHandle":  36,
+                                              "awayHandle":  38,
                                               "awayBet":  49,
-                                              "homeHandle":  64,
+                                              "homeHandle":  62,
                                               "homeBet":  51,
                                               "awaySpread":  3,
                                               "homeSpread":  -3
