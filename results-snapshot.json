@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-02T04:16:55.8875147Z",
+    "GeneratedAt":  "2026-11-02T07:31:53.2273934Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1076,13 +1076,23 @@
                   },
                   {
                       "week":  8,
-                      "date":  "2026-11-02T01:20:00.0000000Z",
-                      "away":  "PHI",
-                      "home":  "WAS",
+                      "date":  "2026-11-03T01:15:00.0000000Z",
+                      "away":  "CHI",
+                      "home":  "SEA",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  8,
+                      "date":  "2026-10-30T00:15:00.0000000Z",
+                      "away":  "CAR",
+                      "home":  "GB",
+                      "awayScore":  19,
+                      "homeScore":  27,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  8,
@@ -1196,23 +1206,13 @@
                   },
                   {
                       "week":  8,
-                      "date":  "2026-10-30T00:15:00.0000000Z",
-                      "away":  "CAR",
-                      "home":  "GB",
-                      "awayScore":  19,
+                      "date":  "2026-11-02T01:20:00.0000000Z",
+                      "away":  "PHI",
+                      "home":  "WAS",
+                      "awayScore":  10,
                       "homeScore":  27,
                       "ot":  false,
                       "final":  true
-                  },
-                  {
-                      "week":  8,
-                      "date":  "2026-11-03T01:15:00.0000000Z",
-                      "away":  "CHI",
-                      "home":  "SEA",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
                   },
                   {
                       "week":  9,
