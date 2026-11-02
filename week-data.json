@@ -3,7 +3,7 @@
     "week":  8,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-02T04:01:20Z",
-    "generatedAt":  "2026-11-02T04:01:47Z",
+    "generatedAt":  "2026-11-02T04:16:56Z",
     "analyticsThrough":  "PR and FPI through Week 7",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,6 +48,21 @@
                  "Sun"
              ],
     "games":  [
+                  {
+                      "id":  "PHIWAS",
+                      "away":  "PHI",
+                      "home":  "WAS",
+                      "day":  "Sun 11/1",
+                      "time":  "8:20p ET",
+                      "circa":  -5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -3.5,
+                                      -5
+                                  ],
+                      "lookahead":  -3.5,
+                      "circaOpen":  -3.5
+                  },
                   {
                       "id":  "BALBUF",
                       "away":  "BAL",
@@ -211,21 +226,6 @@
                                   ],
                       "lookahead":  8.5,
                       "circaOpen":  7.5
-                  },
-                  {
-                      "id":  "PHIWAS",
-                      "away":  "PHI",
-                      "home":  "WAS",
-                      "day":  "Sun 11/1",
-                      "time":  "8:20p ET",
-                      "circa":  -5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -3.5,
-                                      -5
-                                  ],
-                      "lookahead":  -3.5,
-                      "circaOpen":  -3.5
                   },
                   {
                       "id":  "CHISEA",

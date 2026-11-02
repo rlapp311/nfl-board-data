@@ -1,6 +1,30 @@
 ﻿{
     "generatedAt":  "2026-11-02T04:01:20Z",
     "byPair":  {
+                   "PHI-WAS":  {
+                                   "gameCode":  "20261101NFL00050",
+                                   "awaySlug":  "philadelphia-eagles",
+                                   "homeSlug":  "washington-commanders",
+                                   "awayLastName":  "Eagles",
+                                   "homeLastName":  "Commanders",
+                                   "dateLabel":  "Sunday, Nov 1",
+                                   "dk":  {
+                                              "awayHandle":  52,
+                                              "awayBet":  46,
+                                              "homeHandle":  48,
+                                              "homeBet":  54,
+                                              "awaySpread":  5.5,
+                                              "homeSpread":  -5.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  61,
+                                                 "awayBet":  37,
+                                                 "homeHandle":  39,
+                                                 "homeBet":  63,
+                                                 "awaySpread":  5,
+                                                 "homeSpread":  -5
+                                             }
+                               },
                    "BAL-BUF":  {
                                    "gameCode":  "20261101NFL00031",
                                    "awaySlug":  "baltimore-ravens",
@@ -265,30 +289,6 @@
                                                 "homeSpread":  6.5
                                             }
                               },
-                   "PHI-WAS":  {
-                                   "gameCode":  "20261101NFL00050",
-                                   "awaySlug":  "philadelphia-eagles",
-                                   "homeSlug":  "washington-commanders",
-                                   "awayLastName":  "Eagles",
-                                   "homeLastName":  "Commanders",
-                                   "dateLabel":  "Sunday, Nov 1",
-                                   "dk":  {
-                                              "awayHandle":  52,
-                                              "awayBet":  46,
-                                              "homeHandle":  48,
-                                              "homeBet":  54,
-                                              "awaySpread":  5.5,
-                                              "homeSpread":  -5.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  61,
-                                                 "awayBet":  37,
-                                                 "homeHandle":  39,
-                                                 "homeBet":  63,
-                                                 "awaySpread":  5,
-                                                 "homeSpread":  -5
-                                             }
-                               },
                    "CHI-SEA":  {
                                    "gameCode":  "20261102NFL00061",
                                    "awaySlug":  "chicago-bears",
