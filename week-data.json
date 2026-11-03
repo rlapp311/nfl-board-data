@@ -3,7 +3,7 @@
     "week":  9,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-03T14:00:48Z",
-    "generatedAt":  "2026-11-03T14:06:03Z",
+    "generatedAt":  "2026-11-03T14:17:33Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       9.5,
                                       9.5
                                   ],
-                      "circaOpen":  9.5,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  9.5
                   },
                   {
                       "id":  "CINATL",
@@ -75,8 +75,8 @@
                                       3,
                                       3
                                   ],
-                      "circaOpen":  3,
-                      "lookahead":  3
+                      "lookahead":  3,
+                      "circaOpen":  3
                   },
                   {
                       "id":  "DALIND",
@@ -90,8 +90,8 @@
                                       6.5,
                                       6.5
                                   ],
-                      "circaOpen":  6.5,
-                      "lookahead":  4.5
+                      "lookahead":  4.5,
+                      "circaOpen":  6.5
                   },
                   {
                       "id":  "NYJKC",
@@ -105,8 +105,8 @@
                                       -10,
                                       -8.5
                                   ],
-                      "circaOpen":  -10,
-                      "lookahead":  -9.5
+                      "lookahead":  -9.5,
+                      "circaOpen":  -10
                   },
                   {
                       "id":  "DETMIA",
@@ -120,8 +120,8 @@
                                       7,
                                       7
                                   ],
-                      "circaOpen":  7,
-                      "lookahead":  7
+                      "lookahead":  7,
+                      "circaOpen":  7
                   },
                   {
                       "id":  "CLENO",
@@ -135,8 +135,8 @@
                                       -2.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "NYGPHI",
@@ -150,8 +150,8 @@
                                       3,
                                       3.5
                                   ],
-                      "circaOpen":  3,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  3
                   },
                   {
                       "id":  "LARWAS",
@@ -165,8 +165,8 @@
                                       5.5,
                                       5.5
                                   ],
-                      "circaOpen":  5.5,
-                      "lookahead":  5.5
+                      "lookahead":  5.5,
+                      "circaOpen":  5.5
                   },
                   {
                       "id":  "DENCAR",
@@ -180,8 +180,8 @@
                                       3,
                                       3
                                   ],
-                      "circaOpen":  3,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  3
                   },
                   {
                       "id":  "HOULAC",
@@ -195,8 +195,8 @@
                                       4.5,
                                       4.5
                                   ],
-                      "circaOpen":  4.5,
-                      "lookahead":  3.5
+                      "lookahead":  3.5,
+                      "circaOpen":  4.5
                   },
                   {
                       "id":  "GBNE",
@@ -210,8 +210,8 @@
                                       -3,
                                       -2.5
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "LVSF",
@@ -225,8 +225,8 @@
                                       -9.5,
                                       -10
                                   ],
-                      "circaOpen":  -9.5,
-                      "lookahead":  -10
+                      "lookahead":  -10,
+                      "circaOpen":  -9.5
                   },
                   {
                       "id":  "ARISEA",
@@ -240,8 +240,8 @@
                                       -11.5,
                                       -10.5
                                   ],
-                      "circaOpen":  -11.5,
-                      "lookahead":  -10.5
+                      "lookahead":  -10.5,
+                      "circaOpen":  -11.5
                   },
                   {
                       "id":  "TBCHI",
@@ -255,8 +255,8 @@
                                       -6,
                                       -6
                                   ],
-                      "circaOpen":  -6,
-                      "lookahead":  -6
+                      "lookahead":  -6,
+                      "circaOpen":  -6
                   },
                   {
                       "id":  "BUFMIN",
@@ -270,8 +270,8 @@
                                       2.5,
                                       3.5
                                   ],
-                      "circaOpen":  2.5,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  2.5
                   }
               ],
     "teams":  {
