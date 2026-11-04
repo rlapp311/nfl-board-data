@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-11-03T16:03:01.8006008-05:00",
+    "GeneratedAt":  "2026-11-04T04:17:41.9771174-05:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -228,7 +228,7 @@
                       "Abbr":  "NO",
                       "Team":  "New Orleans Saints",
                       "TeamId":  "18",
-                      "Fpi":  -3.18,
+                      "Fpi":  -3.228,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
