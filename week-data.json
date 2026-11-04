@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-04T16:48:08Z",
-    "generatedAt":  "2026-11-04T17:48:17Z",
+    "linesAsOf":  "2026-11-04T17:48:10Z",
+    "generatedAt":  "2026-11-04T18:03:58Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -99,11 +99,11 @@
                       "home":  "KC",
                       "day":  "Sun 11/8",
                       "time":  "1:00p ET",
-                      "circa":  -9.5,
+                      "circa":  -10,
                       "book":  "CIRCA",
                       "history":  [
                                       -10,
-                                      -9.5
+                                      -10
                                   ],
                       "lookahead":  -9.5,
                       "circaOpen":  -10
