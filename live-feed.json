@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T12:47:45Z",
+    "generatedAt":  "2026-11-04T13:47:47Z",
     "byPair":  {
                    "JAX-BAL":  {
                                    "gameCode":  "20261105NFL00035",
@@ -69,8 +69,8 @@
                                                  "awayBet":  13,
                                                  "homeHandle":  99,
                                                  "homeBet":  88,
-                                                 "awaySpread":  -6.5,
-                                                 "homeSpread":  6.5
+                                                 "awaySpread":  -6,
+                                                 "homeSpread":  6
                                              }
                                },
                    "NYJ-KC":  {
@@ -141,8 +141,8 @@
                                                 "awayBet":  30,
                                                 "homeHandle":  11,
                                                 "homeBet":  70,
-                                                "awaySpread":  1.5,
-                                                "homeSpread":  -1.5
+                                                "awaySpread":  1,
+                                                "homeSpread":  -1
                                             }
                               },
                    "NYG-PHI":  {
@@ -178,9 +178,9 @@
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
                                               "awayHandle":  51,
-                                              "awayBet":  65,
+                                              "awayBet":  64,
                                               "homeHandle":  49,
-                                              "homeBet":  35,
+                                              "homeBet":  36,
                                               "awaySpread":  -5.5,
                                               "homeSpread":  5.5
                                           },
@@ -201,9 +201,9 @@
                                    "homeLastName":  "Panthers",
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
-                                              "awayHandle":  44,
+                                              "awayHandle":  45,
                                               "awayBet":  74,
-                                              "homeHandle":  56,
+                                              "homeHandle":  55,
                                               "homeBet":  26,
                                               "awaySpread":  -2.5,
                                               "homeSpread":  2.5
@@ -298,9 +298,9 @@
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
                                               "awayHandle":  84,
-                                              "awayBet":  73,
+                                              "awayBet":  74,
                                               "homeHandle":  16,
-                                              "homeBet":  27,
+                                              "homeBet":  26,
                                               "awaySpread":  12.5,
                                               "homeSpread":  -12.5
                                           },
@@ -346,9 +346,9 @@
                                    "dateLabel":  "Monday, Nov 9",
                                    "dk":  {
                                               "awayHandle":  67,
-                                              "awayBet":  74,
+                                              "awayBet":  73,
                                               "homeHandle":  33,
-                                              "homeBet":  26,
+                                              "homeBet":  27,
                                               "awaySpread":  -3.5,
                                               "homeSpread":  3.5
                                           },
