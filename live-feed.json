@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T22:36:45Z",
+    "generatedAt":  "2026-11-05T22:51:46Z",
     "byPair":  {
                    "JAX-BAL":  {
                                    "gameCode":  "20261105NFL00035",
@@ -9,10 +9,10 @@
                                    "homeLastName":  "Ravens",
                                    "dateLabel":  "Thursday, Nov 5",
                                    "dk":  {
-                                              "awayHandle":  64,
-                                              "awayBet":  69,
-                                              "homeHandle":  36,
-                                              "homeBet":  31,
+                                              "awayHandle":  61,
+                                              "awayBet":  68,
+                                              "homeHandle":  39,
+                                              "homeBet":  32,
                                               "awaySpread":  -10,
                                               "homeSpread":  10
                                           },
@@ -58,9 +58,9 @@
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
                                               "awayHandle":  87,
-                                              "awayBet":  74,
+                                              "awayBet":  75,
                                               "homeHandle":  13,
-                                              "homeBet":  26,
+                                              "homeBet":  25,
                                               "awaySpread":  -5.5,
                                               "homeSpread":  5.5
                                           },
@@ -178,9 +178,9 @@
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
                                               "awayHandle":  22,
-                                              "awayBet":  61,
+                                              "awayBet":  62,
                                               "homeHandle":  78,
-                                              "homeBet":  39,
+                                              "homeBet":  38,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
                                           },
@@ -345,9 +345,9 @@
                                    "homeLastName":  "Vikings",
                                    "dateLabel":  "Monday, Nov 9",
                                    "dk":  {
-                                              "awayHandle":  68,
+                                              "awayHandle":  69,
                                               "awayBet":  72,
-                                              "homeHandle":  32,
+                                              "homeHandle":  31,
                                               "homeBet":  28,
                                               "awaySpread":  -3,
                                               "homeSpread":  3
