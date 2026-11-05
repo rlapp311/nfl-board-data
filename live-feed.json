@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-05T08:20:32Z",
+    "generatedAt":  "2026-11-05T08:50:34Z",
     "byPair":  {
                    "JAX-BAL":  {
                                    "gameCode":  "20261105NFL00035",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Ravens",
                                    "dateLabel":  "Thursday, Nov 5",
                                    "dk":  {
-                                              "awayHandle":  73,
+                                              "awayHandle":  70,
                                               "awayBet":  77,
-                                              "homeHandle":  27,
+                                              "homeHandle":  30,
                                               "homeBet":  23,
                                               "awaySpread":  -10,
                                               "homeSpread":  10
@@ -130,9 +130,9 @@
                                   "dateLabel":  "Sunday, Nov 8",
                                   "dk":  {
                                              "awayHandle":  16,
-                                             "awayBet":  47,
+                                             "awayBet":  46,
                                              "homeHandle":  84,
-                                             "homeBet":  53,
+                                             "homeBet":  54,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
                                          },

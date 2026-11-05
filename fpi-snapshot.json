@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-11-04T04:17:41.9771174-05:00",
+    "GeneratedAt":  "2026-11-05T04:02:37.1096986-05:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -69,16 +69,6 @@
                       "Team":  "Kansas City Chiefs",
                       "TeamId":  "12",
                       "Fpi":  3.482,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
-                      "Abbr":  "SEA",
-                      "Team":  "Seattle Seahawks",
-                      "TeamId":  "26",
-                      "Fpi":  3.438,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -175,6 +165,16 @@
                       "Rank":  null
                   },
                   {
+                      "Abbr":  "SEA",
+                      "Team":  "Seattle Seahawks",
+                      "TeamId":  "26",
+                      "Fpi":  -1.38,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
                       "Abbr":  "CAR",
                       "Team":  "Carolina Panthers",
                       "TeamId":  "29",
@@ -228,7 +228,7 @@
                       "Abbr":  "NO",
                       "Team":  "New Orleans Saints",
                       "TeamId":  "18",
-                      "Fpi":  -3.228,
+                      "Fpi":  -3.145,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -275,20 +275,20 @@
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "CLE",
-                      "Team":  "Cleveland Browns",
-                      "TeamId":  "5",
-                      "Fpi":  -5.152,
+                      "Abbr":  "BAL",
+                      "Team":  "Baltimore Ravens",
+                      "TeamId":  "33",
+                      "Fpi":  -5.175,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "BAL",
-                      "Team":  "Baltimore Ravens",
-                      "TeamId":  "33",
-                      "Fpi":  -5.175,
+                      "Abbr":  "PHI",
+                      "Team":  "Philadelphia Eagles",
+                      "TeamId":  "21",
+                      "Fpi":  -5.913,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -305,10 +305,10 @@
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "PHI",
-                      "Team":  "Philadelphia Eagles",
-                      "TeamId":  "21",
-                      "Fpi":  -6.31,
+                      "Abbr":  "CLE",
+                      "Team":  "Cleveland Browns",
+                      "TeamId":  "5",
+                      "Fpi":  -5.947,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
