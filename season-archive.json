@@ -108,16 +108,6 @@
               "week":  9,
               "games":  [
                             {
-                                "id":  "JAXBAL",
-                                "away":  "JAX",
-                                "home":  "BAL",
-                                "day":  "Thu 11/5",
-                                "time":  "8:15p ET",
-                                "circa":  9.5,
-                                "lookahead":  -3,
-                                "circaOpen":  9.5
-                            },
-                            {
                                 "id":  "CINATL",
                                 "away":  "CIN",
                                 "home":  "ATL",

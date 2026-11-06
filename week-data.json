@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-06T03:21:55Z",
-    "generatedAt":  "2026-11-06T05:16:57Z",
+    "linesAsOf":  "2026-11-06T05:21:56Z",
+    "generatedAt":  "2026-11-06T05:31:53Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "JAXBAL",
-                      "away":  "JAX",
-                      "home":  "BAL",
-                      "day":  "Thu 11/5",
-                      "time":  "8:15p ET",
-                      "circa":  9.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      9.5,
-                                      9.5
-                                  ],
-                      "lookahead":  -3,
-                      "circaOpen":  9.5
-                  },
                   {
                       "id":  "CINATL",
                       "away":  "CIN",
