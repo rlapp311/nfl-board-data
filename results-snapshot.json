@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-06T02:46:59.1485059Z",
+    "GeneratedAt":  "2026-11-06T06:01:59.1075043Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1219,10 +1219,10 @@
                       "date":  "2026-11-06T01:15:00.0000000Z",
                       "away":  "JAX",
                       "home":  "BAL",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  33,
+                      "homeScore":  10,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  9,
