@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-07T19:30:56Z",
+    "generatedAt":  "2026-11-07T20:01:02Z",
     "byPair":  {
                    "CIN-ATL":  {
                                    "gameCode":  "20261108NFL00055",
@@ -13,14 +13,14 @@
                                               "awayBet":  72,
                                               "homeHandle":  60,
                                               "homeBet":  28,
-                                              "awaySpread":  -3.5,
-                                              "homeSpread":  3.5
+                                              "awaySpread":  -3,
+                                              "homeSpread":  3
                                           },
                                    "circa":  {
                                                  "awayHandle":  75,
-                                                 "awayBet":  74,
+                                                 "awayBet":  76,
                                                  "homeHandle":  25,
-                                                 "homeBet":  26,
+                                                 "homeBet":  24,
                                                  "awaySpread":  -3,
                                                  "homeSpread":  3
                                              }
@@ -42,9 +42,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  6,
-                                                 "awayBet":  48,
+                                                 "awayBet":  50,
                                                  "homeHandle":  94,
-                                                 "homeBet":  52,
+                                                 "homeBet":  50,
                                                  "awaySpread":  -4.5,
                                                  "homeSpread":  4.5
                                              }
@@ -81,9 +81,9 @@
                                    "homeLastName":  "Dolphins",
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
-                                              "awayHandle":  71,
+                                              "awayHandle":  72,
                                               "awayBet":  83,
-                                              "homeHandle":  29,
+                                              "homeHandle":  28,
                                               "homeBet":  17,
                                               "awaySpread":  -6.5,
                                               "homeSpread":  6.5
@@ -181,14 +181,14 @@
                                               "awayBet":  70,
                                               "homeHandle":  48,
                                               "homeBet":  30,
-                                              "awaySpread":  -3,
-                                              "homeSpread":  3
+                                              "awaySpread":  -2.5,
+                                              "homeSpread":  2.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  25,
-                                                 "awayBet":  48,
-                                                 "homeHandle":  75,
-                                                 "homeBet":  52,
+                                                 "awayHandle":  26,
+                                                 "awayBet":  49,
+                                                 "homeHandle":  74,
+                                                 "homeBet":  51,
                                                  "awaySpread":  -2.5,
                                                  "homeSpread":  2.5
                                              }
@@ -210,9 +210,9 @@
                                           },
                                    "circa":  {
                                                  "awayHandle":  100,
-                                                 "awayBet":  77,
+                                                 "awayBet":  79,
                                                  "homeHandle":  0,
-                                                 "homeBet":  23,
+                                                 "homeBet":  21,
                                                  "awaySpread":  -6,
                                                  "homeSpread":  6
                                              }
@@ -297,18 +297,18 @@
                                   "homeLastName":  "Bears",
                                   "dateLabel":  "Sunday, Nov 8",
                                   "dk":  {
-                                             "awayHandle":  24,
+                                             "awayHandle":  23,
                                              "awayBet":  27,
-                                             "homeHandle":  76,
+                                             "homeHandle":  77,
                                              "homeBet":  73,
                                              "awaySpread":  6,
                                              "homeSpread":  -6
                                          },
                                   "circa":  {
                                                 "awayHandle":  68,
-                                                "awayBet":  21,
+                                                "awayBet":  20,
                                                 "homeHandle":  32,
-                                                "homeBet":  79,
+                                                "homeBet":  80,
                                                 "awaySpread":  6,
                                                 "homeSpread":  -6
                                             }
