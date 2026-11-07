@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-07T08:00:18Z",
-    "generatedAt":  "2026-11-07T08:47:36Z",
+    "linesAsOf":  "2026-11-07T09:00:21Z",
+    "generatedAt":  "2026-11-07T09:02:40Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -614,7 +614,7 @@
                               "name":  "Browns",
                               "wl":  "5-3",
                               "pr":  -3.67,
-                              "fpi":  -5.9,
+                              "fpi":  -6.66,
                               "fpiOff":  null,
                               "fpiDef":  null,
                               "fpiSt":  null,
@@ -1264,7 +1264,7 @@
                               "name":  "Vikings",
                               "wl":  "6-1",
                               "pr":  1.44,
-                              "fpi":  0.25,
+                              "fpi":  -0.68,
                               "fpiOff":  null,
                               "fpiDef":  null,
                               "fpiSt":  null,

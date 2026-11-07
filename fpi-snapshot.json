@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-11-06T04:01:53.7654682-05:00",
+    "GeneratedAt":  "2026-11-07T04:02:37.2348531-05:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -145,20 +145,20 @@
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "MIN",
-                      "Team":  "Minnesota Vikings",
-                      "TeamId":  "16",
-                      "Fpi":  0.252,
+                      "Abbr":  "PIT",
+                      "Team":  "Pittsburgh Steelers",
+                      "TeamId":  "23",
+                      "Fpi":  -0.024,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "PIT",
-                      "Team":  "Pittsburgh Steelers",
-                      "TeamId":  "23",
-                      "Fpi":  -0.024,
+                      "Abbr":  "MIN",
+                      "Team":  "Minnesota Vikings",
+                      "TeamId":  "16",
+                      "Fpi":  -0.684,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
@@ -285,16 +285,6 @@
                       "Rank":  null
                   },
                   {
-                      "Abbr":  "CLE",
-                      "Team":  "Cleveland Browns",
-                      "TeamId":  "5",
-                      "Fpi":  -5.902,
-                      "FpiOff":  null,
-                      "FpiDef":  null,
-                      "FpiSt":  null,
-                      "Rank":  null
-                  },
-                  {
                       "Abbr":  "PHI",
                       "Team":  "Philadelphia Eagles",
                       "TeamId":  "21",
@@ -309,6 +299,16 @@
                       "Team":  "Tennessee Titans",
                       "TeamId":  "10",
                       "Fpi":  -6.002,
+                      "FpiOff":  null,
+                      "FpiDef":  null,
+                      "FpiSt":  null,
+                      "Rank":  null
+                  },
+                  {
+                      "Abbr":  "CLE",
+                      "Team":  "Cleveland Browns",
+                      "TeamId":  "5",
+                      "Fpi":  -6.656,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
