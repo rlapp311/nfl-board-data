@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-08T15:18:51Z",
-    "generatedAt":  "2026-11-08T15:31:55Z",
+    "linesAsOf":  "2026-11-08T15:33:53Z",
+    "generatedAt":  "2026-11-08T15:46:56Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -84,11 +84,11 @@
                       "home":  "KC",
                       "day":  "Sun 11/8",
                       "time":  "1:00p ET",
-                      "circa":  -9,
+                      "circa":  -8.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -10,
-                                      -9
+                                      -8.5
                                   ],
                       "lookahead":  -9.5,
                       "circaOpen":  -10
@@ -204,11 +204,11 @@
                       "home":  "SF",
                       "day":  "Sun 11/8",
                       "time":  "4:25p ET",
-                      "circa":  -9,
+                      "circa":  -8.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -9.5,
-                                      -9
+                                      -8.5
                                   ],
                       "lookahead":  -10,
                       "circaOpen":  -9.5
@@ -234,11 +234,11 @@
                       "home":  "CHI",
                       "day":  "Sun 11/8",
                       "time":  "8:20p ET",
-                      "circa":  -6,
+                      "circa":  -5.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -6,
-                                      -6
+                                      -5.5
                                   ],
                       "lookahead":  -6,
                       "circaOpen":  -6
