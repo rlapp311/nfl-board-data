@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-08T06:02:36Z",
-    "generatedAt":  "2026-11-08T06:32:27Z",
+    "linesAsOf":  "2026-11-08T06:32:37Z",
+    "generatedAt":  "2026-11-08T06:47:15Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -69,11 +69,11 @@
                       "home":  "IND",
                       "day":  "Sun 11/8",
                       "time":  "1:00p ET",
-                      "circa":  4.5,
+                      "circa":  4,
                       "book":  "CIRCA",
                       "history":  [
                                       6.5,
-                                      4.5
+                                      4
                                   ],
                       "lookahead":  4.5,
                       "circaOpen":  6.5
@@ -114,11 +114,11 @@
                       "home":  "NO",
                       "day":  "Sun 11/8",
                       "time":  "1:00p ET",
-                      "circa":  -3,
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -2.5,
-                                      -3
+                                      -3.5
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  -2.5
@@ -144,11 +144,11 @@
                       "home":  "WAS",
                       "day":  "Sun 11/8",
                       "time":  "1:00p ET",
-                      "circa":  4.5,
+                      "circa":  4,
                       "book":  "CIRCA",
                       "history":  [
                                       5.5,
-                                      4.5
+                                      4
                                   ],
                       "lookahead":  5.5,
                       "circaOpen":  5.5
@@ -219,11 +219,11 @@
                       "home":  "SEA",
                       "day":  "Sun 11/8",
                       "time":  "4:25p ET",
-                      "circa":  -8.5,
+                      "circa":  -8,
                       "book":  "CIRCA",
                       "history":  [
                                       -11.5,
-                                      -8.5
+                                      -8
                                   ],
                       "lookahead":  -10.5,
                       "circaOpen":  -11.5
