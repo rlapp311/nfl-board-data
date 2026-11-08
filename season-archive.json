@@ -108,16 +108,6 @@
               "week":  9,
               "games":  [
                             {
-                                "id":  "CINATL",
-                                "away":  "CIN",
-                                "home":  "ATL",
-                                "day":  "Sun 11/8",
-                                "time":  "9:30a ET",
-                                "circa":  3,
-                                "lookahead":  3,
-                                "circaOpen":  3
-                            },
-                            {
                                 "id":  "DALIND",
                                 "away":  "DAL",
                                 "home":  "IND",
@@ -185,6 +175,16 @@
                                 "time":  "1:00p ET",
                                 "circa":  3,
                                 "lookahead":  2.5,
+                                "circaOpen":  3
+                            },
+                            {
+                                "id":  "CINATL",
+                                "away":  "CIN",
+                                "home":  "ATL",
+                                "day":  "Sun 11/8",
+                                "time":  "9:30a ET",
+                                "circa":  3,
+                                "lookahead":  3,
                                 "circaOpen":  3
                             },
                             {

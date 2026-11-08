@@ -1,30 +1,6 @@
 ﻿{
-    "generatedAt":  "2026-11-08T19:34:34Z",
+    "generatedAt":  "2026-11-08T19:49:36Z",
     "byPair":  {
-                   "CIN-ATL":  {
-                                   "gameCode":  "20261108NFL00055",
-                                   "awaySlug":  "cincinnati-bengals",
-                                   "homeSlug":  "atlanta-falcons",
-                                   "awayLastName":  "Bengals",
-                                   "homeLastName":  "Falcons",
-                                   "dateLabel":  "Sunday, Nov 8",
-                                   "dk":  {
-                                              "awayHandle":  71,
-                                              "awayBet":  75,
-                                              "homeHandle":  29,
-                                              "homeBet":  25,
-                                              "awaySpread":  -3,
-                                              "homeSpread":  3
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  76,
-                                                 "awayBet":  69,
-                                                 "homeHandle":  24,
-                                                 "homeBet":  31,
-                                                 "awaySpread":  -3,
-                                                 "homeSpread":  3
-                                             }
-                               },
                    "DAL-IND":  {
                                    "gameCode":  "20261108NFL00040",
                                    "awaySlug":  "dallas-cowboys",
@@ -193,6 +169,30 @@
                                                  "homeSpread":  3
                                              }
                                },
+                   "CIN-ATL":  {
+                                   "gameCode":  "20261108NFL00055",
+                                   "awaySlug":  "cincinnati-bengals",
+                                   "homeSlug":  "atlanta-falcons",
+                                   "awayLastName":  "Bengals",
+                                   "homeLastName":  "Falcons",
+                                   "dateLabel":  "Sunday, Nov 8",
+                                   "dk":  {
+                                              "awayHandle":  71,
+                                              "awayBet":  75,
+                                              "homeHandle":  29,
+                                              "homeBet":  25,
+                                              "awaySpread":  -3,
+                                              "homeSpread":  3
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  76,
+                                                 "awayBet":  69,
+                                                 "homeHandle":  24,
+                                                 "homeBet":  31,
+                                                 "awaySpread":  -3,
+                                                 "homeSpread":  3
+                                             }
+                               },
                    "HOU-LAC":  {
                                    "gameCode":  "20261108NFL00046",
                                    "awaySlug":  "houston-texans",
@@ -202,17 +202,17 @@
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
                                               "awayHandle":  47,
-                                              "awayBet":  55,
+                                              "awayBet":  56,
                                               "homeHandle":  53,
-                                              "homeBet":  45,
+                                              "homeBet":  44,
                                               "awaySpread":  -5.5,
                                               "homeSpread":  5.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  48,
-                                                 "awayBet":  44,
+                                                 "awayBet":  43,
                                                  "homeHandle":  52,
-                                                 "homeBet":  56,
+                                                 "homeBet":  57,
                                                  "awaySpread":  -5.5,
                                                  "homeSpread":  5.5
                                              }
@@ -225,18 +225,18 @@
                                  "homeLastName":  "Patriots",
                                  "dateLabel":  "Sunday, Nov 8",
                                  "dk":  {
-                                            "awayHandle":  30,
+                                            "awayHandle":  28,
                                             "awayBet":  63,
-                                            "homeHandle":  70,
+                                            "homeHandle":  72,
                                             "homeBet":  37,
                                             "awaySpread":  3,
                                             "homeSpread":  -3
                                         },
                                  "circa":  {
                                                "awayHandle":  15,
-                                               "awayBet":  54,
+                                               "awayBet":  53,
                                                "homeHandle":  85,
-                                               "homeBet":  46,
+                                               "homeBet":  47,
                                                "awaySpread":  3,
                                                "homeSpread":  -3
                                            }
@@ -249,9 +249,9 @@
                                  "homeLastName":  "49ers",
                                  "dateLabel":  "Sunday, Nov 8",
                                  "dk":  {
-                                            "awayHandle":  34,
+                                            "awayHandle":  29,
                                             "awayBet":  50,
-                                            "homeHandle":  66,
+                                            "homeHandle":  71,
                                             "homeBet":  50,
                                             "awaySpread":  8.5,
                                             "homeSpread":  -8.5
@@ -273,18 +273,18 @@
                                    "homeLastName":  "Seahawks",
                                    "dateLabel":  "Sunday, Nov 8",
                                    "dk":  {
-                                              "awayHandle":  34,
+                                              "awayHandle":  32,
                                               "awayBet":  51,
-                                              "homeHandle":  66,
+                                              "homeHandle":  68,
                                               "homeBet":  49,
                                               "awaySpread":  8.5,
                                               "homeSpread":  -8.5
                                           },
                                    "circa":  {
                                                  "awayHandle":  48,
-                                                 "awayBet":  46,
+                                                 "awayBet":  45,
                                                  "homeHandle":  52,
-                                                 "homeBet":  54,
+                                                 "homeBet":  55,
                                                  "awaySpread":  8.5,
                                                  "homeSpread":  -8.5
                                              }
@@ -297,9 +297,9 @@
                                   "homeLastName":  "Bears",
                                   "dateLabel":  "Sunday, Nov 8",
                                   "dk":  {
-                                             "awayHandle":  31,
+                                             "awayHandle":  30,
                                              "awayBet":  30,
-                                             "homeHandle":  69,
+                                             "homeHandle":  70,
                                              "homeBet":  70,
                                              "awaySpread":  6,
                                              "homeSpread":  -6

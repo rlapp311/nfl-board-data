@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-08T19:34:34Z",
-    "generatedAt":  "2026-11-08T19:48:34Z",
+    "linesAsOf":  "2026-11-08T19:49:36Z",
+    "generatedAt":  "2026-11-08T20:03:11Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "CINATL",
-                      "away":  "CIN",
-                      "home":  "ATL",
-                      "day":  "Sun 11/8",
-                      "time":  "9:30a ET",
-                      "circa":  3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      3,
-                                      3
-                                  ],
-                      "lookahead":  3,
-                      "circaOpen":  3
-                  },
                   {
                       "id":  "DALIND",
                       "away":  "DAL",
@@ -166,6 +151,21 @@
                                       3
                                   ],
                       "lookahead":  2.5,
+                      "circaOpen":  3
+                  },
+                  {
+                      "id":  "CINATL",
+                      "away":  "CIN",
+                      "home":  "ATL",
+                      "day":  "Sun 11/8",
+                      "time":  "9:30a ET",
+                      "circa":  3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      3,
+                                      3
+                                  ],
+                      "lookahead":  3,
                       "circaOpen":  3
                   },
                   {
@@ -312,7 +312,7 @@
                           },
                   "ATL":  {
                               "name":  "Falcons",
-                              "wl":  "3-5",
+                              "wl":  "3-6",
                               "pr":  -4.24,
                               "fpi":  -3.87,
                               "fpiOff":  null,
@@ -562,7 +562,7 @@
                           },
                   "CIN":  {
                               "name":  "Bengals",
-                              "wl":  "5-2",
+                              "wl":  "6-2",
                               "pr":  0.72,
                               "fpi":  3.81,
                               "fpiOff":  null,
