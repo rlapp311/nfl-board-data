@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-08T22:04:53Z",
+    "generatedAt":  "2026-11-08T22:34:55Z",
     "byPair":  {
                    "DAL-IND":  {
                                    "gameCode":  "20261108NFL00040",
@@ -297,17 +297,17 @@
                                   "homeLastName":  "Bears",
                                   "dateLabel":  "Sunday, Nov 8",
                                   "dk":  {
-                                             "awayHandle":  27,
+                                             "awayHandle":  36,
                                              "awayBet":  28,
-                                             "homeHandle":  73,
+                                             "homeHandle":  64,
                                              "homeBet":  72,
                                              "awaySpread":  6,
                                              "homeSpread":  -6
                                          },
                                   "circa":  {
-                                                "awayHandle":  77,
+                                                "awayHandle":  75,
                                                 "awayBet":  19,
-                                                "homeHandle":  23,
+                                                "homeHandle":  25,
                                                 "homeBet":  81,
                                                 "awaySpread":  5.5,
                                                 "homeSpread":  -5.5
@@ -329,10 +329,10 @@
                                               "homeSpread":  3
                                           },
                                    "circa":  {
-                                                 "awayHandle":  50,
-                                                 "awayBet":  72,
-                                                 "homeHandle":  50,
-                                                 "homeBet":  28,
+                                                 "awayHandle":  49,
+                                                 "awayBet":  70,
+                                                 "homeHandle":  51,
+                                                 "homeBet":  30,
                                                  "awaySpread":  -3,
                                                  "homeSpread":  3
                                              }
