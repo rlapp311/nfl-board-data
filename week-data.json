@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T21:25:20Z",
-    "generatedAt":  "2026-11-09T21:46:56Z",
+    "linesAsOf":  "2026-11-09T21:55:32Z",
+    "generatedAt":  "2026-11-09T22:02:06Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-09T18:47:00Z",
+                                              "asOf":  "2026-11-09T22:02:05Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -105,7 +105,7 @@
                               "rswrRk":  18,
                               "qb":  {
                                          "name":  "Gardner Minshew II",
-                                         "status":  "depth chart -- J.Brissett started Wk 8 -- season numbers are J.Brissett\u0027s",
+                                         "status":  "depth chart -- listed questionable -- J.Brissett started Wk 8 -- season numbers are J.Brissett\u0027s",
                                          "epa":  0.067,
                                          "epaRk":  18,
                                          "sr":  44,
@@ -1805,11 +1805,11 @@
                                        "home":  "ARI",
                                        "day":  "Sun 11/15",
                                        "time":  "4:05p ET",
-                                       "circa":  7,
+                                       "circa":  8.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        7,
-                                                       7
+                                                       8.5
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T21:46:56Z"
+                     "postedAt":  "2026-11-09T22:02:06Z"
                  }
 }
 
