@@ -1,102 +1,30 @@
 ﻿{
-    "generatedAt":  "2026-11-09T01:50:20Z",
+    "generatedAt":  "2026-11-09T02:20:30Z",
     "byPair":  {
-                   "HOU-LAC":  {
-                                   "gameCode":  "20261108NFL00046",
-                                   "awaySlug":  "houston-texans",
-                                   "homeSlug":  "los-angeles-chargers",
-                                   "awayLastName":  "Texans",
-                                   "homeLastName":  "Chargers",
-                                   "dateLabel":  "Sunday, Nov 8",
-                                   "dk":  {
-                                              "awayHandle":  49,
-                                              "awayBet":  56,
-                                              "homeHandle":  51,
-                                              "homeBet":  44,
-                                              "awaySpread":  -4.5,
-                                              "homeSpread":  4.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  50,
-                                                 "awayBet":  46,
-                                                 "homeHandle":  50,
-                                                 "homeBet":  54,
-                                                 "awaySpread":  -4.5,
-                                                 "homeSpread":  4.5
-                                             }
-                               },
-                   "GB-NE":  {
-                                 "gameCode":  "20261108NFL00033",
-                                 "awaySlug":  "green-bay-packers",
-                                 "homeSlug":  "new-england-patriots",
-                                 "awayLastName":  "Packers",
-                                 "homeLastName":  "Patriots",
-                                 "dateLabel":  "Sunday, Nov 8",
-                                 "dk":  {
-                                            "awayHandle":  40,
-                                            "awayBet":  61,
-                                            "homeHandle":  60,
-                                            "homeBet":  39,
-                                            "awaySpread":  3,
-                                            "homeSpread":  -3
-                                        },
-                                 "circa":  {
-                                               "awayHandle":  8,
-                                               "awayBet":  48,
-                                               "homeHandle":  92,
-                                               "homeBet":  52,
-                                               "awaySpread":  3,
-                                               "homeSpread":  -3
-                                           }
-                             },
-                   "LV-SF":  {
-                                 "gameCode":  "20261108NFL00060",
-                                 "awaySlug":  "las-vegas-raiders",
-                                 "homeSlug":  "san-francisco-49ers",
-                                 "awayLastName":  "Raiders",
-                                 "homeLastName":  "49ers",
-                                 "dateLabel":  "Sunday, Nov 8",
-                                 "dk":  {
-                                            "awayHandle":  29,
-                                            "awayBet":  47,
-                                            "homeHandle":  71,
-                                            "homeBet":  53,
-                                            "awaySpread":  8.5,
-                                            "homeSpread":  -8.5
-                                        },
-                                 "circa":  {
-                                               "awayHandle":  61,
-                                               "awayBet":  41,
-                                               "homeHandle":  39,
-                                               "homeBet":  59,
-                                               "awaySpread":  8.5,
-                                               "homeSpread":  -8.5
-                                           }
-                             },
-                   "ARI-SEA":  {
-                                   "gameCode":  "20261108NFL00061",
-                                   "awaySlug":  "arizona-cardinals",
-                                   "homeSlug":  "seattle-seahawks",
-                                   "awayLastName":  "Cardinals",
-                                   "homeLastName":  "Seahawks",
-                                   "dateLabel":  "Sunday, Nov 8",
-                                   "dk":  {
-                                              "awayHandle":  31,
-                                              "awayBet":  49,
-                                              "homeHandle":  69,
-                                              "homeBet":  51,
-                                              "awaySpread":  8.5,
-                                              "homeSpread":  -8.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  27,
-                                                 "awayBet":  40,
-                                                 "homeHandle":  73,
-                                                 "homeBet":  60,
-                                                 "awaySpread":  10,
-                                                 "homeSpread":  -10
-                                             }
-                               },
+                   "TB-CHI":  {
+                                  "gameCode":  "20261108NFL00051",
+                                  "awaySlug":  "tampa-bay-buccaneers",
+                                  "homeSlug":  "chicago-bears",
+                                  "awayLastName":  "Buccaneers",
+                                  "homeLastName":  "Bears",
+                                  "dateLabel":  "Sunday, Nov 8",
+                                  "dk":  {
+                                             "awayHandle":  35,
+                                             "awayBet":  28,
+                                             "homeHandle":  65,
+                                             "homeBet":  72,
+                                             "awaySpread":  6.5,
+                                             "homeSpread":  -6.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  55,
+                                                "awayBet":  23,
+                                                "homeHandle":  45,
+                                                "homeBet":  77,
+                                                "awaySpread":  6.5,
+                                                "homeSpread":  -6.5
+                                            }
+                              },
                    "CIN-ATL":  {
                                    "gameCode":  "20261108NFL00055",
                                    "awaySlug":  "cincinnati-bengals",
@@ -289,30 +217,102 @@
                                                  "homeSpread":  3
                                              }
                                },
-                   "TB-CHI":  {
-                                  "gameCode":  "20261108NFL00051",
-                                  "awaySlug":  "tampa-bay-buccaneers",
-                                  "homeSlug":  "chicago-bears",
-                                  "awayLastName":  "Buccaneers",
-                                  "homeLastName":  "Bears",
-                                  "dateLabel":  "Sunday, Nov 8",
-                                  "dk":  {
-                                             "awayHandle":  35,
-                                             "awayBet":  28,
-                                             "homeHandle":  65,
-                                             "homeBet":  72,
-                                             "awaySpread":  6.5,
-                                             "homeSpread":  -6.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  55,
-                                                "awayBet":  23,
-                                                "homeHandle":  45,
-                                                "homeBet":  77,
-                                                "awaySpread":  6.5,
-                                                "homeSpread":  -6.5
-                                            }
-                              },
+                   "HOU-LAC":  {
+                                   "gameCode":  "20261108NFL00046",
+                                   "awaySlug":  "houston-texans",
+                                   "homeSlug":  "los-angeles-chargers",
+                                   "awayLastName":  "Texans",
+                                   "homeLastName":  "Chargers",
+                                   "dateLabel":  "Sunday, Nov 8",
+                                   "dk":  {
+                                              "awayHandle":  49,
+                                              "awayBet":  56,
+                                              "homeHandle":  51,
+                                              "homeBet":  44,
+                                              "awaySpread":  -4.5,
+                                              "homeSpread":  4.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  50,
+                                                 "awayBet":  46,
+                                                 "homeHandle":  50,
+                                                 "homeBet":  54,
+                                                 "awaySpread":  -4.5,
+                                                 "homeSpread":  4.5
+                                             }
+                               },
+                   "GB-NE":  {
+                                 "gameCode":  "20261108NFL00033",
+                                 "awaySlug":  "green-bay-packers",
+                                 "homeSlug":  "new-england-patriots",
+                                 "awayLastName":  "Packers",
+                                 "homeLastName":  "Patriots",
+                                 "dateLabel":  "Sunday, Nov 8",
+                                 "dk":  {
+                                            "awayHandle":  40,
+                                            "awayBet":  61,
+                                            "homeHandle":  60,
+                                            "homeBet":  39,
+                                            "awaySpread":  3,
+                                            "homeSpread":  -3
+                                        },
+                                 "circa":  {
+                                               "awayHandle":  8,
+                                               "awayBet":  48,
+                                               "homeHandle":  92,
+                                               "homeBet":  52,
+                                               "awaySpread":  3,
+                                               "homeSpread":  -3
+                                           }
+                             },
+                   "LV-SF":  {
+                                 "gameCode":  "20261108NFL00060",
+                                 "awaySlug":  "las-vegas-raiders",
+                                 "homeSlug":  "san-francisco-49ers",
+                                 "awayLastName":  "Raiders",
+                                 "homeLastName":  "49ers",
+                                 "dateLabel":  "Sunday, Nov 8",
+                                 "dk":  {
+                                            "awayHandle":  29,
+                                            "awayBet":  47,
+                                            "homeHandle":  71,
+                                            "homeBet":  53,
+                                            "awaySpread":  8.5,
+                                            "homeSpread":  -8.5
+                                        },
+                                 "circa":  {
+                                               "awayHandle":  61,
+                                               "awayBet":  41,
+                                               "homeHandle":  39,
+                                               "homeBet":  59,
+                                               "awaySpread":  8.5,
+                                               "homeSpread":  -8.5
+                                           }
+                             },
+                   "ARI-SEA":  {
+                                   "gameCode":  "20261108NFL00061",
+                                   "awaySlug":  "arizona-cardinals",
+                                   "homeSlug":  "seattle-seahawks",
+                                   "awayLastName":  "Cardinals",
+                                   "homeLastName":  "Seahawks",
+                                   "dateLabel":  "Sunday, Nov 8",
+                                   "dk":  {
+                                              "awayHandle":  31,
+                                              "awayBet":  49,
+                                              "homeHandle":  69,
+                                              "homeBet":  51,
+                                              "awaySpread":  8.5,
+                                              "homeSpread":  -8.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  27,
+                                                 "awayBet":  40,
+                                                 "homeHandle":  73,
+                                                 "homeBet":  60,
+                                                 "awaySpread":  10,
+                                                 "homeSpread":  -10
+                                             }
+                               },
                    "BUF-MIN":  {
                                    "gameCode":  "20261109NFL00054",
                                    "awaySlug":  "buffalo-bills",

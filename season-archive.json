@@ -108,44 +108,14 @@
               "week":  9,
               "games":  [
                             {
-                                "id":  "HOULAC",
-                                "away":  "HOU",
-                                "home":  "LAC",
+                                "id":  "TBCHI",
+                                "away":  "TB",
+                                "home":  "CHI",
                                 "day":  "Sun 11/8",
-                                "time":  "4:05p ET",
-                                "circa":  4.5,
-                                "lookahead":  3.5,
-                                "circaOpen":  4.5
-                            },
-                            {
-                                "id":  "GBNE",
-                                "away":  "GB",
-                                "home":  "NE",
-                                "day":  "Sun 11/8",
-                                "time":  "4:25p ET",
-                                "circa":  -3,
-                                "lookahead":  -3,
-                                "circaOpen":  -3
-                            },
-                            {
-                                "id":  "LVSF",
-                                "away":  "LV",
-                                "home":  "SF",
-                                "day":  "Sun 11/8",
-                                "time":  "4:25p ET",
-                                "circa":  -8.5,
-                                "lookahead":  -10,
-                                "circaOpen":  -9.5
-                            },
-                            {
-                                "id":  "ARISEA",
-                                "away":  "ARI",
-                                "home":  "SEA",
-                                "day":  "Sun 11/8",
-                                "time":  "4:25p ET",
-                                "circa":  -10,
-                                "lookahead":  -10.5,
-                                "circaOpen":  -11.5
+                                "time":  "8:20p ET",
+                                "circa":  -6.5,
+                                "lookahead":  -6,
+                                "circaOpen":  -6
                             },
                             {
                                 "id":  "CINATL",
@@ -228,14 +198,44 @@
                                 "circaOpen":  3
                             },
                             {
-                                "id":  "TBCHI",
-                                "away":  "TB",
-                                "home":  "CHI",
+                                "id":  "HOULAC",
+                                "away":  "HOU",
+                                "home":  "LAC",
                                 "day":  "Sun 11/8",
-                                "time":  "8:20p ET",
-                                "circa":  -6.5,
-                                "lookahead":  -6,
-                                "circaOpen":  -6
+                                "time":  "4:05p ET",
+                                "circa":  4.5,
+                                "lookahead":  3.5,
+                                "circaOpen":  4.5
+                            },
+                            {
+                                "id":  "GBNE",
+                                "away":  "GB",
+                                "home":  "NE",
+                                "day":  "Sun 11/8",
+                                "time":  "4:25p ET",
+                                "circa":  -3,
+                                "lookahead":  -3,
+                                "circaOpen":  -3
+                            },
+                            {
+                                "id":  "LVSF",
+                                "away":  "LV",
+                                "home":  "SF",
+                                "day":  "Sun 11/8",
+                                "time":  "4:25p ET",
+                                "circa":  -8.5,
+                                "lookahead":  -10,
+                                "circaOpen":  -9.5
+                            },
+                            {
+                                "id":  "ARISEA",
+                                "away":  "ARI",
+                                "home":  "SEA",
+                                "day":  "Sun 11/8",
+                                "time":  "4:25p ET",
+                                "circa":  -10,
+                                "lookahead":  -10.5,
+                                "circaOpen":  -11.5
                             },
                             {
                                 "id":  "BUFMIN",
