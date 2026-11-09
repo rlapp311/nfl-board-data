@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T17:24:08Z",
-    "generatedAt":  "2026-11-09T17:46:52Z",
+    "linesAsOf":  "2026-11-09T17:54:15Z",
+    "generatedAt":  "2026-11-09T18:01:52Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1714,11 +1714,11 @@
                                        "home":  "CLE",
                                        "day":  "Sun 11/15",
                                        "time":  "1:00p ET",
-                                       "circa":  4,
+                                       "circa":  5.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        4,
-                                                       4
+                                                       5.5
                                                    ]
                                    },
                                    {
@@ -1792,11 +1792,11 @@
                                        "home":  "LV",
                                        "day":  "Sun 11/15",
                                        "time":  "4:05p ET",
-                                       "circa":  3.5,
+                                       "circa":  3,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        3.5,
-                                                       3.5
+                                                       3
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T17:46:52Z"
+                     "postedAt":  "2026-11-09T18:01:52Z"
                  }
 }
 
