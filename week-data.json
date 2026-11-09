@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T05:51:30Z",
-    "generatedAt":  "2026-11-09T06:16:54Z",
+    "linesAsOf":  "2026-11-09T06:21:42Z",
+    "generatedAt":  "2026-11-09T06:46:58Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       2.5,
                                       3
                                   ],
-                      "lookahead":  2.5,
-                      "circaOpen":  2.5
+                      "circaOpen":  2.5,
+                      "lookahead":  2.5
                   }
               ],
     "teams":  {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T06:16:54Z"
+                     "postedAt":  "2026-11-09T06:46:59Z"
                  }
 }
 
