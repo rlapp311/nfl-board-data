@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T22:55:55Z",
-    "generatedAt":  "2026-11-09T23:02:03Z",
+    "linesAsOf":  "2026-11-09T23:10:57Z",
+    "generatedAt":  "2026-11-09T23:16:56Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1675,11 +1675,11 @@
                                        "home":  "NYG",
                                        "day":  "Thu 11/12",
                                        "time":  "8:15p ET",
-                                       "circa":  -1.5,
+                                       "circa":  -2.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        -1.5,
-                                                       -1.5
+                                                       -2.5
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T23:02:04Z"
+                     "postedAt":  "2026-11-09T23:16:56Z"
                  }
 }
 
