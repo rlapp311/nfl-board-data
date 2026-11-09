@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T00:20:10Z",
-    "generatedAt":  "2026-11-09T00:33:23Z",
+    "linesAsOf":  "2026-11-09T00:35:12Z",
+    "generatedAt":  "2026-11-09T00:48:02Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -234,11 +234,11 @@
                       "home":  "CHI",
                       "day":  "Sun 11/8",
                       "time":  "8:20p ET",
-                      "circa":  -5.5,
+                      "circa":  -6,
                       "book":  "CIRCA",
                       "history":  [
                                       -6,
-                                      -5.5
+                                      -6
                                   ],
                       "lookahead":  -6,
                       "circaOpen":  -6
