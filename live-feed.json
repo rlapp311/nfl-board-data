@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T00:50:14Z",
+    "generatedAt":  "2026-11-09T01:05:16Z",
     "byPair":  {
                    "HOU-LAC":  {
                                    "gameCode":  "20261108NFL00046",
@@ -297,18 +297,18 @@
                                   "homeLastName":  "Bears",
                                   "dateLabel":  "Sunday, Nov 8",
                                   "dk":  {
-                                             "awayHandle":  30,
+                                             "awayHandle":  33,
                                              "awayBet":  27,
-                                             "homeHandle":  70,
+                                             "homeHandle":  67,
                                              "homeBet":  73,
-                                             "awaySpread":  6,
-                                             "homeSpread":  -6
+                                             "awaySpread":  6.5,
+                                             "homeSpread":  -6.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  64,
-                                                "awayBet":  20,
-                                                "homeHandle":  36,
-                                                "homeBet":  80,
+                                                "awayHandle":  61,
+                                                "awayBet":  21,
+                                                "homeHandle":  39,
+                                                "homeBet":  79,
                                                 "awaySpread":  6,
                                                 "homeSpread":  -6
                                             }
