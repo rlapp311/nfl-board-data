@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-09T18:16:57.7321844Z",
+    "GeneratedAt":  "2026-11-09T21:32:08.0226034Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1567,8 +1567,8 @@
                   {
                       "week":  11,
                       "date":  "2026-11-22T18:00:00.0000000Z",
-                      "away":  "JAX",
-                      "home":  "NYG",
+                      "away":  "PIT",
+                      "home":  "PHI",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
@@ -1607,8 +1607,8 @@
                   {
                       "week":  11,
                       "date":  "2026-11-22T21:25:00.0000000Z",
-                      "away":  "PIT",
-                      "home":  "PHI",
+                      "away":  "JAX",
+                      "home":  "NYG",
                       "awayScore":  null,
                       "homeScore":  null,
                       "ot":  false,
