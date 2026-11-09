@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T18:54:52Z",
-    "generatedAt":  "2026-11-09T19:17:00Z",
+    "linesAsOf":  "2026-11-09T19:24:54Z",
+    "generatedAt":  "2026-11-09T19:31:55Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1792,11 +1792,11 @@
                                        "home":  "LV",
                                        "day":  "Sun 11/15",
                                        "time":  "4:05p ET",
-                                       "circa":  3.5,
+                                       "circa":  3,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        3.5,
-                                                       3.5
+                                                       3
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T19:17:00Z"
+                     "postedAt":  "2026-11-09T19:31:56Z"
                  }
 }
 
