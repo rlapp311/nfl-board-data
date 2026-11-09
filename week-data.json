@@ -3,7 +3,7 @@
     "week":  9,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-09T18:24:37Z",
-    "generatedAt":  "2026-11-09T18:31:52Z",
+    "generatedAt":  "2026-11-09T18:47:01Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-09T15:32:03Z",
+                                              "asOf":  "2026-11-09T18:47:00Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1255,7 +1255,7 @@
                               "rswrRk":  20,
                               "qb":  {
                                          "name":  "J.J. McCarthy",
-                                         "status":  "depth chart -- started Wk 7 -- season numbers are J.Winston\u0027s",
+                                         "status":  "depth chart -- listed questionable -- started Wk 7 -- season numbers are J.Winston\u0027s",
                                          "epa":  -0.165,
                                          "epaRk":  29,
                                          "sr":  38.8,
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T18:31:52Z"
+                     "postedAt":  "2026-11-09T18:47:01Z"
                  }
 }
 
