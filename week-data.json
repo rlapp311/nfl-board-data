@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T14:53:06Z",
-    "generatedAt":  "2026-11-09T15:16:56Z",
+    "linesAsOf":  "2026-11-09T15:23:20Z",
+    "generatedAt":  "2026-11-09T15:32:04Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-09T12:16:56Z",
+                                              "asOf":  "2026-11-09T15:32:03Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1055,7 +1055,7 @@
                               "rswrRk":  30,
                               "qb":  {
                                          "name":  "Malik Willis",
-                                         "status":  "depth chart -- started Wk 8",
+                                         "status":  "depth chart -- listed questionable -- started Wk 8",
                                          "epa":  -0.01,
                                          "epaRk":  22,
                                          "sr":  42.4,
@@ -1753,11 +1753,11 @@
                                        "home":  "IND",
                                        "day":  "Sun 11/15",
                                        "time":  "1:00p ET",
-                                       "circa":  -2,
+                                       "circa":  -1.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        -2,
-                                                       -2
+                                                       -1.5
                                                    ]
                                    },
                                    {
@@ -1792,11 +1792,11 @@
                                        "home":  "LV",
                                        "day":  "Sun 11/15",
                                        "time":  "4:05p ET",
-                                       "circa":  4,
+                                       "circa":  3.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        3.5,
-                                                       4
+                                                       3.5
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T15:16:56Z"
+                     "postedAt":  "2026-11-09T15:32:04Z"
                  }
 }
 
