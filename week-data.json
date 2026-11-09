@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T19:24:54Z",
-    "generatedAt":  "2026-11-09T19:46:56Z",
+    "linesAsOf":  "2026-11-09T19:55:06Z",
+    "generatedAt":  "2026-11-09T20:01:52Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -1701,11 +1701,11 @@
                                        "home":  "ATL",
                                        "day":  "Sun 11/15",
                                        "time":  "1:00p ET",
-                                       "circa":  3,
+                                       "circa":  3.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        3,
-                                                       3
+                                                       3.5
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T19:46:57Z"
+                     "postedAt":  "2026-11-09T20:01:53Z"
                  }
 }
 
