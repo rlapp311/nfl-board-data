@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-09T01:20:18Z",
+    "generatedAt":  "2026-11-09T01:50:20Z",
     "byPair":  {
                    "HOU-LAC":  {
                                    "gameCode":  "20261108NFL00046",
@@ -305,12 +305,12 @@
                                              "homeSpread":  -6.5
                                          },
                                   "circa":  {
-                                                "awayHandle":  54,
+                                                "awayHandle":  55,
                                                 "awayBet":  23,
-                                                "homeHandle":  46,
+                                                "homeHandle":  45,
                                                 "homeBet":  77,
-                                                "awaySpread":  6,
-                                                "homeSpread":  -6
+                                                "awaySpread":  6.5,
+                                                "homeSpread":  -6.5
                                             }
                               },
                    "BUF-MIN":  {
@@ -329,10 +329,10 @@
                                               "homeSpread":  3
                                           },
                                    "circa":  {
-                                                 "awayHandle":  48,
-                                                 "awayBet":  69,
-                                                 "homeHandle":  52,
-                                                 "homeBet":  31,
+                                                 "awayHandle":  46,
+                                                 "awayBet":  68,
+                                                 "homeHandle":  54,
+                                                 "homeBet":  32,
                                                  "awaySpread":  -3,
                                                  "homeSpread":  3
                                              }
