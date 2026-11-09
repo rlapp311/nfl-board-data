@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  9,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-09T06:21:42Z",
-    "generatedAt":  "2026-11-09T06:46:58Z",
+    "linesAsOf":  "2026-11-09T06:51:49Z",
+    "generatedAt":  "2026-11-09T07:01:55Z",
     "analyticsThrough":  "PR and FPI through Week 8",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       2.5,
                                       3
                                   ],
-                      "circaOpen":  2.5,
-                      "lookahead":  2.5
+                      "lookahead":  2.5,
+                      "circaOpen":  2.5
                   }
               ],
     "teams":  {
@@ -1766,11 +1766,11 @@
                                        "home":  "NO",
                                        "day":  "Sun 11/15",
                                        "time":  "1:00p ET",
-                                       "circa":  1,
+                                       "circa":  0,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        1,
-                                                       1
+                                                       0
                                                    ]
                                    },
                                    {
@@ -1779,11 +1779,11 @@
                                        "home":  "NYJ",
                                        "day":  "Sun 11/15",
                                        "time":  "1:00p ET",
-                                       "circa":  8.5,
+                                       "circa":  7.5,
                                        "book":  "CIRCA",
                                        "history":  [
                                                        8.5,
-                                                       8.5
+                                                       7.5
                                                    ]
                                    },
                                    {
@@ -1854,7 +1854,7 @@
                                ],
                      "scheduled":  14,
                      "priced":  14,
-                     "postedAt":  "2026-11-09T06:46:59Z"
+                     "postedAt":  "2026-11-09T07:01:55Z"
                  }
 }
 
