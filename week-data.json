@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-10T05:26:20Z",
-    "generatedAt":  "2026-11-10T07:02:04Z",
+    "generatedAt":  "2026-11-10T07:16:59Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -60,8 +60,8 @@
                                       -1.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -1.5,
-                      "lookahead":  -1.5
+                      "lookahead":  -1.5,
+                      "circaOpen":  -1.5
                   },
                   {
                       "id":  "NEDET",
@@ -75,8 +75,8 @@
                                       -2.5,
                                       -2.5
                                   ],
-                      "circaOpen":  -2.5,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "KCATL",
@@ -90,8 +90,8 @@
                                       3,
                                       3
                                   ],
-                      "circaOpen":  3,
-                      "lookahead":  3
+                      "lookahead":  3,
+                      "circaOpen":  3
                   },
                   {
                       "id":  "HOUCLE",
@@ -105,8 +105,8 @@
                                       4,
                                       5
                                   ],
-                      "circaOpen":  4,
-                      "lookahead":  4.5
+                      "lookahead":  4.5,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "MINGB",
@@ -120,8 +120,8 @@
                                       -3,
                                       -3.5
                                   ],
-                      "circaOpen":  -3,
-                      "lookahead":  -3
+                      "lookahead":  -3,
+                      "circaOpen":  -3
                   },
                   {
                       "id":  "JAXTEN",
@@ -135,8 +135,8 @@
                                       9.5,
                                       10
                                   ],
-                      "circaOpen":  9.5,
-                      "lookahead":  10
+                      "lookahead":  10,
+                      "circaOpen":  9.5
                   },
                   {
                       "id":  "MIAIND",
@@ -150,8 +150,8 @@
                                       -2,
                                       -2.5
                                   ],
-                      "circaOpen":  -2,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -2
                   },
                   {
                       "id":  "CARNO",
@@ -165,8 +165,8 @@
                                       1,
                                       -1
                                   ],
-                      "circaOpen":  1,
-                      "lookahead":  1.5
+                      "lookahead":  1.5,
+                      "circaOpen":  1
                   },
                   {
                       "id":  "BUFNYJ",
@@ -180,8 +180,8 @@
                                       8.5,
                                       7
                                   ],
-                      "circaOpen":  8.5,
-                      "lookahead":  7.5
+                      "lookahead":  7.5,
+                      "circaOpen":  8.5
                   },
                   {
                       "id":  "SEALV",
@@ -195,8 +195,8 @@
                                       3.5,
                                       3.5
                                   ],
-                      "circaOpen":  3.5,
-                      "lookahead":  6
+                      "lookahead":  6,
+                      "circaOpen":  3.5
                   },
                   {
                       "id":  "LARARI",
@@ -210,8 +210,8 @@
                                       7.5,
                                       9.5
                                   ],
-                      "circaOpen":  7.5,
-                      "lookahead":  7.5
+                      "lookahead":  7.5,
+                      "circaOpen":  7.5
                   },
                   {
                       "id":  "SFDAL",
@@ -225,8 +225,8 @@
                                       4,
                                       4
                                   ],
-                      "circaOpen":  4,
-                      "lookahead":  3.5
+                      "lookahead":  3.5,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "PITCIN",
@@ -240,8 +240,8 @@
                                       -3.5,
                                       -3.5
                                   ],
-                      "circaOpen":  -3.5,
-                      "lookahead":  -3.5
+                      "lookahead":  -3.5,
+                      "circaOpen":  -3.5
                   },
                   {
                       "id":  "LACBAL",
@@ -255,8 +255,8 @@
                                       -3.5,
                                       -5.5
                                   ],
-                      "circaOpen":  -3.5,
-                      "lookahead":  -2.5
+                      "lookahead":  -2.5,
+                      "circaOpen":  -3.5
                   }
               ],
     "teams":  {
