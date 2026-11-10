@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-10T03:47:05.9449362Z",
+    "GeneratedAt":  "2026-11-10T07:01:59.8735268Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1216,16 +1216,6 @@
                   },
                   {
                       "week":  9,
-                      "date":  "2026-11-10T01:15:00.0000000Z",
-                      "away":  "BUF",
-                      "home":  "MIN",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  9,
                       "date":  "2026-11-06T01:15:00.0000000Z",
                       "away":  "JAX",
                       "home":  "BAL",
@@ -1361,6 +1351,16 @@
                       "home":  "CHI",
                       "awayScore":  24,
                       "homeScore":  27,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  9,
+                      "date":  "2026-11-10T01:15:00.0000000Z",
+                      "away":  "BUF",
+                      "home":  "MIN",
+                      "awayScore":  23,
+                      "homeScore":  6,
                       "ot":  false,
                       "final":  true
                   },
