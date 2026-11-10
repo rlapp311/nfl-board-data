@@ -168,7 +168,7 @@
                                  "home":  "GB",
                                  "day":  "Sun 11/15",
                                  "time":  "1:00p ET",
-                                 "circa":  -5,
+                                 "circa":  -3.5,
                                  "lookahead":  -3,
                                  "circaOpen":  -3
                              },
@@ -178,7 +178,7 @@
                                  "home":  "TEN",
                                  "day":  "Sun 11/15",
                                  "time":  "1:00p ET",
-                                 "circa":  10,
+                                 "circa":  10.5,
                                  "lookahead":  10,
                                  "circaOpen":  9.5
                              },
@@ -188,7 +188,7 @@
                                  "home":  "IND",
                                  "day":  "Sun 11/15",
                                  "time":  "1:00p ET",
-                                 "circa":  -2.5,
+                                 "circa":  -3.5,
                                  "lookahead":  -2.5,
                                  "circaOpen":  -2
                              },
@@ -218,7 +218,7 @@
                                  "home":  "LV",
                                  "day":  "Sun 11/15",
                                  "time":  "4:05p ET",
-                                 "circa":  4.5,
+                                 "circa":  6.5,
                                  "lookahead":  6,
                                  "circaOpen":  3.5
                              },
@@ -258,7 +258,7 @@
                                  "home":  "BAL",
                                  "day":  "Mon 11/16",
                                  "time":  "8:15p ET",
-                                 "circa":  -5.5,
+                                 "circa":  -4.5,
                                  "lookahead":  -2.5,
                                  "circaOpen":  -3.5
                              }
