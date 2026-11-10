@@ -2,8 +2,8 @@
     "season":  2026,
     "week":  10,
     "hfa":  1.5,
-    "linesAsOf":  "2026-11-10T21:27:18Z",
-    "generatedAt":  "2026-11-10T23:17:21Z",
+    "linesAsOf":  "2026-11-10T23:27:42Z",
+    "generatedAt":  "2026-11-10T23:32:37Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-10T20:17:20Z",
+                                              "asOf":  "2026-11-10T23:32:36Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -144,11 +144,11 @@
                       "home":  "IND",
                       "day":  "Sun 11/15",
                       "time":  "1:00p ET",
-                      "circa":  -3.5,
+                      "circa":  -4,
                       "book":  "CIRCA",
                       "history":  [
                                       -2,
-                                      -3.5
+                                      -4
                                   ],
                       "lookahead":  -2.5,
                       "circaOpen":  -2
@@ -159,11 +159,11 @@
                       "home":  "NO",
                       "day":  "Sun 11/15",
                       "time":  "1:00p ET",
-                      "circa":  -1,
+                      "circa":  -2.5,
                       "book":  "CIRCA",
                       "history":  [
                                       1,
-                                      -1
+                                      -2.5
                                   ],
                       "lookahead":  1.5,
                       "circaOpen":  1
@@ -299,8 +299,8 @@
                               "rswr":  29,
                               "rswrRk":  18,
                               "qb":  {
-                                         "name":  "Gardner Minshew II",
-                                         "status":  "depth chart -- listed doubtful -- started Wk 9 -- season numbers are J.Brissett\u0027s",
+                                         "name":  "Carson Beck",
+                                         "status":  "depth chart -- Gardner Minshew II started Wk 9 -- season numbers are J.Brissett\u0027s",
                                          "epa":  0.067,
                                          "epaRk":  18,
                                          "sr":  44,
@@ -1249,14 +1249,14 @@
                               "rswr":  26,
                               "rswrRk":  30,
                               "qb":  {
-                                         "name":  "Malik Willis",
-                                         "status":  "depth chart -- listed questionable -- started Wk 9",
+                                         "name":  "Kyle McCord",
+                                         "status":  "depth chart -- Malik Willis started Wk 9 -- season numbers are M.Willis\u0027s",
                                          "epa":  0,
                                          "epaRk":  22,
                                          "sr":  41.7,
                                          "srRk":  24,
                                          "plays":  115,
-                                         "numbersAreStarters":  true
+                                         "numbersAreStarters":  false
                                      },
                               "note":  ""
                           },
