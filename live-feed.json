@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-10T00:11:05Z",
+    "generatedAt":  "2026-11-10T01:26:08Z",
     "byPair":  {
                    "BUF-MIN":  {
                                    "gameCode":  "20261109NFL00054",
@@ -9,20 +9,20 @@
                                    "homeLastName":  "Vikings",
                                    "dateLabel":  "Monday, Nov 9",
                                    "dk":  {
-                                              "awayHandle":  51,
-                                              "awayBet":  74,
-                                              "homeHandle":  49,
-                                              "homeBet":  26,
-                                              "awaySpread":  -3.5,
-                                              "homeSpread":  3.5
+                                              "awayHandle":  58,
+                                              "awayBet":  73,
+                                              "homeHandle":  42,
+                                              "homeBet":  27,
+                                              "awaySpread":  -3,
+                                              "homeSpread":  3
                                           },
                                    "circa":  {
-                                                 "awayHandle":  58,
-                                                 "awayBet":  69,
-                                                 "homeHandle":  42,
-                                                 "homeBet":  31,
-                                                 "awaySpread":  -3,
-                                                 "homeSpread":  3
+                                                 "awayHandle":  57,
+                                                 "awayBet":  66,
+                                                 "homeHandle":  43,
+                                                 "homeBet":  34,
+                                                 "awaySpread":  -3.5,
+                                                 "homeSpread":  3.5
                                              }
                                }
                }
