@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-10T13:26:34Z",
+    "generatedAt":  "2026-11-10T15:26:36Z",
     "byPair":  {
                    "WAS-NYG":  {
                                    "gameCode":  "20261112NFL00048",
@@ -42,9 +42,9 @@
                                          },
                                   "circa":  {
                                                 "awayHandle":  0,
-                                                "awayBet":  10,
+                                                "awayBet":  9,
                                                 "homeHandle":  100,
-                                                "homeBet":  90,
+                                                "homeBet":  91,
                                                 "awaySpread":  2.5,
                                                 "homeSpread":  -2.5
                                             }
@@ -117,8 +117,8 @@
                                                 "awayBet":  0,
                                                 "homeHandle":  100,
                                                 "homeBet":  100,
-                                                "awaySpread":  3.5,
-                                                "homeSpread":  -3.5
+                                                "awaySpread":  6,
+                                                "homeSpread":  -6
                                             }
                               },
                    "JAX-TEN":  {
@@ -213,8 +213,8 @@
                                                  "awayBet":  50,
                                                  "homeHandle":  100,
                                                  "homeBet":  50,
-                                                 "awaySpread":  -7,
-                                                 "homeSpread":  7
+                                                 "awaySpread":  -7.5,
+                                                 "homeSpread":  7.5
                                              }
                                },
                    "SEA-LV":  {
