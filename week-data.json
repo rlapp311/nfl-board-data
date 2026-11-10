@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-10T19:27:04Z",
-    "generatedAt":  "2026-11-10T20:02:06Z",
+    "generatedAt":  "2026-11-10T20:17:21Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-10T17:17:01Z",
+                                              "asOf":  "2026-11-10T20:17:20Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1199,14 +1199,14 @@
                              "rswr":  26,
                              "rswrRk":  29,
                              "qb":  {
-                                        "name":  "Kirk Cousins",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "name":  "Fernando Mendoza",
+                                        "status":  "depth chart -- K.Cousins started Wk 9 -- season numbers are K.Cousins\u0027s",
                                         "epa":  0.078,
                                         "epaRk":  17,
                                         "sr":  49.7,
                                         "srRk":  10,
                                         "plays":  147,
-                                        "numbersAreStarters":  true
+                                        "numbersAreStarters":  false
                                     },
                              "note":  ""
                          },
@@ -1299,14 +1299,14 @@
                               "rswr":  29,
                               "rswrRk":  23,
                               "qb":  {
-                                         "name":  "Kyler Murray",
-                                         "status":  "depth chart -- listed questionable -- Carson Wentz started Wk 9",
+                                         "name":  "Kirk Cousins",
+                                         "status":  "depth chart -- Carson Wentz started Wk 9 -- season numbers are K.Murray\u0027s",
                                          "epa":  -0.086,
                                          "epaRk":  27,
                                          "sr":  39.8,
                                          "srRk":  30,
                                          "plays":  88,
-                                         "numbersAreStarters":  true
+                                         "numbersAreStarters":  false
                                      },
                               "note":  ""
                           },
