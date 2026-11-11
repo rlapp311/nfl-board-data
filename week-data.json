@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-11T08:30:09Z",
-    "generatedAt":  "2026-11-11T08:47:10Z",
+    "generatedAt":  "2026-11-11T09:02:22Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-11T05:47:56Z",
+                                              "asOf":  "2026-11-11T09:02:21Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -314,7 +314,7 @@
                               "name":  "Falcons",
                               "wl":  "3-6",
                               "pr":  -4.24,
-                              "fpi":  -4.11,
+                              "fpi":  -4.66,
                               "fpiOff":  null,
                               "fpiDef":  null,
                               "fpiSt":  null,
@@ -364,7 +364,7 @@
                               "name":  "Ravens",
                               "wl":  "4-5",
                               "pr":  5.5,
-                              "fpi":  -5.83,
+                              "fpi":  -5.56,
                               "fpiOff":  null,
                               "fpiDef":  null,
                               "fpiSt":  null,
@@ -1164,7 +1164,7 @@
                              "name":  "Raiders",
                              "wl":  "4-5",
                              "pr":  -3.04,
-                             "fpi":  -3.03,
+                             "fpi":  -6.86,
                              "fpiOff":  null,
                              "fpiDef":  null,
                              "fpiSt":  null,
@@ -1214,7 +1214,7 @@
                               "name":  "Dolphins",
                               "wl":  "1-7",
                               "pr":  -4.31,
-                              "fpi":  -7.78,
+                              "fpi":  -11.21,
                               "fpiOff":  null,
                               "fpiDef":  null,
                               "fpiSt":  null,
@@ -1264,7 +1264,7 @@
                               "name":  "Vikings",
                               "wl":  "6-2",
                               "pr":  1.44,
-                              "fpi":  -1.2,
+                              "fpi":  2.62,
                               "fpiOff":  null,
                               "fpiDef":  null,
                               "fpiSt":  null,
