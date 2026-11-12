@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-12T16:03:06Z",
+    "generatedAt":  "2026-11-12T16:33:08Z",
     "byPair":  {
                    "WAS-NYG":  {
                                    "gameCode":  "20261112NFL00048",
@@ -57,9 +57,9 @@
                                   "homeLastName":  "Falcons",
                                   "dateLabel":  "Sunday, Nov 15",
                                   "dk":  {
-                                             "awayHandle":  49,
+                                             "awayHandle":  50,
                                              "awayBet":  79,
-                                             "homeHandle":  51,
+                                             "homeHandle":  50,
                                              "homeBet":  21,
                                              "awaySpread":  -3,
                                              "homeSpread":  3
@@ -273,9 +273,9 @@
                                   "homeLastName":  "Cowboys",
                                   "dateLabel":  "Sunday, Nov 15",
                                   "dk":  {
-                                             "awayHandle":  84,
+                                             "awayHandle":  83,
                                              "awayBet":  81,
-                                             "homeHandle":  16,
+                                             "homeHandle":  17,
                                              "homeBet":  19,
                                              "awaySpread":  -3.5,
                                              "homeSpread":  3.5
@@ -322,9 +322,9 @@
                                    "dateLabel":  "Monday, Nov 16",
                                    "dk":  {
                                               "awayHandle":  24,
-                                              "awayBet":  59,
+                                              "awayBet":  58,
                                               "homeHandle":  76,
-                                              "homeBet":  41,
+                                              "homeBet":  42,
                                               "awaySpread":  4.5,
                                               "homeSpread":  -4.5
                                           },
