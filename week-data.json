@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-12T23:03:50Z",
+    "generatedAt":  "2026-11-12T23:18:50Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-12T20:18:23Z",
+                                              "asOf":  "2026-11-12T23:18:49Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -800,7 +800,7 @@
                               "rswrRk":  24,
                               "qb":  {
                                          "name":  "Jared Goff",
-                                         "status":  "depth chart -- listed questionable -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 9",
                                          "epa":  0.228,
                                          "epaRk":  6,
                                          "sr":  54.7,
@@ -1450,7 +1450,7 @@
                               "rswrRk":  20,
                               "qb":  {
                                          "name":  "J.J. McCarthy",
-                                         "status":  "depth chart -- listed questionable -- started Wk 9 -- season numbers are J.Winston\u0027s",
+                                         "status":  "depth chart -- started Wk 9 -- season numbers are J.Winston\u0027s",
                                          "epa":  -0.105,
                                          "epaRk":  28,
                                          "sr":  40.2,
