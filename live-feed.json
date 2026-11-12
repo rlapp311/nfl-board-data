@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-12T11:32:41Z",
+    "generatedAt":  "2026-11-12T12:02:43Z",
     "byPair":  {
                    "WAS-NYG":  {
                                    "gameCode":  "20261112NFL00048",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Giants",
                                    "dateLabel":  "Thursday, Nov 12",
                                    "dk":  {
-                                              "awayHandle":  24,
+                                              "awayHandle":  23,
                                               "awayBet":  25,
-                                              "homeHandle":  76,
+                                              "homeHandle":  77,
                                               "homeBet":  75,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
@@ -226,9 +226,9 @@
                                   "dateLabel":  "Sunday, Nov 15",
                                   "dk":  {
                                              "awayHandle":  83,
-                                             "awayBet":  80,
+                                             "awayBet":  81,
                                              "homeHandle":  17,
-                                             "homeBet":  20,
+                                             "homeBet":  19,
                                              "awaySpread":  -6.5,
                                              "homeSpread":  6.5
                                          },
