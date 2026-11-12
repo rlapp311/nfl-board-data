@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-12T11:02:39Z",
+    "generatedAt":  "2026-11-12T11:32:41Z",
     "byPair":  {
                    "WAS-NYG":  {
                                    "gameCode":  "20261112NFL00048",
@@ -9,9 +9,9 @@
                                    "homeLastName":  "Giants",
                                    "dateLabel":  "Thursday, Nov 12",
                                    "dk":  {
-                                              "awayHandle":  25,
+                                              "awayHandle":  24,
                                               "awayBet":  25,
-                                              "homeHandle":  75,
+                                              "homeHandle":  76,
                                               "homeBet":  75,
                                               "awaySpread":  2.5,
                                               "homeSpread":  -2.5
@@ -34,9 +34,9 @@
                                   "dateLabel":  "Sunday, Nov 15",
                                   "dk":  {
                                              "awayHandle":  16,
-                                             "awayBet":  18,
+                                             "awayBet":  19,
                                              "homeHandle":  84,
-                                             "homeBet":  82,
+                                             "homeBet":  81,
                                              "awaySpread":  2.5,
                                              "homeSpread":  -2.5
                                          },
@@ -105,9 +105,9 @@
                                   "homeLastName":  "Packers",
                                   "dateLabel":  "Sunday, Nov 15",
                                   "dk":  {
-                                             "awayHandle":  34,
+                                             "awayHandle":  33,
                                              "awayBet":  43,
-                                             "homeHandle":  66,
+                                             "homeHandle":  67,
                                              "homeBet":  57,
                                              "awaySpread":  3,
                                              "homeSpread":  -3
