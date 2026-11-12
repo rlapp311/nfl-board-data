@@ -1,6 +1,6 @@
 ﻿{
     "Season":  2026,
-    "GeneratedAt":  "2026-11-11T04:02:07.8654831-05:00",
+    "GeneratedAt":  "2026-11-12T04:02:16.4941868-05:00",
     "Source":  "https://site.web.api.espn.com/apis/fitt/v3/sports/football/nfl/powerindex?region=us\u0026lang=en\u0026season=2026\u0026limit=40",
     "Note":  "Raw ESPN FPI ratings. No HFA and no situational adjustment applied -- the board\u0027s FPI line is away Fpi minus home Fpi.",
     "Teams":  [
@@ -268,7 +268,7 @@
                       "Abbr":  "BAL",
                       "Team":  "Baltimore Ravens",
                       "TeamId":  "33",
-                      "Fpi":  -5.556,
+                      "Fpi":  -5.522,
                       "FpiOff":  null,
                       "FpiDef":  null,
                       "FpiSt":  null,
