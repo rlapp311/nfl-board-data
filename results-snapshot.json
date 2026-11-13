@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-13T04:03:50.0668886Z",
+    "GeneratedAt":  "2026-11-13T07:18:05.8397498Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1369,10 +1369,10 @@
                       "date":  "2026-11-13T01:15:00.0000000Z",
                       "away":  "WAS",
                       "home":  "NYG",
-                      "awayScore":  null,
-                      "homeScore":  null,
+                      "awayScore":  24,
+                      "homeScore":  21,
                       "ot":  false,
-                      "final":  false
+                      "final":  true
                   },
                   {
                       "week":  10,
