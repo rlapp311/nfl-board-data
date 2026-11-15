@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-15T03:18:44Z",
+    "generatedAt":  "2026-11-15T03:33:56Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-15T00:19:06Z",
+                                              "asOf":  "2026-11-15T03:33:55Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -399,8 +399,8 @@
                               "rswr":  30,
                               "rswrRk":  12,
                               "qb":  {
-                                         "name":  "J.Fagnano",
-                                         "status":  "snap count -- started Wk 9 (7 snaps), no depth chart -- season numbers are T.Huntley\u0027s",
+                                         "name":  "Jacoby Brissett",
+                                         "status":  "depth chart -- Joe Fagnano started Wk 9 -- season numbers are T.Huntley\u0027s",
                                          "epa":  0.007,
                                          "epaRk":  21,
                                          "sr":  40,
