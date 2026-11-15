@@ -123,16 +123,6 @@
                "week":  10,
                "games":  [
                              {
-                                 "id":  "WASNYG",
-                                 "away":  "WAS",
-                                 "home":  "NYG",
-                                 "day":  "Thu 11/12",
-                                 "time":  "8:15p ET",
-                                 "circa":  -2,
-                                 "lookahead":  -1.5,
-                                 "circaOpen":  -1.5
-                             },
-                             {
                                  "id":  "NEDET",
                                  "away":  "NE",
                                  "home":  "DET",
@@ -251,6 +241,16 @@
                                  "circa":  -3.5,
                                  "lookahead":  -3.5,
                                  "circaOpen":  -3.5
+                             },
+                             {
+                                 "id":  "WASNYG",
+                                 "away":  "WAS",
+                                 "home":  "NYG",
+                                 "day":  "Thu 11/12",
+                                 "time":  "8:15p ET",
+                                 "circa":  -2,
+                                 "lookahead":  -1.5,
+                                 "circaOpen":  -1.5
                              },
                              {
                                  "id":  "LACBAL",

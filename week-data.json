@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-15T07:32:04Z",
+    "generatedAt":  "2026-11-15T07:47:11Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "WASNYG",
-                      "away":  "WAS",
-                      "home":  "NYG",
-                      "day":  "Thu 11/12",
-                      "time":  "8:15p ET",
-                      "circa":  -2,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -1.5,
-                                      -2
-                                  ],
-                      "lookahead":  -1.5,
-                      "circaOpen":  -1.5
-                  },
                   {
                       "id":  "NEDET",
                       "away":  "NE",
@@ -242,6 +227,21 @@
                                   ],
                       "lookahead":  -3.5,
                       "circaOpen":  -3.5
+                  },
+                  {
+                      "id":  "WASNYG",
+                      "away":  "WAS",
+                      "home":  "NYG",
+                      "day":  "Thu 11/12",
+                      "time":  "8:15p ET",
+                      "circa":  -2,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -1.5,
+                                      -2
+                                  ],
+                      "lookahead":  -1.5,
+                      "circaOpen":  -1.5
                   },
                   {
                       "id":  "LACBAL",

@@ -1,30 +1,6 @@
 ﻿{
     "generatedAt":  "2026-11-12T19:33:49Z",
     "byPair":  {
-                   "WAS-NYG":  {
-                                   "gameCode":  "20261112NFL00048",
-                                   "awaySlug":  "washington-commanders",
-                                   "homeSlug":  "new-york-giants",
-                                   "awayLastName":  "Commanders",
-                                   "homeLastName":  "Giants",
-                                   "dateLabel":  "Thursday, Nov 12",
-                                   "dk":  {
-                                              "awayHandle":  29,
-                                              "awayBet":  25,
-                                              "homeHandle":  71,
-                                              "homeBet":  75,
-                                              "awaySpread":  2.5,
-                                              "homeSpread":  -2.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  30,
-                                                 "awayBet":  19,
-                                                 "homeHandle":  70,
-                                                 "homeBet":  81,
-                                                 "awaySpread":  2,
-                                                 "homeSpread":  -2
-                                             }
-                               },
                    "NE-DET":  {
                                   "gameCode":  "20261115NFL00052",
                                   "awaySlug":  "new-england-patriots",
@@ -311,6 +287,30 @@
                                                  "homeBet":  76,
                                                  "awaySpread":  3.5,
                                                  "homeSpread":  -3.5
+                                             }
+                               },
+                   "WAS-NYG":  {
+                                   "gameCode":  "20261112NFL00048",
+                                   "awaySlug":  "washington-commanders",
+                                   "homeSlug":  "new-york-giants",
+                                   "awayLastName":  "Commanders",
+                                   "homeLastName":  "Giants",
+                                   "dateLabel":  "Thursday, Nov 12",
+                                   "dk":  {
+                                              "awayHandle":  29,
+                                              "awayBet":  25,
+                                              "homeHandle":  71,
+                                              "homeBet":  75,
+                                              "awaySpread":  2.5,
+                                              "homeSpread":  -2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  30,
+                                                 "awayBet":  19,
+                                                 "homeHandle":  70,
+                                                 "homeBet":  81,
+                                                 "awaySpread":  2,
+                                                 "homeSpread":  -2
                                              }
                                },
                    "LAC-BAL":  {
