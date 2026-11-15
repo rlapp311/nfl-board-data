@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-15T22:33:51Z",
+    "generatedAt":  "2026-11-15T22:48:54Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-15T19:34:00Z",
+                                              "asOf":  "2026-11-15T22:48:54Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1500,7 +1500,7 @@
                               "rswrRk":  31,
                               "qb":  {
                                          "name":  "Geno Smith",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- listed questionable -- started Wk 9",
                                          "epa":  0.131,
                                          "epaRk":  13,
                                          "sr":  51,
