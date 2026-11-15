@@ -1,30 +1,6 @@
 ﻿{
     "generatedAt":  "2026-11-12T19:33:49Z",
     "byPair":  {
-                   "NE-DET":  {
-                                  "gameCode":  "20261115NFL00052",
-                                  "awaySlug":  "new-england-patriots",
-                                  "homeSlug":  "detroit-lions",
-                                  "awayLastName":  "Patriots",
-                                  "homeLastName":  "Lions",
-                                  "dateLabel":  "Sunday, Nov 15",
-                                  "dk":  {
-                                             "awayHandle":  15,
-                                             "awayBet":  19,
-                                             "homeHandle":  85,
-                                             "homeBet":  81,
-                                             "awaySpread":  2.5,
-                                             "homeSpread":  -2.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  10,
-                                                "awayBet":  19,
-                                                "homeHandle":  90,
-                                                "homeBet":  81,
-                                                "awaySpread":  3,
-                                                "homeSpread":  -3
-                                            }
-                              },
                    "KC-ATL":  {
                                   "gameCode":  "20261115NFL00055",
                                   "awaySlug":  "kansas-city-chiefs",
@@ -193,6 +169,30 @@
                                                  "homeSpread":  7.5
                                              }
                                },
+                   "NE-DET":  {
+                                  "gameCode":  "20261115NFL00052",
+                                  "awaySlug":  "new-england-patriots",
+                                  "homeSlug":  "detroit-lions",
+                                  "awayLastName":  "Patriots",
+                                  "homeLastName":  "Lions",
+                                  "dateLabel":  "Sunday, Nov 15",
+                                  "dk":  {
+                                             "awayHandle":  15,
+                                             "awayBet":  19,
+                                             "homeHandle":  85,
+                                             "homeBet":  81,
+                                             "awaySpread":  2.5,
+                                             "homeSpread":  -2.5
+                                         },
+                                  "circa":  {
+                                                "awayHandle":  10,
+                                                "awayBet":  19,
+                                                "homeHandle":  90,
+                                                "homeBet":  81,
+                                                "awaySpread":  3,
+                                                "homeSpread":  -3
+                                            }
+                              },
                    "SEA-LV":  {
                                   "gameCode":  "20261115NFL00045",
                                   "awaySlug":  "seattle-seahawks",

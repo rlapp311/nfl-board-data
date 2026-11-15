@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-15T20:03:55Z",
+    "generatedAt":  "2026-11-15T20:18:52Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -48,21 +48,6 @@
                  "Sun"
              ],
     "games":  [
-                  {
-                      "id":  "NEDET",
-                      "away":  "NE",
-                      "home":  "DET",
-                      "day":  "Sun 11/15",
-                      "time":  "9:30a ET",
-                      "circa":  -3,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -2.5,
-                                      -3
-                                  ],
-                      "lookahead":  1.5,
-                      "circaOpen":  -2.5
-                  },
                   {
                       "id":  "KCATL",
                       "away":  "KC",
@@ -167,6 +152,21 @@
                                   ],
                       "lookahead":  7.5,
                       "circaOpen":  8.5
+                  },
+                  {
+                      "id":  "NEDET",
+                      "away":  "NE",
+                      "home":  "DET",
+                      "day":  "Sun 11/15",
+                      "time":  "9:30a ET",
+                      "circa":  -3,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -2.5,
+                                      -3
+                                  ],
+                      "lookahead":  1.5,
+                      "circaOpen":  -2.5
                   },
                   {
                       "id":  "SEALV",
@@ -762,7 +762,7 @@
                           },
                   "DET":  {
                               "name":  "Lions",
-                              "wl":  "6-2",
+                              "wl":  "7-2",
                               "pr":  2.63,
                               "fpi":  2.14,
                               "fpiOff":  null,
@@ -1312,7 +1312,7 @@
                           },
                   "NE":  {
                              "name":  "Patriots",
-                             "wl":  "5-4",
+                             "wl":  "5-5",
                              "pr":  2.57,
                              "fpi":  1.42,
                              "fpiOff":  null,

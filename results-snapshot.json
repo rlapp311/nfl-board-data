@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-15T17:18:32.3083865Z",
+    "GeneratedAt":  "2026-11-15T20:18:48.6815343Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1366,16 +1366,6 @@
                   },
                   {
                       "week":  10,
-                      "date":  "2026-11-15T14:30:00.0000000Z",
-                      "away":  "NE",
-                      "home":  "DET",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  10,
                       "date":  "2026-11-15T18:00:00.0000000Z",
                       "away":  "KC",
                       "home":  "ATL",
@@ -1443,6 +1433,16 @@
                       "homeScore":  null,
                       "ot":  false,
                       "final":  false
+                  },
+                  {
+                      "week":  10,
+                      "date":  "2026-11-15T14:30:00.0000000Z",
+                      "away":  "NE",
+                      "home":  "DET",
+                      "awayScore":  10,
+                      "homeScore":  35,
+                      "ot":  false,
+                      "final":  true
                   },
                   {
                       "week":  10,
