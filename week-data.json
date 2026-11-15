@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-15T16:03:19Z",
+    "generatedAt":  "2026-11-15T16:20:00Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-15T13:17:14Z",
+                                              "asOf":  "2026-11-15T16:19:59Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -1350,7 +1350,7 @@
                              "rswrRk":  16,
                              "qb":  {
                                         "name":  "Drake Maye",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "status":  "depth chart -- listed out -- started Wk 9",
                                         "epa":  0.278,
                                         "epaRk":  3,
                                         "sr":  57,
@@ -1750,7 +1750,7 @@
                              "rswrRk":  7,
                              "qb":  {
                                         "name":  "Baker Mayfield",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "status":  "depth chart -- listed questionable -- started Wk 9",
                                         "epa":  -0.355,
                                         "epaRk":  32,
                                         "sr":  35.4,
