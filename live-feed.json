@@ -1,28 +1,52 @@
 ﻿{
     "generatedAt":  "2026-11-12T19:33:49Z",
     "byPair":  {
-                   "PIT-CIN":  {
-                                   "gameCode":  "20261115NFL00036",
-                                   "awaySlug":  "pittsburgh-steelers",
-                                   "homeSlug":  "cincinnati-bengals",
-                                   "awayLastName":  "Steelers",
-                                   "homeLastName":  "Bengals",
-                                   "dateLabel":  "Sunday, Nov 15",
+                   "LAC-BAL":  {
+                                   "gameCode":  "20261116NFL00035",
+                                   "awaySlug":  "los-angeles-chargers",
+                                   "homeSlug":  "baltimore-ravens",
+                                   "awayLastName":  "Chargers",
+                                   "homeLastName":  "Ravens",
+                                   "dateLabel":  "Monday, Nov 16",
                                    "dk":  {
-                                              "awayHandle":  47,
-                                              "awayBet":  53,
-                                              "homeHandle":  53,
-                                              "homeBet":  47,
-                                              "awaySpread":  3.5,
-                                              "homeSpread":  -3.5
+                                              "awayHandle":  24,
+                                              "awayBet":  58,
+                                              "homeHandle":  76,
+                                              "homeBet":  42,
+                                              "awaySpread":  4.5,
+                                              "homeSpread":  -4.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  2,
-                                                 "awayBet":  24,
-                                                 "homeHandle":  98,
-                                                 "homeBet":  76,
-                                                 "awaySpread":  3.5,
-                                                 "homeSpread":  -3.5
+                                                 "awayHandle":  14,
+                                                 "awayBet":  75,
+                                                 "homeHandle":  86,
+                                                 "homeBet":  25,
+                                                 "awaySpread":  4.5,
+                                                 "homeSpread":  -4.5
+                                             }
+                               },
+                   "WAS-NYG":  {
+                                   "gameCode":  "20261112NFL00048",
+                                   "awaySlug":  "washington-commanders",
+                                   "homeSlug":  "new-york-giants",
+                                   "awayLastName":  "Commanders",
+                                   "homeLastName":  "Giants",
+                                   "dateLabel":  "Thursday, Nov 12",
+                                   "dk":  {
+                                              "awayHandle":  29,
+                                              "awayBet":  25,
+                                              "homeHandle":  71,
+                                              "homeBet":  75,
+                                              "awaySpread":  2.5,
+                                              "homeSpread":  -2.5
+                                          },
+                                   "circa":  {
+                                                 "awayHandle":  30,
+                                                 "awayBet":  19,
+                                                 "homeHandle":  70,
+                                                 "homeBet":  81,
+                                                 "awaySpread":  2,
+                                                 "homeSpread":  -2
                                              }
                                },
                    "NE-DET":  {
@@ -289,52 +313,28 @@
                                                 "homeSpread":  4
                                             }
                               },
-                   "WAS-NYG":  {
-                                   "gameCode":  "20261112NFL00048",
-                                   "awaySlug":  "washington-commanders",
-                                   "homeSlug":  "new-york-giants",
-                                   "awayLastName":  "Commanders",
-                                   "homeLastName":  "Giants",
-                                   "dateLabel":  "Thursday, Nov 12",
+                   "PIT-CIN":  {
+                                   "gameCode":  "20261115NFL00036",
+                                   "awaySlug":  "pittsburgh-steelers",
+                                   "homeSlug":  "cincinnati-bengals",
+                                   "awayLastName":  "Steelers",
+                                   "homeLastName":  "Bengals",
+                                   "dateLabel":  "Sunday, Nov 15",
                                    "dk":  {
-                                              "awayHandle":  29,
-                                              "awayBet":  25,
-                                              "homeHandle":  71,
-                                              "homeBet":  75,
-                                              "awaySpread":  2.5,
-                                              "homeSpread":  -2.5
+                                              "awayHandle":  47,
+                                              "awayBet":  53,
+                                              "homeHandle":  53,
+                                              "homeBet":  47,
+                                              "awaySpread":  3.5,
+                                              "homeSpread":  -3.5
                                           },
                                    "circa":  {
-                                                 "awayHandle":  30,
-                                                 "awayBet":  19,
-                                                 "homeHandle":  70,
-                                                 "homeBet":  81,
-                                                 "awaySpread":  2,
-                                                 "homeSpread":  -2
-                                             }
-                               },
-                   "LAC-BAL":  {
-                                   "gameCode":  "20261116NFL00035",
-                                   "awaySlug":  "los-angeles-chargers",
-                                   "homeSlug":  "baltimore-ravens",
-                                   "awayLastName":  "Chargers",
-                                   "homeLastName":  "Ravens",
-                                   "dateLabel":  "Monday, Nov 16",
-                                   "dk":  {
-                                              "awayHandle":  24,
-                                              "awayBet":  58,
-                                              "homeHandle":  76,
-                                              "homeBet":  42,
-                                              "awaySpread":  4.5,
-                                              "homeSpread":  -4.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  14,
-                                                 "awayBet":  75,
-                                                 "homeHandle":  86,
-                                                 "homeBet":  25,
-                                                 "awaySpread":  4.5,
-                                                 "homeSpread":  -4.5
+                                                 "awayHandle":  2,
+                                                 "awayBet":  24,
+                                                 "homeHandle":  98,
+                                                 "homeBet":  76,
+                                                 "awaySpread":  3.5,
+                                                 "homeSpread":  -3.5
                                              }
                                }
                }

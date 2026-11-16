@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-16T05:48:05Z",
+    "generatedAt":  "2026-11-16T06:03:05Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -49,19 +49,34 @@
              ],
     "games":  [
                   {
-                      "id":  "PITCIN",
-                      "away":  "PIT",
-                      "home":  "CIN",
-                      "day":  "Sun 11/15",
-                      "time":  "8:20p ET",
-                      "circa":  -3.5,
+                      "id":  "LACBAL",
+                      "away":  "LAC",
+                      "home":  "BAL",
+                      "day":  "Mon 11/16",
+                      "time":  "8:15p ET",
+                      "circa":  -4.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3.5,
-                                      -3.5
+                                      -4.5
                                   ],
-                      "lookahead":  -3.5,
+                      "lookahead":  -2.5,
                       "circaOpen":  -3.5
+                  },
+                  {
+                      "id":  "WASNYG",
+                      "away":  "WAS",
+                      "home":  "NYG",
+                      "day":  "Thu 11/12",
+                      "time":  "8:15p ET",
+                      "circa":  -2,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      -1.5,
+                                      -2
+                                  ],
+                      "lookahead":  -1.5,
+                      "circaOpen":  -1.5
                   },
                   {
                       "id":  "NEDET",
@@ -229,33 +244,18 @@
                       "circaOpen":  4
                   },
                   {
-                      "id":  "WASNYG",
-                      "away":  "WAS",
-                      "home":  "NYG",
-                      "day":  "Thu 11/12",
-                      "time":  "8:15p ET",
-                      "circa":  -2,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      -1.5,
-                                      -2
-                                  ],
-                      "lookahead":  -1.5,
-                      "circaOpen":  -1.5
-                  },
-                  {
-                      "id":  "LACBAL",
-                      "away":  "LAC",
-                      "home":  "BAL",
-                      "day":  "Mon 11/16",
-                      "time":  "8:15p ET",
-                      "circa":  -4.5,
+                      "id":  "PITCIN",
+                      "away":  "PIT",
+                      "home":  "CIN",
+                      "day":  "Sun 11/15",
+                      "time":  "8:20p ET",
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
                                       -3.5,
-                                      -4.5
+                                      -3.5
                                   ],
-                      "lookahead":  -2.5,
+                      "lookahead":  -3.5,
                       "circaOpen":  -3.5
                   }
               ],
@@ -562,7 +562,7 @@
                           },
                   "CIN":  {
                               "name":  "Bengals",
-                              "wl":  "6-2",
+                              "wl":  "7-2",
                               "pr":  0.72,
                               "fpi":  4.43,
                               "fpiOff":  null,
@@ -1562,7 +1562,7 @@
                           },
                   "PIT":  {
                               "name":  "Steelers",
-                              "wl":  "6-2",
+                              "wl":  "6-3",
                               "pr":  -1.75,
                               "fpi":  -0.09,
                               "fpiOff":  null,
@@ -1861,6 +1861,182 @@
                               "note":  ""
                           }
               },
-    "nextWeek":  null
+    "nextWeek":  {
+                     "week":  11,
+                     "games":  [
+                                   {
+                                       "id":  "INDHOU",
+                                       "away":  "IND",
+                                       "home":  "HOU",
+                                       "day":  "Thu 11/19",
+                                       "time":  "8:15p ET",
+                                       "circa":  -10,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -10,
+                                                       -10
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "MIABUF",
+                                       "away":  "MIA",
+                                       "home":  "BUF",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  -16.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -16.5,
+                                                       -16.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "NOCHI",
+                                       "away":  "NO",
+                                       "home":  "CHI",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  -9.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -9.5,
+                                                       -9.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "TENDAL",
+                                       "away":  "TEN",
+                                       "home":  "DAL",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  -7.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -7.5,
+                                                       -7.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "TBDET",
+                                       "away":  "TB",
+                                       "home":  "DET",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  -3.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -3.5,
+                                                       -3.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "ARIKC",
+                                       "away":  "ARI",
+                                       "home":  "KC",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  -14,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -14,
+                                                       -14
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "PITPHI",
+                                       "away":  "PIT",
+                                       "home":  "PHI",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  4.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       4.5,
+                                                       4.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "BALCAR",
+                                       "away":  "BAL",
+                                       "home":  "CAR",
+                                       "day":  "Sun 11/22",
+                                       "time":  "1:00p ET",
+                                       "circa":  -1.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -1.5,
+                                                       -1.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "NYJLAC",
+                                       "away":  "NYJ",
+                                       "home":  "LAC",
+                                       "day":  "Sun 11/22",
+                                       "time":  "4:05p ET",
+                                       "circa":  -1.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -1.5,
+                                                       -1.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "LVDEN",
+                                       "away":  "LV",
+                                       "home":  "DEN",
+                                       "day":  "Sun 11/22",
+                                       "time":  "4:25p ET",
+                                       "circa":  -8.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -8.5,
+                                                       -8.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "JAXNYG",
+                                       "away":  "JAX",
+                                       "home":  "NYG",
+                                       "day":  "Sun 11/22",
+                                       "time":  "4:25p ET",
+                                       "circa":  6,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       6,
+                                                       6
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "MINSF",
+                                       "away":  "MIN",
+                                       "home":  "SF",
+                                       "day":  "Sun 11/22",
+                                       "time":  "8:20p ET",
+                                       "circa":  -3.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       -3.5,
+                                                       -3.5
+                                                   ]
+                                   },
+                                   {
+                                       "id":  "CINWAS",
+                                       "away":  "CIN",
+                                       "home":  "WAS",
+                                       "day":  "Mon 11/23",
+                                       "time":  "8:15p ET",
+                                       "circa":  3.5,
+                                       "book":  "DK",
+                                       "history":  [
+                                                       3.5,
+                                                       3.5
+                                                   ]
+                                   }
+                               ],
+                     "scheduled":  13,
+                     "priced":  13,
+                     "postedAt":  "2026-11-16T06:03:06Z"
+                 }
 }
 

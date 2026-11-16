@@ -123,14 +123,24 @@
                "week":  10,
                "games":  [
                              {
-                                 "id":  "PITCIN",
-                                 "away":  "PIT",
-                                 "home":  "CIN",
-                                 "day":  "Sun 11/15",
-                                 "time":  "8:20p ET",
-                                 "circa":  -3.5,
-                                 "lookahead":  -3.5,
+                                 "id":  "LACBAL",
+                                 "away":  "LAC",
+                                 "home":  "BAL",
+                                 "day":  "Mon 11/16",
+                                 "time":  "8:15p ET",
+                                 "circa":  -4.5,
+                                 "lookahead":  -2.5,
                                  "circaOpen":  -3.5
+                             },
+                             {
+                                 "id":  "WASNYG",
+                                 "away":  "WAS",
+                                 "home":  "NYG",
+                                 "day":  "Thu 11/12",
+                                 "time":  "8:15p ET",
+                                 "circa":  -2,
+                                 "lookahead":  -1.5,
+                                 "circaOpen":  -1.5
                              },
                              {
                                  "id":  "NEDET",
@@ -243,23 +253,13 @@
                                  "circaOpen":  4
                              },
                              {
-                                 "id":  "WASNYG",
-                                 "away":  "WAS",
-                                 "home":  "NYG",
-                                 "day":  "Thu 11/12",
-                                 "time":  "8:15p ET",
-                                 "circa":  -2,
-                                 "lookahead":  -1.5,
-                                 "circaOpen":  -1.5
-                             },
-                             {
-                                 "id":  "LACBAL",
-                                 "away":  "LAC",
-                                 "home":  "BAL",
-                                 "day":  "Mon 11/16",
-                                 "time":  "8:15p ET",
-                                 "circa":  -4.5,
-                                 "lookahead":  -2.5,
+                                 "id":  "PITCIN",
+                                 "away":  "PIT",
+                                 "home":  "CIN",
+                                 "day":  "Sun 11/15",
+                                 "time":  "8:20p ET",
+                                 "circa":  -3.5,
+                                 "lookahead":  -3.5,
                                  "circaOpen":  -3.5
                              }
                          ]
