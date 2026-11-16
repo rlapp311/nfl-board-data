@@ -3,7 +3,7 @@
     "week":  10,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-16T02:33:35Z",
+    "generatedAt":  "2026-11-16T02:48:44Z",
     "analyticsThrough":  "PR and FPI through Week 9",
     "analyticsSources":  {
                              "dvoa":  {
@@ -49,49 +49,19 @@
              ],
     "games":  [
                   {
-                      "id":  "SEALV",
-                      "away":  "SEA",
-                      "home":  "LV",
+                      "id":  "PITCIN",
+                      "away":  "PIT",
+                      "home":  "CIN",
                       "day":  "Sun 11/15",
-                      "time":  "4:05p ET",
-                      "circa":  6.5,
+                      "time":  "8:20p ET",
+                      "circa":  -3.5,
                       "book":  "CIRCA",
                       "history":  [
-                                      3.5,
-                                      6.5
+                                      -3.5,
+                                      -3.5
                                   ],
-                      "lookahead":  6,
-                      "circaOpen":  3.5
-                  },
-                  {
-                      "id":  "LARARI",
-                      "away":  "LAR",
-                      "home":  "ARI",
-                      "day":  "Sun 11/15",
-                      "time":  "4:05p ET",
-                      "circa":  9.5,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      7.5,
-                                      9.5
-                                  ],
-                      "lookahead":  7.5,
-                      "circaOpen":  7.5
-                  },
-                  {
-                      "id":  "SFDAL",
-                      "away":  "SF",
-                      "home":  "DAL",
-                      "day":  "Sun 11/15",
-                      "time":  "4:25p ET",
-                      "circa":  4,
-                      "book":  "CIRCA",
-                      "history":  [
-                                      4,
-                                      4
-                                  ],
-                      "lookahead":  3.5,
-                      "circaOpen":  4
+                      "lookahead":  -3.5,
+                      "circaOpen":  -3.5
                   },
                   {
                       "id":  "NEDET",
@@ -214,19 +184,49 @@
                       "circaOpen":  8.5
                   },
                   {
-                      "id":  "PITCIN",
-                      "away":  "PIT",
-                      "home":  "CIN",
+                      "id":  "SEALV",
+                      "away":  "SEA",
+                      "home":  "LV",
                       "day":  "Sun 11/15",
-                      "time":  "8:20p ET",
-                      "circa":  -3.5,
+                      "time":  "4:05p ET",
+                      "circa":  6.5,
                       "book":  "CIRCA",
                       "history":  [
-                                      -3.5,
-                                      -3.5
+                                      3.5,
+                                      6.5
                                   ],
-                      "lookahead":  -3.5,
-                      "circaOpen":  -3.5
+                      "lookahead":  6,
+                      "circaOpen":  3.5
+                  },
+                  {
+                      "id":  "LARARI",
+                      "away":  "LAR",
+                      "home":  "ARI",
+                      "day":  "Sun 11/15",
+                      "time":  "4:05p ET",
+                      "circa":  9.5,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      7.5,
+                                      9.5
+                                  ],
+                      "lookahead":  7.5,
+                      "circaOpen":  7.5
+                  },
+                  {
+                      "id":  "SFDAL",
+                      "away":  "SF",
+                      "home":  "DAL",
+                      "day":  "Sun 11/15",
+                      "time":  "4:25p ET",
+                      "circa":  4,
+                      "book":  "CIRCA",
+                      "history":  [
+                                      4,
+                                      4
+                                  ],
+                      "lookahead":  3.5,
+                      "circaOpen":  4
                   },
                   {
                       "id":  "WASNYG",
@@ -262,7 +262,7 @@
     "teams":  {
                   "ARI":  {
                               "name":  "Cardinals",
-                              "wl":  "3-6",
+                              "wl":  "3-7",
                               "pr":  -2.66,
                               "fpi":  -8.4,
                               "fpiOff":  null,
@@ -662,7 +662,7 @@
                           },
                   "DAL":  {
                               "name":  "Cowboys",
-                              "wl":  "4-5",
+                              "wl":  "4-6",
                               "pr":  2.17,
                               "fpi":  1.88,
                               "fpiOff":  null,
@@ -1112,7 +1112,7 @@
                           },
                   "LAR":  {
                               "name":  "Rams",
-                              "wl":  "5-4",
+                              "wl":  "6-4",
                               "pr":  6.12,
                               "fpi":  3.69,
                               "fpiOff":  null,
@@ -1162,7 +1162,7 @@
                           },
                   "LV":  {
                              "name":  "Raiders",
-                             "wl":  "4-5",
+                             "wl":  "4-6",
                              "pr":  -3.04,
                              "fpi":  -6.75,
                              "fpiOff":  null,
@@ -1612,7 +1612,7 @@
                           },
                   "SEA":  {
                               "name":  "Seahawks",
-                              "wl":  "5-4",
+                              "wl":  "6-4",
                               "pr":  1.35,
                               "fpi":  0.75,
                               "fpiOff":  null,
@@ -1662,7 +1662,7 @@
                           },
                   "SF":  {
                              "name":  "49ers",
-                             "wl":  "7-1",
+                             "wl":  "8-1",
                              "pr":  1.67,
                              "fpi":  6.2,
                              "fpiOff":  null,

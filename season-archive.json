@@ -123,34 +123,14 @@
                "week":  10,
                "games":  [
                              {
-                                 "id":  "SEALV",
-                                 "away":  "SEA",
-                                 "home":  "LV",
+                                 "id":  "PITCIN",
+                                 "away":  "PIT",
+                                 "home":  "CIN",
                                  "day":  "Sun 11/15",
-                                 "time":  "4:05p ET",
-                                 "circa":  6.5,
-                                 "lookahead":  6,
-                                 "circaOpen":  3.5
-                             },
-                             {
-                                 "id":  "LARARI",
-                                 "away":  "LAR",
-                                 "home":  "ARI",
-                                 "day":  "Sun 11/15",
-                                 "time":  "4:05p ET",
-                                 "circa":  9.5,
-                                 "lookahead":  7.5,
-                                 "circaOpen":  7.5
-                             },
-                             {
-                                 "id":  "SFDAL",
-                                 "away":  "SF",
-                                 "home":  "DAL",
-                                 "day":  "Sun 11/15",
-                                 "time":  "4:25p ET",
-                                 "circa":  4,
-                                 "lookahead":  3.5,
-                                 "circaOpen":  4
+                                 "time":  "8:20p ET",
+                                 "circa":  -3.5,
+                                 "lookahead":  -3.5,
+                                 "circaOpen":  -3.5
                              },
                              {
                                  "id":  "NEDET",
@@ -233,14 +213,34 @@
                                  "circaOpen":  8.5
                              },
                              {
-                                 "id":  "PITCIN",
-                                 "away":  "PIT",
-                                 "home":  "CIN",
+                                 "id":  "SEALV",
+                                 "away":  "SEA",
+                                 "home":  "LV",
                                  "day":  "Sun 11/15",
-                                 "time":  "8:20p ET",
-                                 "circa":  -3.5,
-                                 "lookahead":  -3.5,
-                                 "circaOpen":  -3.5
+                                 "time":  "4:05p ET",
+                                 "circa":  6.5,
+                                 "lookahead":  6,
+                                 "circaOpen":  3.5
+                             },
+                             {
+                                 "id":  "LARARI",
+                                 "away":  "LAR",
+                                 "home":  "ARI",
+                                 "day":  "Sun 11/15",
+                                 "time":  "4:05p ET",
+                                 "circa":  9.5,
+                                 "lookahead":  7.5,
+                                 "circaOpen":  7.5
+                             },
+                             {
+                                 "id":  "SFDAL",
+                                 "away":  "SF",
+                                 "home":  "DAL",
+                                 "day":  "Sun 11/15",
+                                 "time":  "4:25p ET",
+                                 "circa":  4,
+                                 "lookahead":  3.5,
+                                 "circaOpen":  4
                              },
                              {
                                  "id":  "WASNYG",
