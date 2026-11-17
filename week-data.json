@@ -3,7 +3,7 @@
     "week":  11,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-17T13:18:10Z",
+    "generatedAt":  "2026-11-17T13:33:18Z",
     "analyticsThrough":  "PR and FPI through Week 10",
     "analyticsSources":  {
                              "dvoa":  {
@@ -34,7 +34,7 @@
                                           },
                              "starters":  {
                                               "label":  "Starters",
-                                              "asOf":  "2026-11-17T10:03:15Z",
+                                              "asOf":  "2026-11-17T13:33:17Z",
                                               "source":  "ESPN depth charts, corroborated by last week\u0027s snap counts, contradicted by the injury report, overridden by qb-starters.manual.json"
                                           }
                          },
@@ -272,7 +272,7 @@
                               "rswrRk":  18,
                               "qb":  {
                                          "name":  "Carson Beck",
-                                         "status":  "depth chart -- Gardner Minshew II started Wk 9 -- season numbers are J.Brissett\u0027s",
+                                         "status":  "depth chart -- started Wk 10 -- season numbers are J.Brissett\u0027s",
                                          "epa":  0.073,
                                          "epaRk":  17,
                                          "sr":  44.8,
@@ -322,7 +322,7 @@
                               "rswrRk":  3,
                               "qb":  {
                                          "name":  "Michael Penix Jr.",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  -0.033,
                                          "epaRk":  25,
                                          "sr":  46,
@@ -372,7 +372,7 @@
                               "rswrRk":  12,
                               "qb":  {
                                          "name":  "Jacoby Brissett",
-                                         "status":  "depth chart -- Joe Fagnano started Wk 9 -- season numbers are T.Huntley\u0027s",
+                                         "status":  "depth chart -- started Wk 10 -- season numbers are T.Huntley\u0027s",
                                          "epa":  0.017,
                                          "epaRk":  20,
                                          "sr":  40,
@@ -422,7 +422,7 @@
                               "rswrRk":  19,
                               "qb":  {
                                          "name":  "Josh Allen",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.175,
                                          "epaRk":  8,
                                          "sr":  46.8,
@@ -472,7 +472,7 @@
                               "rswrRk":  25,
                               "qb":  {
                                          "name":  "Bryce Young",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.2,
                                          "epaRk":  5,
                                          "sr":  46.8,
@@ -572,7 +572,7 @@
                               "rswrRk":  8,
                               "qb":  {
                                          "name":  "Joe Burrow",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.2,
                                          "epaRk":  5,
                                          "sr":  54.5,
@@ -622,7 +622,7 @@
                               "rswrRk":  1,
                               "qb":  {
                                          "name":  "Deshaun Watson",
-                                         "status":  "depth chart -- Shedeur Sanders started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.028,
                                          "epaRk":  19,
                                          "sr":  49.3,
@@ -672,7 +672,7 @@
                               "rswrRk":  21,
                               "qb":  {
                                          "name":  "Dak Prescott",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.123,
                                          "epaRk":  12,
                                          "sr":  48.9,
@@ -772,7 +772,7 @@
                               "rswrRk":  24,
                               "qb":  {
                                          "name":  "Jared Goff",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.166,
                                          "epaRk":  10,
                                          "sr":  50.7,
@@ -822,7 +822,7 @@
                              "rswrRk":  27,
                              "qb":  {
                                         "name":  "Jordan Love",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "status":  "depth chart -- started Wk 10",
                                         "epa":  0.12,
                                         "epaRk":  14,
                                         "sr":  44.7,
@@ -872,7 +872,7 @@
                               "rswrRk":  11,
                               "qb":  {
                                          "name":  "C.J. Stroud",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.284,
                                          "epaRk":  2,
                                          "sr":  53.1,
@@ -922,7 +922,7 @@
                               "rswrRk":  28,
                               "qb":  {
                                          "name":  "Daniel Jones",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  -0.147,
                                          "epaRk":  31,
                                          "sr":  41.6,
@@ -972,7 +972,7 @@
                               "rswrRk":  32,
                               "qb":  {
                                          "name":  "Trevor Lawrence",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.318,
                                          "epaRk":  1,
                                          "sr":  56.2,
@@ -1022,7 +1022,7 @@
                              "rswrRk":  14,
                              "qb":  {
                                         "name":  "Patrick Mahomes",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "status":  "depth chart -- started Wk 10",
                                         "epa":  0.144,
                                         "epaRk":  11,
                                         "sr":  54,
@@ -1072,7 +1072,7 @@
                               "rswrRk":  4,
                               "qb":  {
                                          "name":  "Justin Herbert",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  -0.104,
                                          "epaRk":  29,
                                          "sr":  41.7,
@@ -1122,7 +1122,7 @@
                               "rswrRk":  2,
                               "qb":  {
                                          "name":  "Matthew Stafford",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.106,
                                          "epaRk":  15,
                                          "sr":  45.6,
@@ -1172,7 +1172,7 @@
                              "rswrRk":  29,
                              "qb":  {
                                         "name":  "Fernando Mendoza",
-                                        "status":  "depth chart -- K.Cousins started Wk 9 -- season numbers are K.Cousins\u0027s",
+                                        "status":  "depth chart -- started Wk 10 -- season numbers are K.Cousins\u0027s",
                                         "epa":  0.061,
                                         "epaRk":  18,
                                         "sr":  49.3,
@@ -1222,7 +1222,7 @@
                               "rswrRk":  30,
                               "qb":  {
                                          "name":  "Kyle McCord",
-                                         "status":  "depth chart -- Malik Willis started Wk 9 -- season numbers are M.Willis\u0027s",
+                                         "status":  "depth chart -- started Wk 10 -- season numbers are M.Willis\u0027s",
                                          "epa":  0.009,
                                          "epaRk":  22,
                                          "sr":  42.7,
@@ -1272,7 +1272,7 @@
                               "rswrRk":  23,
                               "qb":  {
                                          "name":  "Kirk Cousins",
-                                         "status":  "depth chart -- Carson Wentz started Wk 9 -- season numbers are K.Murray\u0027s",
+                                         "status":  "depth chart -- started Wk 10 -- season numbers are K.Murray\u0027s",
                                          "epa":  -0.071,
                                          "epaRk":  28,
                                          "sr":  39.8,
@@ -1322,7 +1322,7 @@
                              "rswrRk":  16,
                              "qb":  {
                                         "name":  "Drake Maye",
-                                        "status":  "depth chart -- listed doubtful -- started Wk 9",
+                                        "status":  "depth chart -- listed doubtful -- Tommy DeVito started Wk 10",
                                         "epa":  0.252,
                                         "epaRk":  3,
                                         "sr":  57.3,
@@ -1372,7 +1372,7 @@
                              "rswrRk":  17,
                              "qb":  {
                                         "name":  "Tyler Shough",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "status":  "depth chart -- started Wk 10",
                                         "epa":  -0.021,
                                         "epaRk":  24,
                                         "sr":  44.2,
@@ -1422,7 +1422,7 @@
                               "rswrRk":  20,
                               "qb":  {
                                          "name":  "J.J. McCarthy",
-                                         "status":  "depth chart -- started Wk 9 -- season numbers are J.Winston\u0027s",
+                                         "status":  "depth chart -- started Wk 10 -- season numbers are J.Winston\u0027s",
                                          "epa":  -0.066,
                                          "epaRk":  27,
                                          "sr":  40.9,
@@ -1472,7 +1472,7 @@
                               "rswrRk":  31,
                               "qb":  {
                                          "name":  "Geno Smith",
-                                         "status":  "depth chart -- listed questionable -- started Wk 9",
+                                         "status":  "depth chart -- listed questionable -- started Wk 10",
                                          "epa":  0.121,
                                          "epaRk":  13,
                                          "sr":  50.6,
@@ -1572,7 +1572,7 @@
                               "rswrRk":  5,
                               "qb":  {
                                          "name":  "Aaron Rodgers",
-                                         "status":  "depth chart -- started Wk 8",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  -0.011,
                                          "epaRk":  23,
                                          "sr":  39.4,
@@ -1622,7 +1622,7 @@
                               "rswrRk":  9,
                               "qb":  {
                                          "name":  "Sam Darnold",
-                                         "status":  "depth chart -- listed out -- Drew Lock started Wk 9",
+                                         "status":  "depth chart -- listed out -- Drew Lock started Wk 10",
                                          "epa":  -0.061,
                                          "epaRk":  26,
                                          "sr":  40.7,
@@ -1672,7 +1672,7 @@
                              "rswrRk":  22,
                              "qb":  {
                                         "name":  "Brock Purdy",
-                                        "status":  "depth chart -- started Wk 9",
+                                        "status":  "depth chart -- started Wk 10",
                                         "epa":  0.239,
                                         "epaRk":  4,
                                         "sr":  56.1,
@@ -1772,7 +1772,7 @@
                               "rswrRk":  13,
                               "qb":  {
                                          "name":  "Cam Ward",
-                                         "status":  "depth chart -- started Wk 8",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  -0.105,
                                          "epaRk":  30,
                                          "sr":  40.2,
@@ -1822,7 +1822,7 @@
                               "rswrRk":  15,
                               "qb":  {
                                          "name":  "Jayden Daniels",
-                                         "status":  "depth chart -- started Wk 9",
+                                         "status":  "depth chart -- started Wk 10",
                                          "epa":  0.196,
                                          "epaRk":  7,
                                          "sr":  50.5,
