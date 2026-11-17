@@ -3,7 +3,7 @@
     "week":  11,
     "hfa":  1.5,
     "linesAsOf":  "2026-11-12T19:33:49Z",
-    "generatedAt":  "2026-11-17T06:48:23Z",
+    "generatedAt":  "2026-11-17T07:03:01Z",
     "analyticsThrough":  "PR and FPI through Week 10",
     "analyticsSources":  {
                              "dvoa":  {
@@ -56,11 +56,11 @@
                       "time":  "8:15p ET",
                       "circa":  -10,
                       "book":  "DK",
-                      "lookahead":  -10,
                       "history":  [
                                       -10,
                                       -10
-                                  ]
+                                  ],
+                      "lookahead":  -10
                   },
                   {
                       "id":  "MIABUF",
@@ -70,11 +70,11 @@
                       "time":  "1:00p ET",
                       "circa":  -16.5,
                       "book":  "DK",
-                      "lookahead":  -16.5,
                       "history":  [
                                       -16.5,
                                       -16.5
-                                  ]
+                                  ],
+                      "lookahead":  -16.5
                   },
                   {
                       "id":  "NOCHI",
@@ -84,11 +84,11 @@
                       "time":  "1:00p ET",
                       "circa":  -9.5,
                       "book":  "DK",
-                      "lookahead":  -9.5,
                       "history":  [
                                       -9.5,
                                       -9.5
-                                  ]
+                                  ],
+                      "lookahead":  -9.5
                   },
                   {
                       "id":  "TENDAL",
@@ -98,11 +98,11 @@
                       "time":  "1:00p ET",
                       "circa":  -7.5,
                       "book":  "DK",
-                      "lookahead":  -7.5,
                       "history":  [
                                       -7.5,
                                       -7.5
-                                  ]
+                                  ],
+                      "lookahead":  -7.5
                   },
                   {
                       "id":  "TBDET",
@@ -112,11 +112,11 @@
                       "time":  "1:00p ET",
                       "circa":  -3.5,
                       "book":  "DK",
-                      "lookahead":  -3.5,
                       "history":  [
                                       -3.5,
                                       -3.5
-                                  ]
+                                  ],
+                      "lookahead":  -3.5
                   },
                   {
                       "id":  "ARIKC",
@@ -126,11 +126,11 @@
                       "time":  "1:00p ET",
                       "circa":  -14,
                       "book":  "DK",
-                      "lookahead":  -14,
                       "history":  [
                                       -14,
                                       -14
-                                  ]
+                                  ],
+                      "lookahead":  -14
                   },
                   {
                       "id":  "PITPHI",
@@ -140,11 +140,11 @@
                       "time":  "1:00p ET",
                       "circa":  4.5,
                       "book":  "DK",
-                      "lookahead":  4.5,
                       "history":  [
                                       4.5,
                                       4.5
-                                  ]
+                                  ],
+                      "lookahead":  4.5
                   },
                   {
                       "id":  "BALCAR",
@@ -154,11 +154,11 @@
                       "time":  "1:00p ET",
                       "circa":  -1.5,
                       "book":  "DK",
-                      "lookahead":  -1.5,
                       "history":  [
                                       -1.5,
                                       -1.5
-                                  ]
+                                  ],
+                      "lookahead":  -1.5
                   },
                   {
                       "id":  "NYJLAC",
@@ -168,11 +168,11 @@
                       "time":  "4:05p ET",
                       "circa":  -1.5,
                       "book":  "DK",
-                      "lookahead":  -1.5,
                       "history":  [
                                       -1.5,
                                       -1.5
-                                  ]
+                                  ],
+                      "lookahead":  -1.5
                   },
                   {
                       "id":  "LVDEN",
@@ -182,11 +182,11 @@
                       "time":  "4:25p ET",
                       "circa":  -8.5,
                       "book":  "DK",
-                      "lookahead":  -8.5,
                       "history":  [
                                       -8.5,
                                       -8.5
-                                  ]
+                                  ],
+                      "lookahead":  -8.5
                   },
                   {
                       "id":  "JAXNYG",
@@ -196,11 +196,11 @@
                       "time":  "4:25p ET",
                       "circa":  6,
                       "book":  "DK",
-                      "lookahead":  6,
                       "history":  [
                                       6,
                                       6
-                                  ]
+                                  ],
+                      "lookahead":  6
                   },
                   {
                       "id":  "MINSF",
@@ -210,11 +210,11 @@
                       "time":  "8:20p ET",
                       "circa":  -3.5,
                       "book":  "DK",
-                      "lookahead":  -3.5,
                       "history":  [
                                       -3.5,
                                       -3.5
-                                  ]
+                                  ],
+                      "lookahead":  -3.5
                   },
                   {
                       "id":  "CINWAS",
@@ -224,11 +224,11 @@
                       "time":  "8:15p ET",
                       "circa":  3.5,
                       "book":  "DK",
-                      "lookahead":  3.5,
                       "history":  [
                                       3.5,
                                       3.5
-                                  ]
+                                  ],
+                      "lookahead":  3.5
                   }
               ],
     "teams":  {
