@@ -1,341 +1,226 @@
 ﻿{
     "generatedAt":  "2026-11-12T19:33:49Z",
     "byPair":  {
-                   "LAC-BAL":  {
-                                   "gameCode":  "20261116NFL00035",
-                                   "awaySlug":  "los-angeles-chargers",
-                                   "homeSlug":  "baltimore-ravens",
-                                   "awayLastName":  "Chargers",
-                                   "homeLastName":  "Ravens",
-                                   "dateLabel":  "Monday, Nov 16",
+                   "IND-HOU":  {
+                                   "gameCode":  "20261119NFL00039",
+                                   "awaySlug":  "indianapolis-colts",
+                                   "homeSlug":  "houston-texans",
+                                   "awayLastName":  "Colts",
+                                   "homeLastName":  "Texans",
+                                   "dateLabel":  "Thursday, Nov 19",
                                    "dk":  {
-                                              "awayHandle":  24,
-                                              "awayBet":  58,
-                                              "homeHandle":  76,
-                                              "homeBet":  42,
-                                              "awaySpread":  4.5,
-                                              "homeSpread":  -4.5
+                                              "awayHandle":  87,
+                                              "awayBet":  54,
+                                              "homeHandle":  13,
+                                              "homeBet":  46,
+                                              "awaySpread":  10,
+                                              "homeSpread":  -10
                                           },
-                                   "circa":  {
-                                                 "awayHandle":  14,
-                                                 "awayBet":  75,
-                                                 "homeHandle":  86,
-                                                 "homeBet":  25,
-                                                 "awaySpread":  4.5,
-                                                 "homeSpread":  -4.5
-                                             }
+                                   "circa":  null
                                },
-                   "WAS-NYG":  {
-                                   "gameCode":  "20261112NFL00048",
-                                   "awaySlug":  "washington-commanders",
-                                   "homeSlug":  "new-york-giants",
-                                   "awayLastName":  "Commanders",
-                                   "homeLastName":  "Giants",
-                                   "dateLabel":  "Thursday, Nov 12",
+                   "MIA-BUF":  {
+                                   "gameCode":  "20261122NFL00031",
+                                   "awaySlug":  "miami-dolphins",
+                                   "homeSlug":  "buffalo-bills",
+                                   "awayLastName":  "Dolphins",
+                                   "homeLastName":  "Bills",
+                                   "dateLabel":  "Sunday, Nov 22",
                                    "dk":  {
-                                              "awayHandle":  29,
-                                              "awayBet":  25,
-                                              "homeHandle":  71,
-                                              "homeBet":  75,
-                                              "awaySpread":  2.5,
-                                              "homeSpread":  -2.5
+                                              "awayHandle":  58,
+                                              "awayBet":  70,
+                                              "homeHandle":  42,
+                                              "homeBet":  30,
+                                              "awaySpread":  16.5,
+                                              "homeSpread":  -16.5
                                           },
-                                   "circa":  {
-                                                 "awayHandle":  30,
-                                                 "awayBet":  19,
-                                                 "homeHandle":  70,
-                                                 "homeBet":  81,
-                                                 "awaySpread":  2,
-                                                 "homeSpread":  -2
-                                             }
+                                   "circa":  null
                                },
-                   "NE-DET":  {
-                                  "gameCode":  "20261115NFL00052",
-                                  "awaySlug":  "new-england-patriots",
+                   "NO-CHI":  {
+                                  "gameCode":  "20261122NFL00051",
+                                  "awaySlug":  "new-orleans-saints",
+                                  "homeSlug":  "chicago-bears",
+                                  "awayLastName":  "Saints",
+                                  "homeLastName":  "Bears",
+                                  "dateLabel":  "Sunday, Nov 22",
+                                  "dk":  {
+                                             "awayHandle":  1,
+                                             "awayBet":  14,
+                                             "homeHandle":  99,
+                                             "homeBet":  86,
+                                             "awaySpread":  9.5,
+                                             "homeSpread":  -9.5
+                                         },
+                                  "circa":  null
+                              },
+                   "TEN-DAL":  {
+                                   "gameCode":  "20261122NFL00047",
+                                   "awaySlug":  "tennessee-titans",
+                                   "homeSlug":  "dallas-cowboys",
+                                   "awayLastName":  "Titans",
+                                   "homeLastName":  "Cowboys",
+                                   "dateLabel":  "Sunday, Nov 22",
+                                   "dk":  {
+                                              "awayHandle":  0,
+                                              "awayBet":  0,
+                                              "homeHandle":  100,
+                                              "homeBet":  100,
+                                              "awaySpread":  7.5,
+                                              "homeSpread":  -7.5
+                                          },
+                                   "circa":  null
+                               },
+                   "TB-DET":  {
+                                  "gameCode":  "20261122NFL00052",
+                                  "awaySlug":  "tampa-bay-buccaneers",
                                   "homeSlug":  "detroit-lions",
-                                  "awayLastName":  "Patriots",
+                                  "awayLastName":  "Buccaneers",
                                   "homeLastName":  "Lions",
-                                  "dateLabel":  "Sunday, Nov 15",
+                                  "dateLabel":  "Sunday, Nov 22",
                                   "dk":  {
-                                             "awayHandle":  15,
-                                             "awayBet":  19,
-                                             "homeHandle":  85,
-                                             "homeBet":  81,
-                                             "awaySpread":  2.5,
-                                             "homeSpread":  -2.5
+                                             "awayHandle":  6,
+                                             "awayBet":  22,
+                                             "homeHandle":  94,
+                                             "homeBet":  78,
+                                             "awaySpread":  3.5,
+                                             "homeSpread":  -3.5
                                          },
-                                  "circa":  {
-                                                "awayHandle":  10,
-                                                "awayBet":  19,
-                                                "homeHandle":  90,
-                                                "homeBet":  81,
-                                                "awaySpread":  3,
-                                                "homeSpread":  -3
-                                            }
+                                  "circa":  null
                               },
-                   "KC-ATL":  {
-                                  "gameCode":  "20261115NFL00055",
-                                  "awaySlug":  "kansas-city-chiefs",
-                                  "homeSlug":  "atlanta-falcons",
-                                  "awayLastName":  "Chiefs",
-                                  "homeLastName":  "Falcons",
-                                  "dateLabel":  "Sunday, Nov 15",
+                   "ARI-KC":  {
+                                  "gameCode":  "20261122NFL00044",
+                                  "awaySlug":  "arizona-cardinals",
+                                  "homeSlug":  "kansas-city-chiefs",
+                                  "awayLastName":  "Cardinals",
+                                  "homeLastName":  "Chiefs",
+                                  "dateLabel":  "Sunday, Nov 22",
                                   "dk":  {
-                                             "awayHandle":  52,
-                                             "awayBet":  80,
-                                             "homeHandle":  48,
-                                             "homeBet":  20,
-                                             "awaySpread":  -3,
-                                             "homeSpread":  3
+                                             "awayHandle":  93,
+                                             "awayBet":  40,
+                                             "homeHandle":  7,
+                                             "homeBet":  60,
+                                             "awaySpread":  14,
+                                             "homeSpread":  -14
                                          },
-                                  "circa":  {
-                                                "awayHandle":  99,
-                                                "awayBet":  81,
-                                                "homeHandle":  1,
-                                                "homeBet":  19,
-                                                "awaySpread":  -3,
-                                                "homeSpread":  3
-                                            }
+                                  "circa":  null
                               },
-                   "HOU-CLE":  {
-                                   "gameCode":  "20261115NFL00037",
-                                   "awaySlug":  "houston-texans",
-                                   "homeSlug":  "cleveland-browns",
-                                   "awayLastName":  "Texans",
-                                   "homeLastName":  "Browns",
-                                   "dateLabel":  "Sunday, Nov 15",
+                   "PIT-PHI":  {
+                                   "gameCode":  "20261122NFL00049",
+                                   "awaySlug":  "pittsburgh-steelers",
+                                   "homeSlug":  "philadelphia-eagles",
+                                   "awayLastName":  "Steelers",
+                                   "homeLastName":  "Eagles",
+                                   "dateLabel":  "Sunday, Nov 22",
                                    "dk":  {
-                                              "awayHandle":  73,
-                                              "awayBet":  68,
-                                              "homeHandle":  27,
-                                              "homeBet":  32,
+                                              "awayHandle":  96,
+                                              "awayBet":  89,
+                                              "homeHandle":  4,
+                                              "homeBet":  11,
                                               "awaySpread":  -4.5,
                                               "homeSpread":  4.5
                                           },
-                                   "circa":  {
-                                                 "awayHandle":  44,
-                                                 "awayBet":  53,
-                                                 "homeHandle":  56,
-                                                 "homeBet":  47,
-                                                 "awaySpread":  -4.5,
-                                                 "homeSpread":  4.5
-                                             }
+                                   "circa":  null
                                },
-                   "MIN-GB":  {
-                                  "gameCode":  "20261115NFL00053",
-                                  "awaySlug":  "minnesota-vikings",
-                                  "homeSlug":  "green-bay-packers",
-                                  "awayLastName":  "Vikings",
-                                  "homeLastName":  "Packers",
-                                  "dateLabel":  "Sunday, Nov 15",
+                   "BAL-CAR":  {
+                                   "gameCode":  "20261122NFL00056",
+                                   "awaySlug":  "baltimore-ravens",
+                                   "homeSlug":  "carolina-panthers",
+                                   "awayLastName":  "Ravens",
+                                   "homeLastName":  "Panthers",
+                                   "dateLabel":  "Sunday, Nov 22",
+                                   "dk":  {
+                                              "awayHandle":  0,
+                                              "awayBet":  0,
+                                              "homeHandle":  100,
+                                              "homeBet":  100,
+                                              "awaySpread":  1.5,
+                                              "homeSpread":  -1.5
+                                          },
+                                   "circa":  null
+                               },
+                   "NYJ-LAC":  {
+                                   "gameCode":  "20261122NFL00046",
+                                   "awaySlug":  "new-york-jets",
+                                   "homeSlug":  "los-angeles-chargers",
+                                   "awayLastName":  "Jets",
+                                   "homeLastName":  "Chargers",
+                                   "dateLabel":  "Sunday, Nov 22",
+                                   "dk":  {
+                                              "awayHandle":  100,
+                                              "awayBet":  75,
+                                              "homeHandle":  0,
+                                              "homeBet":  25,
+                                              "awaySpread":  1.5,
+                                              "homeSpread":  -1.5
+                                          },
+                                   "circa":  null
+                               },
+                   "LV-DEN":  {
+                                  "gameCode":  "20261122NFL00043",
+                                  "awaySlug":  "las-vegas-raiders",
+                                  "homeSlug":  "denver-broncos",
+                                  "awayLastName":  "Raiders",
+                                  "homeLastName":  "Broncos",
+                                  "dateLabel":  "Sunday, Nov 22",
                                   "dk":  {
-                                             "awayHandle":  36,
-                                             "awayBet":  44,
-                                             "homeHandle":  64,
-                                             "homeBet":  56,
-                                             "awaySpread":  3,
-                                             "homeSpread":  -3
+                                             "awayHandle":  0,
+                                             "awayBet":  40,
+                                             "homeHandle":  100,
+                                             "homeBet":  60,
+                                             "awaySpread":  8.5,
+                                             "homeSpread":  -8.5
                                          },
-                                  "circa":  {
-                                                "awayHandle":  1,
-                                                "awayBet":  24,
-                                                "homeHandle":  99,
-                                                "homeBet":  76,
-                                                "awaySpread":  3,
-                                                "homeSpread":  -3
-                                            }
+                                  "circa":  null
                               },
-                   "JAX-TEN":  {
-                                   "gameCode":  "20261115NFL00042",
+                   "JAX-NYG":  {
+                                   "gameCode":  "20261122NFL00048",
                                    "awaySlug":  "jacksonville-jaguars",
-                                   "homeSlug":  "tennessee-titans",
+                                   "homeSlug":  "new-york-giants",
                                    "awayLastName":  "Jaguars",
-                                   "homeLastName":  "Titans",
-                                   "dateLabel":  "Sunday, Nov 15",
+                                   "homeLastName":  "Giants",
+                                   "dateLabel":  "Sunday, Nov 22",
                                    "dk":  {
-                                              "awayHandle":  58,
-                                              "awayBet":  78,
-                                              "homeHandle":  42,
-                                              "homeBet":  22,
-                                              "awaySpread":  -10.5,
-                                              "homeSpread":  10.5
+                                              "awayHandle":  37,
+                                              "awayBet":  38,
+                                              "homeHandle":  63,
+                                              "homeBet":  62,
+                                              "awaySpread":  -6,
+                                              "homeSpread":  6
                                           },
-                                   "circa":  {
-                                                 "awayHandle":  17,
-                                                 "awayBet":  75,
-                                                 "homeHandle":  83,
-                                                 "homeBet":  25,
-                                                 "awaySpread":  -10.5,
-                                                 "homeSpread":  10.5
-                                             }
+                                   "circa":  null
                                },
-                   "MIA-IND":  {
-                                   "gameCode":  "20261115NFL00040",
-                                   "awaySlug":  "miami-dolphins",
-                                   "homeSlug":  "indianapolis-colts",
-                                   "awayLastName":  "Dolphins",
-                                   "homeLastName":  "Colts",
-                                   "dateLabel":  "Sunday, Nov 15",
-                                   "dk":  {
-                                              "awayHandle":  47,
-                                              "awayBet":  51,
-                                              "homeHandle":  53,
-                                              "homeBet":  49,
-                                              "awaySpread":  3.5,
-                                              "homeSpread":  -3.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  59,
-                                                 "awayBet":  75,
-                                                 "homeHandle":  41,
-                                                 "homeBet":  25,
-                                                 "awaySpread":  3.5,
-                                                 "homeSpread":  -3.5
-                                             }
-                               },
-                   "CAR-NO":  {
-                                  "gameCode":  "20261115NFL00057",
-                                  "awaySlug":  "carolina-panthers",
-                                  "homeSlug":  "new-orleans-saints",
-                                  "awayLastName":  "Panthers",
-                                  "homeLastName":  "Saints",
-                                  "dateLabel":  "Sunday, Nov 15",
+                   "MIN-SF":  {
+                                  "gameCode":  "20261122NFL00060",
+                                  "awaySlug":  "minnesota-vikings",
+                                  "homeSlug":  "san-francisco-49ers",
+                                  "awayLastName":  "Vikings",
+                                  "homeLastName":  "49ers",
+                                  "dateLabel":  "Sunday, Nov 22",
                                   "dk":  {
-                                             "awayHandle":  78,
-                                             "awayBet":  72,
-                                             "homeHandle":  22,
-                                             "homeBet":  28,
-                                             "awaySpread":  2.5,
-                                             "homeSpread":  -2.5
+                                             "awayHandle":  21,
+                                             "awayBet":  13,
+                                             "homeHandle":  79,
+                                             "homeBet":  88,
+                                             "awaySpread":  3.5,
+                                             "homeSpread":  -3.5
                                          },
-                                  "circa":  {
-                                                "awayHandle":  6,
-                                                "awayBet":  63,
-                                                "homeHandle":  94,
-                                                "homeBet":  37,
-                                                "awaySpread":  2.5,
-                                                "homeSpread":  -2.5
-                                            }
+                                  "circa":  null
                               },
-                   "BUF-NYJ":  {
-                                   "gameCode":  "20261115NFL00034",
-                                   "awaySlug":  "buffalo-bills",
-                                   "homeSlug":  "new-york-jets",
-                                   "awayLastName":  "Bills",
-                                   "homeLastName":  "Jets",
-                                   "dateLabel":  "Sunday, Nov 15",
+                   "CIN-WAS":  {
+                                   "gameCode":  "20261123NFL00050",
+                                   "awaySlug":  "cincinnati-bengals",
+                                   "homeSlug":  "washington-commanders",
+                                   "awayLastName":  "Bengals",
+                                   "homeLastName":  "Commanders",
+                                   "dateLabel":  "Monday, Nov 23",
                                    "dk":  {
-                                              "awayHandle":  61,
-                                              "awayBet":  77,
-                                              "homeHandle":  39,
-                                              "homeBet":  23,
-                                              "awaySpread":  -8.5,
-                                              "homeSpread":  8.5
+                                              "awayHandle":  100,
+                                              "awayBet":  89,
+                                              "homeHandle":  0,
+                                              "homeBet":  11,
+                                              "awaySpread":  -3.5,
+                                              "homeSpread":  3.5
                                           },
-                                   "circa":  {
-                                                 "awayHandle":  21,
-                                                 "awayBet":  72,
-                                                 "homeHandle":  79,
-                                                 "homeBet":  28,
-                                                 "awaySpread":  -7.5,
-                                                 "homeSpread":  7.5
-                                             }
-                               },
-                   "SEA-LV":  {
-                                  "gameCode":  "20261115NFL00045",
-                                  "awaySlug":  "seattle-seahawks",
-                                  "homeSlug":  "las-vegas-raiders",
-                                  "awayLastName":  "Seahawks",
-                                  "homeLastName":  "Raiders",
-                                  "dateLabel":  "Sunday, Nov 15",
-                                  "dk":  {
-                                             "awayHandle":  83,
-                                             "awayBet":  80,
-                                             "homeHandle":  17,
-                                             "homeBet":  20,
-                                             "awaySpread":  -6.5,
-                                             "homeSpread":  6.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  47,
-                                                "awayBet":  61,
-                                                "homeHandle":  53,
-                                                "homeBet":  39,
-                                                "awaySpread":  -6.5,
-                                                "homeSpread":  6.5
-                                            }
-                              },
-                   "LAR-ARI":  {
-                                   "gameCode":  "20261115NFL00059",
-                                   "awaySlug":  "los-angeles-rams",
-                                   "homeSlug":  "arizona-cardinals",
-                                   "awayLastName":  "Rams",
-                                   "homeLastName":  "Cardinals",
-                                   "dateLabel":  "Sunday, Nov 15",
-                                   "dk":  {
-                                              "awayHandle":  78,
-                                              "awayBet":  63,
-                                              "homeHandle":  22,
-                                              "homeBet":  37,
-                                              "awaySpread":  -9.5,
-                                              "homeSpread":  9.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  71,
-                                                 "awayBet":  73,
-                                                 "homeHandle":  29,
-                                                 "homeBet":  27,
-                                                 "awaySpread":  -9.5,
-                                                 "homeSpread":  9.5
-                                             }
-                               },
-                   "SF-DAL":  {
-                                  "gameCode":  "20261115NFL00047",
-                                  "awaySlug":  "san-francisco-49ers",
-                                  "homeSlug":  "dallas-cowboys",
-                                  "awayLastName":  "49ers",
-                                  "homeLastName":  "Cowboys",
-                                  "dateLabel":  "Sunday, Nov 15",
-                                  "dk":  {
-                                             "awayHandle":  84,
-                                             "awayBet":  81,
-                                             "homeHandle":  16,
-                                             "homeBet":  19,
-                                             "awaySpread":  -3.5,
-                                             "homeSpread":  3.5
-                                         },
-                                  "circa":  {
-                                                "awayHandle":  91,
-                                                "awayBet":  90,
-                                                "homeHandle":  9,
-                                                "homeBet":  10,
-                                                "awaySpread":  -4,
-                                                "homeSpread":  4
-                                            }
-                              },
-                   "PIT-CIN":  {
-                                   "gameCode":  "20261115NFL00036",
-                                   "awaySlug":  "pittsburgh-steelers",
-                                   "homeSlug":  "cincinnati-bengals",
-                                   "awayLastName":  "Steelers",
-                                   "homeLastName":  "Bengals",
-                                   "dateLabel":  "Sunday, Nov 15",
-                                   "dk":  {
-                                              "awayHandle":  47,
-                                              "awayBet":  53,
-                                              "homeHandle":  53,
-                                              "homeBet":  47,
-                                              "awaySpread":  3.5,
-                                              "homeSpread":  -3.5
-                                          },
-                                   "circa":  {
-                                                 "awayHandle":  2,
-                                                 "awayBet":  24,
-                                                 "homeHandle":  98,
-                                                 "homeBet":  76,
-                                                 "awaySpread":  3.5,
-                                                 "homeSpread":  -3.5
-                                             }
+                                   "circa":  null
                                }
                }
 }

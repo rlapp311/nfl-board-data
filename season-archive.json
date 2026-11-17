@@ -263,6 +263,141 @@
                                  "circaOpen":  -3.5
                              }
                          ]
+           },
+    "11":  {
+               "week":  11,
+               "games":  [
+                             {
+                                 "id":  "INDHOU",
+                                 "away":  "IND",
+                                 "home":  "HOU",
+                                 "day":  "Thu 11/19",
+                                 "time":  "8:15p ET",
+                                 "circa":  -10,
+                                 "lookahead":  -10,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "MIABUF",
+                                 "away":  "MIA",
+                                 "home":  "BUF",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  -16.5,
+                                 "lookahead":  -16.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "NOCHI",
+                                 "away":  "NO",
+                                 "home":  "CHI",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  -9.5,
+                                 "lookahead":  -9.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "TENDAL",
+                                 "away":  "TEN",
+                                 "home":  "DAL",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  -7.5,
+                                 "lookahead":  -7.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "TBDET",
+                                 "away":  "TB",
+                                 "home":  "DET",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  -3.5,
+                                 "lookahead":  -3.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "ARIKC",
+                                 "away":  "ARI",
+                                 "home":  "KC",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  -14,
+                                 "lookahead":  -14,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "PITPHI",
+                                 "away":  "PIT",
+                                 "home":  "PHI",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  4.5,
+                                 "lookahead":  4.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "BALCAR",
+                                 "away":  "BAL",
+                                 "home":  "CAR",
+                                 "day":  "Sun 11/22",
+                                 "time":  "1:00p ET",
+                                 "circa":  -1.5,
+                                 "lookahead":  -1.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "NYJLAC",
+                                 "away":  "NYJ",
+                                 "home":  "LAC",
+                                 "day":  "Sun 11/22",
+                                 "time":  "4:05p ET",
+                                 "circa":  -1.5,
+                                 "lookahead":  -1.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "LVDEN",
+                                 "away":  "LV",
+                                 "home":  "DEN",
+                                 "day":  "Sun 11/22",
+                                 "time":  "4:25p ET",
+                                 "circa":  -8.5,
+                                 "lookahead":  -8.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "JAXNYG",
+                                 "away":  "JAX",
+                                 "home":  "NYG",
+                                 "day":  "Sun 11/22",
+                                 "time":  "4:25p ET",
+                                 "circa":  6,
+                                 "lookahead":  6,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "MINSF",
+                                 "away":  "MIN",
+                                 "home":  "SF",
+                                 "day":  "Sun 11/22",
+                                 "time":  "8:20p ET",
+                                 "circa":  -3.5,
+                                 "lookahead":  -3.5,
+                                 "circaOpen":  null
+                             },
+                             {
+                                 "id":  "CINWAS",
+                                 "away":  "CIN",
+                                 "home":  "WAS",
+                                 "day":  "Mon 11/23",
+                                 "time":  "8:15p ET",
+                                 "circa":  3.5,
+                                 "lookahead":  3.5,
+                                 "circaOpen":  null
+                             }
+                         ]
            }
 }
 

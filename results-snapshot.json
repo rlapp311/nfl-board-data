@@ -1,5 +1,5 @@
 ﻿{
-    "GeneratedAt":  "2026-11-17T03:34:11.7414805Z",
+    "GeneratedAt":  "2026-11-17T06:48:03.3612565Z",
     "Season":  2026,
     "SeasonType":  2,
     "Source":  "ESPN public scoreboard endpoint (cdn.core)",
@@ -1366,16 +1366,6 @@
                   },
                   {
                       "week":  10,
-                      "date":  "2026-11-17T01:15:00.0000000Z",
-                      "away":  "LAC",
-                      "home":  "BAL",
-                      "awayScore":  null,
-                      "homeScore":  null,
-                      "ot":  false,
-                      "final":  false
-                  },
-                  {
-                      "week":  10,
                       "date":  "2026-11-13T01:15:00.0000000Z",
                       "away":  "WAS",
                       "home":  "NYG",
@@ -1501,6 +1491,16 @@
                       "home":  "CIN",
                       "awayScore":  18,
                       "homeScore":  38,
+                      "ot":  false,
+                      "final":  true
+                  },
+                  {
+                      "week":  10,
+                      "date":  "2026-11-17T01:15:00.0000000Z",
+                      "away":  "LAC",
+                      "home":  "BAL",
+                      "awayScore":  23,
+                      "homeScore":  20,
                       "ot":  false,
                       "final":  true
                   },
